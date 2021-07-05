@@ -1,0 +1,31 @@
+#videoElement, #mirrored {
+	width: 300px;
+	height: 400px;
+	/* background-color: #666; */
+    display: inline-block;
+    transform: rotateY(180deg);
+	-webkit-transform:rotateY(180deg); /* Safari and Chrome */
+	-moz-transform:rotateY(180deg); /* Firefox */
+}
+
+#object{
+	margin: 2%;
+	width: 300px;
+	height: 400px;
+	box-shadow: 0px 0px 5px gray;
+}
+
+#wrapper{
+	align-items: center;
+	display: flex;
+	width : auto;
+	height: auto;
+	box-shadow: 0px 0px 5px black;
+}
+
+#footer{
+	width: 15px;
+	height: auto;
+	box-shadow: 0px 0px 5px gray;
+	margin-top: 90%;
+}
