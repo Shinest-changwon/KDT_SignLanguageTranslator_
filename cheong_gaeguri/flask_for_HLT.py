@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/', methods = ['GET', 'POST'])
 def main():
-    return render_template("main.html")
+    return render_template("index.html")
 
 @app.route('/mouth',methods = ['GET', 'POST'])
 def mouth(): 
