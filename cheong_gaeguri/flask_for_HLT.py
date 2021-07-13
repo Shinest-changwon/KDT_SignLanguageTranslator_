@@ -19,7 +19,7 @@ def mouth():
         mecab = Mecab()
         stnc_pos = mecab.pos(sent)
 
-        nouns = [n for n, tag in stnc_pos if tag in ["NNG","NNP","VV"] ]
+        nouns = [n for n, tag in stnc_pos if tag in ["NR","NNG","NNP","NP","VV","VV+EC"] ]
         print(nouns)
         ###########################태깅 후 애니메이션 처리된 페이지 반환#######################
         return render_template('mouth.html' ,cont = nouns)
