@@ -107,6 +107,7 @@ def morpheme(stnc_pos): # 형태소 분해 리스트
         num_list.append(a)
         b = demo_sen[demo_sen['talk']==stnc_pos[i]].iloc[0,2]
         div_list.append(b)
+    
     return div_list, num_list
 
 
@@ -229,15 +230,15 @@ def main(stnc_pos, is_ani=False):
         main2(word_sen_list)
         # concat한 비디오 경로 반환
         path = os.getcwd() +'/final.mp4'
-    elif is_ani:
+    else:
         if 1157 in word_sen_num_list: # 내가 데려다 드릴게요(시나리오1-청인B의 애니메이션 출력)
             path = os.getcwd() +'/Ani_Final_S1.mp4'
         elif 148 in word_sen_num_list: # 마을버스 일번이요(시나리오2-청인B의 애니메이션 출력)
-            path os.getcwd() +'/Ani_Final_S2.mp4'
+            path = os.getcwd() +'/Ani_Final_S2.mp4'
         
     return path
 
-# if __name__ == '__main__':
-#     stnc_pos = ['마을버스', '일']
-#     path = main(stnc_pos)
-#     print(path)
+if __name__ == '__main__':
+    stnc_pos = ['여기', '']
+    path = main(stnc_pos, is_ani=True)
+    print(path)
