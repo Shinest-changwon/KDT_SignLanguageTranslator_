@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0750/NIA_SL_WORD1595_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1595_REAL16_F.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.59,
+            "end": 2.219,
+            "attributes": [
+                {
+                    "name": "단어"
+                }
+            ]
+        }
+    ]
+}

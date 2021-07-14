@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0427/NIA_SL_WORD1466_REAL06_D.mp4",
+        "name": "NIA_SL_WORD1466_REAL06_D.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.435,
+            "end": 2.895,
+            "attributes": [
+                {
+                    "name": "서울대공원"
+                }
+            ]
+        }
+    ]
+}

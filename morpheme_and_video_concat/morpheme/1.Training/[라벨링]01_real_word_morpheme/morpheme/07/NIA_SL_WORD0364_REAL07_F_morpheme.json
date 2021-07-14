@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_gdchoi1116/NIA_SL_WORD0364_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0364_REAL07_F.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.251,
+            "end": 3.119,
+            "attributes": [
+                {
+                    "name": "견습"
+                }
+            ]
+        }
+    ]
+}

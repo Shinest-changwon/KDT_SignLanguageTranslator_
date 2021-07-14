@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1063/NIA_SL_WORD1840_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1840_REAL15_U.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.194,
+            "end": 3.74,
+            "attributes": [
+                {
+                    "name": "태안군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

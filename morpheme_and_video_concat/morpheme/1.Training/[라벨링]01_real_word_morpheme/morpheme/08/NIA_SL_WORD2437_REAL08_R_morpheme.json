@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_yhjeon0264/NIA_SL_WORD2437_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2437_REAL08_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.103,
+            "end": 2.713,
+            "attributes": [
+                {
+                    "name": "진주시지부"
+                }
+            ]
+        }
+    ]
+}

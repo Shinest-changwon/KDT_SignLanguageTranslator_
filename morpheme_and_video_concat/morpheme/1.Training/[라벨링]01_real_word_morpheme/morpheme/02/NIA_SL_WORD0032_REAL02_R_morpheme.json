@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou310/NIA_SL_WORD0032_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0032_REAL02_R.mp4",
+        "duration": 5.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.758,
+            "end": 4.12,
+            "attributes": [
+                {
+                    "name": "낚시대"
+                }
+            ]
+        }
+    ]
+}

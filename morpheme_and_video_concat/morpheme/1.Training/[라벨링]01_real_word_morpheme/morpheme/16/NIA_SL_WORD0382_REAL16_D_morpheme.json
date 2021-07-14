@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0394/NIA_SL_WORD0382_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0382_REAL16_D.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.558,
+            "end": 4.6,
+            "attributes": [
+                {
+                    "name": "경비실"
+                }
+            ]
+        }
+    ]
+}

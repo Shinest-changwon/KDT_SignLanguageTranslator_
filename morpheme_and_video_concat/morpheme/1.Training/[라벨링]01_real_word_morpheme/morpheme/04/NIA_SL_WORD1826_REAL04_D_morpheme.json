@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0838/NIA_SL_WORD1826_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1826_REAL04_D.mp4",
+        "duration": 6.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.627,
+            "end": 5.322,
+            "attributes": [
+                {
+                    "name": "서산시청"
+                }
+            ]
+        }
+    ]
+}

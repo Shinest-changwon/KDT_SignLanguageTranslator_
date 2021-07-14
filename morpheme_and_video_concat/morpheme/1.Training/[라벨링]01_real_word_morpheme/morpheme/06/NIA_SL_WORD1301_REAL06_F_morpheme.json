@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0411/NIA_SL_WORD1301_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1301_REAL06_F.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.142,
+            "end": 2.602,
+            "attributes": [
+                {
+                    "name": "시원하다"
+                }
+            ]
+        }
+    ]
+}

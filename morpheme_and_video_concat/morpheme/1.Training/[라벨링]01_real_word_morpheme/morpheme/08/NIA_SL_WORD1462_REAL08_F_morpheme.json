@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0267/NIA_SL_WORD1462_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1462_REAL08_F.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.204,
+            "end": 2.57,
+            "attributes": [
+                {
+                    "name": "남양주"
+                }
+            ]
+        }
+    ]
+}

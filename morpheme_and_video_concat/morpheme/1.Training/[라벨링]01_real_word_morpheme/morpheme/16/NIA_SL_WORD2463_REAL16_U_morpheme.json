@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1160/NIA_SL_WORD2463_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2463_REAL16_U.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.657,
+            "end": 3.537,
+            "attributes": [
+                {
+                    "name": "제주시청"
+                }
+            ]
+        }
+    ]
+}

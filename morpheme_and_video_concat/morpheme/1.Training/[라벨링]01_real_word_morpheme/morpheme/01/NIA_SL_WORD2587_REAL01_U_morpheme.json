@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0344/NIA_SL_WORD2587_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2587_REAL01_U.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.773,
+            "end": 2.23,
+            "attributes": [
+                {
+                    "name": "미국"
+                }
+            ]
+        }
+    ]
+}

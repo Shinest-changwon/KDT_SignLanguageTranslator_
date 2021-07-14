@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0413/NIA_SL_WORD1825_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1825_REAL10_R.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.259,
+            "end": 4.054,
+            "attributes": [
+                {
+                    "name": "서산시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

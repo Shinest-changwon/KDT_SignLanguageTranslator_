@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0481/NIA_SL_WORD0041_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0041_REAL14_D.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.388,
+            "end": 4.086,
+            "attributes": [
+                {
+                    "name": "보건소"
+                }
+            ]
+        }
+    ]
+}

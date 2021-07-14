@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0851/NIA_SL_WORD0709_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0709_REAL04_R.mp4",
+        "duration": 6.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.632,
+            "end": 4.772,
+            "attributes": [
+                {
+                    "name": "양계"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0416/NIA_SL_WORD0109_REAL10_D.mp4",
+        "name": "NIA_SL_WORD0109_REAL10_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.428,
+            "end": 2.803,
+            "attributes": [
+                {
+                    "name": "술"
+                }
+            ]
+        }
+    ]
+}

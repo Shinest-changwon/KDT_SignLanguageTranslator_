@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0985/NIA_SL_WORD0305_REAL11_L.mp4",
+        "name": "NIA_SL_WORD0305_REAL11_L.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.698,
+            "end": 3.825,
+            "attributes": [
+                {
+                    "name": "소뿔"
+                }
+            ]
+        }
+    ]
+}

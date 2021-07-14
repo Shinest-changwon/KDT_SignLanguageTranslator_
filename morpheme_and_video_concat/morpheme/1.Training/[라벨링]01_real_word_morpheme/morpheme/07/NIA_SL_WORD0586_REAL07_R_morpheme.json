@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0975/NIA_SL_WORD0586_REAL07_R.mp4",
+        "name": "NIA_SL_WORD0586_REAL07_R.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.51,
+            "end": 3.71,
+            "attributes": [
+                {
+                    "name": "가쁘다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0477/NIA_SL_WORD0247_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0247_REAL14_F.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.409,
+            "end": 3.817,
+            "attributes": [
+                {
+                    "name": "울산"
+                }
+            ]
+        }
+    ]
+}

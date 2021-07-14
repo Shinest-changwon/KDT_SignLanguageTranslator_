@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_moyu1192/NIA_SL_WORD2128_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2128_REAL12_R.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.491,
+            "end": 2.971,
+            "attributes": [
+                {
+                    "name": "수상"
+                }
+            ]
+        }
+    ]
+}

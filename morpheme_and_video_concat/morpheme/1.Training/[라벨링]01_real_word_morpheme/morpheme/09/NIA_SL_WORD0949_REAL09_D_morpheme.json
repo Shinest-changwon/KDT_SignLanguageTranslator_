@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0487/NIA_SL_WORD0949_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0949_REAL09_D.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.56,
+            "end": 3.578,
+            "attributes": [
+                {
+                    "name": "멀다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0990/NIA_SL_WORD0853_REAL11_D.mp4",
+        "name": "NIA_SL_WORD0853_REAL11_D.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.021,
+            "end": 2.999,
+            "attributes": [
+                {
+                    "name": "철면피"
+                }
+            ]
+        }
+    ]
+}

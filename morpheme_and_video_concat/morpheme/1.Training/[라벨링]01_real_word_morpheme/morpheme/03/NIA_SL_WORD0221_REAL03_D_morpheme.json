@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0808/NIA_SL_WORD0221_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0221_REAL03_D.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.549,
+            "end": 4.15,
+            "attributes": [
+                {
+                    "name": "등교"
+                }
+            ]
+        }
+    ]
+}

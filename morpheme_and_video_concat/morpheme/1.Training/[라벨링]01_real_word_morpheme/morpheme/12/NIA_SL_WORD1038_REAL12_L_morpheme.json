@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1181/NIA_SL_WORD1038_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1038_REAL12_L.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.472,
+            "end": 4.855,
+            "attributes": [
+                {
+                    "name": "동작구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

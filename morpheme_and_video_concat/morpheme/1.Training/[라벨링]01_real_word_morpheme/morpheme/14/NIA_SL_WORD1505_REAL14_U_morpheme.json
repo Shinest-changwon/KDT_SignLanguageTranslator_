@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_jhhan0291/NIA_SL_WORD1505_REAL14_U.mp4",
+        "name": "NIA_SL_WORD1505_REAL14_U.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.544,
+            "end": 2.749,
+            "attributes": [
+                {
+                    "name": "권투"
+                }
+            ]
+        }
+    ]
+}

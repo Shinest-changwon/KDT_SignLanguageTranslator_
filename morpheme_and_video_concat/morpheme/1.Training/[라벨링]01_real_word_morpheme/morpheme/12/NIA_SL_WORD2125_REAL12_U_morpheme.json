@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_moyu1192/NIA_SL_WORD2125_REAL12_U.mp4",
+        "name": "NIA_SL_WORD2125_REAL12_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.522,
+            "end": 3.322,
+            "attributes": [
+                {
+                    "name": "노부모"
+                }
+            ]
+        }
+    ]
+}

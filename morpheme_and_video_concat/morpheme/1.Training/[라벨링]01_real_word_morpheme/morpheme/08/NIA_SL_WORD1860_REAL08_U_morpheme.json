@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0256/NIA_SL_WORD1860_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1860_REAL08_U.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.868,
+            "end": 3.5,
+            "attributes": [
+                {
+                    "name": "무주군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

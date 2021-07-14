@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0611/NIA_SL_WORD2502_REAL03_L.mp4",
+        "name": "NIA_SL_WORD2502_REAL03_L.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.571,
+            "end": 2.554,
+            "attributes": [
+                {
+                    "name": "광기"
+                }
+            ]
+        }
+    ]
+}

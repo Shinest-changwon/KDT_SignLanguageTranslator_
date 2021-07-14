@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0266/NIA_SL_WORD0205_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0205_REAL08_R.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.431,
+            "end": 2.993,
+            "attributes": [
+                {
+                    "name": "일시불"
+                }
+            ]
+        }
+    ]
+}

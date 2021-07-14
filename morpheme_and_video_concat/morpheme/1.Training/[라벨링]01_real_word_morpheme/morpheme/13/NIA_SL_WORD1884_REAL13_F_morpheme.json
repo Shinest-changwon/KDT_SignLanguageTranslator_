@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0619/NIA_SL_WORD1884_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1884_REAL13_F.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.35,
+            "end": 4.32,
+            "attributes": [
+                {
+                    "name": "강진군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

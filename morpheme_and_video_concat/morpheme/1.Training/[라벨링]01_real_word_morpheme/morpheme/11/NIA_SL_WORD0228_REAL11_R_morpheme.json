@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0977/NIA_SL_WORD0228_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0228_REAL11_R.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.506,
+            "end": 3.359,
+            "attributes": [
+                {
+                    "name": "실습"
+                }
+            ]
+        }
+    ]
+}

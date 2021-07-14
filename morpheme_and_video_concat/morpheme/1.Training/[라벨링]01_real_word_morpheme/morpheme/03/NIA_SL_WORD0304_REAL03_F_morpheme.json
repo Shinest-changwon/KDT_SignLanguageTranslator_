@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0791/NIA_SL_WORD0304_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0304_REAL03_F.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.3,
+            "end": 4.8,
+            "attributes": [
+                {
+                    "name": "송아지"
+                }
+            ]
+        }
+    ]
+}

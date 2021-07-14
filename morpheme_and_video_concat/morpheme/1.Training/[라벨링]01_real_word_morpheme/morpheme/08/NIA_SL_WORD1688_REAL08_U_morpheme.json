@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0264/NIA_SL_WORD1688_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1688_REAL08_U.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.237,
+            "end": 2.768,
+            "attributes": [
+                {
+                    "name": "양평군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

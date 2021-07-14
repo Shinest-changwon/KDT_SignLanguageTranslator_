@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0744/NIA_SL_WORD0790_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0790_REAL16_F.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.318,
+            "end": 2.799,
+            "attributes": [
+                {
+                    "name": "장애인연금"
+                }
+            ]
+        }
+    ]
+}

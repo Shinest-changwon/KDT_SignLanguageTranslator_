@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_gdchoi1190/NIA_SL_WORD1463_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1463_REAL12_L.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.307,
+            "end": 2.513,
+            "attributes": [
+                {
+                    "name": "성남"
+                }
+            ]
+        }
+    ]
+}

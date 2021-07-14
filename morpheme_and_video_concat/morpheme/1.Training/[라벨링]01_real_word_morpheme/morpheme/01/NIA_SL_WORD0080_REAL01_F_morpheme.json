@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_bkyu0343/NIA_SL_WORD0080_REAL01_F.mp4",
+        "name": "NIA_SL_WORD0080_REAL01_F.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.976,
+            "end": 4.249,
+            "attributes": [
+                {
+                    "name": "꿀물"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0741/NIA_SL_WORD2504_REAL16_R.mp4",
+        "name": "NIA_SL_WORD2504_REAL16_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.353,
+            "end": 2.412,
+            "attributes": [
+                {
+                    "name": "대만"
+                }
+            ]
+        }
+    ]
+}

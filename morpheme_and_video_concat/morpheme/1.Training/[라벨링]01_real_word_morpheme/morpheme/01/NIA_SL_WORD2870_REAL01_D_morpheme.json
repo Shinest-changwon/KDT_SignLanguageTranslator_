@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_yhjeon0347/NIA_SL_WORD2870_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2870_REAL01_D.mp4",
+        "duration": 2.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.156,
+            "end": 1.842,
+            "attributes": [
+                {
+                    "name": "사천"
+                }
+            ]
+        }
+    ]
+}

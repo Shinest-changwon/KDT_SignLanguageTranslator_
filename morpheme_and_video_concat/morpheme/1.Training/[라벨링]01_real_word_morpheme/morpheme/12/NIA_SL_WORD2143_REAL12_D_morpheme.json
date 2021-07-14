@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_moyu1194/NIA_SL_WORD2143_REAL12_D.mp4",
+        "name": "NIA_SL_WORD2143_REAL12_D.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.502,
+            "end": 2.925,
+            "attributes": [
+                {
+                    "name": "신부"
+                }
+            ]
+        }
+    ]
+}

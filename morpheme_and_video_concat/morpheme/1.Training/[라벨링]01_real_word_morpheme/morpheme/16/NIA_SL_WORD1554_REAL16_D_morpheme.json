@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0746/NIA_SL_WORD1554_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1554_REAL16_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.725,
+            "end": 2.569,
+            "attributes": [
+                {
+                    "name": "피곤"
+                }
+            ]
+        }
+    ]
+}

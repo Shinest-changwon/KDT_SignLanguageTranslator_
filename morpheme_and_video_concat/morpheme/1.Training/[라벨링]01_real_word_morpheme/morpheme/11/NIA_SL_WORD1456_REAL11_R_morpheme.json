@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0516/NIA_SL_WORD1456_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1456_REAL11_R.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.327,
+            "end": 2.497,
+            "attributes": [
+                {
+                    "name": "시청"
+                }
+            ]
+        }
+    ]
+}

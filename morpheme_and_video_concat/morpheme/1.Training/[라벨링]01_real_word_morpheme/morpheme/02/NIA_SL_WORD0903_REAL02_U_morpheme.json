@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee317/NIA_SL_WORD0903_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0903_REAL02_U.mp4",
+        "duration": 4.85,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.095,
+            "end": 4.35,
+            "attributes": [
+                {
+                    "name": "태극기"
+                }
+            ]
+        }
+    ]
+}

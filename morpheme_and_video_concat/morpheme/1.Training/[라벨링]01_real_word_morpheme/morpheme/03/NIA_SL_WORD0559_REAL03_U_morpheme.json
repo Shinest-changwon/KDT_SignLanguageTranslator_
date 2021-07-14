@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0791/NIA_SL_WORD0559_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0559_REAL03_U.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.007,
+            "end": 3.121,
+            "attributes": [
+                {
+                    "name": "배은"
+                }
+            ]
+        }
+    ]
+}

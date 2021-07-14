@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0625/NIA_SL_WORD2649_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2649_REAL03_R.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.292,
+            "end": 1.824,
+            "attributes": [
+                {
+                    "name": "십칠"
+                }
+            ]
+        }
+    ]
+}

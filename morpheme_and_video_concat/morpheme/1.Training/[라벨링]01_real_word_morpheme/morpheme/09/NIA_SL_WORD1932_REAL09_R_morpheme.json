@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0471/NIA_SL_WORD1932_REAL09_R.mp4",
+        "name": "NIA_SL_WORD1932_REAL09_R.mp4",
+        "duration": 6.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.174,
+            "end": 4.615,
+            "attributes": [
+                {
+                    "name": "해남군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

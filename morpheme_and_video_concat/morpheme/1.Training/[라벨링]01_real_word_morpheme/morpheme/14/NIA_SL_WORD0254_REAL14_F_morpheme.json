@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0478/NIA_SL_WORD0254_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0254_REAL14_F.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.383,
+            "end": 4.549,
+            "attributes": [
+                {
+                    "name": "성경책"
+                }
+            ]
+        }
+    ]
+}

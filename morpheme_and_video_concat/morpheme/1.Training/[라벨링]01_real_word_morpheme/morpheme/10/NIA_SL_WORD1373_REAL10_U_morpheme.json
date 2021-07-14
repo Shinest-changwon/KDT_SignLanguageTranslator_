@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_moyu0418/NIA_SL_WORD1373_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1373_REAL10_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.42,
+            "end": 2.415,
+            "attributes": [
+                {
+                    "name": "치아"
+                }
+            ]
+        }
+    ]
+}

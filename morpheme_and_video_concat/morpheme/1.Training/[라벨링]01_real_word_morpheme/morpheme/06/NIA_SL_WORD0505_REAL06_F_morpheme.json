@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1051/NIA_SL_WORD0505_REAL06_F.mp4",
+        "name": "NIA_SL_WORD0505_REAL06_F.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.409,
+            "end": 2.252,
+            "attributes": [
+                {
+                    "name": "실언"
+                }
+            ]
+        }
+    ]
+}

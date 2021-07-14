@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0300/NIA_SL_WORD0594_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0594_REAL14_R.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.183,
+            "end": 2.846,
+            "attributes": [
+                {
+                    "name": "공석"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0845/NIA_SL_WORD0898_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0898_REAL04_F.mp4",
+        "duration": 6.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.473,
+            "end": 4.511,
+            "attributes": [
+                {
+                    "name": "탁구공"
+                }
+            ]
+        }
+    ]
+}

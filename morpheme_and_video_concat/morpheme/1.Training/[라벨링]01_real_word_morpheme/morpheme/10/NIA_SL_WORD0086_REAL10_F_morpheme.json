@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0414/NIA_SL_WORD0086_REAL10_F.mp4",
+        "name": "NIA_SL_WORD0086_REAL10_F.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.329,
+            "end": 3.281,
+            "attributes": [
+                {
+                    "name": "돼지고기"
+                }
+            ]
+        }
+    ]
+}

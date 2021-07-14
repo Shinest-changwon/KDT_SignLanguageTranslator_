@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_rhkim0973/NIA_SL_WORD0942_REAL11_D.mp4",
+        "name": "NIA_SL_WORD0942_REAL11_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.43,
+            "end": 2.653,
+            "attributes": [
+                {
+                    "name": "학수고대"
+                }
+            ]
+        }
+    ]
+}

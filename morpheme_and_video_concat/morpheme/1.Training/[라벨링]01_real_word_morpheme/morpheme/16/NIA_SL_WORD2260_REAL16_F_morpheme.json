@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0926/NIA_SL_WORD2260_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2260_REAL16_F.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.653,
+            "end": 2.213,
+            "attributes": [
+                {
+                    "name": "무례"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon300/NIA_SL_WORD1715_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1715_REAL02_L.mp4",
+        "duration": 4.584,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.7,
+            "end": 3.853,
+            "attributes": [
+                {
+                    "name": "평택시청"
+                }
+            ]
+        }
+    ]
+}

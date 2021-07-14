@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee337/NIA_SL_WORD1190_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1190_REAL09_F.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.771,
+            "end": 2.835,
+            "attributes": [
+                {
+                    "name": "방법"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_moyu0617/NIA_SL_WORD2813_REAL03_L.mp4",
+        "name": "NIA_SL_WORD2813_REAL03_L.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.705,
+            "end": 2.046,
+            "attributes": [
+                {
+                    "name": "백팔십일"
+                }
+            ]
+        }
+    ]
+}

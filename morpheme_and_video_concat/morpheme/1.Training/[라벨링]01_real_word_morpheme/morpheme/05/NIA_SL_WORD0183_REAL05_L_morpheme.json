@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0927/NIA_SL_WORD0183_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0183_REAL05_L.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.792,
+            "end": 3.54,
+            "attributes": [
+                {
+                    "name": "회식"
+                }
+            ]
+        }
+    ]
+}

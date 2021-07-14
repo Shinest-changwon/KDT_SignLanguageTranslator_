@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim337/NIA_SL_WORD1630_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1630_REAL02_U.mp4",
+        "duration": 5.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.52,
+            "end": 4.161,
+            "attributes": [
+                {
+                    "name": "광산구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0800/NIA_SL_WORD0891_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0891_REAL03_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.618,
+            "end": 3.559,
+            "attributes": [
+                {
+                    "name": "콩기름"
+                }
+            ]
+        }
+    ]
+}

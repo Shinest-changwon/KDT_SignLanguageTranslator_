@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0799/NIA_SL_WORD0634_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0634_REAL03_U.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.225,
+            "end": 3.647,
+            "attributes": [
+                {
+                    "name": "서울역"
+                }
+            ]
+        }
+    ]
+}

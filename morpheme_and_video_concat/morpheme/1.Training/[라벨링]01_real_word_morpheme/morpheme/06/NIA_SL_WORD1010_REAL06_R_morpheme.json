@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0406/NIA_SL_WORD1010_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1010_REAL06_R.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.077,
+            "end": 5.025,
+            "attributes": [
+                {
+                    "name": "강동구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

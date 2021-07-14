@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1182/NIA_SL_WORD2367_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2367_REAL12_R.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.511,
+            "end": 2.57,
+            "attributes": [
+                {
+                    "name": "괴팍하다"
+                }
+            ]
+        }
+    ]
+}

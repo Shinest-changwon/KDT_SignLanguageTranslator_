@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0944/NIA_SL_WORD2431_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2431_REAL16_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.963,
+            "end": 3.247,
+            "attributes": [
+                {
+                    "name": "산청군지부"
+                }
+            ]
+        }
+    ]
+}

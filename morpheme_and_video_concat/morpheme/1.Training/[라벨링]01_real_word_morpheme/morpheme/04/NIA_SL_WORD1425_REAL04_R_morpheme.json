@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0848/NIA_SL_WORD1425_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1425_REAL04_R.mp4",
+        "duration": 5.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.583,
+            "end": 3.977,
+            "attributes": [
+                {
+                    "name": "금천"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1040/NIA_SL_WORD2187_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2187_REAL07_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.277,
+            "end": 3.053,
+            "attributes": [
+                {
+                    "name": "받다"
+                }
+            ]
+        }
+    ]
+}

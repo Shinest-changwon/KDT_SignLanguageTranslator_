@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0628/NIA_SL_WORD0127_REAL13_L.mp4",
+        "name": "NIA_SL_WORD0127_REAL13_L.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.922,
+            "end": 2.991,
+            "attributes": [
+                {
+                    "name": "이불"
+                }
+            ]
+        }
+    ]
+}

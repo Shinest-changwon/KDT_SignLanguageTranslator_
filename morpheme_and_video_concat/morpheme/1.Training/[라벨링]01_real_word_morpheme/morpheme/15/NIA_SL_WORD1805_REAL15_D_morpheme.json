@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1056/NIA_SL_WORD1805_REAL15_D.mp4",
+        "name": "NIA_SL_WORD1805_REAL15_D.mp4",
+        "duration": 4.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.921,
+            "end": 4.114,
+            "attributes": [
+                {
+                    "name": "천안시청"
+                }
+            ]
+        }
+    ]
+}

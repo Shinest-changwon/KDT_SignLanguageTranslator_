@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan294/NIA_SL_WORD1005_REAL25_R.mp4",
+        "name": "NIA_SL_WORD1005_REAL25_R.mp4",
+        "duration": 4.217,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.391,
+            "end": 3.156,
+            "attributes": [
+                {
+                    "name": "서울시청"
+                }
+            ]
+        }
+    ]
+}

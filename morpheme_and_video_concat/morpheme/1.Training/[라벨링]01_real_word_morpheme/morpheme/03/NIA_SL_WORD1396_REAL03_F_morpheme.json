@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0800/NIA_SL_WORD1396_REAL03_F.mp4",
+        "name": "NIA_SL_WORD1396_REAL03_F.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.398,
+            "end": 2.689,
+            "attributes": [
+                {
+                    "name": "야단치다"
+                }
+            ]
+        }
+    ]
+}

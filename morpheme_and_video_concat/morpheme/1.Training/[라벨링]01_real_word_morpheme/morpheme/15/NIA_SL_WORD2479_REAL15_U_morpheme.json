@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_sjim1199/NIA_SL_WORD2479_REAL15_U.mp4",
+        "name": "NIA_SL_WORD2479_REAL15_U.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.528,
+            "end": 3.184,
+            "attributes": [
+                {
+                    "name": "궁리"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0628/NIA_SL_WORD1978_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1978_REAL13_F.mp4",
+        "duration": 6.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.798,
+            "end": 5.005,
+            "attributes": [
+                {
+                    "name": "영천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

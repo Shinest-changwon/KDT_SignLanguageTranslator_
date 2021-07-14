@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0417/NIA_SL_WORD0117_REAL10_R.mp4",
+        "name": "NIA_SL_WORD0117_REAL10_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.32,
+            "end": 3.022,
+            "attributes": [
+                {
+                    "name": "콩가루"
+                }
+            ]
+        }
+    ]
+}

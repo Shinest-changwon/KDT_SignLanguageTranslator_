@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1074/NIA_SL_WORD1898_REAL15_D.mp4",
+        "name": "NIA_SL_WORD1898_REAL15_D.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.053,
+            "end": 2.544,
+            "attributes": [
+                {
+                    "name": "목포시지부"
+                }
+            ]
+        }
+    ]
+}

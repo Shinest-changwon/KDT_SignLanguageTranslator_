@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_swlee0802/NIA_SL_WORD2469_REAL10_L.mp4",
+        "name": "NIA_SL_WORD2469_REAL10_L.mp4",
+        "duration": 5.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.551,
+            "end": 4.452,
+            "attributes": [
+                {
+                    "name": "세종특별자치시"
+                }
+            ]
+        }
+    ]
+}

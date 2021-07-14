@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0428/NIA_SL_WORD1975_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1975_REAL10_D.mp4",
+        "duration": 6.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.847,
+            "end": 5.126,
+            "attributes": [
+                {
+                    "name": "영주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

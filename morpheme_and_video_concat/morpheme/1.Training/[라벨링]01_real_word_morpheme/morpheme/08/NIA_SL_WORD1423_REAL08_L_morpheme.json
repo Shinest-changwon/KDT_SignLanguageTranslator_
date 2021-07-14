@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0263/NIA_SL_WORD1423_REAL08_L.mp4",
+        "name": "NIA_SL_WORD1423_REAL08_L.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.985,
+            "end": 2.456,
+            "attributes": [
+                {
+                    "name": "아차산"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_emyou0896/NIA_SL_WORD2960_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2960_REAL04_U.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.016,
+            "end": 3.325,
+            "attributes": [
+                {
+                    "name": "사억"
+                }
+            ]
+        }
+    ]
+}

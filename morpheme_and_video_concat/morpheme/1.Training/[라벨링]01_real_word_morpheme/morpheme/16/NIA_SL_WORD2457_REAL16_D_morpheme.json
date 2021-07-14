@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1159/NIA_SL_WORD2457_REAL16_D.mp4",
+        "name": "NIA_SL_WORD2457_REAL16_D.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.147,
+            "end": 4.109,
+            "attributes": [
+                {
+                    "name": "제주특별자치도농아인협회"
+                }
+            ]
+        }
+    ]
+}

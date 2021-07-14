@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1057/NIA_SL_WORD0777_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0777_REAL13_R.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.889,
+            "end": 3.94,
+            "attributes": [
+                {
+                    "name": "인증"
+                }
+            ]
+        }
+    ]
+}

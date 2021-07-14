@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0802/NIA_SL_WORD0663_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0663_REAL03_R.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.416,
+            "end": 3.637,
+            "attributes": [
+                {
+                    "name": "술집"
+                }
+            ]
+        }
+    ]
+}

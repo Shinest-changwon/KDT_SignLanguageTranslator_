@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0298/NIA_SL_WORD1329_REAL14_R.mp4",
+        "name": "NIA_SL_WORD1329_REAL14_R.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.786,
+            "end": 3.252,
+            "attributes": [
+                {
+                    "name": "분홍"
+                }
+            ]
+        }
+    ]
+}

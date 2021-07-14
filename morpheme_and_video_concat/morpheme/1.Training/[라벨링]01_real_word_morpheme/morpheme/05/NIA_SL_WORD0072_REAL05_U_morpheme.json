@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_bkyu1159/NIA_SL_WORD0072_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0072_REAL05_U.mp4",
+        "duration": 3.417,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.96,
+            "end": 2.604,
+            "attributes": [
+                {
+                    "name": "가래떡"
+                }
+            ]
+        }
+    ]
+}

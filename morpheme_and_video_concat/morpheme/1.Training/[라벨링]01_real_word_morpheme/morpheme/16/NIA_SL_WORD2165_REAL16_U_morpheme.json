@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1078/NIA_SL_WORD2165_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2165_REAL16_U.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.042,
+            "end": 2.602,
+            "attributes": [
+                {
+                    "name": "큰아버지"
+                }
+            ]
+        }
+    ]
+}

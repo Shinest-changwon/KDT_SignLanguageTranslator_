@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1080/NIA_SL_WORD0642_REAL13_D.mp4",
+        "name": "NIA_SL_WORD0642_REAL13_D.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.15,
+            "end": 4.011,
+            "attributes": [
+                {
+                    "name": "연설"
+                }
+            ]
+        }
+    ]
+}

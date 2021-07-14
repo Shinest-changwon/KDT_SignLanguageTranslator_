@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_sjim0305/NIA_SL_WORD2399_REAL14_R.mp4",
+        "name": "NIA_SL_WORD2399_REAL14_R.mp4",
+        "duration": 2.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.749,
+            "end": 1.826,
+            "attributes": [
+                {
+                    "name": "지불하다"
+                }
+            ]
+        }
+    ]
+}

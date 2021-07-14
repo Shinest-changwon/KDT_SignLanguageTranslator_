@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0299/NIA_SL_WORD1336_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1336_REAL14_F.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.488,
+            "end": 2.874,
+            "attributes": [
+                {
+                    "name": "잘못하다"
+                }
+            ]
+        }
+    ]
+}

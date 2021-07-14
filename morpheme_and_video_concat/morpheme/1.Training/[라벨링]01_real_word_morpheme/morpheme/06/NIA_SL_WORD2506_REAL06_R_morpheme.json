@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_emyou0671/NIA_SL_WORD2506_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2506_REAL06_R.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.789,
+            "end": 2.747,
+            "attributes": [
+                {
+                    "name": "독도"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0415/NIA_SL_WORD1095_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1095_REAL06_F.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.16,
+            "end": 3.031,
+            "attributes": [
+                {
+                    "name": "어쩔 수 없다"
+                }
+            ]
+        }
+    ]
+}

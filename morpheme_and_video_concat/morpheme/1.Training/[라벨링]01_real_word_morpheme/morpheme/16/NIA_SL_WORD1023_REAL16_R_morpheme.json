@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0743/NIA_SL_WORD1023_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1023_REAL16_R.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.336,
+            "end": 2.637,
+            "attributes": [
+                {
+                    "name": "구로구지부"
+                }
+            ]
+        }
+    ]
+}

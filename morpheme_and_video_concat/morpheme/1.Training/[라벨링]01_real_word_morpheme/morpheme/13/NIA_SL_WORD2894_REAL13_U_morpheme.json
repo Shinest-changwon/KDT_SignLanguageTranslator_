@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_yhjeon0530/NIA_SL_WORD2894_REAL13_U.mp4",
+        "name": "NIA_SL_WORD2894_REAL13_U.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.205,
+            "end": 2.228,
+            "attributes": [
+                {
+                    "name": "칠만"
+                }
+            ]
+        }
+    ]
+}

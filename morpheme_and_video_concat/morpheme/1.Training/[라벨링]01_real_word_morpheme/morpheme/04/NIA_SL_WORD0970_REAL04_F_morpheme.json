@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0852/NIA_SL_WORD0970_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0970_REAL04_F.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.96,
+            "end": 3.362,
+            "attributes": [
+                {
+                    "name": "불면"
+                }
+            ]
+        }
+    ]
+}

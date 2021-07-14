@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_moyu0615/NIA_SL_WORD2791_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2791_REAL03_R.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.446,
+            "end": 2.931,
+            "attributes": [
+                {
+                    "name": "백오십구"
+                }
+            ]
+        }
+    ]
+}

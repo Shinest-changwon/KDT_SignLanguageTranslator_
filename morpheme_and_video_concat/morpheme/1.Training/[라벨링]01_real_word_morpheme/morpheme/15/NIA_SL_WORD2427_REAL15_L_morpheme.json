@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_rhkim1218/NIA_SL_WORD2427_REAL15_L.mp4",
+        "name": "NIA_SL_WORD2427_REAL15_L.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.428,
+            "end": 4.248,
+            "attributes": [
+                {
+                    "name": "밀양시청"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0270/NIA_SL_WORD0248_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0248_REAL08_F.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.857,
+            "end": 3.449,
+            "attributes": [
+                {
+                    "name": "전남"
+                }
+            ]
+        }
+    ]
+}

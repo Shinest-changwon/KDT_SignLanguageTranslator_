@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0475/NIA_SL_WORD0231_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0231_REAL14_R.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.156,
+            "end": 3.996,
+            "attributes": [
+                {
+                    "name": "연구소"
+                }
+            ]
+        }
+    ]
+}

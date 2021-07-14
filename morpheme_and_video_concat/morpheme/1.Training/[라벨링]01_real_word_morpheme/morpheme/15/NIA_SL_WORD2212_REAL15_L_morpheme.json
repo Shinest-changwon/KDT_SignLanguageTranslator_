@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_mrkim1203/NIA_SL_WORD2212_REAL15_L.mp4",
+        "name": "NIA_SL_WORD2212_REAL15_L.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.508,
+            "end": 3.194,
+            "attributes": [
+                {
+                    "name": "재벌"
+                }
+            ]
+        }
+    ]
+}

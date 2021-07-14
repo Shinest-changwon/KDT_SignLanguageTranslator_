@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0938/NIA_SL_WORD2378_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2378_REAL16_U.mp4",
+        "duration": 2.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.432,
+            "end": 1.756,
+            "attributes": [
+                {
+                    "name": "원활"
+                }
+            ]
+        }
+    ]
+}

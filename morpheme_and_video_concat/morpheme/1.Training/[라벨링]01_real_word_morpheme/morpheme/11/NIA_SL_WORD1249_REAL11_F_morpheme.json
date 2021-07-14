@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_emyou0520/NIA_SL_WORD1249_REAL11_F.mp4",
+        "name": "NIA_SL_WORD1249_REAL11_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.675,
+            "end": 2.325,
+            "attributes": [
+                {
+                    "name": "머리"
+                }
+            ]
+        }
+    ]
+}

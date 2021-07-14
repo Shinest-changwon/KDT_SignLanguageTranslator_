@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0413/NIA_SL_WORD1076_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1076_REAL06_F.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.258,
+            "end": 3.276,
+            "attributes": [
+                {
+                    "name": "중랑구지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi325/NIA_SL_WORD0516_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0516_REAL02_U.mp4",
+        "duration": 4.584,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.504,
+            "end": 3.419,
+            "attributes": [
+                {
+                    "name": "명마"
+                }
+            ]
+        }
+    ]
+}

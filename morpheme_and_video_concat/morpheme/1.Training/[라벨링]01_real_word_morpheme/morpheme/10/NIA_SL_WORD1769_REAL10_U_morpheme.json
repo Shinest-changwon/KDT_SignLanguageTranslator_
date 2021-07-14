@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0407/NIA_SL_WORD1769_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1769_REAL10_U.mp4",
+        "duration": 5.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.49,
+            "end": 4.53,
+            "attributes": [
+                {
+                    "name": "화천군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

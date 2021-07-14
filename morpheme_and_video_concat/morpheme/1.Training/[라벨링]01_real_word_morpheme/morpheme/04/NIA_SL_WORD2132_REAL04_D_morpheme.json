@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0844/NIA_SL_WORD2132_REAL04_D.mp4",
+        "name": "NIA_SL_WORD2132_REAL04_D.mp4",
+        "duration": 5.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.645,
+            "end": 4.85,
+            "attributes": [
+                {
+                    "name": "돌보다"
+                }
+            ]
+        }
+    ]
+}

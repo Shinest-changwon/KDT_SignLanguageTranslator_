@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0939/NIA_SL_WORD0486_REAL05_D.mp4",
+        "name": "NIA_SL_WORD0486_REAL05_D.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.632,
+            "end": 3.666,
+            "attributes": [
+                {
+                    "name": "돌벽"
+                }
+            ]
+        }
+    ]
+}

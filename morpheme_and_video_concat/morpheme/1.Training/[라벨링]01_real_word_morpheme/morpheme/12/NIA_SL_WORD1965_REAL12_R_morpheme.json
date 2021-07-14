@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0672/NIA_SL_WORD1965_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1965_REAL12_R.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.139,
+            "end": 2.742,
+            "attributes": [
+                {
+                    "name": "안동시지부"
+                }
+            ]
+        }
+    ]
+}

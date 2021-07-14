@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0744/NIA_SL_WORD1788_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1788_REAL16_R.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.147,
+            "end": 4.082,
+            "attributes": [
+                {
+                    "name": "옥천군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_moyu0311/NIA_SL_WORD1952_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1952_REAL14_F.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.132,
+            "end": 2.42,
+            "attributes": [
+                {
+                    "name": "아하"
+                }
+            ]
+        }
+    ]
+}

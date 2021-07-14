@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu299/NIA_SL_WORD2571_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2571_REAL02_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.026,
+            "end": 2.944,
+            "attributes": [
+                {
+                    "name": "위아래"
+                }
+            ]
+        }
+    ]
+}

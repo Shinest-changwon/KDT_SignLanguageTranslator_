@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1185/NIA_SL_WORD2224_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2224_REAL12_L.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.513,
+            "end": 2.7,
+            "attributes": [
+                {
+                    "name": "맥없다"
+                }
+            ]
+        }
+    ]
+}

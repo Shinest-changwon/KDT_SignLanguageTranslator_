@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan322/NIA_SL_WORD1290_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1290_REAL02_U.mp4",
+        "duration": 3.584,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.632,
+            "end": 2.784,
+            "attributes": [
+                {
+                    "name": "감사"
+                }
+            ]
+        }
+    ]
+}

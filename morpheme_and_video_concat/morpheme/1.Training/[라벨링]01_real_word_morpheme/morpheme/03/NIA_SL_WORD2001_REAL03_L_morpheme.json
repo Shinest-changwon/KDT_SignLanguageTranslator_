@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_emyou0611/NIA_SL_WORD2001_REAL03_L.mp4",
+        "name": "NIA_SL_WORD2001_REAL03_L.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.525,
+            "end": 2.598,
+            "attributes": [
+                {
+                    "name": "금시초문"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0426/NIA_SL_WORD0210_REAL10_U.mp4",
+        "name": "NIA_SL_WORD0210_REAL10_U.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.69,
+            "end": 3.816,
+            "attributes": [
+                {
+                    "name": "가정교육"
+                }
+            ]
+        }
+    ]
+}

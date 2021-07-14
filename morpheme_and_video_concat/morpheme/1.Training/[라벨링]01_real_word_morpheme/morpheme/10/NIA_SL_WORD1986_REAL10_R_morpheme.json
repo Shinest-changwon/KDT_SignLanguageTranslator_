@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0429/NIA_SL_WORD1986_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1986_REAL10_R.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.01,
+            "end": 3.272,
+            "attributes": [
+                {
+                    "name": "울진군지부"
+                }
+            ]
+        }
+    ]
+}

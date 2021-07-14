@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0405/NIA_SL_WORD0498_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0498_REAL16_D.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.43,
+            "end": 3.985,
+            "attributes": [
+                {
+                    "name": "마술사"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0533/NIA_SL_WORD1625_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1625_REAL11_U.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.23,
+            "end": 2.354,
+            "attributes": [
+                {
+                    "name": "중구지부"
+                }
+            ]
+        }
+    ]
+}

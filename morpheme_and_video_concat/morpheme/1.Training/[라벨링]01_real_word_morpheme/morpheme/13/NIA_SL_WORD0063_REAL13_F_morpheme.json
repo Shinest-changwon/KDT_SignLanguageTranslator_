@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0622/NIA_SL_WORD0063_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0063_REAL13_F.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.39,
+            "end": 2.865,
+            "attributes": [
+                {
+                    "name": "축구장"
+                }
+            ]
+        }
+    ]
+}

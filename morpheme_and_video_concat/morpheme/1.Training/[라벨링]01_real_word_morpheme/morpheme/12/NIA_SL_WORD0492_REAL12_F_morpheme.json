@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0670/NIA_SL_WORD0492_REAL12_F.mp4",
+        "name": "NIA_SL_WORD0492_REAL12_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.402,
+            "end": 2.769,
+            "attributes": [
+                {
+                    "name": "뒷산"
+                }
+            ]
+        }
+    ]
+}

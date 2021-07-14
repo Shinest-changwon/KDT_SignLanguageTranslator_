@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_jhhan0258/NIA_SL_WORD1123_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1123_REAL08_F.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.822,
+            "end": 3.233,
+            "attributes": [
+                {
+                    "name": "불안"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_swlee1155/NIA_SL_WORD2615_REAL11_R.mp4",
+        "name": "NIA_SL_WORD2615_REAL11_R.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.551,
+            "end": 2.514,
+            "attributes": [
+                {
+                    "name": "포항"
+                }
+            ]
+        }
+    ]
+}

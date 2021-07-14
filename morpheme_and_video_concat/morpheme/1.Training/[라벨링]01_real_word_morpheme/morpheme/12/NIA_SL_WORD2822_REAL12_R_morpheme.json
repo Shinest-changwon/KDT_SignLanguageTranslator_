@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_swlee1194/NIA_SL_WORD2822_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2822_REAL12_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.319,
+            "end": 2.765,
+            "attributes": [
+                {
+                    "name": "백구십"
+                }
+            ]
+        }
+    ]
+}

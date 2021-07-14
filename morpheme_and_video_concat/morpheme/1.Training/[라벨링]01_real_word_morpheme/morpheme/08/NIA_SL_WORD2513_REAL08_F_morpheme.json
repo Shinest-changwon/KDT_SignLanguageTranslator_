@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0612/NIA_SL_WORD2513_REAL08_F.mp4",
+        "name": "NIA_SL_WORD2513_REAL08_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.589,
+            "end": 2.447,
+            "attributes": [
+                {
+                    "name": "불가리"
+                }
+            ]
+        }
+    ]
+}

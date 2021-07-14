@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_bkyu1157/NIA_SL_WORD0061_REAL05_R.mp4",
+        "name": "NIA_SL_WORD0061_REAL05_R.mp4",
+        "duration": 3.217,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.965,
+            "end": 2.5,
+            "attributes": [
+                {
+                    "name": "재혼"
+                }
+            ]
+        }
+    ]
+}

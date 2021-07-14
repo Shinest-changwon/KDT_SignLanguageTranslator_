@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_rhkim1103/NIA_SL_WORD2693_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2693_REAL07_R.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.832,
+            "end": 1.805,
+            "attributes": [
+                {
+                    "name": "육십일"
+                }
+            ]
+        }
+    ]
+}

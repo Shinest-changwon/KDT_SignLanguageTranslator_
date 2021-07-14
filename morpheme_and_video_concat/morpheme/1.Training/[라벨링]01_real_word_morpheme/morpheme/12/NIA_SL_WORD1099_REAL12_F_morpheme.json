@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1187/NIA_SL_WORD1099_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1099_REAL12_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.252,
+            "end": 2.677,
+            "attributes": [
+                {
+                    "name": "달서구지부"
+                }
+            ]
+        }
+    ]
+}

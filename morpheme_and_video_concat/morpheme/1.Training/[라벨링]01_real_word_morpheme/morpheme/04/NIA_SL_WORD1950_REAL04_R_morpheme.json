@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0850/NIA_SL_WORD1950_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1950_REAL04_R.mp4",
+        "duration": 6.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.339,
+            "end": 5.305,
+            "attributes": [
+                {
+                    "name": "김천시지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0350/NIA_SL_WORD2148_REAL01_R.mp4",
+        "name": "NIA_SL_WORD2148_REAL01_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.782,
+            "end": 2.926,
+            "attributes": [
+                {
+                    "name": "긴가민가"
+                }
+            ]
+        }
+    ]
+}

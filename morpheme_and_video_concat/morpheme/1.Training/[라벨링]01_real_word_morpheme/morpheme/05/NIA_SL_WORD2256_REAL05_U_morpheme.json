@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_rhkim0927/NIA_SL_WORD2256_REAL05_U.mp4",
+        "name": "NIA_SL_WORD2256_REAL05_U.mp4",
+        "duration": 4.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.273,
+            "end": 3.625,
+            "attributes": [
+                {
+                    "name": "사교"
+                }
+            ]
+        }
+    ]
+}

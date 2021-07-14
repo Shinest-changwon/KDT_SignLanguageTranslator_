@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0354/NIA_SL_WORD0686_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0686_REAL01_U.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.607,
+            "end": 3.138,
+            "attributes": [
+                {
+                    "name": "쌀값"
+                }
+            ]
+        }
+    ]
+}

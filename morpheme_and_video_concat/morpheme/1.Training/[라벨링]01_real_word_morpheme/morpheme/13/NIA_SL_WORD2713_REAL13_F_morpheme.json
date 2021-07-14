@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0537/NIA_SL_WORD2713_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2713_REAL13_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.152,
+            "end": 2.751,
+            "attributes": [
+                {
+                    "name": "팔십일"
+                }
+            ]
+        }
+    ]
+}

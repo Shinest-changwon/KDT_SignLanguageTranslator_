@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_rhkim0300/NIA_SL_WORD2098_REAL14_L.mp4",
+        "name": "NIA_SL_WORD2098_REAL14_L.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.61,
+            "end": 3.163,
+            "attributes": [
+                {
+                    "name": "울음소리"
+                }
+            ]
+        }
+    ]
+}

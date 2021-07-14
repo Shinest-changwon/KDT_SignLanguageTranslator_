@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1070/NIA_SL_WORD1877_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1877_REAL15_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.15,
+            "end": 2.658,
+            "attributes": [
+                {
+                    "name": "평가하다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi309/NIA_SL_WORD0354_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0354_REAL02_L.mp4",
+        "duration": 4.184,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.603,
+            "end": 3.111,
+            "attributes": [
+                {
+                    "name": "가명"
+                }
+            ]
+        }
+    ]
+}

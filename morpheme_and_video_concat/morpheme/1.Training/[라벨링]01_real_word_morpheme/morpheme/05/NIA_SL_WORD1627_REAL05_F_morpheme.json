@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0939/NIA_SL_WORD1627_REAL05_F.mp4",
+        "name": "NIA_SL_WORD1627_REAL05_F.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.355,
+            "end": 3.047,
+            "attributes": [
+                {
+                    "name": "중구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon312/NIA_SL_WORD1839_REAL02_F.mp4",
+        "name": "NIA_SL_WORD1839_REAL02_F.mp4",
+        "duration": 3.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.425,
+            "end": 2.777,
+            "attributes": [
+                {
+                    "name": "태안군지부"
+                }
+            ]
+        }
+    ]
+}

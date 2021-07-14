@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0472/NIA_SL_WORD0261_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0261_REAL09_D.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.646,
+            "end": 4.041,
+            "attributes": [
+                {
+                    "name": "장난"
+                }
+            ]
+        }
+    ]
+}

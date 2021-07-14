@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1194/NIA_SL_WORD2656_REAL12_U.mp4",
+        "name": "NIA_SL_WORD2656_REAL12_U.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.527,
+            "end": 2.682,
+            "attributes": [
+                {
+                    "name": "이십사"
+                }
+            ]
+        }
+    ]
+}

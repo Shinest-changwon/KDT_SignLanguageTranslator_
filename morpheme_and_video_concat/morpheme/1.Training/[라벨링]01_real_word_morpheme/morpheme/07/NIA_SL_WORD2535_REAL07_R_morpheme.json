@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_swlee1060/NIA_SL_WORD2535_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2535_REAL07_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.869,
+            "end": 2.963,
+            "attributes": [
+                {
+                    "name": "골짜기"
+                }
+            ]
+        }
+    ]
+}

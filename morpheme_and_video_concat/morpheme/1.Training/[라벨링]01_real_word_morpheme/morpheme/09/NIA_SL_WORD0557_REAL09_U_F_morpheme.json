@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi351/NIA_SL_WORD0557_REAL09_U_F.mp4",
+        "name": "NIA_SL_WORD0557_REAL09_U_F.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.353,
+            "end": 3.005,
+            "attributes": [
+                {
+                    "name": "위로"
+                }
+            ]
+        }
+    ]
+}

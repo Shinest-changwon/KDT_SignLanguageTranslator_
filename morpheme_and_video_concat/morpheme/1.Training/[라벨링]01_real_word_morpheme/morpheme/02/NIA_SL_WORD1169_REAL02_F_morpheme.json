@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan310/NIA_SL_WORD1169_REAL02_F.mp4",
+        "name": "NIA_SL_WORD1169_REAL02_F.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.424,
+            "end": 2.984,
+            "attributes": [
+                {
+                    "name": "행복"
+                }
+            ]
+        }
+    ]
+}

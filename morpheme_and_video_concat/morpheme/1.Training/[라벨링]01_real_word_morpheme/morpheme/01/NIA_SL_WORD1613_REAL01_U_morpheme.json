@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0347/NIA_SL_WORD1613_REAL01_U.mp4",
+        "name": "NIA_SL_WORD1613_REAL01_U.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.498,
+            "end": 4.234,
+            "attributes": [
+                {
+                    "name": "연수구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

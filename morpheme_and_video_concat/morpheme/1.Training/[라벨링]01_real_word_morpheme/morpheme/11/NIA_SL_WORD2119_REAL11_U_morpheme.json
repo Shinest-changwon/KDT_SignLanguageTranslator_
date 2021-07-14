@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0532/NIA_SL_WORD2119_REAL11_U.mp4",
+        "name": "NIA_SL_WORD2119_REAL11_U.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.904,
+            "end": 3.237,
+            "attributes": [
+                {
+                    "name": "공범"
+                }
+            ]
+        }
+    ]
+}

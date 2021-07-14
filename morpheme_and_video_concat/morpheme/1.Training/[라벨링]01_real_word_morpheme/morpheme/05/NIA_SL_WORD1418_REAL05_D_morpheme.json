@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_gdchoi0944/NIA_SL_WORD1418_REAL05_D.mp4",
+        "name": "NIA_SL_WORD1418_REAL05_D.mp4",
+        "duration": 3.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.398,
+            "end": 2.364,
+            "attributes": [
+                {
+                    "name": "김포"
+                }
+            ]
+        }
+    ]
+}

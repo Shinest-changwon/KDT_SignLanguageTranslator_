@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1123/NIA_SL_WORD2642_REAL07_F.mp4",
+        "name": "NIA_SL_WORD2642_REAL07_F.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/17"
+    },
+    "data": [
+        {
+            "start": 1.218,
+            "end": 2.234,
+            "attributes": [
+                {
+                    "name": "십"
+                }
+            ]
+        }
+    ]
+}

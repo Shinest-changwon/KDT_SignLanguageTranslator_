@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0664/NIA_SL_WORD1880_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1880_REAL12_U.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.424,
+            "end": 4.044,
+            "attributes": [
+                {
+                    "name": "전주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

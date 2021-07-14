@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee317/NIA_SL_WORD0901_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0901_REAL02_L.mp4",
+        "duration": 4.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.462,
+            "end": 3.194,
+            "attributes": [
+                {
+                    "name": "독서광"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0673/NIA_SL_WORD1727_REAL12_D.mp4",
+        "name": "NIA_SL_WORD1727_REAL12_D.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.336,
+            "end": 4.374,
+            "attributes": [
+                {
+                    "name": "강릉시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

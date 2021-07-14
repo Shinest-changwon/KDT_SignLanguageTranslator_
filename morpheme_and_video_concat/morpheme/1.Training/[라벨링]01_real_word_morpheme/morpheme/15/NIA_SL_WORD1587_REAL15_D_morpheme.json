@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0705/NIA_SL_WORD1587_REAL15_D.mp4",
+        "name": "NIA_SL_WORD1587_REAL15_D.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.034,
+            "end": 2.492,
+            "attributes": [
+                {
+                    "name": "구걸"
+                }
+            ]
+        }
+    ]
+}

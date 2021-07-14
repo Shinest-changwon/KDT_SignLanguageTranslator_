@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_sjim0304/NIA_SL_WORD2383_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2383_REAL14_F.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.484,
+            "end": 2.538,
+            "attributes": [
+                {
+                    "name": "제법"
+                }
+            ]
+        }
+    ]
+}

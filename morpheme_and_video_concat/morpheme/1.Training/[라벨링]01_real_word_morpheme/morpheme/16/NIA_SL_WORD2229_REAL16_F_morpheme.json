@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0923/NIA_SL_WORD2229_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2229_REAL16_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.184,
+            "end": 2.572,
+            "attributes": [
+                {
+                    "name": "대물림"
+                }
+            ]
+        }
+    ]
+}

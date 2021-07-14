@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0409/NIA_SL_WORD1538_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1538_REAL10_U.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.564,
+            "end": 2.451,
+            "attributes": [
+                {
+                    "name": "죽다"
+                }
+            ]
+        }
+    ]
+}

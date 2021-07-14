@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0839/NIA_SL_WORD0832_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0832_REAL04_F.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.7,
+            "end": 3.859,
+            "attributes": [
+                {
+                    "name": "증인"
+                }
+            ]
+        }
+    ]
+}

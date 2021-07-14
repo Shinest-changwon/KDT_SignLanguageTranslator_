@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_yhjeon0265/NIA_SL_WORD2445_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2445_REAL08_R.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.003,
+            "end": 2.14,
+            "attributes": [
+                {
+                    "name": "창원시지부"
+                }
+            ]
+        }
+    ]
+}

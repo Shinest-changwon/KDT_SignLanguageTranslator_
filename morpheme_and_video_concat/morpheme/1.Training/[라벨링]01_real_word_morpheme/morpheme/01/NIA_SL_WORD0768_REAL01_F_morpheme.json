@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0337/NIA_SL_WORD0768_REAL01_F.mp4",
+        "name": "NIA_SL_WORD0768_REAL01_F.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.674,
+            "end": 3.124,
+            "attributes": [
+                {
+                    "name": "지도"
+                }
+            ]
+        }
+    ]
+}

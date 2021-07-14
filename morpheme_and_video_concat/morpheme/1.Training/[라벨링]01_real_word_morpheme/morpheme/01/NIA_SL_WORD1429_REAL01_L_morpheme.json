@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_rhkim1165/NIA_SL_WORD1429_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1429_REAL01_L.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.378,
+            "end": 3.501,
+            "attributes": [
+                {
+                    "name": "도봉산"
+                }
+            ]
+        }
+    ]
+}

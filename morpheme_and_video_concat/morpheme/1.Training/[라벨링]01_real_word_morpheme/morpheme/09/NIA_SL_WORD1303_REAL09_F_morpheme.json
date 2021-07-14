@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim307/NIA_SL_WORD1303_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1303_REAL09_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.506,
+            "end": 2.249,
+            "attributes": [
+                {
+                    "name": "기억"
+                }
+            ]
+        }
+    ]
+}

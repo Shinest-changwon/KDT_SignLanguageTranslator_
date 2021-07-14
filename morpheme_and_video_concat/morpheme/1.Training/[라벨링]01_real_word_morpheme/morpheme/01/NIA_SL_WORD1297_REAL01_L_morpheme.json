@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_mrkim1164/NIA_SL_WORD1297_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1297_REAL01_L.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.496,
+            "end": 2.672,
+            "attributes": [
+                {
+                    "name": "겨드랑이"
+                }
+            ]
+        }
+    ]
+}

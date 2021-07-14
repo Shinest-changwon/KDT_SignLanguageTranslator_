@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1072/NIA_SL_WORD2140_REAL07_U.mp4",
+        "name": "NIA_SL_WORD2140_REAL07_U.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.396,
+            "end": 3.541,
+            "attributes": [
+                {
+                    "name": "도련님"
+                }
+            ]
+        }
+    ]
+}

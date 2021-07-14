@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_gdchoi1195/NIA_SL_WORD1260_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1260_REAL15_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.493,
+            "end": 2.957,
+            "attributes": [
+                {
+                    "name": "빨리"
+                }
+            ]
+        }
+    ]
+}

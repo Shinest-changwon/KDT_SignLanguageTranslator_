@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0528/NIA_SL_WORD1571_REAL11_D.mp4",
+        "name": "NIA_SL_WORD1571_REAL11_D.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.128,
+            "end": 2.235,
+            "attributes": [
+                {
+                    "name": "치매"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim349/NIA_SL_WORD0660_REAL09_R.mp4",
+        "name": "NIA_SL_WORD0660_REAL09_R.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.919,
+            "end": 3.901,
+            "attributes": [
+                {
+                    "name": "순금"
+                }
+            ]
+        }
+    ]
+}

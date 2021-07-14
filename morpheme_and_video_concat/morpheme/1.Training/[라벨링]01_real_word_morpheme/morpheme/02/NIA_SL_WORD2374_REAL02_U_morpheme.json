@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu279/NIA_SL_WORD2374_REAL02_U.mp4",
+        "name": "NIA_SL_WORD2374_REAL02_U.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.255,
+            "end": 2.389,
+            "attributes": [
+                {
+                    "name": "중독되다"
+                }
+            ]
+        }
+    ]
+}

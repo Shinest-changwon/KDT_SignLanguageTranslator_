@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0526/NIA_SL_WORD1801_REAL11_F.mp4",
+        "name": "NIA_SL_WORD1801_REAL11_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.475,
+            "end": 3.529,
+            "attributes": [
+                {
+                    "name": "충주시청"
+                }
+            ]
+        }
+    ]
+}

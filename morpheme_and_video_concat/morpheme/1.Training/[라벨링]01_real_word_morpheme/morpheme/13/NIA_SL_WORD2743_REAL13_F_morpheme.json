@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0540/NIA_SL_WORD2743_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2743_REAL13_F.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.495,
+            "end": 4.145,
+            "attributes": [
+                {
+                    "name": "백십일"
+                }
+            ]
+        }
+    ]
+}

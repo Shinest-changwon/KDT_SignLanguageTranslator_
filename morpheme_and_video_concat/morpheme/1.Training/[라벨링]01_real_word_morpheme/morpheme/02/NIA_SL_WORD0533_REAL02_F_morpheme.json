@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi327/NIA_SL_WORD0533_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0533_REAL02_F.mp4",
+        "duration": 2.917,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.788,
+            "end": 2.17,
+            "attributes": [
+                {
+                    "name": "미군"
+                }
+            ]
+        }
+    ]
+}

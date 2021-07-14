@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0657/NIA_SL_WORD1819_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1819_REAL12_F.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.492,
+            "end": 3.933,
+            "attributes": [
+                {
+                    "name": "보령시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

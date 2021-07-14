@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0524/NIA_SL_WORD2089_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2089_REAL13_F.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.21,
+            "end": 2.519,
+            "attributes": [
+                {
+                    "name": "솜씨"
+                }
+            ]
+        }
+    ]
+}

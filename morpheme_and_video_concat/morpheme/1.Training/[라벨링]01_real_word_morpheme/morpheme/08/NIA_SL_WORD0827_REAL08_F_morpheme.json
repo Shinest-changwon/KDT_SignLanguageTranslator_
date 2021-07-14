@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0253/NIA_SL_WORD0827_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0827_REAL08_F.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.281,
+            "end": 2.932,
+            "attributes": [
+                {
+                    "name": "중매"
+                }
+            ]
+        }
+    ]
+}

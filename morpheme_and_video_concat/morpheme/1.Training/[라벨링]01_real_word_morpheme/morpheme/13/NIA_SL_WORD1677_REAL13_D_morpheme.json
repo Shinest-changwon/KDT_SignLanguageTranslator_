@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1073/NIA_SL_WORD1677_REAL13_D.mp4",
+        "name": "NIA_SL_WORD1677_REAL13_D.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.429,
+            "end": 4.079,
+            "attributes": [
+                {
+                    "name": "안성지부"
+                }
+            ]
+        }
+    ]
+}

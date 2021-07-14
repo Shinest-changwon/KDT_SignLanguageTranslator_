@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0699/NIA_SL_WORD0389_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0389_REAL15_R.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.934,
+            "end": 2.658,
+            "attributes": [
+                {
+                    "name": "맞추다"
+                }
+            ]
+        }
+    ]
+}

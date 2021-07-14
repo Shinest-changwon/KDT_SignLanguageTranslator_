@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0924/NIA_SL_WORD1976_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1976_REAL05_R.mp4",
+        "duration": 6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.555,
+            "end": 5.135,
+            "attributes": [
+                {
+                    "name": "영주시청"
+                }
+            ]
+        }
+    ]
+}

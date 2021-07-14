@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0744/NIA_SL_WORD2539_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2539_REAL16_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.589,
+            "end": 2.612,
+            "attributes": [
+                {
+                    "name": "돌"
+                }
+            ]
+        }
+    ]
+}

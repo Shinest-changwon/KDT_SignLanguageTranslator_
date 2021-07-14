@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0311/NIA_SL_WORD0701_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0701_REAL14_F.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.948,
+            "end": 3.393,
+            "attributes": [
+                {
+                    "name": "애국자"
+                }
+            ]
+        }
+    ]
+}

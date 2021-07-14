@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan315/NIA_SL_WORD1216_REAL02_F.mp4",
+        "name": "NIA_SL_WORD1216_REAL02_F.mp4",
+        "duration": 4.017,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.377,
+            "end": 3.388,
+            "attributes": [
+                {
+                    "name": "친하다"
+                }
+            ]
+        }
+    ]
+}

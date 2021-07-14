@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0788/NIA_SL_WORD0777_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0777_REAL03_F.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.706,
+            "end": 3.366,
+            "attributes": [
+                {
+                    "name": "인증"
+                }
+            ]
+        }
+    ]
+}

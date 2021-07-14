@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0527/NIA_SL_WORD2613_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2613_REAL13_F.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.618,
+            "end": 3.338,
+            "attributes": [
+                {
+                    "name": "여수"
+                }
+            ]
+        }
+    ]
+}

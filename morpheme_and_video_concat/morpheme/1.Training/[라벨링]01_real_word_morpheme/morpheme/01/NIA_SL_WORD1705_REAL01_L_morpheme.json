@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0356/NIA_SL_WORD1705_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1705_REAL01_L.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.601,
+            "end": 4.183,
+            "attributes": [
+                {
+                    "name": "의정부시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

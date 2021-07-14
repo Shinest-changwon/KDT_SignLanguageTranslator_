@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_jhhan0291/NIA_SL_WORD1508_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1508_REAL14_F.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.507,
+            "end": 2.351,
+            "attributes": [
+                {
+                    "name": "힘"
+                }
+            ]
+        }
+    ]
+}

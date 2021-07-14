@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0534/NIA_SL_WORD1883_REAL11_L.mp4",
+        "name": "NIA_SL_WORD1883_REAL11_L.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.705,
+            "end": 2.93,
+            "attributes": [
+                {
+                    "name": "강진군지부"
+                }
+            ]
+        }
+    ]
+}

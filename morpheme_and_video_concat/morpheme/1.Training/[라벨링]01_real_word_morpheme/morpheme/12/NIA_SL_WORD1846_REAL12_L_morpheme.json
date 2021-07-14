@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0660/NIA_SL_WORD1846_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1846_REAL12_L.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.335,
+            "end": 2.823,
+            "attributes": [
+                {
+                    "name": "고창군지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_gdchoi0899/NIA_SL_WORD0781_REAL06_U.mp4",
+        "name": "NIA_SL_WORD0781_REAL06_U.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.498,
+            "end": 3.495,
+            "attributes": [
+                {
+                    "name": "자막"
+                }
+            ]
+        }
+    ]
+}

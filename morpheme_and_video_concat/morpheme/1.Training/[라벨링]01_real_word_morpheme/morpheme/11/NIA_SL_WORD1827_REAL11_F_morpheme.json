@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0528/NIA_SL_WORD1827_REAL11_F.mp4",
+        "name": "NIA_SL_WORD1827_REAL11_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.377,
+            "end": 2.499,
+            "attributes": [
+                {
+                    "name": "서천군지부"
+                }
+            ]
+        }
+    ]
+}

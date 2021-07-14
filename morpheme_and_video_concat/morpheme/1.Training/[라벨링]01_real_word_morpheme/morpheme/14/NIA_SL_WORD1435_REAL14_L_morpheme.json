@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0309/NIA_SL_WORD1435_REAL14_L.mp4",
+        "name": "NIA_SL_WORD1435_REAL14_L.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.569,
+            "end": 3.196,
+            "attributes": [
+                {
+                    "name": "홍익대학교"
+                }
+            ]
+        }
+    ]
+}

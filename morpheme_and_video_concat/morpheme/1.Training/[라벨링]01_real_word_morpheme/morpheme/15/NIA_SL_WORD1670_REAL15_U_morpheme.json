@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0713/NIA_SL_WORD1670_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1670_REAL15_U.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.145,
+            "end": 3.344,
+            "attributes": [
+                {
+                    "name": "동두천시청"
+                }
+            ]
+        }
+    ]
+}

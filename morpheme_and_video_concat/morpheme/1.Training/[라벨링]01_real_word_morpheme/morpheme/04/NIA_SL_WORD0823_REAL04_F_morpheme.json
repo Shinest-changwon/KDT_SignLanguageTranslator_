@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0838/NIA_SL_WORD0823_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0823_REAL04_F.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.39,
+            "end": 4.106,
+            "attributes": [
+                {
+                    "name": "주방장"
+                }
+            ]
+        }
+    ]
+}

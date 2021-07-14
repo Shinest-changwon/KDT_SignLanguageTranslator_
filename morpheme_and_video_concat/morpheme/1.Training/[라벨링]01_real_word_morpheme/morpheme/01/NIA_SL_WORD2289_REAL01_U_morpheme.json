@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0339/NIA_SL_WORD2289_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2289_REAL01_U.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.448,
+            "end": 2.826,
+            "attributes": [
+                {
+                    "name": "이중인격"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0759/NIA_SL_WORD1431_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1431_REAL16_L.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.688,
+            "end": 2.857,
+            "attributes": [
+                {
+                    "name": "동대문"
+                }
+            ]
+        }
+    ]
+}

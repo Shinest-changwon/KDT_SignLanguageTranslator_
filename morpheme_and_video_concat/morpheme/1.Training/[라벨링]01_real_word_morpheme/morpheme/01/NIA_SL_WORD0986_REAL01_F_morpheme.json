@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0359/NIA_SL_WORD0986_REAL01_F.mp4",
+        "name": "NIA_SL_WORD0986_REAL01_F.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.242,
+            "end": 2.982,
+            "attributes": [
+                {
+                    "name": "궁지"
+                }
+            ]
+        }
+    ]
+}

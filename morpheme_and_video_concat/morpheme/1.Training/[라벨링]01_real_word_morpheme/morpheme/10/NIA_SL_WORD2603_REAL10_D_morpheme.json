@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0791/NIA_SL_WORD2603_REAL10_D.mp4",
+        "name": "NIA_SL_WORD2603_REAL10_D.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.359,
+            "end": 2.926,
+            "attributes": [
+                {
+                    "name": "군산"
+                }
+            ]
+        }
+    ]
+}

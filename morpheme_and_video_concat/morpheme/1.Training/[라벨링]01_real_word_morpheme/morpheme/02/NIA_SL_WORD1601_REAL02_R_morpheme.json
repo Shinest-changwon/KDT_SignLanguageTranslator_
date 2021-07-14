@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim335/NIA_SL_WORD1601_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1601_REAL02_R.mp4",
+        "duration": 3.917,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.241,
+            "end": 2.987,
+            "attributes": [
+                {
+                    "name": "달서구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

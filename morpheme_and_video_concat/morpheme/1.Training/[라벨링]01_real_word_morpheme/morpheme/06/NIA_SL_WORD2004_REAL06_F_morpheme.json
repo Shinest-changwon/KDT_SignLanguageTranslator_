@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0896/NIA_SL_WORD2004_REAL06_F.mp4",
+        "name": "NIA_SL_WORD2004_REAL06_F.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.706,
+            "end": 3.025,
+            "attributes": [
+                {
+                    "name": "충격"
+                }
+            ]
+        }
+    ]
+}

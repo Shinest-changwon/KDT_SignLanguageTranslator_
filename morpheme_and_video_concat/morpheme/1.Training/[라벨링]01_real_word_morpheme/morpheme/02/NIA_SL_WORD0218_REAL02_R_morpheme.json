@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou328/NIA_SL_WORD0218_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0218_REAL02_R.mp4",
+        "duration": 4.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.513,
+            "end": 3.794,
+            "attributes": [
+                {
+                    "name": "낙제"
+                }
+            ]
+        }
+    ]
+}

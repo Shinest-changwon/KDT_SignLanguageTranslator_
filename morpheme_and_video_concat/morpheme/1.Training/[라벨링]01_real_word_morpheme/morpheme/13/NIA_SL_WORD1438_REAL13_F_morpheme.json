@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1039/NIA_SL_WORD1438_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1438_REAL13_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.6,
+            "end": 2.746,
+            "attributes": [
+                {
+                    "name": "남부터미널"
+                }
+            ]
+        }
+    ]
+}

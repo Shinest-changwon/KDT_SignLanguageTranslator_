@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee310/NIA_SL_WORD0833_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0833_REAL02_R.mp4",
+        "duration": 4.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.618,
+            "end": 3.326,
+            "attributes": [
+                {
+                    "name": "지급일"
+                }
+            ]
+        }
+    ]
+}

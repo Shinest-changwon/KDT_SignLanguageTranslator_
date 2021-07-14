@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0716/NIA_SL_WORD0806_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0806_REAL15_L.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.474,
+            "end": 3.474,
+            "attributes": [
+                {
+                    "name": "전기세"
+                }
+            ]
+        }
+    ]
+}

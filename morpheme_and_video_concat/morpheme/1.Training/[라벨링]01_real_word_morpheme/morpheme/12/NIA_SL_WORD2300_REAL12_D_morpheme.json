@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1192/NIA_SL_WORD2300_REAL12_D.mp4",
+        "name": "NIA_SL_WORD2300_REAL12_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.46,
+            "end": 3.02,
+            "attributes": [
+                {
+                    "name": "수다스럽다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_rhkim1122/NIA_SL_WORD2889_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2889_REAL07_R.mp4",
+        "duration": 2.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.046,
+            "end": 2.033,
+            "attributes": [
+                {
+                    "name": "사만오천"
+                }
+            ]
+        }
+    ]
+}

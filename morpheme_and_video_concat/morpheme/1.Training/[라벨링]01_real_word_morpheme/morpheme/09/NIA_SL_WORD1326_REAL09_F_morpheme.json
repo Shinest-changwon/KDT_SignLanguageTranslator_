@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim309/NIA_SL_WORD1326_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1326_REAL09_F.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.81,
+            "end": 4.117,
+            "attributes": [
+                {
+                    "name": "충혈"
+                }
+            ]
+        }
+    ]
+}

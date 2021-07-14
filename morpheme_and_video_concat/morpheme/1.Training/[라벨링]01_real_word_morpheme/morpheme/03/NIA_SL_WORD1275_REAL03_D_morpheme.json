@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0788/NIA_SL_WORD1275_REAL03_D.mp4",
+        "name": "NIA_SL_WORD1275_REAL03_D.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.696,
+            "end": 2.766,
+            "attributes": [
+                {
+                    "name": "여자"
+                }
+            ]
+        }
+    ]
+}

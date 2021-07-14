@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0420/NIA_SL_WORD1901_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1901_REAL10_D.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.898,
+            "end": 3.637,
+            "attributes": [
+                {
+                    "name": "무안군지부"
+                }
+            ]
+        }
+    ]
+}

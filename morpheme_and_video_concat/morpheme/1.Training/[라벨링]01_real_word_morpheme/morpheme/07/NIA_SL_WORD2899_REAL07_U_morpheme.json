@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_yhjeon1060/NIA_SL_WORD2899_REAL07_U.mp4",
+        "name": "NIA_SL_WORD2899_REAL07_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.922,
+            "end": 3.117,
+            "attributes": [
+                {
+                    "name": "구만오천"
+                }
+            ]
+        }
+    ]
+}

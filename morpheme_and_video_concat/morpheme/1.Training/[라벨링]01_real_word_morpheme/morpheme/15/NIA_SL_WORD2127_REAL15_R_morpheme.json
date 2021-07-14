@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_moyu1213/NIA_SL_WORD2127_REAL15_R.mp4",
+        "name": "NIA_SL_WORD2127_REAL15_R.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.622,
+            "end": 3.631,
+            "attributes": [
+                {
+                    "name": "제부"
+                }
+            ]
+        }
+    ]
+}

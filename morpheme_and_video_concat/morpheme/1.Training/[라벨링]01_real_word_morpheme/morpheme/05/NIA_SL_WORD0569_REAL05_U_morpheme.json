@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0923/NIA_SL_WORD0569_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0569_REAL05_U.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.786,
+            "end": 3.303,
+            "attributes": [
+                {
+                    "name": "병가"
+                }
+            ]
+        }
+    ]
+}

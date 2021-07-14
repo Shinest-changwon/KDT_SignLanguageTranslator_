@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_swlee0256/NIA_SL_WORD2106_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2106_REAL08_R.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.312,
+            "end": 3.692,
+            "attributes": [
+                {
+                    "name": "인심"
+                }
+            ]
+        }
+    ]
+}

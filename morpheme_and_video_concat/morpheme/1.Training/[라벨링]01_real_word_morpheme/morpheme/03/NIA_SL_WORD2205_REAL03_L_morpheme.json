@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0606/NIA_SL_WORD2205_REAL03_L.mp4",
+        "name": "NIA_SL_WORD2205_REAL03_L.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.506,
+            "end": 3.323,
+            "attributes": [
+                {
+                    "name": "잊어버리다"
+                }
+            ]
+        }
+    ]
+}

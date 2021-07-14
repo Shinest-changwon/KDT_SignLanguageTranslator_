@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_rhkim0485/NIA_SL_WORD2823_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2823_REAL09_F.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.767,
+            "end": 3.262,
+            "attributes": [
+                {
+                    "name": "백구십일"
+                }
+            ]
+        }
+    ]
+}

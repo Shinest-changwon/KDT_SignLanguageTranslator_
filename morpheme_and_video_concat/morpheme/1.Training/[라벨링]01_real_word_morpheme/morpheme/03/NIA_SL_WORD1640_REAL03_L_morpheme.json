@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0799/NIA_SL_WORD1640_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1640_REAL03_L.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.388,
+            "end": 4.087,
+            "attributes": [
+                {
+                    "name": "경기농아인협회"
+                }
+            ]
+        }
+    ]
+}

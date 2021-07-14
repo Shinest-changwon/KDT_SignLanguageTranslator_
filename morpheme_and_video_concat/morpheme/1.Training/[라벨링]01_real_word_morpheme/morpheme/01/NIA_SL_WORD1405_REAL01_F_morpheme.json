@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_rhkim1160/NIA_SL_WORD1405_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1405_REAL01_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.591,
+            "end": 2.779,
+            "attributes": [
+                {
+                    "name": "이화여자대학교"
+                }
+            ]
+        }
+    ]
+}

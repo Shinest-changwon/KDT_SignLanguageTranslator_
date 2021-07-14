@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_emyou1124/NIA_SL_WORD0168_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0168_REAL07_F.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.822,
+            "end": 3.081,
+            "attributes": [
+                {
+                    "name": "주차장"
+                }
+            ]
+        }
+    ]
+}

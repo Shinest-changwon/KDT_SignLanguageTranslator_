@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0254/NIA_SL_WORD1586_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1586_REAL08_F.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.302,
+            "end": 2.668,
+            "attributes": [
+                {
+                    "name": "교제"
+                }
+            ]
+        }
+    ]
+}

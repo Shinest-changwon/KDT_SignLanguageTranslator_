@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0417/NIA_SL_WORD0112_REAL10_F.mp4",
+        "name": "NIA_SL_WORD0112_REAL10_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.796,
+            "end": 3.539,
+            "attributes": [
+                {
+                    "name": "짬뽕"
+                }
+            ]
+        }
+    ]
+}

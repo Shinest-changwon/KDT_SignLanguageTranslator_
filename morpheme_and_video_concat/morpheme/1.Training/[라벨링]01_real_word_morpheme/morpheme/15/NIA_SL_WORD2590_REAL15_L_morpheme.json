@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_sjim1220/NIA_SL_WORD2590_REAL15_L.mp4",
+        "name": "NIA_SL_WORD2590_REAL15_L.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.675,
+            "end": 2.839,
+            "attributes": [
+                {
+                    "name": "러시아"
+                }
+            ]
+        }
+    ]
+}

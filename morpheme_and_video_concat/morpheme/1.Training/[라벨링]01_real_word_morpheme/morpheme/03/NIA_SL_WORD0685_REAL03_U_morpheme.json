@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0804/NIA_SL_WORD0685_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0685_REAL03_U.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.75,
+            "end": 4.065,
+            "attributes": [
+                {
+                    "name": "논의"
+                }
+            ]
+        }
+    ]
+}

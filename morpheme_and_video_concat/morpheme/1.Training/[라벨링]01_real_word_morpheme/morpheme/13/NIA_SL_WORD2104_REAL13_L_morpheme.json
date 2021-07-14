@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0526/NIA_SL_WORD2104_REAL13_L.mp4",
+        "name": "NIA_SL_WORD2104_REAL13_L.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.778,
+            "end": 3.531,
+            "attributes": [
+                {
+                    "name": "사욕"
+                }
+            ]
+        }
+    ]
+}

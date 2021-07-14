@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0261/NIA_SL_WORD0652_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0652_REAL08_U.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.451,
+            "end": 3.109,
+            "attributes": [
+                {
+                    "name": "소화불량"
+                }
+            ]
+        }
+    ]
+}

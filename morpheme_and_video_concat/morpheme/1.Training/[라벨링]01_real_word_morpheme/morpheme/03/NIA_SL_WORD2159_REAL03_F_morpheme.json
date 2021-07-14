@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_emyou0626/NIA_SL_WORD2159_REAL03_F.mp4",
+        "name": "NIA_SL_WORD2159_REAL03_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.142,
+            "end": 2.545,
+            "attributes": [
+                {
+                    "name": "발인"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0408/NIA_SL_WORD1527_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1527_REAL10_F.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.615,
+            "end": 3.017,
+            "attributes": [
+                {
+                    "name": "원한"
+                }
+            ]
+        }
+    ]
+}

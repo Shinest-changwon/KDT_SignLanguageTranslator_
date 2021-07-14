@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0810/NIA_SL_WORD0994_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0994_REAL03_D.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.387,
+            "end": 2.54,
+            "attributes": [
+                {
+                    "name": "보복"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0630/NIA_SL_WORD1998_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1998_REAL13_F.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.775,
+            "end": 3.743,
+            "attributes": [
+                {
+                    "name": "칠곡군지부"
+                }
+            ]
+        }
+    ]
+}

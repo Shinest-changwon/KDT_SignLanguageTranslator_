@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0261/NIA_SL_WORD0154_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0154_REAL08_U.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.628,
+            "end": 3.956,
+            "attributes": [
+                {
+                    "name": "여객선"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0986/NIA_SL_WORD0976_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0976_REAL07_F.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.807,
+            "end": 1.887,
+            "attributes": [
+                {
+                    "name": "이심전심"
+                }
+            ]
+        }
+    ]
+}

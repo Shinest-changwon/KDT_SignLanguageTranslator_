@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0702/NIA_SL_WORD0916_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0916_REAL15_F.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.112,
+            "end": 2.495,
+            "attributes": [
+                {
+                    "name": "과시"
+                }
+            ]
+        }
+    ]
+}

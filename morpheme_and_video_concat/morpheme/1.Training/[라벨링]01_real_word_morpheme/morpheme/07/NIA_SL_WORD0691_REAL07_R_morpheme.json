@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0983/NIA_SL_WORD0691_REAL07_R.mp4",
+        "name": "NIA_SL_WORD0691_REAL07_R.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.105,
+            "end": 2.611,
+            "attributes": [
+                {
+                    "name": "악습"
+                }
+            ]
+        }
+    ]
+}

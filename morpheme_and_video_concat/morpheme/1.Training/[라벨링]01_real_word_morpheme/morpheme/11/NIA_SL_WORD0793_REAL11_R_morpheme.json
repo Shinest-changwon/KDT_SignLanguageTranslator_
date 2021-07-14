@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0984/NIA_SL_WORD0793_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0793_REAL11_R.mp4",
+        "duration": 6.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.42,
+            "end": 5.275,
+            "attributes": [
+                {
+                    "name": "장애인기능경기대회"
+                }
+            ]
+        }
+    ]
+}

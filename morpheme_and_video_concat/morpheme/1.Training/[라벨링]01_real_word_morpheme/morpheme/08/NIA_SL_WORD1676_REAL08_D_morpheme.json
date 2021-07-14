@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0263/NIA_SL_WORD1676_REAL08_D.mp4",
+        "name": "NIA_SL_WORD1676_REAL08_D.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.813,
+            "end": 4.294,
+            "attributes": [
+                {
+                    "name": "성남시청"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_bkyu1160/NIA_SL_WORD0079_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0079_REAL05_U.mp4",
+        "duration": 3.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.541,
+            "end": 3.321,
+            "attributes": [
+                {
+                    "name": "벌꿀"
+                }
+            ]
+        }
+    ]
+}

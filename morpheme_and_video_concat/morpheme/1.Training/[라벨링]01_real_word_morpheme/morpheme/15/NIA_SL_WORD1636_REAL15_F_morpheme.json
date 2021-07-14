@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0710/NIA_SL_WORD1636_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1636_REAL15_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.192,
+            "end": 2.682,
+            "attributes": [
+                {
+                    "name": "상관없다"
+                }
+            ]
+        }
+    ]
+}

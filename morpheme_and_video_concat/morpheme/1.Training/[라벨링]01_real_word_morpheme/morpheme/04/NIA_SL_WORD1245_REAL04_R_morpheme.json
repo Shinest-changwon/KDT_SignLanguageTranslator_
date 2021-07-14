@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_moyu0855/NIA_SL_WORD1245_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1245_REAL04_R.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.911,
+            "end": 3.525,
+            "attributes": [
+                {
+                    "name": "잠자다"
+                }
+            ]
+        }
+    ]
+}

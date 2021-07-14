@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_emyou1196/NIA_SL_WORD0279_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0279_REAL15_F.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.198,
+            "end": 2.701,
+            "attributes": [
+                {
+                    "name": "보건복지"
+                }
+            ]
+        }
+    ]
+}

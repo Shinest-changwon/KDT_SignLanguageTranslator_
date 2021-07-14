@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu314/NIA_SL_WORD1253_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1253_REAL09_F.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.419,
+            "end": 2.742,
+            "attributes": [
+                {
+                    "name": "몸1"
+                }
+            ]
+        }
+    ]
+}

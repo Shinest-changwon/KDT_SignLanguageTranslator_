@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0765/NIA_SL_WORD1241_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1241_REAL16_L.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.495,
+            "end": 2.865,
+            "attributes": [
+                {
+                    "name": "머리카락"
+                }
+            ]
+        }
+    ]
+}

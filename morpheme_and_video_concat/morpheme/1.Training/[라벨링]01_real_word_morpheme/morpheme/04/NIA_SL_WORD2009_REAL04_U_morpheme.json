@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0831/NIA_SL_WORD2009_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2009_REAL04_U.mp4",
+        "duration": 6.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.396,
+            "end": 5.091,
+            "attributes": [
+                {
+                    "name": "사고력"
+                }
+            ]
+        }
+    ]
+}

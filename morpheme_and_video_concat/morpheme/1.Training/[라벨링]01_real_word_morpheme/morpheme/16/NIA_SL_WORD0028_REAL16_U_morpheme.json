@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0383/NIA_SL_WORD0028_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0028_REAL16_U.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.484,
+            "end": 4.56,
+            "attributes": [
+                {
+                    "name": "병문안"
+                }
+            ]
+        }
+    ]
+}

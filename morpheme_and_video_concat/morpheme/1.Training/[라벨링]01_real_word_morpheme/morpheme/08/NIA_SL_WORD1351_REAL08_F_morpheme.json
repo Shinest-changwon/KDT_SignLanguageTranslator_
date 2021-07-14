@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0256/NIA_SL_WORD1351_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1351_REAL08_F.mp4",
+        "duration": 3.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.257,
+            "end": 2.208,
+            "attributes": [
+                {
+                    "name": "너"
+                }
+            ]
+        }
+    ]
+}

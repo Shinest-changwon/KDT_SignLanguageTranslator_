@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0749/NIA_SL_WORD1590_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1590_REAL16_U.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.228,
+            "end": 1.975,
+            "attributes": [
+                {
+                    "name": "글"
+                }
+            ]
+        }
+    ]
+}

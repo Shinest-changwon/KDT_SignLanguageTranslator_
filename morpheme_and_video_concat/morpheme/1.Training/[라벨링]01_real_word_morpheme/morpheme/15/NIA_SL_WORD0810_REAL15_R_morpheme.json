@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0716/NIA_SL_WORD0810_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0810_REAL15_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.435,
+            "end": 2.665,
+            "attributes": [
+                {
+                    "name": "틀림없다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim314/NIA_SL_WORD1399_REAL02_F.mp4",
+        "name": "NIA_SL_WORD1399_REAL02_F.mp4",
+        "duration": 3.517,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.829,
+            "end": 2.579,
+            "attributes": [
+                {
+                    "name": "미소"
+                }
+            ]
+        }
+    ]
+}

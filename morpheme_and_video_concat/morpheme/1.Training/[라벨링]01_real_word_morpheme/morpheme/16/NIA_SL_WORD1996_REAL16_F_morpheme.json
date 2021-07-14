@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0765/NIA_SL_WORD1996_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1996_REAL16_F.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.459,
+            "end": 4.428,
+            "attributes": [
+                {
+                    "name": "청송군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

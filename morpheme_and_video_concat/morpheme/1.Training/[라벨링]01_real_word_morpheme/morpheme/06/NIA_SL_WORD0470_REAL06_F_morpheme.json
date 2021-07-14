@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1041/NIA_SL_WORD0470_REAL06_F.mp4",
+        "name": "NIA_SL_WORD0470_REAL06_F.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.383,
+            "end": 2.685,
+            "attributes": [
+                {
+                    "name": "책임이사"
+                }
+            ]
+        }
+    ]
+}

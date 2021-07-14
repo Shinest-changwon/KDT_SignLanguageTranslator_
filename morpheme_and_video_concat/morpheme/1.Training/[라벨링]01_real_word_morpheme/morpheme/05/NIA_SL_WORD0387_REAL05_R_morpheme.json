@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_gdchoi1146/NIA_SL_WORD0387_REAL05_R.mp4",
+        "name": "NIA_SL_WORD0387_REAL05_R.mp4",
+        "duration": 4.484,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.486,
+            "end": 3.322,
+            "attributes": [
+                {
+                    "name": "골절"
+                }
+            ]
+        }
+    ]
+}

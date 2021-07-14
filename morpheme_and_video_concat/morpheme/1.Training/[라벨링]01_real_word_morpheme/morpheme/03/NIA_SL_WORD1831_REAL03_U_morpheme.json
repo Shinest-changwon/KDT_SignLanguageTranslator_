@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0619/NIA_SL_WORD1831_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1831_REAL03_U.mp4",
+        "duration": 5.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.532,
+            "end": 4.432,
+            "attributes": [
+                {
+                    "name": "아산시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1042/NIA_SL_WORD1946_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1946_REAL15_U.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.767,
+            "end": 3.621,
+            "attributes": [
+                {
+                    "name": "구미시청"
+                }
+            ]
+        }
+    ]
+}

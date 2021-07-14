@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan333/NIA_SL_WORD0757_REAL09_U.mp4",
+        "name": "NIA_SL_WORD0757_REAL09_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.008,
+            "end": 3.599,
+            "attributes": [
+                {
+                    "name": "우승자"
+                }
+            ]
+        }
+    ]
+}

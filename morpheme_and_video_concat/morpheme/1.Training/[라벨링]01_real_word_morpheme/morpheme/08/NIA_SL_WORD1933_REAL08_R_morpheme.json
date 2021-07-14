@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0264/NIA_SL_WORD1933_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1933_REAL08_R.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.481,
+            "end": 3.459,
+            "attributes": [
+                {
+                    "name": "해남군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

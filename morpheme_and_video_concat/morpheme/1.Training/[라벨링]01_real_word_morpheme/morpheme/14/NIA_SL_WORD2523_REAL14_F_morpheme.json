@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0293/NIA_SL_WORD2523_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2523_REAL14_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.76,
+            "end": 2.511,
+            "attributes": [
+                {
+                    "name": "이집트"
+                }
+            ]
+        }
+    ]
+}

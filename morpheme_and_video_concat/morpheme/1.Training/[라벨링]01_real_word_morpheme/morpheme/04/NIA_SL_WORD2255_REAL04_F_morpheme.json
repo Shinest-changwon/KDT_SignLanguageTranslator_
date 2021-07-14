@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0831/NIA_SL_WORD2255_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2255_REAL04_F.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.621,
+            "end": 4.346,
+            "attributes": [
+                {
+                    "name": "마지못하다"
+                }
+            ]
+        }
+    ]
+}

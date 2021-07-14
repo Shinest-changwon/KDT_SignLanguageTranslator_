@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0696/NIA_SL_WORD1493_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1493_REAL15_F.mp4",
+        "duration": 3.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.52,
+            "end": 2.31,
+            "attributes": [
+                {
+                    "name": "전염"
+                }
+            ]
+        }
+    ]
+}

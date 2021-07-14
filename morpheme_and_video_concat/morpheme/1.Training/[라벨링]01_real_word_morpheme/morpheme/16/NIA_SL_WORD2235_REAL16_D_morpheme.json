@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0924/NIA_SL_WORD2235_REAL16_D.mp4",
+        "name": "NIA_SL_WORD2235_REAL16_D.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.85,
+            "end": 2.703,
+            "attributes": [
+                {
+                    "name": "값비싸다"
+                }
+            ]
+        }
+    ]
+}

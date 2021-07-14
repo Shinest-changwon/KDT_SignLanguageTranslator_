@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0976/NIA_SL_WORD0717_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0717_REAL11_R.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.222,
+            "end": 4.212,
+            "attributes": [
+                {
+                    "name": "언약"
+                }
+            ]
+        }
+    ]
+}

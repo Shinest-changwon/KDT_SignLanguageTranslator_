@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0260/NIA_SL_WORD0149_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0149_REAL08_U.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.473,
+            "end": 3.833,
+            "attributes": [
+                {
+                    "name": "구급차"
+                }
+            ]
+        }
+    ]
+}

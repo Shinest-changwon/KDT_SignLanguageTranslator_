@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0474/NIA_SL_WORD1961_REAL09_L.mp4",
+        "name": "NIA_SL_WORD1961_REAL09_L.mp4",
+        "duration": 6.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.067,
+            "end": 4.556,
+            "attributes": [
+                {
+                    "name": "상주시청"
+                }
+            ]
+        }
+    ]
+}

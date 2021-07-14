@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_sjim0936/NIA_SL_WORD2641_REAL05_D.mp4",
+        "name": "NIA_SL_WORD2641_REAL05_D.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.51,
+            "end": 2.01,
+            "attributes": [
+                {
+                    "name": "십"
+                }
+            ]
+        }
+    ]
+}

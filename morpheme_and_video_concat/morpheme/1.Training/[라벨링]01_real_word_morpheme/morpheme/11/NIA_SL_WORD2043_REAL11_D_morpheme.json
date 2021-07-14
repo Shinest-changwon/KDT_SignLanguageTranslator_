@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0525/NIA_SL_WORD2043_REAL11_D.mp4",
+        "name": "NIA_SL_WORD2043_REAL11_D.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.979,
+            "end": 2.346,
+            "attributes": [
+                {
+                    "name": "발각"
+                }
+            ]
+        }
+    ]
+}

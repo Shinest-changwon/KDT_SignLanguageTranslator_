@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0664/NIA_SL_WORD0436_REAL12_D.mp4",
+        "name": "NIA_SL_WORD0436_REAL12_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.549,
+            "end": 2.851,
+            "attributes": [
+                {
+                    "name": "얼마"
+                }
+            ]
+        }
+    ]
+}

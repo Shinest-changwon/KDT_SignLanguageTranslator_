@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0939/NIA_SL_WORD1120_REAL05_F.mp4",
+        "name": "NIA_SL_WORD1120_REAL05_F.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.486,
+            "end": 2.165,
+            "attributes": [
+                {
+                    "name": "자랑"
+                }
+            ]
+        }
+    ]
+}

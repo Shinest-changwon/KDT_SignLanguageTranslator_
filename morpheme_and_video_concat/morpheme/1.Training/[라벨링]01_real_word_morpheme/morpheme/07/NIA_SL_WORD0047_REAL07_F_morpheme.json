@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_emyou1113/NIA_SL_WORD0047_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0047_REAL07_F.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.854,
+            "end": 3.242,
+            "attributes": [
+                {
+                    "name": "성병"
+                }
+            ]
+        }
+    ]
+}

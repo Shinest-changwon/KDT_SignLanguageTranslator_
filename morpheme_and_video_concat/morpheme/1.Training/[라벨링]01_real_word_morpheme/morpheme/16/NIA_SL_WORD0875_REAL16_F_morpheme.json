@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0753/NIA_SL_WORD0875_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0875_REAL16_F.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.267,
+            "end": 2.817,
+            "attributes": [
+                {
+                    "name": "추남"
+                }
+            ]
+        }
+    ]
+}

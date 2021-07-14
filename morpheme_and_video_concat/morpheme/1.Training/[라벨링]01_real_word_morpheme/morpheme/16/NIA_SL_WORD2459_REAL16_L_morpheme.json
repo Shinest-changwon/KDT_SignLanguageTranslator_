@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1159/NIA_SL_WORD2459_REAL16_L.mp4",
+        "name": "NIA_SL_WORD2459_REAL16_L.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.531,
+            "end": 3.787,
+            "attributes": [
+                {
+                    "name": "서귀포시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

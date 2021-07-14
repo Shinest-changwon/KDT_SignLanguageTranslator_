@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0703/NIA_SL_WORD0429_REAL15_D.mp4",
+        "name": "NIA_SL_WORD0429_REAL15_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.28,
+            "end": 3.13,
+            "attributes": [
+                {
+                    "name": "독재자"
+                }
+            ]
+        }
+    ]
+}

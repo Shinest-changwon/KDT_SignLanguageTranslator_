@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1049/NIA_SL_WORD1116_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1116_REAL13_L.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.596,
+            "end": 2.402,
+            "attributes": [
+                {
+                    "name": "어리석다"
+                }
+            ]
+        }
+    ]
+}

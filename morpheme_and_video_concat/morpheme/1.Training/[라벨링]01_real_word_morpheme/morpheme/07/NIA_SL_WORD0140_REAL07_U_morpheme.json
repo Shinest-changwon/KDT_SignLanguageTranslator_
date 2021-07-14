@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_emyou1122/NIA_SL_WORD0140_REAL07_U.mp4",
+        "name": "NIA_SL_WORD0140_REAL07_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.18,
+            "end": 3.955,
+            "attributes": [
+                {
+                    "name": "교수"
+                }
+            ]
+        }
+    ]
+}

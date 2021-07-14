@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_mrkim1155/NIA_SL_WORD1253_REAL01_R.mp4",
+        "name": "NIA_SL_WORD1253_REAL01_R.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/17"
+    },
+    "data": [
+        {
+            "start": 1.711,
+            "end": 2.99,
+            "attributes": [
+                {
+                    "name": "몸"
+                }
+            ]
+        }
+    ]
+}

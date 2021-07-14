@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_yhjeon1217/NIA_SL_WORD2961_REAL15_R.mp4",
+        "name": "NIA_SL_WORD2961_REAL15_R.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.444,
+            "end": 3.885,
+            "attributes": [
+                {
+                    "name": "사억오천만"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0742/NIA_SL_WORD2517_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2517_REAL16_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.539,
+            "end": 2.655,
+            "attributes": [
+                {
+                    "name": "싱가폴"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_emyou1103/NIA_SL_WORD0321_REAL06_F.mp4",
+        "name": "NIA_SL_WORD0321_REAL06_F.mp4",
+        "duration": 3.65,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.468,
+            "end": 2.598,
+            "attributes": [
+                {
+                    "name": "100만원"
+                }
+            ]
+        }
+    ]
+}

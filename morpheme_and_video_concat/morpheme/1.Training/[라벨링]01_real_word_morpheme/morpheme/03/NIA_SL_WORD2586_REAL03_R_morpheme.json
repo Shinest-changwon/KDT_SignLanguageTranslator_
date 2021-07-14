@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0619/NIA_SL_WORD2586_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2586_REAL03_R.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.754,
+            "end": 3.558,
+            "attributes": [
+                {
+                    "name": "쌀벌레"
+                }
+            ]
+        }
+    ]
+}

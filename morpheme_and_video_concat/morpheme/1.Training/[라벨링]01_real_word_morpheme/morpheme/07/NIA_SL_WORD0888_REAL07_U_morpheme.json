@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0978/NIA_SL_WORD0888_REAL07_U.mp4",
+        "name": "NIA_SL_WORD0888_REAL07_U.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.142,
+            "end": 2.337,
+            "attributes": [
+                {
+                    "name": "칼"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0698/NIA_SL_WORD0628_REAL15_U.mp4",
+        "name": "NIA_SL_WORD0628_REAL15_U.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.441,
+            "end": 4.941,
+            "attributes": [
+                {
+                    "name": "학생생활기록부"
+                }
+            ]
+        }
+    ]
+}

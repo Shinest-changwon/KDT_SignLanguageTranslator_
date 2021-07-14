@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0935/NIA_SL_WORD0439_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0439_REAL05_U.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.949,
+            "end": 2.741,
+            "attributes": [
+                {
+                    "name": "금주"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_hwlee1221/NIA_SL_WORD2030_REAL15_R.mp4",
+        "name": "NIA_SL_WORD2030_REAL15_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.825,
+            "end": 3.275,
+            "attributes": [
+                {
+                    "name": "무념무상"
+                }
+            ]
+        }
+    ]
+}

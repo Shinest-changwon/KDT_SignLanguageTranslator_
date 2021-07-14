@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0899/NIA_SL_WORD2034_REAL06_L.mp4",
+        "name": "NIA_SL_WORD2034_REAL06_L.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.972,
+            "end": 3.257,
+            "attributes": [
+                {
+                    "name": "지혜"
+                }
+            ]
+        }
+    ]
+}

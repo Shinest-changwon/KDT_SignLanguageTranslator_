@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_hwlee0422/NIA_SL_WORD0912_REAL10_D.mp4",
+        "name": "NIA_SL_WORD0912_REAL10_D.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.59,
+            "end": 2.34,
+            "attributes": [
+                {
+                    "name": "여분"
+                }
+            ]
+        }
+    ]
+}

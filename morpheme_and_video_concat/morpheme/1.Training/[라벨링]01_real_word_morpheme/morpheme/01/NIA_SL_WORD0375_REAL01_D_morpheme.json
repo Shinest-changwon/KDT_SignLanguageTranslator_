@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_emyou0348/NIA_SL_WORD0375_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0375_REAL01_D.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.844,
+            "end": 2.296,
+            "attributes": [
+                {
+                    "name": "걸스카우트"
+                }
+            ]
+        }
+    ]
+}

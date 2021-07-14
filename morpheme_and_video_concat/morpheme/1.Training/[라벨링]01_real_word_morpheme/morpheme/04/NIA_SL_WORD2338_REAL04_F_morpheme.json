@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0839/NIA_SL_WORD2338_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2338_REAL04_F.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.114,
+            "end": 3.316,
+            "attributes": [
+                {
+                    "name": "포기"
+                }
+            ]
+        }
+    ]
+}

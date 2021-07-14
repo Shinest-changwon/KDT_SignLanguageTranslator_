@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_moyu0424/NIA_SL_WORD1440_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1440_REAL10_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.534,
+            "end": 2.638,
+            "attributes": [
+                {
+                    "name": "왕십리"
+                }
+            ]
+        }
+    ]
+}

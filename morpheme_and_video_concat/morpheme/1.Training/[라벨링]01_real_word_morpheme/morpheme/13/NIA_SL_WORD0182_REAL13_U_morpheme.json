@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0609/NIA_SL_WORD0182_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0182_REAL13_U.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.168,
+            "end": 3.151,
+            "attributes": [
+                {
+                    "name": "화상채팅"
+                }
+            ]
+        }
+    ]
+}

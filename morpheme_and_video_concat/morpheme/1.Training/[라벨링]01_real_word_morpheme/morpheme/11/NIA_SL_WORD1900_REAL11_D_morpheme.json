@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0535/NIA_SL_WORD1900_REAL11_D.mp4",
+        "name": "NIA_SL_WORD1900_REAL11_D.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.482,
+            "end": 3.44,
+            "attributes": [
+                {
+                    "name": "목포시청"
+                }
+            ]
+        }
+    ]
+}

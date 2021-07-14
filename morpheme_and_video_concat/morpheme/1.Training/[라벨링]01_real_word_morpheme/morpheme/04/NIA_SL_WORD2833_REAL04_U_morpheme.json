@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_emyou0884/NIA_SL_WORD2833_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2833_REAL04_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.573,
+            "end": 3.068,
+            "attributes": [
+                {
+                    "name": "이백십"
+                }
+            ]
+        }
+    ]
+}

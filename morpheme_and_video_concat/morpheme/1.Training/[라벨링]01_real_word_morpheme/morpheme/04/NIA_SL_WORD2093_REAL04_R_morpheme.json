@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0840/NIA_SL_WORD2093_REAL04_R.mp4",
+        "name": "NIA_SL_WORD2093_REAL04_R.mp4",
+        "duration": 7.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 4.501,
+            "end": 6.288,
+            "attributes": [
+                {
+                    "name": "엉뚱"
+                }
+            ]
+        }
+    ]
+}

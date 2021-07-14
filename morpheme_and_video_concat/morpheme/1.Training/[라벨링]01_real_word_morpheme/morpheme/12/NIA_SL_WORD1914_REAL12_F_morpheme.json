@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0667/NIA_SL_WORD1914_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1914_REAL12_F.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.393,
+            "end": 4.463,
+            "attributes": [
+                {
+                    "name": "여수시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

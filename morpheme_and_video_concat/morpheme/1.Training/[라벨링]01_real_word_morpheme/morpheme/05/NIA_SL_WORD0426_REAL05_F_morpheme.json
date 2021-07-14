@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0933/NIA_SL_WORD0426_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0426_REAL05_F.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.174,
+            "end": 4.564,
+            "attributes": [
+                {
+                    "name": "군마"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_emyou0351/NIA_SL_WORD0402_REAL01_L.mp4",
+        "name": "NIA_SL_WORD0402_REAL01_L.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.366,
+            "end": 3.055,
+            "attributes": [
+                {
+                    "name": "광업"
+                }
+            ]
+        }
+    ]
+}

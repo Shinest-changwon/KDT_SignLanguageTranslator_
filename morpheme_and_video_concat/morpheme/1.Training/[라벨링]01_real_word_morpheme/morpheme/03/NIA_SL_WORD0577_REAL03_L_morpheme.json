@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0793/NIA_SL_WORD0577_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0577_REAL03_L.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1,
+            "end": 3.025,
+            "attributes": [
+                {
+                    "name": "부동산"
+                }
+            ]
+        }
+    ]
+}

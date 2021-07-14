@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0743/NIA_SL_WORD1528_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1528_REAL16_F.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.347,
+            "end": 2.33,
+            "attributes": [
+                {
+                    "name": "엄마"
+                }
+            ]
+        }
+    ]
+}

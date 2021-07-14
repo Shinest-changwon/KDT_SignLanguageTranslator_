@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_emyou0269/NIA_SL_WORD0488_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0488_REAL08_R.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.817,
+            "end": 2.255,
+            "attributes": [
+                {
+                    "name": "동메달"
+                }
+            ]
+        }
+    ]
+}

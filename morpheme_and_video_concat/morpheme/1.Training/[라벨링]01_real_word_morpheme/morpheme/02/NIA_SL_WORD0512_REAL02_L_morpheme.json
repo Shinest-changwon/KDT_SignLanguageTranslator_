@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi325/NIA_SL_WORD0512_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0512_REAL02_L.mp4",
+        "duration": 3.55,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.837,
+            "end": 3.021,
+            "attributes": [
+                {
+                    "name": "먹"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1061/NIA_SL_WORD1833_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1833_REAL15_U.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.45,
+            "end": 3.76,
+            "attributes": [
+                {
+                    "name": "예산군지부"
+                }
+            ]
+        }
+    ]
+}

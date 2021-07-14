@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0353/NIA_SL_WORD2421_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2421_REAL01_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.334,
+            "end": 3.32,
+            "attributes": [
+                {
+                    "name": "김해시청"
+                }
+            ]
+        }
+    ]
+}

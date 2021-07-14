@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1188/NIA_SL_WORD2429_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2429_REAL12_R.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.659,
+            "end": 4.744,
+            "attributes": [
+                {
+                    "name": "사천시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

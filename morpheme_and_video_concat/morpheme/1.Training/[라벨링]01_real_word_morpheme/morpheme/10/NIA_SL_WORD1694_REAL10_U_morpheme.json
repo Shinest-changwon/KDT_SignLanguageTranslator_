@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0425/NIA_SL_WORD1694_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1694_REAL10_U.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.282,
+            "end": 3.078,
+            "attributes": [
+                {
+                    "name": "연천군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

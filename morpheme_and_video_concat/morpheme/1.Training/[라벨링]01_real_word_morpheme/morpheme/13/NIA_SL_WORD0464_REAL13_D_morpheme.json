@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_gdchoi1153/NIA_SL_WORD0464_REAL13_D.mp4",
+        "name": "NIA_SL_WORD0464_REAL13_D.mp4",
+        "duration": 6.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.121,
+            "end": 4.806,
+            "attributes": [
+                {
+                    "name": "단명"
+                }
+            ]
+        }
+    ]
+}

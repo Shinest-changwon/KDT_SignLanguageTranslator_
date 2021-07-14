@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0258/NIA_SL_WORD0876_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0876_REAL08_F.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.536,
+            "end": 3.357,
+            "attributes": [
+                {
+                    "name": "추녀"
+                }
+            ]
+        }
+    ]
+}

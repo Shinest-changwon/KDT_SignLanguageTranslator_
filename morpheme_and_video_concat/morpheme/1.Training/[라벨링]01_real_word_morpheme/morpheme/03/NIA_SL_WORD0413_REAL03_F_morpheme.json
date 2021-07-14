@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0802/NIA_SL_WORD0413_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0413_REAL03_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.912,
+            "end": 2.78,
+            "attributes": [
+                {
+                    "name": "지도"
+                }
+            ]
+        }
+    ]
+}

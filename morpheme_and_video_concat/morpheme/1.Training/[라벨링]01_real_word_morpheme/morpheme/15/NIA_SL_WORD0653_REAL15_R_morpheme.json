@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0701/NIA_SL_WORD0653_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0653_REAL15_R.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.728,
+            "end": 4.228,
+            "attributes": [
+                {
+                    "name": "송년회"
+                }
+            ]
+        }
+    ]
+}

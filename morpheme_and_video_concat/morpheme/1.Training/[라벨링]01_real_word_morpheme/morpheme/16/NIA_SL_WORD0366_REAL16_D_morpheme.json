@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0392/NIA_SL_WORD0366_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0366_REAL16_D.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.469,
+            "end": 3.265,
+            "attributes": [
+                {
+                    "name": "강철"
+                }
+            ]
+        }
+    ]
+}

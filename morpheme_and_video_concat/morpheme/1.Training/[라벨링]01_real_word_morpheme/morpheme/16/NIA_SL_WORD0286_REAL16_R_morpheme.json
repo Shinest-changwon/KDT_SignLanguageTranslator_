@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0384/NIA_SL_WORD0286_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0286_REAL16_R.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.315,
+            "end": 3.412,
+            "attributes": [
+                {
+                    "name": "달빛"
+                }
+            ]
+        }
+    ]
+}

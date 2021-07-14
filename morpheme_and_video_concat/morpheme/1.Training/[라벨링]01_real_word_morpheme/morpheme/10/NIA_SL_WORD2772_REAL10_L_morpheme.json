@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0808/NIA_SL_WORD2772_REAL10_L.mp4",
+        "name": "NIA_SL_WORD2772_REAL10_L.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.259,
+            "end": 2.497,
+            "attributes": [
+                {
+                    "name": "백사십"
+                }
+            ]
+        }
+    ]
+}

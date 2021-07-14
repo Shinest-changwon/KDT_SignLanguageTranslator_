@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0249/NIA_SL_WORD0033_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0033_REAL08_F.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.514,
+            "end": 3.966,
+            "attributes": [
+                {
+                    "name": "당뇨병"
+                }
+            ]
+        }
+    ]
+}

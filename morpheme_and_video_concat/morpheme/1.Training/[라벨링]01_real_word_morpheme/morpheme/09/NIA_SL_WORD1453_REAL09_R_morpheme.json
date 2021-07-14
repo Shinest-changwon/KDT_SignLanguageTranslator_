@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu313/NIA_SL_WORD1453_REAL09_R.mp4",
+        "name": "NIA_SL_WORD1453_REAL09_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.316,
+            "end": 2.801,
+            "attributes": [
+                {
+                    "name": "신용산"
+                }
+            ]
+        }
+    ]
+}

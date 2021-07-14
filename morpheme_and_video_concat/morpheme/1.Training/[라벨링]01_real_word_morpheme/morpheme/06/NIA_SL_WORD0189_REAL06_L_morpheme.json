@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1116/NIA_SL_WORD0189_REAL06_L.mp4",
+        "name": "NIA_SL_WORD0189_REAL06_L.mp4",
+        "duration": 3.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.103,
+            "end": 3.182,
+            "attributes": [
+                {
+                    "name": "계약금"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_rhkim1150/NIA_SL_WORD1354_REAL01_D.mp4",
+        "name": "NIA_SL_WORD1354_REAL01_D.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.83,
+            "end": 3.118,
+            "attributes": [
+                {
+                    "name": "너희"
+                }
+            ]
+        }
+    ]
+}

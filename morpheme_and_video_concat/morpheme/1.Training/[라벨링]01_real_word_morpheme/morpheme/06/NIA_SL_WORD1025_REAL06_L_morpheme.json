@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0408/NIA_SL_WORD1025_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1025_REAL06_L.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.741,
+            "end": 3.192,
+            "attributes": [
+                {
+                    "name": "구로구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

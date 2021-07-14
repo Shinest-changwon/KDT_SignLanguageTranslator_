@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0248/NIA_SL_WORD1280_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1280_REAL08_F.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.851,
+            "end": 2.321,
+            "attributes": [
+                {
+                    "name": "총각"
+                }
+            ]
+        }
+    ]
+}

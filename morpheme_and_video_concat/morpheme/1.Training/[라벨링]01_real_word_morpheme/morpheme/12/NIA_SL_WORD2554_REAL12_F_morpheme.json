@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1184/NIA_SL_WORD2554_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2554_REAL12_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.685,
+            "end": 2.738,
+            "attributes": [
+                {
+                    "name": "형편없다"
+                }
+            ]
+        }
+    ]
+}

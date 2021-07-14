@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0411/NIA_SL_WORD1055_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1055_REAL06_L.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.979,
+            "end": 3.299,
+            "attributes": [
+                {
+                    "name": "송파구지부"
+                }
+            ]
+        }
+    ]
+}

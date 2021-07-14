@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0933/NIA_SL_WORD0422_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0422_REAL05_U.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.632,
+            "end": 2.573,
+            "attributes": [
+                {
+                    "name": "국그릇"
+                }
+            ]
+        }
+    ]
+}

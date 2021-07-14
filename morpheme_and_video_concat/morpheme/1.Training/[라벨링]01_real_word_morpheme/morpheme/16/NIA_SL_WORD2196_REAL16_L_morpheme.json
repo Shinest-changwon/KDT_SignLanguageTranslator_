@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1042/NIA_SL_WORD2196_REAL16_L.mp4",
+        "name": "NIA_SL_WORD2196_REAL16_L.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.148,
+            "end": 3.494,
+            "attributes": [
+                {
+                    "name": "취업"
+                }
+            ]
+        }
+    ]
+}

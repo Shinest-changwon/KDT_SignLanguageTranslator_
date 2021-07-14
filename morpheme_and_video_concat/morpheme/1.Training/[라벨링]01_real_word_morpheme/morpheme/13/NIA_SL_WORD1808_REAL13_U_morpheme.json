@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0611/NIA_SL_WORD1808_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1808_REAL13_U.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.396,
+            "end": 3.672,
+            "attributes": [
+                {
+                    "name": "공주시청"
+                }
+            ]
+        }
+    ]
+}

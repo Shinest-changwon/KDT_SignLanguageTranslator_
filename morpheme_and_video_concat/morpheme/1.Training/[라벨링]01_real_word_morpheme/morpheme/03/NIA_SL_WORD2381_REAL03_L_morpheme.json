@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0624/NIA_SL_WORD2381_REAL03_L.mp4",
+        "name": "NIA_SL_WORD2381_REAL03_L.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.436,
+            "end": 2.541,
+            "attributes": [
+                {
+                    "name": "무시하다"
+                }
+            ]
+        }
+    ]
+}

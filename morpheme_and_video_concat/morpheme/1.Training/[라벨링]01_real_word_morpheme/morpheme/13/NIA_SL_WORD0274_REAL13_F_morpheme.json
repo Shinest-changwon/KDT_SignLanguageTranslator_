@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0618/NIA_SL_WORD0274_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0274_REAL13_F.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.427,
+            "end": 4.519,
+            "attributes": [
+                {
+                    "name": "토기"
+                }
+            ]
+        }
+    ]
+}

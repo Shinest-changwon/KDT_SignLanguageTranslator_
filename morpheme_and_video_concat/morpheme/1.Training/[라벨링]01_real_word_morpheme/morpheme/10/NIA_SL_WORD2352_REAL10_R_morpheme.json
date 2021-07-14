@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_swlee0791/NIA_SL_WORD2352_REAL10_R.mp4",
+        "name": "NIA_SL_WORD2352_REAL10_R.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.777,
+            "end": 3.296,
+            "attributes": [
+                {
+                    "name": "기대다"
+                }
+            ]
+        }
+    ]
+}

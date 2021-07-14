@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0410/NIA_SL_WORD1797_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1797_REAL10_F.mp4",
+        "duration": 5.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.636,
+            "end": 4.445,
+            "attributes": [
+                {
+                    "name": "청주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

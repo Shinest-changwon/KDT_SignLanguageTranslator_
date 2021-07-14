@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu295/NIA_SL_WORD2865_REAL02_F.mp4",
+        "name": "NIA_SL_WORD2865_REAL02_F.mp4",
+        "duration": 3.017,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.078,
+            "end": 2.145,
+            "attributes": [
+                {
+                    "name": "천오백"
+                }
+            ]
+        }
+    ]
+}

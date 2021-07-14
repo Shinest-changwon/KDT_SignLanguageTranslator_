@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0297/NIA_SL_WORD1316_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1316_REAL14_F.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.745,
+            "end": 3.276,
+            "attributes": [
+                {
+                    "name": "인터체인지"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0478/NIA_SL_WORD2002_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2002_REAL09_F.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.941,
+            "end": 3.206,
+            "attributes": [
+                {
+                    "name": "중도포기"
+                }
+            ]
+        }
+    ]
+}

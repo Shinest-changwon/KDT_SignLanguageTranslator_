@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0348/NIA_SL_WORD0627_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0627_REAL01_U.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.225,
+            "end": 3.209,
+            "attributes": [
+                {
+                    "name": "색종이"
+                }
+            ]
+        }
+    ]
+}

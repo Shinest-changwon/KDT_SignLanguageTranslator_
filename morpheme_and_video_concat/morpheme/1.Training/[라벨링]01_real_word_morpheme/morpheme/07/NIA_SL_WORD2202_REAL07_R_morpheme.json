@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1043/NIA_SL_WORD2202_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2202_REAL07_R.mp4",
+        "duration": 2.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.683,
+            "end": 2.183,
+            "attributes": [
+                {
+                    "name": "망각"
+                }
+            ]
+        }
+    ]
+}

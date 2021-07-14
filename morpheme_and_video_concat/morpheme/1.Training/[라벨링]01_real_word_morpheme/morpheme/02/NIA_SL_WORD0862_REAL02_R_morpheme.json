@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee313/NIA_SL_WORD0862_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0862_REAL02_R.mp4",
+        "duration": 3.717,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.203,
+            "end": 2.702,
+            "attributes": [
+                {
+                    "name": "체납"
+                }
+            ]
+        }
+    ]
+}

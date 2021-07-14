@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou333/NIA_SL_WORD0265_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0265_REAL02_F.mp4",
+        "duration": 3.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.961,
+            "end": 2.607,
+            "attributes": [
+                {
+                    "name": "돌무덤"
+                }
+            ]
+        }
+    ]
+}

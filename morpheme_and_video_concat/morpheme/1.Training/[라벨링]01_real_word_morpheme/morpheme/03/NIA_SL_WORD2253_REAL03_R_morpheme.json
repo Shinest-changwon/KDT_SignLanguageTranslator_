@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0611/NIA_SL_WORD2253_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2253_REAL03_R.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.378,
+            "end": 2.313,
+            "attributes": [
+                {
+                    "name": "조종하다"
+                }
+            ]
+        }
+    ]
+}

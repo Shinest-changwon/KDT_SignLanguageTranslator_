@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0619/NIA_SL_WORD1835_REAL03_R.mp4",
+        "name": "NIA_SL_WORD1835_REAL03_R.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.043,
+            "end": 3.843,
+            "attributes": [
+                {
+                    "name": "예산군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

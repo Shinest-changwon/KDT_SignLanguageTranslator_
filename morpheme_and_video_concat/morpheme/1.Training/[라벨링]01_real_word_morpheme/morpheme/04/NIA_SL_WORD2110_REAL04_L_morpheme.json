@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0841/NIA_SL_WORD2110_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2110_REAL04_L.mp4",
+        "duration": 6.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.662,
+            "end": 5.026,
+            "attributes": [
+                {
+                    "name": "감염병"
+                }
+            ]
+        }
+    ]
+}

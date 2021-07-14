@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon332/NIA_SL_WORD1003_REAL09_D.mp4",
+        "name": "NIA_SL_WORD1003_REAL09_D.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.216,
+            "end": 3.492,
+            "attributes": [
+                {
+                    "name": "서울특별시농아인협회"
+                }
+            ]
+        }
+    ]
+}

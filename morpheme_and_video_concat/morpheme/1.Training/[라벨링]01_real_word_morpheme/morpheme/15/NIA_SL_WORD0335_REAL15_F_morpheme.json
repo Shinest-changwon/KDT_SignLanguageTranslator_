@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_emyou1202/NIA_SL_WORD0335_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0335_REAL15_F.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.988,
+            "end": 2.161,
+            "attributes": [
+                {
+                    "name": "식전"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_gdchoi0969/NIA_SL_WORD1417_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1417_REAL07_R.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.365,
+            "end": 2.811,
+            "attributes": [
+                {
+                    "name": "발산"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0985/NIA_SL_WORD0803_REAL11_F.mp4",
+        "name": "NIA_SL_WORD0803_REAL11_F.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.735,
+            "end": 4.077,
+            "attributes": [
+                {
+                    "name": "무식"
+                }
+            ]
+        }
+    ]
+}

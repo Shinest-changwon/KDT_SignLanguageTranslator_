@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_hwlee1212/NIA_SL_WORD1480_REAL15_R.mp4",
+        "name": "NIA_SL_WORD1480_REAL15_R.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.475,
+            "end": 3.57,
+            "attributes": [
+                {
+                    "name": "에버랜드"
+                }
+            ]
+        }
+    ]
+}

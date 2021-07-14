@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0712/NIA_SL_WORD0769_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0769_REAL15_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.562,
+            "end": 3.423,
+            "attributes": [
+                {
+                    "name": "회의록"
+                }
+            ]
+        }
+    ]
+}

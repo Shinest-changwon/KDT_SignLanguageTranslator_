@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1179/NIA_SL_WORD1523_REAL12_D.mp4",
+        "name": "NIA_SL_WORD1523_REAL12_D.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.135,
+            "end": 2.352,
+            "attributes": [
+                {
+                    "name": "유도"
+                }
+            ]
+        }
+    ]
+}

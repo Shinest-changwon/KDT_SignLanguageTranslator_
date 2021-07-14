@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0788/NIA_SL_WORD2580_REAL10_R.mp4",
+        "name": "NIA_SL_WORD2580_REAL10_R.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.357,
+            "end": 3.805,
+            "attributes": [
+                {
+                    "name": "햇빛"
+                }
+            ]
+        }
+    ]
+}

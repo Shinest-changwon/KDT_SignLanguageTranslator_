@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0630/NIA_SL_WORD0142_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0142_REAL13_U.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.82,
+            "end": 3.183,
+            "attributes": [
+                {
+                    "name": "찻길"
+                }
+            ]
+        }
+    ]
+}

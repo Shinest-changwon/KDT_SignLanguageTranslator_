@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_sjim0921/NIA_SL_WORD2478_REAL05_R.mp4",
+        "name": "NIA_SL_WORD2478_REAL05_R.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.391,
+            "end": 3.479,
+            "attributes": [
+                {
+                    "name": "강원도청"
+                }
+            ]
+        }
+    ]
+}

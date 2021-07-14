@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_swlee0258/NIA_SL_WORD2122_REAL08_D.mp4",
+        "name": "NIA_SL_WORD2122_REAL08_D.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.522,
+            "end": 3.977,
+            "attributes": [
+                {
+                    "name": "여리다"
+                }
+            ]
+        }
+    ]
+}

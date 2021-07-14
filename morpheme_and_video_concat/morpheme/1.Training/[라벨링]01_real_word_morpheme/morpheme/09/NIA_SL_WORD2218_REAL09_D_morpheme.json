@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_jhhan0474/NIA_SL_WORD2218_REAL09_D.mp4",
+        "name": "NIA_SL_WORD2218_REAL09_D.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.289,
+            "end": 3.007,
+            "attributes": [
+                {
+                    "name": "탕진"
+                }
+            ]
+        }
+    ]
+}

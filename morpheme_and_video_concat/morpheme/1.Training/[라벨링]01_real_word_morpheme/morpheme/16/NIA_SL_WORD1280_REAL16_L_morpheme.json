@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0743/NIA_SL_WORD1280_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1280_REAL16_L.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.562,
+            "end": 3.012,
+            "attributes": [
+                {
+                    "name": "총각"
+                }
+            ]
+        }
+    ]
+}

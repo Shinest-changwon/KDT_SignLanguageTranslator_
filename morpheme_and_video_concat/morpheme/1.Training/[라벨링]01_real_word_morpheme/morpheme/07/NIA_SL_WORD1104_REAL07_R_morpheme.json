@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1120/NIA_SL_WORD1104_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1104_REAL07_R.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.908,
+            "end": 2.803,
+            "attributes": [
+                {
+                    "name": "남자"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0800/NIA_SL_WORD0892_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0892_REAL03_F.mp4",
+        "duration": 5.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.149,
+            "end": 4.139,
+            "attributes": [
+                {
+                    "name": "콩밭"
+                }
+            ]
+        }
+    ]
+}

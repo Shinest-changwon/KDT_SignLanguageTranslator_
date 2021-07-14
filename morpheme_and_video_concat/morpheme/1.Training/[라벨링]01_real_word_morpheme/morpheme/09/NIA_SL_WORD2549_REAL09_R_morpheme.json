@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_moyu0482/NIA_SL_WORD2549_REAL09_R.mp4",
+        "name": "NIA_SL_WORD2549_REAL09_R.mp4",
+        "duration": 5.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.894,
+            "end": 4.372,
+            "attributes": [
+                {
+                    "name": "바람"
+                }
+            ]
+        }
+    ]
+}

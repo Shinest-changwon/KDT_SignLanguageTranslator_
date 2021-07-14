@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0671/NIA_SL_WORD0506_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0506_REAL12_L.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.668,
+            "end": 3.228,
+            "attributes": [
+                {
+                    "name": "말끼어들기"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0847/NIA_SL_WORD1915_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1915_REAL04_D.mp4",
+        "duration": 5.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.965,
+            "end": 4.579,
+            "attributes": [
+                {
+                    "name": "여수시청"
+                }
+            ]
+        }
+    ]
+}

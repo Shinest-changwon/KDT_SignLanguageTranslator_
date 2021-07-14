@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0754/NIA_SL_WORD1388_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1388_REAL16_R.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.426,
+            "end": 2.763,
+            "attributes": [
+                {
+                    "name": "초대"
+                }
+            ]
+        }
+    ]
+}

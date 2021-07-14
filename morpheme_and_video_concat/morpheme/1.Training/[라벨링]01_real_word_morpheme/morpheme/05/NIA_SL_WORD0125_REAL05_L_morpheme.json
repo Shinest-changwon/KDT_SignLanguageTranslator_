@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_bkyu1169/NIA_SL_WORD0125_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0125_REAL05_L.mp4",
+        "duration": 5.25,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.908,
+            "end": 3.851,
+            "attributes": [
+                {
+                    "name": "운동화"
+                }
+            ]
+        }
+    ]
+}

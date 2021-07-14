@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0269/NIA_SL_WORD0985_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0985_REAL08_F.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.255,
+            "end": 2.786,
+            "attributes": [
+                {
+                    "name": "자승자박"
+                }
+            ]
+        }
+    ]
+}

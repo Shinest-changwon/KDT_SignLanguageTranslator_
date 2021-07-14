@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_bkyu0524/NIA_SL_WORD1031_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1031_REAL11_R.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.399,
+            "end": 3.204,
+            "attributes": [
+                {
+                    "name": "도봉구지부"
+                }
+            ]
+        }
+    ]
+}

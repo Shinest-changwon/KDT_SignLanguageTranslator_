@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee331/NIA_SL_WORD1128_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1128_REAL09_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.905,
+            "end": 2.63,
+            "attributes": [
+                {
+                    "name": "당황1"
+                }
+            ]
+        }
+    ]
+}

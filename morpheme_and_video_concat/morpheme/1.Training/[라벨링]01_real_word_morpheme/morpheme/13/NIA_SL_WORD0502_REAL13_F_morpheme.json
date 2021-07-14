@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_gdchoi1157/NIA_SL_WORD0502_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0502_REAL13_F.mp4",
+        "duration": 5.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.254,
+            "end": 4.158,
+            "attributes": [
+                {
+                    "name": "만취"
+                }
+            ]
+        }
+    ]
+}

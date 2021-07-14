@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0413/NIA_SL_WORD1080_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1080_REAL10_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.323,
+            "end": 3.121,
+            "attributes": [
+                {
+                    "name": "금정구지부"
+                }
+            ]
+        }
+    ]
+}

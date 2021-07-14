@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0848/NIA_SL_WORD2171_REAL04_R.mp4",
+        "name": "NIA_SL_WORD2171_REAL04_R.mp4",
+        "duration": 7.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 4.413,
+            "end": 6.401,
+            "attributes": [
+                {
+                    "name": "환갑"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0835/NIA_SL_WORD1550_REAL04_F.mp4",
+        "name": "NIA_SL_WORD1550_REAL04_F.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.32,
+            "end": 3.658,
+            "attributes": [
+                {
+                    "name": "뚫다"
+                }
+            ]
+        }
+    ]
+}

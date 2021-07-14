@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0759/NIA_SL_WORD1185_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1185_REAL16_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.488,
+            "end": 2.852,
+            "attributes": [
+                {
+                    "name": "알다"
+                }
+            ]
+        }
+    ]
+}

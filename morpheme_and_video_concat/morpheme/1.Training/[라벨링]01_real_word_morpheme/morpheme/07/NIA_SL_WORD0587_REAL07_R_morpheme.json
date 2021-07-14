@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1109/NIA_SL_WORD0587_REAL07_R.mp4",
+        "name": "NIA_SL_WORD0587_REAL07_R.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.367,
+            "end": 2.769,
+            "attributes": [
+                {
+                    "name": "무각오"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim322/NIA_SL_WORD1471_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1471_REAL02_D.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.152,
+            "end": 2.576,
+            "attributes": [
+                {
+                    "name": "양평"
+                }
+            ]
+        }
+    ]
+}

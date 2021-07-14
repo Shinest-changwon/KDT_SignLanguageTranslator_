@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0353/NIA_SL_WORD2172_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2172_REAL01_U.mp4",
+        "duration": 4.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.294,
+            "end": 4.577,
+            "attributes": [
+                {
+                    "name": "회생"
+                }
+            ]
+        }
+    ]
+}

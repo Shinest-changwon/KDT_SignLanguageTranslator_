@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0756/NIA_SL_WORD1908_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1908_REAL16_F.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.308,
+            "end": 3.962,
+            "attributes": [
+                {
+                    "name": "순천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

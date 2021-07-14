@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0349/NIA_SL_WORD2382_REAL01_R.mp4",
+        "name": "NIA_SL_WORD2382_REAL01_R.mp4",
+        "duration": 2.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.769,
+            "end": 1.754,
+            "attributes": [
+                {
+                    "name": "무시하다"
+                }
+            ]
+        }
+    ]
+}

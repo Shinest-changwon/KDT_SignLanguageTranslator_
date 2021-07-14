@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou308/NIA_SL_WORD0016_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0016_REAL02_L.mp4",
+        "duration": 5.317,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.075,
+            "end": 3.864,
+            "attributes": [
+                {
+                    "name": "신사"
+                }
+            ]
+        }
+    ]
+}

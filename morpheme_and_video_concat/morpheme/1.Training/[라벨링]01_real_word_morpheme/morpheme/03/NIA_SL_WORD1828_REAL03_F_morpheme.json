@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0618/NIA_SL_WORD1828_REAL03_F.mp4",
+        "name": "NIA_SL_WORD1828_REAL03_F.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.399,
+            "end": 4.143,
+            "attributes": [
+                {
+                    "name": "서천군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

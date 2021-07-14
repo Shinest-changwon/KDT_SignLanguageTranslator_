@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0540/NIA_SL_WORD2242_REAL13_R.mp4",
+        "name": "NIA_SL_WORD2242_REAL13_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.511,
+            "end": 2.398,
+            "attributes": [
+                {
+                    "name": "대박"
+                }
+            ]
+        }
+    ]
+}

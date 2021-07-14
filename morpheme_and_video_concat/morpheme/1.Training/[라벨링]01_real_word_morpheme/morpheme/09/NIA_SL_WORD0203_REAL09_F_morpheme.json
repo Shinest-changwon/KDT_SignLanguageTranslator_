@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0491/NIA_SL_WORD0203_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0203_REAL09_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.212,
+            "end": 2.727,
+            "attributes": [
+                {
+                    "name": "아르바이트"
+                }
+            ]
+        }
+    ]
+}

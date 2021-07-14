@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0850/NIA_SL_WORD1444_REAL04_F.mp4",
+        "name": "NIA_SL_WORD1444_REAL04_F.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.725,
+            "end": 3.953,
+            "attributes": [
+                {
+                    "name": "송파"
+                }
+            ]
+        }
+    ]
+}

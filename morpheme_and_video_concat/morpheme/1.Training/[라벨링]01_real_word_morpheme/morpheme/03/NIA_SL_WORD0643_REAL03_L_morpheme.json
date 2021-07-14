@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0800/NIA_SL_WORD0643_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0643_REAL03_L.mp4",
+        "duration": 8.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.663,
+            "end": 7.21,
+            "attributes": [
+                {
+                    "name": "연설문"
+                }
+            ]
+        }
+    ]
+}

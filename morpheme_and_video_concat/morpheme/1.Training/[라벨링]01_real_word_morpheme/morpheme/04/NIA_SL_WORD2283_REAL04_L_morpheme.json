@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0834/NIA_SL_WORD2283_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2283_REAL04_L.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.063,
+            "end": 4.088,
+            "attributes": [
+                {
+                    "name": "들러리"
+                }
+            ]
+        }
+    ]
+}

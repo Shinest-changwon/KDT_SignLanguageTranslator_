@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_rhkim0935/NIA_SL_WORD2351_REAL05_F.mp4",
+        "name": "NIA_SL_WORD2351_REAL05_F.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.144,
+            "end": 2.625,
+            "attributes": [
+                {
+                    "name": "만만하다"
+                }
+            ]
+        }
+    ]
+}

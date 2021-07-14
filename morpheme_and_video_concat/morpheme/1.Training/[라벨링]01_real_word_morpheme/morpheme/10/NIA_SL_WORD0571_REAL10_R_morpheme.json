@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_gdchoi0413/NIA_SL_WORD0571_REAL10_R.mp4",
+        "name": "NIA_SL_WORD0571_REAL10_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.409,
+            "end": 3.387,
+            "attributes": [
+                {
+                    "name": "쓰러지다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0250/NIA_SL_WORD1796_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1796_REAL08_R.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.771,
+            "end": 2.295,
+            "attributes": [
+                {
+                    "name": "청주시지부"
+                }
+            ]
+        }
+    ]
+}

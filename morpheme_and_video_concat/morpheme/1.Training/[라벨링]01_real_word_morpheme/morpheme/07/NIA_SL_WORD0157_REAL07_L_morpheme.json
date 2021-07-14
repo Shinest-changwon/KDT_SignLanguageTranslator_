@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_emyou1123/NIA_SL_WORD0157_REAL07_L.mp4",
+        "name": "NIA_SL_WORD0157_REAL07_L.mp4",
+        "duration": 5.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.12,
+            "end": 4.26,
+            "attributes": [
+                {
+                    "name": "예술가"
+                }
+            ]
+        }
+    ]
+}

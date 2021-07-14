@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0270/NIA_SL_WORD1749_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1749_REAL08_U.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.072,
+            "end": 3.011,
+            "attributes": [
+                {
+                    "name": "원주시청"
+                }
+            ]
+        }
+    ]
+}

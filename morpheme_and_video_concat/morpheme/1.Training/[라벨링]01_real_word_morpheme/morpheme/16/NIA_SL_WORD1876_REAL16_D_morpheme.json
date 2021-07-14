@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0753/NIA_SL_WORD1876_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1876_REAL16_D.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.202,
+            "end": 2.985,
+            "attributes": [
+                {
+                    "name": "빈털터리"
+                }
+            ]
+        }
+    ]
+}

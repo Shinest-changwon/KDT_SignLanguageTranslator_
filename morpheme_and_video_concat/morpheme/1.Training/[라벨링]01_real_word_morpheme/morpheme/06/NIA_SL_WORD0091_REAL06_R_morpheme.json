@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1108/NIA_SL_WORD0091_REAL06_R.mp4",
+        "name": "NIA_SL_WORD0091_REAL06_R.mp4",
+        "duration": 4.25,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.745,
+            "end": 3.096,
+            "attributes": [
+                {
+                    "name": "막걸리"
+                }
+            ]
+        }
+    ]
+}

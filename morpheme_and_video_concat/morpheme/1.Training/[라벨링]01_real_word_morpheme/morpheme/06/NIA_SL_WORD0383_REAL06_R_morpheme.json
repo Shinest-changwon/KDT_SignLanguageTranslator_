@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_emyou1109/NIA_SL_WORD0383_REAL06_R.mp4",
+        "name": "NIA_SL_WORD0383_REAL06_R.mp4",
+        "duration": 5.117,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.603,
+            "end": 3.736,
+            "attributes": [
+                {
+                    "name": "고아원"
+                }
+            ]
+        }
+    ]
+}

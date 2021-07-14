@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0751/NIA_SL_WORD1357_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1357_REAL16_F.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.455,
+            "end": 2.535,
+            "attributes": [
+                {
+                    "name": "때리다"
+                }
+            ]
+        }
+    ]
+}

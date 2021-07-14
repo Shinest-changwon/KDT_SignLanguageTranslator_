@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1075/NIA_SL_WORD1904_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1904_REAL15_U.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.227,
+            "end": 2.626,
+            "attributes": [
+                {
+                    "name": "보성군지부"
+                }
+            ]
+        }
+    ]
+}

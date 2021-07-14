@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0359/NIA_SL_WORD1733_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1733_REAL01_F.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.351,
+            "end": 3.742,
+            "attributes": [
+                {
+                    "name": "동해시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

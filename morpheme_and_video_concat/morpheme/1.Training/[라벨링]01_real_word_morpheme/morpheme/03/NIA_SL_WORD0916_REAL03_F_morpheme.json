@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0802/NIA_SL_WORD0916_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0916_REAL03_F.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.552,
+            "end": 2.608,
+            "attributes": [
+                {
+                    "name": "과시"
+                }
+            ]
+        }
+    ]
+}

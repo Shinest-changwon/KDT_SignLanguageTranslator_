@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0613/NIA_SL_WORD2528_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2528_REAL08_R.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.552,
+            "end": 2.625,
+            "attributes": [
+                {
+                    "name": "아프리카"
+                }
+            ]
+        }
+    ]
+}

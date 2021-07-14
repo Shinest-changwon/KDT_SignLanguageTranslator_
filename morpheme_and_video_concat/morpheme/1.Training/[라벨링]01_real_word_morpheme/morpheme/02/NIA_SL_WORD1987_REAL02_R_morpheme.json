@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim273/NIA_SL_WORD1987_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1987_REAL02_R.mp4",
+        "duration": 4.95,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.946,
+            "end": 3.96,
+            "attributes": [
+                {
+                    "name": "울진군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

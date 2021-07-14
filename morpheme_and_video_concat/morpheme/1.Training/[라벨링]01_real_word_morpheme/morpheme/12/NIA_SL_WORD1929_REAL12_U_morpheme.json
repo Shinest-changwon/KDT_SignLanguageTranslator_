@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0668/NIA_SL_WORD1929_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1929_REAL12_U.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.449,
+            "end": 4.233,
+            "attributes": [
+                {
+                    "name": "진도군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0833/NIA_SL_WORD1276_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1276_REAL04_L.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.927,
+            "end": 3.298,
+            "attributes": [
+                {
+                    "name": "임신"
+                }
+            ]
+        }
+    ]
+}

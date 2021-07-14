@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1048/NIA_SL_WORD1108_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1108_REAL13_R.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.577,
+            "end": 2.6,
+            "attributes": [
+                {
+                    "name": "미남"
+                }
+            ]
+        }
+    ]
+}

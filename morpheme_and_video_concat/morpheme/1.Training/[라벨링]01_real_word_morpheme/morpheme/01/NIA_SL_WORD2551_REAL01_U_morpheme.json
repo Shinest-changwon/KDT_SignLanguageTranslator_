@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0341/NIA_SL_WORD2551_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2551_REAL01_U.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.972,
+            "end": 2.621,
+            "attributes": [
+                {
+                    "name": "별"
+                }
+            ]
+        }
+    ]
+}

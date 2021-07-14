@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0940/NIA_SL_WORD0489_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0489_REAL05_U.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.753,
+            "end": 3.956,
+            "attributes": [
+                {
+                    "name": "주민센터"
+                }
+            ]
+        }
+    ]
+}

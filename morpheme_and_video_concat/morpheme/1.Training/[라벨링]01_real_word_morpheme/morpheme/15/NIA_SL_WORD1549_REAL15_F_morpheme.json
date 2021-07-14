@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0701/NIA_SL_WORD1549_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1549_REAL15_F.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.436,
+            "end": 2.725,
+            "attributes": [
+                {
+                    "name": "시집"
+                }
+            ]
+        }
+    ]
+}

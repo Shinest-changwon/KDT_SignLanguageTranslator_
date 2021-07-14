@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_bkyu1167/NIA_SL_WORD0116_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0116_REAL05_F.mp4",
+        "duration": 5.317,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.867,
+            "end": 3.865,
+            "attributes": [
+                {
+                    "name": "콜라"
+                }
+            ]
+        }
+    ]
+}

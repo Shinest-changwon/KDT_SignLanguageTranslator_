@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0530/NIA_SL_WORD2144_REAL13_L.mp4",
+        "name": "NIA_SL_WORD2144_REAL13_L.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.669,
+            "end": 3.072,
+            "attributes": [
+                {
+                    "name": "신혼"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0607/NIA_SL_WORD2711_REAL08_U.mp4",
+        "name": "NIA_SL_WORD2711_REAL08_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.698,
+            "end": 2.716,
+            "attributes": [
+                {
+                    "name": "칠십구"
+                }
+            ]
+        }
+    ]
+}

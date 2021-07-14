@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim319/NIA_SL_WORD1447_REAL02_F.mp4",
+        "name": "NIA_SL_WORD1447_REAL02_F.mp4",
+        "duration": 3.75,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.51,
+            "end": 2.697,
+            "attributes": [
+                {
+                    "name": "잠실"
+                }
+            ]
+        }
+    ]
+}

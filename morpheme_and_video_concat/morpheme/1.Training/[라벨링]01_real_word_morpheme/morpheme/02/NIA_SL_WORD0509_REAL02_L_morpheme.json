@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi324/NIA_SL_WORD0509_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0509_REAL02_L.mp4",
+        "duration": 4.217,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.303,
+            "end": 3.093,
+            "attributes": [
+                {
+                    "name": "확약"
+                }
+            ]
+        }
+    ]
+}

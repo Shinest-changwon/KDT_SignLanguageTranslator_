@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0759/NIA_SL_WORD0689_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0689_REAL16_U.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.419,
+            "end": 3.129,
+            "attributes": [
+                {
+                    "name": "통증"
+                }
+            ]
+        }
+    ]
+}

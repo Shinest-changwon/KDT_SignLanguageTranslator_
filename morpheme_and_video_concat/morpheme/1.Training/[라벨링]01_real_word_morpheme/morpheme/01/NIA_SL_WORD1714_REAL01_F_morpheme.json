@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0357/NIA_SL_WORD1714_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1714_REAL01_F.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.573,
+            "end": 3.603,
+            "attributes": [
+                {
+                    "name": "평택시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

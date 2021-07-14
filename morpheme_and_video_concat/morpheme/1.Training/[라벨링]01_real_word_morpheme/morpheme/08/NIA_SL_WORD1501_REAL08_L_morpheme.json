@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0246/NIA_SL_WORD1501_REAL08_L.mp4",
+        "name": "NIA_SL_WORD1501_REAL08_L.mp4",
+        "duration": 5.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.371,
+            "end": 4.383,
+            "attributes": [
+                {
+                    "name": "운전면허"
+                }
+            ]
+        }
+    ]
+}

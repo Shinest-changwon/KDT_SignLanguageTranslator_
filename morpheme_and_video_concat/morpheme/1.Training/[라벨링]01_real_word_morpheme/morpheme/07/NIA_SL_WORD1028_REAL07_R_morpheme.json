@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1114/NIA_SL_WORD1028_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1028_REAL07_R.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.292,
+            "end": 2.525,
+            "attributes": [
+                {
+                    "name": "노원구지부"
+                }
+            ]
+        }
+    ]
+}

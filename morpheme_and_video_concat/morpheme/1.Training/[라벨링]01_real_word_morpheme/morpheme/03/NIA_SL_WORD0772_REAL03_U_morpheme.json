@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0788/NIA_SL_WORD0772_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0772_REAL03_U.mp4",
+        "duration": 5.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.88,
+            "end": 4.369,
+            "attributes": [
+                {
+                    "name": "익사"
+                }
+            ]
+        }
+    ]
+}

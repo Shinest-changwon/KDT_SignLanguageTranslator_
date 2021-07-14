@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1067/NIA_SL_WORD1863_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1863_REAL15_U.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.406,
+            "end": 3.762,
+            "attributes": [
+                {
+                    "name": "부안군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

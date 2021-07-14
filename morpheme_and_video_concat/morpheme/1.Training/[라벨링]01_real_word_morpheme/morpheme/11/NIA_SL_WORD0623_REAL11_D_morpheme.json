@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0967/NIA_SL_WORD0623_REAL11_D.mp4",
+        "name": "NIA_SL_WORD0623_REAL11_D.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.127,
+            "end": 3.019,
+            "attributes": [
+                {
+                    "name": "새알"
+                }
+            ]
+        }
+    ]
+}

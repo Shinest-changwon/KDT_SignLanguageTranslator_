@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_sjim1206/NIA_SL_WORD2518_REAL15_F.mp4",
+        "name": "NIA_SL_WORD2518_REAL15_F.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.514,
+            "end": 2.593,
+            "attributes": [
+                {
+                    "name": "짜증내다"
+                }
+            ]
+        }
+    ]
+}

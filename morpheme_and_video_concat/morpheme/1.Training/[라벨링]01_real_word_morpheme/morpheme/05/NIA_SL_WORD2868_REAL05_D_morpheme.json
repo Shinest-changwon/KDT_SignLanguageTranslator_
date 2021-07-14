@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_yhjeon1156/NIA_SL_WORD2868_REAL05_D.mp4",
+        "name": "NIA_SL_WORD2868_REAL05_D.mp4",
+        "duration": 2.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.871,
+            "end": 2.001,
+            "attributes": [
+                {
+                    "name": "삼천"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1166/NIA_SL_WORD0966_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0966_REAL05_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.425,
+            "end": 2.489,
+            "attributes": [
+                {
+                    "name": "녹초"
+                }
+            ]
+        }
+    ]
+}

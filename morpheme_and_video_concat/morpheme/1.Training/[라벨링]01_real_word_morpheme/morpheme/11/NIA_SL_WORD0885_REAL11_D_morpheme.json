@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_rhkim0968/NIA_SL_WORD0885_REAL11_D.mp4",
+        "name": "NIA_SL_WORD0885_REAL11_D.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.867,
+            "end": 3.885,
+            "attributes": [
+                {
+                    "name": "치료제"
+                }
+            ]
+        }
+    ]
+}

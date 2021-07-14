@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0256/NIA_SL_WORD1857_REAL08_D.mp4",
+        "name": "NIA_SL_WORD1857_REAL08_D.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.529,
+            "end": 3.684,
+            "attributes": [
+                {
+                    "name": "남원시청"
+                }
+            ]
+        }
+    ]
+}

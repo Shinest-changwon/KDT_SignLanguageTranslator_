@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1148/NIA_SL_WORD1467_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1467_REAL01_L.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.807,
+            "end": 3.403,
+            "attributes": [
+                {
+                    "name": "광명"
+                }
+            ]
+        }
+    ]
+}

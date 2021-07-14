@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_emyou0609/NIA_SL_WORD1982_REAL03_D.mp4",
+        "name": "NIA_SL_WORD1982_REAL03_D.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.753,
+            "end": 3.241,
+            "attributes": [
+                {
+                    "name": "예천군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

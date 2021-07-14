@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_moyu0970/NIA_SL_WORD0410_REAL11_L.mp4",
+        "name": "NIA_SL_WORD0410_REAL11_L.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.431,
+            "end": 3.467,
+            "attributes": [
+                {
+                    "name": "교모"
+                }
+            ]
+        }
+    ]
+}

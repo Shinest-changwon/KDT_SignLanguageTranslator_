@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0744/NIA_SL_WORD2533_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2533_REAL16_U.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.591,
+            "end": 3.158,
+            "attributes": [
+                {
+                    "name": "강물"
+                }
+            ]
+        }
+    ]
+}

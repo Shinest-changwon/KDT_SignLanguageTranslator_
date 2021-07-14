@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan302/NIA_SL_WORD1088_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1088_REAL02_R.mp4",
+        "duration": 3.884,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.915,
+            "end": 2.897,
+            "attributes": [
+                {
+                    "name": "사하구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

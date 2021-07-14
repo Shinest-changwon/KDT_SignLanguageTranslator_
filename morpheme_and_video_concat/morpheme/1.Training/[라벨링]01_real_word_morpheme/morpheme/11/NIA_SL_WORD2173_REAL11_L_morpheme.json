@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0538/NIA_SL_WORD2173_REAL11_L.mp4",
+        "name": "NIA_SL_WORD2173_REAL11_L.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3,
+            "end": 3.5,
+            "attributes": [
+                {
+                    "name": "직인"
+                }
+            ]
+        }
+    ]
+}

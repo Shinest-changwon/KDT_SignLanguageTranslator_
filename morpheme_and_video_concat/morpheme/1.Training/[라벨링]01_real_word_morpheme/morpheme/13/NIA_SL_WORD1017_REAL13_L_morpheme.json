@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1039/NIA_SL_WORD1017_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1017_REAL13_L.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.122,
+            "end": 2.653,
+            "attributes": [
+                {
+                    "name": "관악구지부"
+                }
+            ]
+        }
+    ]
+}

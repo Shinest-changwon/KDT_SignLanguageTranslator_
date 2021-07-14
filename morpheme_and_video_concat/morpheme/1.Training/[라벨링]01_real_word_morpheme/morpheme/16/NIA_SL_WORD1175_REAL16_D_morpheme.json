@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0758/NIA_SL_WORD1175_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1175_REAL16_D.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.115,
+            "end": 2.598,
+            "attributes": [
+                {
+                    "name": "챔피언"
+                }
+            ]
+        }
+    ]
+}

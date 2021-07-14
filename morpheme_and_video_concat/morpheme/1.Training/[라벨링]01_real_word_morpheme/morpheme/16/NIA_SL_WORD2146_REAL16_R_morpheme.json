@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1074/NIA_SL_WORD2146_REAL16_R.mp4",
+        "name": "NIA_SL_WORD2146_REAL16_R.mp4",
+        "duration": 2.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.203,
+            "end": 1.696,
+            "attributes": [
+                {
+                    "name": "여드름"
+                }
+            ]
+        }
+    ]
+}

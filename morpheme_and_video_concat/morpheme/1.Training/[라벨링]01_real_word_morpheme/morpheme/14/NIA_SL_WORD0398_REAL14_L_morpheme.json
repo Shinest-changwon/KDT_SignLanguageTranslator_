@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0492/NIA_SL_WORD0398_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0398_REAL14_L.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.087,
+            "end": 4.355,
+            "attributes": [
+                {
+                    "name": "관습"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0341/NIA_SL_WORD2555_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2555_REAL01_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.775,
+            "end": 2.81,
+            "attributes": [
+                {
+                    "name": "석탄"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0839/NIA_SL_WORD2340_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2340_REAL04_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.184,
+            "end": 4.023,
+            "attributes": [
+                {
+                    "name": "비등하다"
+                }
+            ]
+        }
+    ]
+}

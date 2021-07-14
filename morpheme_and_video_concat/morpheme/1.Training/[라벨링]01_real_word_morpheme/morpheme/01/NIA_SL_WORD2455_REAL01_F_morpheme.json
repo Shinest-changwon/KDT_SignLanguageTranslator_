@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0356/NIA_SL_WORD2455_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2455_REAL01_F.mp4",
+        "duration": 6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.697,
+            "end": 5.059,
+            "attributes": [
+                {
+                    "name": "함안군수화통역센터"
+                }
+            ]
+        }
+    ]
+}

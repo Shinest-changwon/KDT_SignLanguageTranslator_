@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0609/NIA_SL_WORD1783_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1783_REAL13_U.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.261,
+            "end": 3.072,
+            "attributes": [
+                {
+                    "name": "보은군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

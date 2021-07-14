@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1072/NIA_SL_WORD0433_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0433_REAL14_L.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.295,
+            "end": 2.868,
+            "attributes": [
+                {
+                    "name": "그날"
+                }
+            ]
+        }
+    ]
+}

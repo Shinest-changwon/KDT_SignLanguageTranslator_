@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu292/NIA_SL_WORD2832_REAL02_U.mp4",
+        "name": "NIA_SL_WORD2832_REAL02_U.mp4",
+        "duration": 2.95,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.398,
+            "end": 2.238,
+            "attributes": [
+                {
+                    "name": "이백"
+                }
+            ]
+        }
+    ]
+}

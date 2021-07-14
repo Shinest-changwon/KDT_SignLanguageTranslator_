@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_gdchoi0882/NIA_SL_WORD0610_REAL06_L.mp4",
+        "name": "NIA_SL_WORD0610_REAL06_L.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.241,
+            "end": 3.481,
+            "attributes": [
+                {
+                    "name": "친가족"
+                }
+            ]
+        }
+    ]
+}

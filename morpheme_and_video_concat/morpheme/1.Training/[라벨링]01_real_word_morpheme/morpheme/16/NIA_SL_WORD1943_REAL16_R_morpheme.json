@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0760/NIA_SL_WORD1943_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1943_REAL16_R.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.343,
+            "end": 3.214,
+            "attributes": [
+                {
+                    "name": "고령군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0761/NIA_SL_WORD1956_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1956_REAL16_U.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.268,
+            "end": 2.725,
+            "attributes": [
+                {
+                    "name": "봉화군지부"
+                }
+            ]
+        }
+    ]
+}

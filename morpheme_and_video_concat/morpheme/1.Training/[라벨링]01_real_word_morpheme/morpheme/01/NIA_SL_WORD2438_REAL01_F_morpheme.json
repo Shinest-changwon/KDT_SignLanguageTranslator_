@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0354/NIA_SL_WORD2438_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2438_REAL01_F.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.514,
+            "end": 4.208,
+            "attributes": [
+                {
+                    "name": "진주시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

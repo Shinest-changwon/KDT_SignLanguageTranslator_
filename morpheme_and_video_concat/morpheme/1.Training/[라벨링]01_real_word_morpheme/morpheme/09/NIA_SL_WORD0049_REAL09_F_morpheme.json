@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0475/NIA_SL_WORD0049_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0049_REAL09_F.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.256,
+            "end": 3.939,
+            "attributes": [
+                {
+                    "name": "소화제"
+                }
+            ]
+        }
+    ]
+}

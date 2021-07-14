@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0763/NIA_SL_WORD1723_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1723_REAL16_R.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.664,
+            "end": 4.168,
+            "attributes": [
+                {
+                    "name": "하남시청"
+                }
+            ]
+        }
+    ]
+}

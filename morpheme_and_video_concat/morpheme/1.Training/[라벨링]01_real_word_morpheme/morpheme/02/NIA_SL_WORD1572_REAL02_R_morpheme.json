@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim332/NIA_SL_WORD1572_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1572_REAL02_R.mp4",
+        "duration": 4.384,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.496,
+            "end": 3.376,
+            "attributes": [
+                {
+                    "name": "탈"
+                }
+            ]
+        }
+    ]
+}

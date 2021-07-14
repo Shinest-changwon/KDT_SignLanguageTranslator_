@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_emyou1185/NIA_SL_WORD1243_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1243_REAL12_U.mp4",
+        "duration": 2.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.155,
+            "end": 1.891,
+            "attributes": [
+                {
+                    "name": "우유"
+                }
+            ]
+        }
+    ]
+}

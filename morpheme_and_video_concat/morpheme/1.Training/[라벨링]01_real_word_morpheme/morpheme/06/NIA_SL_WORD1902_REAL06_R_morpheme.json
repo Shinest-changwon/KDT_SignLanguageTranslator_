@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0886/NIA_SL_WORD1902_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1902_REAL06_R.mp4",
+        "duration": 6.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.171,
+            "end": 5.571,
+            "attributes": [
+                {
+                    "name": "무안군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

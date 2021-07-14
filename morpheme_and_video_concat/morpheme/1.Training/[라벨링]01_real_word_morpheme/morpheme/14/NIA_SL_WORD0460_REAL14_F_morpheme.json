@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1080/NIA_SL_WORD0460_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0460_REAL14_F.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.45,
+            "end": 3.488,
+            "attributes": [
+                {
+                    "name": "데모"
+                }
+            ]
+        }
+    ]
+}

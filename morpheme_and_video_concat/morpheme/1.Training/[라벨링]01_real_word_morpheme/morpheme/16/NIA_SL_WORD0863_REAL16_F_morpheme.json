@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0752/NIA_SL_WORD0863_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0863_REAL16_F.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.226,
+            "end": 3.981,
+            "attributes": [
+                {
+                    "name": "체취"
+                }
+            ]
+        }
+    ]
+}

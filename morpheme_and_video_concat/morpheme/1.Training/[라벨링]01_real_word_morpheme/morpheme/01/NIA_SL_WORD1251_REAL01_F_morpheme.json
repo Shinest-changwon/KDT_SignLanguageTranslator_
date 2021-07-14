@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_mrkim1155/NIA_SL_WORD1251_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1251_REAL01_F.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.93,
+            "end": 3.028,
+            "attributes": [
+                {
+                    "name": "우울"
+                }
+            ]
+        }
+    ]
+}

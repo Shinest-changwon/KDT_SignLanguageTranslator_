@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_bkyu0356/NIA_SL_WORD0204_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0204_REAL01_U.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.217,
+            "end": 4.063,
+            "attributes": [
+                {
+                    "name": "샛길"
+                }
+            ]
+        }
+    ]
+}

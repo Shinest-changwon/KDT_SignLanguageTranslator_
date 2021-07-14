@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0806/NIA_SL_WORD0208_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0208_REAL03_D.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.495,
+            "end": 4.395,
+            "attributes": [
+                {
+                    "name": "한국은행"
+                }
+            ]
+        }
+    ]
+}

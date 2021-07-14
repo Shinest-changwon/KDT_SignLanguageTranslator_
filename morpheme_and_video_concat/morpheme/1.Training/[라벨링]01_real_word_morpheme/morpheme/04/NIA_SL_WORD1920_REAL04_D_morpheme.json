@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0847/NIA_SL_WORD1920_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1920_REAL04_D.mp4",
+        "duration": 7.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.032,
+            "end": 6.207,
+            "attributes": [
+                {
+                    "name": "영암군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

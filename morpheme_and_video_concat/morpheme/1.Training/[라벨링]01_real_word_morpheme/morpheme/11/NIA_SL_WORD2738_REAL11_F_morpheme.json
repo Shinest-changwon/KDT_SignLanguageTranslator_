@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_swlee1167/NIA_SL_WORD2738_REAL11_F.mp4",
+        "name": "NIA_SL_WORD2738_REAL11_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.469,
+            "end": 2.866,
+            "attributes": [
+                {
+                    "name": "백육"
+                }
+            ]
+        }
+    ]
+}

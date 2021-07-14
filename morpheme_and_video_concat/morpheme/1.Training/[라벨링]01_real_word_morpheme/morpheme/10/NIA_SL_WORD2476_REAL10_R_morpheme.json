@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_swlee0803/NIA_SL_WORD2476_REAL10_R.mp4",
+        "name": "NIA_SL_WORD2476_REAL10_R.mp4",
+        "duration": 6.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.017,
+            "end": 4.91,
+            "attributes": [
+                {
+                    "name": "전남도청"
+                }
+            ]
+        }
+    ]
+}

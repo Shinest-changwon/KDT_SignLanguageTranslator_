@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1060/NIA_SL_WORD0379_REAL06_F.mp4",
+        "name": "NIA_SL_WORD0379_REAL06_F.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.738,
+            "end": 3.64,
+            "attributes": [
+                {
+                    "name": "회칙"
+                }
+            ]
+        }
+    ]
+}

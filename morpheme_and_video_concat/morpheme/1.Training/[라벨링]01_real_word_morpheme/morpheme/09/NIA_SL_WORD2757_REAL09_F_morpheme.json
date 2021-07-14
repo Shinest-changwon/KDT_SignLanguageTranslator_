@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_rhkim0478/NIA_SL_WORD2757_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2757_REAL09_F.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.988,
+            "end": 2.362,
+            "attributes": [
+                {
+                    "name": "백이십오"
+                }
+            ]
+        }
+    ]
+}

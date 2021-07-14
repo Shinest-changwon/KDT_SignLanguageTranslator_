@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0700/NIA_SL_WORD0896_REAL15_D.mp4",
+        "name": "NIA_SL_WORD0896_REAL15_D.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.181,
+            "end": 2.601,
+            "attributes": [
+                {
+                    "name": "킬로그램"
+                }
+            ]
+        }
+    ]
+}

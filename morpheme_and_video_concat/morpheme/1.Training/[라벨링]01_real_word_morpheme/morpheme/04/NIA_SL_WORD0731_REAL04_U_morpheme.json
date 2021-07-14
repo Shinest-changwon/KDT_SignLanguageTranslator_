@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0854/NIA_SL_WORD0731_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0731_REAL04_U.mp4",
+        "duration": 6.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.217,
+            "end": 5.129,
+            "attributes": [
+                {
+                    "name": "연하다"
+                }
+            ]
+        }
+    ]
+}

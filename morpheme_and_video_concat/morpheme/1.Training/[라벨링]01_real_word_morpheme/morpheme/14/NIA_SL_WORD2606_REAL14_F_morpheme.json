@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0301/NIA_SL_WORD2606_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2606_REAL14_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.851,
+            "end": 3.041,
+            "attributes": [
+                {
+                    "name": "금산"
+                }
+            ]
+        }
+    ]
+}

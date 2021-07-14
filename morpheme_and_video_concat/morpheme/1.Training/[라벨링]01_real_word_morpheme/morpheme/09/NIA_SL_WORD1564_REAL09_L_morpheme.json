@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jwlee005/NIA_SL_WORD1564_REAL09_L.mp4",
+        "name": "NIA_SL_WORD1564_REAL09_L.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.338,
+            "end": 2.904,
+            "attributes": [
+                {
+                    "name": "테니스"
+                }
+            ]
+        }
+    ]
+}

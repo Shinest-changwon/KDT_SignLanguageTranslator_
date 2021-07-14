@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0850/NIA_SL_WORD2449_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2449_REAL04_U.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.345,
+            "end": 4.516,
+            "attributes": [
+                {
+                    "name": "통영시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

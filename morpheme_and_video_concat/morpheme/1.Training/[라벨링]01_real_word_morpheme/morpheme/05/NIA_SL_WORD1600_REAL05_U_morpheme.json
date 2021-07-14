@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0937/NIA_SL_WORD1600_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1600_REAL05_U.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.374,
+            "end": 2.301,
+            "attributes": [
+                {
+                    "name": "창피하다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1048/NIA_SL_WORD2247_REAL15_R.mp4",
+        "name": "NIA_SL_WORD2247_REAL15_R.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.345,
+            "end": 4.493,
+            "attributes": [
+                {
+                    "name": "근근이"
+                }
+            ]
+        }
+    ]
+}

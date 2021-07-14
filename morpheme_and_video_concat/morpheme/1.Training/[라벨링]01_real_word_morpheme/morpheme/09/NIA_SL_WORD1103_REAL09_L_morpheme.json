@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee329/NIA_SL_WORD1103_REAL09_L.mp4",
+        "name": "NIA_SL_WORD1103_REAL09_L.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.657,
+            "end": 1.568,
+            "attributes": [
+                {
+                    "name": "설거지"
+                }
+            ]
+        }
+    ]
+}

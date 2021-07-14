@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_gdchoi0929/NIA_SL_WORD1272_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1272_REAL05_U.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.354,
+            "end": 2.743,
+            "attributes": [
+                {
+                    "name": "뽀뽀"
+                }
+            ]
+        }
+    ]
+}

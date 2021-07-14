@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1067/NIA_SL_WORD0870_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0870_REAL13_U.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.495,
+            "end": 3.243,
+            "attributes": [
+                {
+                    "name": "초혼"
+                }
+            ]
+        }
+    ]
+}

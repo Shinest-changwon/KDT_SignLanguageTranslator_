@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_mrkim1221/NIA_SL_WORD2305_REAL15_D.mp4",
+        "name": "NIA_SL_WORD2305_REAL15_D.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.566,
+            "end": 3.441,
+            "attributes": [
+                {
+                    "name": "설득되다"
+                }
+            ]
+        }
+    ]
+}

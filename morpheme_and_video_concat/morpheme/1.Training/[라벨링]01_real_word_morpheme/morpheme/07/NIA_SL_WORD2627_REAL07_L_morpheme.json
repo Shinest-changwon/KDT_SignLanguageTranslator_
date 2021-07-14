@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1122/NIA_SL_WORD2627_REAL07_L.mp4",
+        "name": "NIA_SL_WORD2627_REAL07_L.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.458,
+            "end": 2.75,
+            "attributes": [
+                {
+                    "name": "남원"
+                }
+            ]
+        }
+    ]
+}

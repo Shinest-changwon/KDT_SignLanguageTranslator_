@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_emyou0614/NIA_SL_WORD2040_REAL03_U.mp4",
+        "name": "NIA_SL_WORD2040_REAL03_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.403,
+            "end": 2.676,
+            "attributes": [
+                {
+                    "name": "일반인"
+                }
+            ]
+        }
+    ]
+}

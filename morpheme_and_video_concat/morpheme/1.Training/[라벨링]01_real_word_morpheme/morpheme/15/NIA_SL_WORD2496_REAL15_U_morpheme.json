@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_sjim1202/NIA_SL_WORD2496_REAL15_U.mp4",
+        "name": "NIA_SL_WORD2496_REAL15_U.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.708,
+            "end": 2.622,
+            "attributes": [
+                {
+                    "name": "현대"
+                }
+            ]
+        }
+    ]
+}

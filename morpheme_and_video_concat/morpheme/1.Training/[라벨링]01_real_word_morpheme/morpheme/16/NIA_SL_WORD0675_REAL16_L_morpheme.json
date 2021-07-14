@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0758/NIA_SL_WORD0675_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0675_REAL16_L.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.073,
+            "end": 2.566,
+            "attributes": [
+                {
+                    "name": "신식"
+                }
+            ]
+        }
+    ]
+}

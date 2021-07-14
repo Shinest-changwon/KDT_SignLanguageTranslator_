@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0653/NIA_SL_WORD0570_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0570_REAL12_L.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.817,
+            "end": 3.464,
+            "attributes": [
+                {
+                    "name": "병사"
+                }
+            ]
+        }
+    ]
+}

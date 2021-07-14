@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_emyou0629/NIA_SL_WORD2189_REAL03_F.mp4",
+        "name": "NIA_SL_WORD2189_REAL03_F.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.935,
+            "end": 2.925,
+            "attributes": [
+                {
+                    "name": "사업"
+                }
+            ]
+        }
+    ]
+}

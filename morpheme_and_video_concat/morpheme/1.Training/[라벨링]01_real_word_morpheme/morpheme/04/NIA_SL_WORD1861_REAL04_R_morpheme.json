@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0842/NIA_SL_WORD1861_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1861_REAL04_R.mp4",
+        "duration": 5.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.178,
+            "end": 4.554,
+            "attributes": [
+                {
+                    "name": "부안군지부"
+                }
+            ]
+        }
+    ]
+}

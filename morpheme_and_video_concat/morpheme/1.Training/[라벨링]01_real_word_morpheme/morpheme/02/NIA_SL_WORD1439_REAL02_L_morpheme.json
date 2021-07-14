@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim318/NIA_SL_WORD1439_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1439_REAL02_L.mp4",
+        "duration": 4.517,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.648,
+            "end": 2.864,
+            "attributes": [
+                {
+                    "name": "성동"
+                }
+            ]
+        }
+    ]
+}

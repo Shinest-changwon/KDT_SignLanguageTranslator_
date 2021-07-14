@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1039/NIA_SL_WORD0024_REAL06_D.mp4",
+        "name": "NIA_SL_WORD0024_REAL06_D.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.007,
+            "end": 4.134,
+            "attributes": [
+                {
+                    "name": "학교연혁"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0616/NIA_SL_WORD0256_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0256_REAL13_R.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.472,
+            "end": 3.161,
+            "attributes": [
+                {
+                    "name": "장로교"
+                }
+            ]
+        }
+    ]
+}

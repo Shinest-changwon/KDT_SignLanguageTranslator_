@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0623/NIA_SL_WORD0323_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0323_REAL13_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.29,
+            "end": 3.662,
+            "attributes": [
+                {
+                    "name": "분홍조명"
+                }
+            ]
+        }
+    ]
+}

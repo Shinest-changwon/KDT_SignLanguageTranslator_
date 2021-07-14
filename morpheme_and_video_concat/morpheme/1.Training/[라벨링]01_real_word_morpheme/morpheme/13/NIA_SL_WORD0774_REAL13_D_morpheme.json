@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1057/NIA_SL_WORD0774_REAL13_D.mp4",
+        "name": "NIA_SL_WORD0774_REAL13_D.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.392,
+            "end": 3.525,
+            "attributes": [
+                {
+                    "name": "농부"
+                }
+            ]
+        }
+    ]
+}

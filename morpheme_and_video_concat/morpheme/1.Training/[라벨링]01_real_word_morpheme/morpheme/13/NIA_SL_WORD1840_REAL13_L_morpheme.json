@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0614/NIA_SL_WORD1840_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1840_REAL13_L.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.378,
+            "end": 3.954,
+            "attributes": [
+                {
+                    "name": "태안군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

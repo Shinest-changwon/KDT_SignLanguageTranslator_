@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0897/NIA_SL_WORD2010_REAL06_L.mp4",
+        "name": "NIA_SL_WORD2010_REAL06_L.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.304,
+            "end": 4.311,
+            "attributes": [
+                {
+                    "name": "아름답다"
+                }
+            ]
+        }
+    ]
+}

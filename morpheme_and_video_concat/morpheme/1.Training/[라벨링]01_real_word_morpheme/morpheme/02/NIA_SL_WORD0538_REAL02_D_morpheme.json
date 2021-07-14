@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi327/NIA_SL_WORD0538_REAL02_D.mp4",
+        "name": "NIA_SL_WORD0538_REAL02_D.mp4",
+        "duration": 3.317,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.108,
+            "end": 2.697,
+            "attributes": [
+                {
+                    "name": "미혼"
+                }
+            ]
+        }
+    ]
+}

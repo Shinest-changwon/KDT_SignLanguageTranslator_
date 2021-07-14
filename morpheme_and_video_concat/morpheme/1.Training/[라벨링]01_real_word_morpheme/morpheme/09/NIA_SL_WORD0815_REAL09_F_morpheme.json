@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon328/NIA_SL_WORD0815_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0815_REAL09_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.451,
+            "end": 3.326,
+            "attributes": [
+                {
+                    "name": "우유1"
+                }
+            ]
+        }
+    ]
+}

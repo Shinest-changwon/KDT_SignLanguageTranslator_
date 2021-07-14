@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_sjim0932/NIA_SL_WORD2599_REAL05_D.mp4",
+        "name": "NIA_SL_WORD2599_REAL05_D.mp4",
+        "duration": 2.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.197,
+            "end": 2.042,
+            "attributes": [
+                {
+                    "name": "홍콩"
+                }
+            ]
+        }
+    ]
+}

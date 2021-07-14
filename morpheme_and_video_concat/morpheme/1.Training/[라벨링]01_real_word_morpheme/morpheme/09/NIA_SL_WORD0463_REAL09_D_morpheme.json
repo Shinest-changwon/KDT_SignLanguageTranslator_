@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi342/NIA_SL_WORD0463_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0463_REAL09_D.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.342,
+            "end": 2.902,
+            "attributes": [
+                {
+                    "name": "결합을끊다"
+                }
+            ]
+        }
+    ]
+}

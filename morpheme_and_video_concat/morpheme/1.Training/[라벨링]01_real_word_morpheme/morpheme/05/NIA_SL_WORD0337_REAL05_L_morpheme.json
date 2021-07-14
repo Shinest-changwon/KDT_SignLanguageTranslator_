@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_emyou1166/NIA_SL_WORD0337_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0337_REAL05_L.mp4",
+        "duration": 5.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.864,
+            "end": 4.498,
+            "attributes": [
+                {
+                    "name": "일요일"
+                }
+            ]
+        }
+    ]
+}

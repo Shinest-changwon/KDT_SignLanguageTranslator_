@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0831/NIA_SL_WORD1252_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1252_REAL04_L.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.441,
+            "end": 3.571,
+            "attributes": [
+                {
+                    "name": "후회"
+                }
+            ]
+        }
+    ]
+}

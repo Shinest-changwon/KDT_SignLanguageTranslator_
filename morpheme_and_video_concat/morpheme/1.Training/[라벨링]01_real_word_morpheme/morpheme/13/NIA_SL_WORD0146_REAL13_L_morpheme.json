@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0630/NIA_SL_WORD0146_REAL13_L.mp4",
+        "name": "NIA_SL_WORD0146_REAL13_L.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.475,
+            "end": 3.813,
+            "attributes": [
+                {
+                    "name": "동아리"
+                }
+            ]
+        }
+    ]
+}

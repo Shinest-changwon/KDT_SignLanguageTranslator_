@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0404/NIA_SL_WORD0485_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0485_REAL16_R.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.558,
+            "end": 3.777,
+            "attributes": [
+                {
+                    "name": "돌다리"
+                }
+            ]
+        }
+    ]
+}

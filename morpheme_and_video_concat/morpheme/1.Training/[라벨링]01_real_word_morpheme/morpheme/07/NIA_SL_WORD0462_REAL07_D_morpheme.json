@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_gdchoi1124/NIA_SL_WORD0462_REAL07_D.mp4",
+        "name": "NIA_SL_WORD0462_REAL07_D.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.277,
+            "end": 3.12,
+            "attributes": [
+                {
+                    "name": "다복"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_moyu1121/NIA_SL_WORD1390_REAL07_L.mp4",
+        "name": "NIA_SL_WORD1390_REAL07_L.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.407,
+            "end": 2.701,
+            "attributes": [
+                {
+                    "name": "걷다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0924/NIA_SL_WORD0583_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0583_REAL05_U.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.381,
+            "end": 2.741,
+            "attributes": [
+                {
+                    "name": "분담"
+                }
+            ]
+        }
+    ]
+}

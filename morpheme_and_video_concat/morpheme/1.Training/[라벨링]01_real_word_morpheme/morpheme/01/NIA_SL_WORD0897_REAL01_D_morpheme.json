@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0350/NIA_SL_WORD0897_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0897_REAL01_D.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.018,
+            "end": 3.049,
+            "attributes": [
+                {
+                    "name": "킬로미터"
+                }
+            ]
+        }
+    ]
+}

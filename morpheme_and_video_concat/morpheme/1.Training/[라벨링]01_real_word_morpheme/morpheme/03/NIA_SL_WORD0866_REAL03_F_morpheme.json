@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0797/NIA_SL_WORD0866_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0866_REAL03_F.mp4",
+        "duration": 4.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.644,
+            "end": 3.642,
+            "attributes": [
+                {
+                    "name": "초대권"
+                }
+            ]
+        }
+    ]
+}

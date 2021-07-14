@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0809/NIA_SL_WORD0239_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0239_REAL03_U.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.995,
+            "end": 3.841,
+            "attributes": [
+                {
+                    "name": "학부모"
+                }
+            ]
+        }
+    ]
+}

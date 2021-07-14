@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi322/NIA_SL_WORD0484_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0484_REAL02_F.mp4",
+        "duration": 4.35,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.339,
+            "end": 3.014,
+            "attributes": [
+                {
+                    "name": "돌기둥"
+                }
+            ]
+        }
+    ]
+}

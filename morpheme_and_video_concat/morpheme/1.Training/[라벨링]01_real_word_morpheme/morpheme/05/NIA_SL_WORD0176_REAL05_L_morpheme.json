@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0926/NIA_SL_WORD0176_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0176_REAL05_L.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.96,
+            "end": 2.318,
+            "attributes": [
+                {
+                    "name": "사직"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1039/NIA_SL_WORD1716_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1716_REAL13_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.981,
+            "end": 2.598,
+            "attributes": [
+                {
+                    "name": "포천시지부"
+                }
+            ]
+        }
+    ]
+}

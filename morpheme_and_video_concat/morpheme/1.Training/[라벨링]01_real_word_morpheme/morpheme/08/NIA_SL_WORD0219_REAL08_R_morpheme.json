@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0267/NIA_SL_WORD0219_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0219_REAL08_R.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.923,
+            "end": 3.733,
+            "attributes": [
+                {
+                    "name": "예절"
+                }
+            ]
+        }
+    ]
+}

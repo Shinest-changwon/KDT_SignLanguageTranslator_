@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0986/NIA_SL_WORD0720_REAL07_U.mp4",
+        "name": "NIA_SL_WORD0720_REAL07_U.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.788,
+            "end": 3.733,
+            "attributes": [
+                {
+                    "name": "여공"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0852/NIA_SL_WORD0216_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0216_REAL04_R.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.31,
+            "end": 4.292,
+            "attributes": [
+                {
+                    "name": "교육자"
+                }
+            ]
+        }
+    ]
+}

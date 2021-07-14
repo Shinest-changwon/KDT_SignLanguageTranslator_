@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0764/NIA_SL_WORD1234_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1234_REAL16_U.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.304,
+            "end": 2.68,
+            "attributes": [
+                {
+                    "name": "의심"
+                }
+            ]
+        }
+    ]
+}

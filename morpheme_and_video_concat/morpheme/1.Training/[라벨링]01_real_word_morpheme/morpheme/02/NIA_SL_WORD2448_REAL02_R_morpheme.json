@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu286/NIA_SL_WORD2448_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2448_REAL02_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.634,
+            "end": 2.85,
+            "attributes": [
+                {
+                    "name": "통영시지부"
+                }
+            ]
+        }
+    ]
+}

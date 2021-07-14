@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0302/NIA_SL_WORD1365_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1365_REAL14_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.253,
+            "end": 2.478,
+            "attributes": [
+                {
+                    "name": "여섯배"
+                }
+            ]
+        }
+    ]
+}

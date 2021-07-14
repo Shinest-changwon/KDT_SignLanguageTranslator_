@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0342/NIA_SL_WORD2062_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2062_REAL01_D.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.613,
+            "end": 4.108,
+            "attributes": [
+                {
+                    "name": "기발"
+                }
+            ]
+        }
+    ]
+}

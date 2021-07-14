@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0760/NIA_SL_WORD1947_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1947_REAL16_F.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.252,
+            "end": 2.646,
+            "attributes": [
+                {
+                    "name": "군위군지부"
+                }
+            ]
+        }
+    ]
+}

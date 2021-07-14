@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0264/NIA_SL_WORD1939_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1939_REAL08_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.767,
+            "end": 4.484,
+            "attributes": [
+                {
+                    "name": "경주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

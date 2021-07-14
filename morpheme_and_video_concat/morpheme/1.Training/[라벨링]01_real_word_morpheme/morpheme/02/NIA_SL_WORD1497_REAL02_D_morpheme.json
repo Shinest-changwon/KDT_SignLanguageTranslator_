@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim324/NIA_SL_WORD1497_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1497_REAL02_D.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.56,
+            "end": 2.518,
+            "attributes": [
+                {
+                    "name": "결혼"
+                }
+            ]
+        }
+    ]
+}

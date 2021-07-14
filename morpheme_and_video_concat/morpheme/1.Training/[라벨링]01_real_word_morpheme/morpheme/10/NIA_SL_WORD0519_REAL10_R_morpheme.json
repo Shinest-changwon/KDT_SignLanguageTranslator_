@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_gdchoi0407/NIA_SL_WORD0519_REAL10_R.mp4",
+        "name": "NIA_SL_WORD0519_REAL10_R.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.518,
+            "end": 3.129,
+            "attributes": [
+                {
+                    "name": "무례"
+                }
+            ]
+        }
+    ]
+}

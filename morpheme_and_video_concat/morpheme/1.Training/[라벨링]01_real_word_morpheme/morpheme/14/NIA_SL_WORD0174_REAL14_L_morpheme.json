@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0495/NIA_SL_WORD0174_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0174_REAL14_L.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.479,
+            "end": 3.732,
+            "attributes": [
+                {
+                    "name": "통역사"
+                }
+            ]
+        }
+    ]
+}

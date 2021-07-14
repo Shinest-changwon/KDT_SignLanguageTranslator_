@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_emyou0345/NIA_SL_WORD0346_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0346_REAL01_U.mp4",
+        "duration": 3.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.814,
+            "end": 2.066,
+            "attributes": [
+                {
+                    "name": "현충일"
+                }
+            ]
+        }
+    ]
+}

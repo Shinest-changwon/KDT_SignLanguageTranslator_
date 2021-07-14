@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0840/NIA_SL_WORD2099_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2099_REAL04_U.mp4",
+        "duration": 5.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.676,
+            "end": 4.455,
+            "attributes": [
+                {
+                    "name": "웃음소리"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0269/NIA_SL_WORD1485_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1485_REAL08_U.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.566,
+            "end": 3.388,
+            "attributes": [
+                {
+                    "name": "화성"
+                }
+            ]
+        }
+    ]
+}

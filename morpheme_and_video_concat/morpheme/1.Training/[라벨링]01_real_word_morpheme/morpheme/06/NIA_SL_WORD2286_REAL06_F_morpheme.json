@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0674/NIA_SL_WORD2286_REAL06_F.mp4",
+        "name": "NIA_SL_WORD2286_REAL06_F.mp4",
+        "duration": 2.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.316,
+            "end": 2.55,
+            "attributes": [
+                {
+                    "name": "양자택일"
+                }
+            ]
+        }
+    ]
+}

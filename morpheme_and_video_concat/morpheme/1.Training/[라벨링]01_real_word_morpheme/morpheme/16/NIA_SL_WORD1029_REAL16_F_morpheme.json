@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0743/NIA_SL_WORD1029_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1029_REAL16_F.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.499,
+            "end": 3.877,
+            "attributes": [
+                {
+                    "name": "노원구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

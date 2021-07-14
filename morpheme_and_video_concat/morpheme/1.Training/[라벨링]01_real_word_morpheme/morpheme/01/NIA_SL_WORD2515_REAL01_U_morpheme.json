@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0337/NIA_SL_WORD2515_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2515_REAL01_U.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.996,
+            "end": 2.684,
+            "attributes": [
+                {
+                    "name": "스웨덴"
+                }
+            ]
+        }
+    ]
+}

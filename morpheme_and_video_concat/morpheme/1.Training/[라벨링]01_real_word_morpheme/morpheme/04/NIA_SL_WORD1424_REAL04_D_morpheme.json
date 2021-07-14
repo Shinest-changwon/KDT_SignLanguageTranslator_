@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0848/NIA_SL_WORD1424_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1424_REAL04_D.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.943,
+            "end": 4.654,
+            "attributes": [
+                {
+                    "name": "어린이대공원"
+                }
+            ]
+        }
+    ]
+}

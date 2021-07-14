@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0490/NIA_SL_WORD0130_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0130_REAL14_D.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.539,
+            "end": 3.479,
+            "attributes": [
+                {
+                    "name": "월세"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0270/NIA_SL_WORD1496_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1496_REAL08_U.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.461,
+            "end": 2.664,
+            "attributes": [
+                {
+                    "name": "병원"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/누락단어/NIA_SL_WORD2323_REAL05_R.mp4",
+        "name": "NIA_SL_WORD2323_REAL05_R.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.142,
+            "end": 2.467,
+            "attributes": [
+                {
+                    "name": "함구"
+                }
+            ]
+        }
+    ]
+}

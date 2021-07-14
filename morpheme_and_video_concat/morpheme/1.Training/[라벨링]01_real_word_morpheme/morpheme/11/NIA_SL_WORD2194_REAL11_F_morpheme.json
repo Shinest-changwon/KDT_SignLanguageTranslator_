@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0540/NIA_SL_WORD2194_REAL11_F.mp4",
+        "name": "NIA_SL_WORD2194_REAL11_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.091,
+            "end": 3.299,
+            "attributes": [
+                {
+                    "name": "경비"
+                }
+            ]
+        }
+    ]
+}

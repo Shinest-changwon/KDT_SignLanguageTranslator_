@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0268/NIA_SL_WORD0228_REAL08_L.mp4",
+        "name": "NIA_SL_WORD0228_REAL08_L.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.035,
+            "end": 3.884,
+            "attributes": [
+                {
+                    "name": "실습"
+                }
+            ]
+        }
+    ]
+}

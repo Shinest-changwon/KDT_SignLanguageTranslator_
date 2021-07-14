@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0710/NIA_SL_WORD0745_REAL15_D.mp4",
+        "name": "NIA_SL_WORD0745_REAL15_D.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.81,
+            "end": 3.384,
+            "attributes": [
+                {
+                    "name": "천황"
+                }
+            ]
+        }
+    ]
+}

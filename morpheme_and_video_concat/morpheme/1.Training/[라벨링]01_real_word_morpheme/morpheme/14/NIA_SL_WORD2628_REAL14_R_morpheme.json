@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0303/NIA_SL_WORD2628_REAL14_R.mp4",
+        "name": "NIA_SL_WORD2628_REAL14_R.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.01,
+            "end": 3.084,
+            "attributes": [
+                {
+                    "name": "삼척"
+                }
+            ]
+        }
+    ]
+}

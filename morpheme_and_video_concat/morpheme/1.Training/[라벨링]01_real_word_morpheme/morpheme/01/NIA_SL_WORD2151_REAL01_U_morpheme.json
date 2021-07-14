@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0351/NIA_SL_WORD2151_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2151_REAL01_U.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.27,
+            "end": 3.998,
+            "attributes": [
+                {
+                    "name": "외할머니"
+                }
+            ]
+        }
+    ]
+}

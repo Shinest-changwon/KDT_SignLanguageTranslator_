@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_bkyu1201/NIA_SL_WORD0069_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0069_REAL15_R.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.539,
+            "end": 4.305,
+            "attributes": [
+                {
+                    "name": "한약방"
+                }
+            ]
+        }
+    ]
+}

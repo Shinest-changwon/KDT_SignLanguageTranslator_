@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0764/NIA_SL_WORD1238_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1238_REAL16_U.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.113,
+            "end": 2.603,
+            "attributes": [
+                {
+                    "name": "짓밟다"
+                }
+            ]
+        }
+    ]
+}

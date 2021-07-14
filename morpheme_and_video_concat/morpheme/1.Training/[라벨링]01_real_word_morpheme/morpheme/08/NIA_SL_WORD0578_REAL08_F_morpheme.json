@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0253/NIA_SL_WORD0578_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0578_REAL08_F.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.324,
+            "end": 3.904,
+            "attributes": [
+                {
+                    "name": "보건복지부"
+                }
+            ]
+        }
+    ]
+}

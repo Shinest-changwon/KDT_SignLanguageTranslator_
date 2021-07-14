@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee311/NIA_SL_WORD0843_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0843_REAL02_R.mp4",
+        "duration": 4.117,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.531,
+            "end": 3.295,
+            "attributes": [
+                {
+                    "name": "복잡하다"
+                }
+            ]
+        }
+    ]
+}

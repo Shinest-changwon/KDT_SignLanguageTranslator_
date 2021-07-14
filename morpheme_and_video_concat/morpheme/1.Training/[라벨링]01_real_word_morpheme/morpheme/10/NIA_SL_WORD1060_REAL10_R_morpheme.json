@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0411/NIA_SL_WORD1060_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1060_REAL10_R.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.732,
+            "end": 4.115,
+            "attributes": [
+                {
+                    "name": "양천구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

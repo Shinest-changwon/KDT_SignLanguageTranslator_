@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0478/NIA_SL_WORD0854_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0854_REAL09_F.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.987,
+            "end": 3.79,
+            "attributes": [
+                {
+                    "name": "철모"
+                }
+            ]
+        }
+    ]
+}

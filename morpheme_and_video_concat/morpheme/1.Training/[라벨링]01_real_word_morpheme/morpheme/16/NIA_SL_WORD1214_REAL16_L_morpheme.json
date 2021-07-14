@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0762/NIA_SL_WORD1214_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1214_REAL16_L.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.817,
+            "end": 3.433,
+            "attributes": [
+                {
+                    "name": "망설이다"
+                }
+            ]
+        }
+    ]
+}

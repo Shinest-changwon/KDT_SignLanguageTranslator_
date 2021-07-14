@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0265/NIA_SL_WORD1443_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1443_REAL08_R.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.081,
+            "end": 2.923,
+            "attributes": [
+                {
+                    "name": "고려대학교"
+                }
+            ]
+        }
+    ]
+}

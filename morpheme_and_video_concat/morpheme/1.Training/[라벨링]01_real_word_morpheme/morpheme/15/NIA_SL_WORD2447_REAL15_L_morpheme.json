@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_rhkim1221/NIA_SL_WORD2447_REAL15_L.mp4",
+        "name": "NIA_SL_WORD2447_REAL15_L.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.654,
+            "end": 3.615,
+            "attributes": [
+                {
+                    "name": "창원시청"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0744/NIA_SL_WORD0783_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0783_REAL16_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.171,
+            "end": 2.595,
+            "attributes": [
+                {
+                    "name": "자석"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0381/NIA_SL_WORD0253_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0253_REAL16_F.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.118,
+            "end": 3.702,
+            "attributes": [
+                {
+                    "name": "불경"
+                }
+            ]
+        }
+    ]
+}

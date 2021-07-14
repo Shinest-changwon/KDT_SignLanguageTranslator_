@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0389/NIA_SL_WORD0331_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0331_REAL16_F.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.524,
+            "end": 3.614,
+            "attributes": [
+                {
+                    "name": "어떻게"
+                }
+            ]
+        }
+    ]
+}

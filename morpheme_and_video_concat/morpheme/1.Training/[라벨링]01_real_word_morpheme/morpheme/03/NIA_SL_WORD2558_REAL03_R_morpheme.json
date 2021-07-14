@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0616/NIA_SL_WORD2558_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2558_REAL03_R.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.979,
+            "end": 3.909,
+            "attributes": [
+                {
+                    "name": "숲"
+                }
+            ]
+        }
+    ]
+}

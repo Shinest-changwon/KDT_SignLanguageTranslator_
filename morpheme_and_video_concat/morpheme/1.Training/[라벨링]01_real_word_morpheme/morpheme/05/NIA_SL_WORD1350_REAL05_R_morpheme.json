@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_gdchoi0937/NIA_SL_WORD1350_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1350_REAL05_R.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.304,
+            "end": 2.277,
+            "attributes": [
+                {
+                    "name": "사기"
+                }
+            ]
+        }
+    ]
+}

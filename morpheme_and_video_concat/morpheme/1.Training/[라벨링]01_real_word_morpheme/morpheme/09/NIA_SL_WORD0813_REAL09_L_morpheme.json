@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon328/NIA_SL_WORD0813_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0813_REAL09_L.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.355,
+            "end": 3.33,
+            "attributes": [
+                {
+                    "name": "단전"
+                }
+            ]
+        }
+    ]
+}

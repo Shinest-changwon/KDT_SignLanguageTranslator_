@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0748/NIA_SL_WORD1328_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1328_REAL16_F.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.463,
+            "end": 2.792,
+            "attributes": [
+                {
+                    "name": "무지개"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0354/NIA_SL_WORD2188_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2188_REAL01_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.852,
+            "end": 3.204,
+            "attributes": [
+                {
+                    "name": "책무"
+                }
+            ]
+        }
+    ]
+}

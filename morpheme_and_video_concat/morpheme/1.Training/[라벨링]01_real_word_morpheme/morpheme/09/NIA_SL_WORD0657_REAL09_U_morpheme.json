@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim349/NIA_SL_WORD0657_REAL09_U.mp4",
+        "name": "NIA_SL_WORD0657_REAL09_U.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.408,
+            "end": 3.29,
+            "attributes": [
+                {
+                    "name": "수저통"
+                }
+            ]
+        }
+    ]
+}

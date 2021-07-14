@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0930/NIA_SL_WORD1534_REAL05_L.mp4",
+        "name": "NIA_SL_WORD1534_REAL05_L.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.932,
+            "end": 2.874,
+            "attributes": [
+                {
+                    "name": "밥"
+                }
+            ]
+        }
+    ]
+}

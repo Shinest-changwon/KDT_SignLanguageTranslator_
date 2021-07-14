@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0697/NIA_SL_WORD1502_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1502_REAL15_F.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.4,
+            "end": 2.56,
+            "attributes": [
+                {
+                    "name": "골키퍼"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0708/NIA_SL_WORD0721_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0721_REAL15_R.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.706,
+            "end": 2.987,
+            "attributes": [
+                {
+                    "name": "여군"
+                }
+            ]
+        }
+    ]
+}

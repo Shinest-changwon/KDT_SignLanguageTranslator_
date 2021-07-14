@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim326/NIA_SL_WORD1514_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1514_REAL02_R.mp4",
+        "duration": 3.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.139,
+            "end": 2.341,
+            "attributes": [
+                {
+                    "name": "노래"
+                }
+            ]
+        }
+    ]
+}

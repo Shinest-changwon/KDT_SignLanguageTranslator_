@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0850/NIA_SL_WORD0441_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0441_REAL04_D.mp4",
+        "duration": 6.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.357,
+            "end": 5.257,
+            "attributes": [
+                {
+                    "name": "식도염"
+                }
+            ]
+        }
+    ]
+}

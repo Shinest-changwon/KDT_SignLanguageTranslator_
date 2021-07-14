@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_jhhan0268/NIA_SL_WORD1228_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1228_REAL08_F.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.993,
+            "end": 2.341,
+            "attributes": [
+                {
+                    "name": "유식"
+                }
+            ]
+        }
+    ]
+}

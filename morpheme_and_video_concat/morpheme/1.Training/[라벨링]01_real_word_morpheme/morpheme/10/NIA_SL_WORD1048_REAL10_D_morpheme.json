@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0410/NIA_SL_WORD1048_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1048_REAL10_D.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.622,
+            "end": 3.999,
+            "attributes": [
+                {
+                    "name": "서초구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

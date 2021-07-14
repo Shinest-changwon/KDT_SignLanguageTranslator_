@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1041/NIA_SL_WORD2190_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2190_REAL16_U.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.204,
+            "end": 2.887,
+            "attributes": [
+                {
+                    "name": "운전자"
+                }
+            ]
+        }
+    ]
+}

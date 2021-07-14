@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0304/NIA_SL_WORD0633_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0633_REAL14_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.856,
+            "end": 2.772,
+            "attributes": [
+                {
+                    "name": "서구식"
+                }
+            ]
+        }
+    ]
+}

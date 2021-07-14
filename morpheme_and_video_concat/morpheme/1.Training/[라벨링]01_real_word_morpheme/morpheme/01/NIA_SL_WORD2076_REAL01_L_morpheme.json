@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0343/NIA_SL_WORD2076_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2076_REAL01_L.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.255,
+            "end": 4.101,
+            "attributes": [
+                {
+                    "name": "반성하다"
+                }
+            ]
+        }
+    ]
+}

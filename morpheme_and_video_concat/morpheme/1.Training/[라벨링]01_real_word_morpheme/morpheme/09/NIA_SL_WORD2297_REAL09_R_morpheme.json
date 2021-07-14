@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_jhhan0482/NIA_SL_WORD2297_REAL09_R.mp4",
+        "name": "NIA_SL_WORD2297_REAL09_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.644,
+            "end": 2.631,
+            "attributes": [
+                {
+                    "name": "빈말"
+                }
+            ]
+        }
+    ]
+}

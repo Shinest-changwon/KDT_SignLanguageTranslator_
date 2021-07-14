@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0267/NIA_SL_WORD1962_REAL08_D.mp4",
+        "name": "NIA_SL_WORD1962_REAL08_D.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.517,
+            "end": 4.487,
+            "attributes": [
+                {
+                    "name": "성주시지부"
+                }
+            ]
+        }
+    ]
+}

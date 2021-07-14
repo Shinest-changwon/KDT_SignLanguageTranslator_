@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1052/NIA_SL_WORD1144_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1144_REAL13_U.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.46,
+            "end": 2.733,
+            "attributes": [
+                {
+                    "name": "생각"
+                }
+            ]
+        }
+    ]
+}

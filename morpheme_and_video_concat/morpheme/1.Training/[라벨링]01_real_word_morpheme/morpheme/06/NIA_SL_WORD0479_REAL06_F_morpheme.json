@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1043/NIA_SL_WORD0479_REAL06_F.mp4",
+        "name": "NIA_SL_WORD0479_REAL06_F.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.545,
+            "end": 2.89,
+            "attributes": [
+                {
+                    "name": "회장"
+                }
+            ]
+        }
+    ]
+}

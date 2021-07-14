@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_moyu0429/NIA_SL_WORD1488_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1488_REAL10_R.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.515,
+            "end": 3.081,
+            "attributes": [
+                {
+                    "name": "양주"
+                }
+            ]
+        }
+    ]
+}

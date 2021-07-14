@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_moyu0943/NIA_SL_WORD1913_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1913_REAL05_U.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.957,
+            "end": 2.531,
+            "attributes": [
+                {
+                    "name": "여수시지부"
+                }
+            ]
+        }
+    ]
+}

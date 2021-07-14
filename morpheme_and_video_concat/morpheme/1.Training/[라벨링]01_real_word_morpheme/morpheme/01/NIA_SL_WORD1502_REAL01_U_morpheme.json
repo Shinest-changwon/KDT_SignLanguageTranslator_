@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0336/NIA_SL_WORD1502_REAL01_U.mp4",
+        "name": "NIA_SL_WORD1502_REAL01_U.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.614,
+            "end": 2.807,
+            "attributes": [
+                {
+                    "name": "골키퍼"
+                }
+            ]
+        }
+    ]
+}

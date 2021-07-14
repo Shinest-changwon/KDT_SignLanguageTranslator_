@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_rhkim0490/NIA_SL_WORD2874_REAL09_L.mp4",
+        "name": "NIA_SL_WORD2874_REAL09_L.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.507,
+            "end": 2.387,
+            "attributes": [
+                {
+                    "name": "육천"
+                }
+            ]
+        }
+    ]
+}

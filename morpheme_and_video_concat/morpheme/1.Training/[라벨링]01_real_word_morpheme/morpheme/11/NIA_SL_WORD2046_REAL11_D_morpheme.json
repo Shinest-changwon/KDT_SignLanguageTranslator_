@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0525/NIA_SL_WORD2046_REAL11_D.mp4",
+        "name": "NIA_SL_WORD2046_REAL11_D.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.878,
+            "end": 2.531,
+            "attributes": [
+                {
+                    "name": "결심"
+                }
+            ]
+        }
+    ]
+}

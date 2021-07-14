@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0669/NIA_SL_WORD0730_REAL12_U.mp4",
+        "name": "NIA_SL_WORD0730_REAL12_U.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.555,
+            "end": 3.729,
+            "attributes": [
+                {
+                    "name": "연합"
+                }
+            ]
+        }
+    ]
+}

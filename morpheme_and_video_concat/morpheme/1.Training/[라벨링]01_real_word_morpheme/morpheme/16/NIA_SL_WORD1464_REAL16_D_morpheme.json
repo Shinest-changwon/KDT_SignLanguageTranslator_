@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0762/NIA_SL_WORD1464_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1464_REAL16_D.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.399,
+            "end": 2.511,
+            "attributes": [
+                {
+                    "name": "하남"
+                }
+            ]
+        }
+    ]
+}

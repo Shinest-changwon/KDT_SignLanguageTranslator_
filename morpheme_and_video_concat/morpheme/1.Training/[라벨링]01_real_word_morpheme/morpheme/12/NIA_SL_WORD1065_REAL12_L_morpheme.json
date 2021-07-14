@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1184/NIA_SL_WORD1065_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1065_REAL12_L.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.531,
+            "end": 4.485,
+            "attributes": [
+                {
+                    "name": "용산구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

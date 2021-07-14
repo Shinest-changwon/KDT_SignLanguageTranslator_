@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0406/NIA_SL_WORD1755_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1755_REAL10_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.206,
+            "end": 2.822,
+            "attributes": [
+                {
+                    "name": "철원군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

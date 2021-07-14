@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_gdchoi0418/NIA_SL_WORD0624_REAL10_U.mp4",
+        "name": "NIA_SL_WORD0624_REAL10_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.378,
+            "end": 4.394,
+            "attributes": [
+                {
+                    "name": "새집"
+                }
+            ]
+        }
+    ]
+}

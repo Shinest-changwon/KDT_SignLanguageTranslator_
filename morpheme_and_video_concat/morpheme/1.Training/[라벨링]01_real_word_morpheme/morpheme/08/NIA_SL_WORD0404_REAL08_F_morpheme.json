@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_emyou0261/NIA_SL_WORD0404_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0404_REAL08_F.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.93,
+            "end": 2.655,
+            "attributes": [
+                {
+                    "name": "강풍"
+                }
+            ]
+        }
+    ]
+}

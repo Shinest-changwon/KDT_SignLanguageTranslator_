@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0429/NIA_SL_WORD1741_REAL10_L.mp4",
+        "name": "NIA_SL_WORD1741_REAL10_L.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.212,
+            "end": 3.901,
+            "attributes": [
+                {
+                    "name": "양양군지부"
+                }
+            ]
+        }
+    ]
+}

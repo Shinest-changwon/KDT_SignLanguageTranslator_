@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0302/NIA_SL_WORD0613_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0613_REAL14_L.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.553,
+            "end": 2.736,
+            "attributes": [
+                {
+                    "name": "부채질"
+                }
+            ]
+        }
+    ]
+}

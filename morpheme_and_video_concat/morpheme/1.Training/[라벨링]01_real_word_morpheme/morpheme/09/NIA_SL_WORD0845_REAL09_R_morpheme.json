@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon331/NIA_SL_WORD0845_REAL09_R.mp4",
+        "name": "NIA_SL_WORD0845_REAL09_R.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.293,
+            "end": 3.211,
+            "attributes": [
+                {
+                    "name": "참관"
+                }
+            ]
+        }
+    ]
+}

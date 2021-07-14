@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0423/NIA_SL_WORD1425_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1425_REAL06_F.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.568,
+            "end": 2.748,
+            "attributes": [
+                {
+                    "name": "금천"
+                }
+            ]
+        }
+    ]
+}

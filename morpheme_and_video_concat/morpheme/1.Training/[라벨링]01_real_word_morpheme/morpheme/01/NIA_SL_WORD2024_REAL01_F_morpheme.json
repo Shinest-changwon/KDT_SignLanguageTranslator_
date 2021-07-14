@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0338/NIA_SL_WORD2024_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2024_REAL01_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.981,
+            "end": 3.405,
+            "attributes": [
+                {
+                    "name": "청소년"
+                }
+            ]
+        }
+    ]
+}

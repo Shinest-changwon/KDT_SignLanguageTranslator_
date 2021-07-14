@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0303/NIA_SL_WORD1375_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1375_REAL14_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.353,
+            "end": 2.787,
+            "attributes": [
+                {
+                    "name": "볼"
+                }
+            ]
+        }
+    ]
+}

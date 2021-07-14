@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_gdchoi1185/NIA_SL_WORD1413_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1413_REAL12_R.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.605,
+            "end": 3.839,
+            "attributes": [
+                {
+                    "name": "강남구청"
+                }
+            ]
+        }
+    ]
+}

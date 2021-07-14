@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0794/NIA_SL_WORD2640_REAL10_D.mp4",
+        "name": "NIA_SL_WORD2640_REAL10_D.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.559,
+            "end": 2.489,
+            "attributes": [
+                {
+                    "name": "구"
+                }
+            ]
+        }
+    ]
+}

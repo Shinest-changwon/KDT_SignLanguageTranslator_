@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1039/NIA_SL_WORD1436_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1436_REAL13_R.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.893,
+            "end": 1.919,
+            "attributes": [
+                {
+                    "name": "서대문"
+                }
+            ]
+        }
+    ]
+}

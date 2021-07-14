@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0925/NIA_SL_WORD0597_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0597_REAL05_F.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.003,
+            "end": 3.477,
+            "attributes": [
+                {
+                    "name": "삐치다"
+                }
+            ]
+        }
+    ]
+}

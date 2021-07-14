@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0338/NIA_SL_WORD2521_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2521_REAL01_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.156,
+            "end": 2.967,
+            "attributes": [
+                {
+                    "name": "유럽"
+                }
+            ]
+        }
+    ]
+}

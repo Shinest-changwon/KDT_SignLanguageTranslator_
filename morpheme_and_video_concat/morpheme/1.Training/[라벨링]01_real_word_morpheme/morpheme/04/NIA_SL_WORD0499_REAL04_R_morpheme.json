@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0855/NIA_SL_WORD0499_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0499_REAL04_R.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.477,
+            "end": 3.663,
+            "attributes": [
+                {
+                    "name": "마스크"
+                }
+            ]
+        }
+    ]
+}

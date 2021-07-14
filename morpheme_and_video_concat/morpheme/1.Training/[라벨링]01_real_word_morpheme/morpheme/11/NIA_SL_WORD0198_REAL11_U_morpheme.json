@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0974/NIA_SL_WORD0198_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0198_REAL11_U.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.062,
+            "end": 3.375,
+            "attributes": [
+                {
+                    "name": "압류"
+                }
+            ]
+        }
+    ]
+}

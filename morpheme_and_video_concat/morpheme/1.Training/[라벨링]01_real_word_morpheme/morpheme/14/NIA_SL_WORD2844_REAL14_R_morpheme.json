@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_yhjeon0300/NIA_SL_WORD2844_REAL14_R.mp4",
+        "name": "NIA_SL_WORD2844_REAL14_R.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.07,
+            "end": 2.179,
+            "attributes": [
+                {
+                    "name": "삼백이십"
+                }
+            ]
+        }
+    ]
+}

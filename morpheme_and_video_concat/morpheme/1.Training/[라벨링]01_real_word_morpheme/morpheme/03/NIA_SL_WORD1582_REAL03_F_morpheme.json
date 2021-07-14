@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0794/NIA_SL_WORD1582_REAL03_F.mp4",
+        "name": "NIA_SL_WORD1582_REAL03_F.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.17,
+            "end": 2.852,
+            "attributes": [
+                {
+                    "name": "고백"
+                }
+            ]
+        }
+    ]
+}

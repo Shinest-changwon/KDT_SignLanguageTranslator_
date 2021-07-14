@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0749/NIA_SL_WORD0585_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0585_REAL16_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.279,
+            "end": 2.296,
+            "attributes": [
+                {
+                    "name": "여섯번째"
+                }
+            ]
+        }
+    ]
+}

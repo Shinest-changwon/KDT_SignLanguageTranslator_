@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1184/NIA_SL_WORD1573_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1573_REAL12_R.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.364,
+            "end": 2.412,
+            "attributes": [
+                {
+                    "name": "흩어지다"
+                }
+            ]
+        }
+    ]
+}

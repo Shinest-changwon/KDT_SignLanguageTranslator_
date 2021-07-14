@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0927/NIA_SL_WORD1999_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1999_REAL05_U.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.837,
+            "end": 4.617,
+            "attributes": [
+                {
+                    "name": "칠곡군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0425/NIA_SL_WORD1693_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1693_REAL10_U.mp4",
+        "duration": 5.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.269,
+            "end": 3.996,
+            "attributes": [
+                {
+                    "name": "연천군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

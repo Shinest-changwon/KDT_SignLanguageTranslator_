@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0654/NIA_SL_WORD1781_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1781_REAL12_R.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.214,
+            "end": 2.774,
+            "attributes": [
+                {
+                    "name": "보은군지부"
+                }
+            ]
+        }
+    ]
+}

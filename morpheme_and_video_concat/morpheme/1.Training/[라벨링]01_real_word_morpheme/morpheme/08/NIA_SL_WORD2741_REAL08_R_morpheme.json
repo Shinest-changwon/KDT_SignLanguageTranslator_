@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0610/NIA_SL_WORD2741_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2741_REAL08_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.088,
+            "end": 1.973,
+            "attributes": [
+                {
+                    "name": "백구"
+                }
+            ]
+        }
+    ]
+}

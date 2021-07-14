@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0405/NIA_SL_WORD0495_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0495_REAL16_L.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.795,
+            "end": 3.033,
+            "attributes": [
+                {
+                    "name": "생각못하다"
+                }
+            ]
+        }
+    ]
+}

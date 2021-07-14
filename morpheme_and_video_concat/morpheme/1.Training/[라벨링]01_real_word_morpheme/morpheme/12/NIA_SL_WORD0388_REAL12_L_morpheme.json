@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0659/NIA_SL_WORD0388_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0388_REAL12_L.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.576,
+            "end": 3.73,
+            "attributes": [
+                {
+                    "name": "공식발표"
+                }
+            ]
+        }
+    ]
+}

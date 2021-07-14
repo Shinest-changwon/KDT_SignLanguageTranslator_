@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0425/NIA_SL_WORD1449_REAL06_D.mp4",
+        "name": "NIA_SL_WORD1449_REAL06_D.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.527,
+            "end": 2.557,
+            "attributes": [
+                {
+                    "name": "영등포"
+                }
+            ]
+        }
+    ]
+}

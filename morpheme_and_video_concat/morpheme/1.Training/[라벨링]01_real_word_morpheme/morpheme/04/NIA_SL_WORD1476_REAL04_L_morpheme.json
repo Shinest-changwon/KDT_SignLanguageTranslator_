@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0853/NIA_SL_WORD1476_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1476_REAL04_L.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.306,
+            "end": 3.963,
+            "attributes": [
+                {
+                    "name": "안성"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_swlee0788/NIA_SL_WORD2330_REAL10_D.mp4",
+        "name": "NIA_SL_WORD2330_REAL10_D.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.244,
+            "end": 3.215,
+            "attributes": [
+                {
+                    "name": "내뱉다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0943/NIA_SL_WORD1164_REAL05_F.mp4",
+        "name": "NIA_SL_WORD1164_REAL05_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.618,
+            "end": 3.118,
+            "attributes": [
+                {
+                    "name": "창백"
+                }
+            ]
+        }
+    ]
+}

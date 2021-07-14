@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_emyou0516/NIA_SL_WORD1201_REAL11_D.mp4",
+        "name": "NIA_SL_WORD1201_REAL11_D.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.56,
+            "end": 2.755,
+            "attributes": [
+                {
+                    "name": "죄송"
+                }
+            ]
+        }
+    ]
+}

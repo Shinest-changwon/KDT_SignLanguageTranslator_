@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0974/NIA_SL_WORD0696_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0696_REAL11_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.807,
+            "end": 4.077,
+            "attributes": [
+                {
+                    "name": "안내원"
+                }
+            ]
+        }
+    ]
+}

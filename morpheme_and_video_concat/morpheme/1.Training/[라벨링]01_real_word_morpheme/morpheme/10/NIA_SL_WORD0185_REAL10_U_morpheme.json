@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0424/NIA_SL_WORD0185_REAL10_U.mp4",
+        "name": "NIA_SL_WORD0185_REAL10_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.646,
+            "end": 3.239,
+            "attributes": [
+                {
+                    "name": "후원"
+                }
+            ]
+        }
+    ]
+}

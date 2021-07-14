@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0408/NIA_SL_WORD1026_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1026_REAL06_R.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.017,
+            "end": 3.516,
+            "attributes": [
+                {
+                    "name": "금천구지부"
+                }
+            ]
+        }
+    ]
+}

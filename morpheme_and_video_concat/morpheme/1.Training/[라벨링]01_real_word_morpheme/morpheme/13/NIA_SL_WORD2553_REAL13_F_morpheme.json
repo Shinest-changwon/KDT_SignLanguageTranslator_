@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0521/NIA_SL_WORD2553_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2553_REAL13_F.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.333,
+            "end": 2.738,
+            "attributes": [
+                {
+                    "name": "찔리다"
+                }
+            ]
+        }
+    ]
+}

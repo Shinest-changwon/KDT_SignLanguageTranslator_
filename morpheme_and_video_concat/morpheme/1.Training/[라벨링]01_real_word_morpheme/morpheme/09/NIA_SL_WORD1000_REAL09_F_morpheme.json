@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0492/NIA_SL_WORD1000_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1000_REAL09_F.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.268,
+            "end": 3.768,
+            "attributes": [
+                {
+                    "name": "속다"
+                }
+            ]
+        }
+    ]
+}

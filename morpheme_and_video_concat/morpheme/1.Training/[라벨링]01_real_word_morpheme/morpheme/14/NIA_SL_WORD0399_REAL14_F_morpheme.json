@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0492/NIA_SL_WORD0399_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0399_REAL14_F.mp4",
+        "duration": 5.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.302,
+            "end": 4.218,
+            "attributes": [
+                {
+                    "name": "직인"
+                }
+            ]
+        }
+    ]
+}

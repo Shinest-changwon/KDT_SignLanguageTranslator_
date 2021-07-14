@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0346/NIA_SL_WORD2607_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2607_REAL01_L.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.85,
+            "end": 2.322,
+            "attributes": [
+                {
+                    "name": "강원도"
+                }
+            ]
+        }
+    ]
+}

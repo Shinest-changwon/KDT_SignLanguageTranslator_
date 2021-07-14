@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0270/NIA_SL_WORD0992_REAL08_D.mp4",
+        "name": "NIA_SL_WORD0992_REAL08_D.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.165,
+            "end": 2.317,
+            "attributes": [
+                {
+                    "name": "기세등등"
+                }
+            ]
+        }
+    ]
+}

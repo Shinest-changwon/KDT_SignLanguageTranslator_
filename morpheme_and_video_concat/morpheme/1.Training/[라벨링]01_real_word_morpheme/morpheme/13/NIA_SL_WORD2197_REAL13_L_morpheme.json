@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0535/NIA_SL_WORD2197_REAL13_L.mp4",
+        "name": "NIA_SL_WORD2197_REAL13_L.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.547,
+            "end": 2.491,
+            "attributes": [
+                {
+                    "name": "문득"
+                }
+            ]
+        }
+    ]
+}

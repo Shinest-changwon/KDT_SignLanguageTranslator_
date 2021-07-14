@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon300/NIA_SL_WORD1720_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1720_REAL02_U.mp4",
+        "duration": 4.95,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.209,
+            "end": 4.244,
+            "attributes": [
+                {
+                    "name": "하남시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_mrkim1208/NIA_SL_WORD2240_REAL15_R.mp4",
+        "name": "NIA_SL_WORD2240_REAL15_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.653,
+            "end": 3.247,
+            "attributes": [
+                {
+                    "name": "헛수고"
+                }
+            ]
+        }
+    ]
+}

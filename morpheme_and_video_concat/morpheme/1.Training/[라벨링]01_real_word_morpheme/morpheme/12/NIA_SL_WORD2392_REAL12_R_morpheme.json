@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1185/NIA_SL_WORD2392_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2392_REAL12_R.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.525,
+            "end": 2.462,
+            "attributes": [
+                {
+                    "name": "욕하다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_bkyu0525/NIA_SL_WORD1042_REAL11_F.mp4",
+        "name": "NIA_SL_WORD1042_REAL11_F.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.215,
+            "end": 2.83,
+            "attributes": [
+                {
+                    "name": "마포구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

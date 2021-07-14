@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0622/NIA_SL_WORD1867_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1867_REAL03_U.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.902,
+            "end": 2.916,
+            "attributes": [
+                {
+                    "name": "완주군지부"
+                }
+            ]
+        }
+    ]
+}

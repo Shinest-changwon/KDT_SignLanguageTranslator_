@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan297/NIA_SL_WORD1032_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1032_REAL02_R.mp4",
+        "duration": 4.784,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.499,
+            "end": 3.51,
+            "attributes": [
+                {
+                    "name": "도봉구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

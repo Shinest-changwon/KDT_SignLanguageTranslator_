@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_bkyu0338/NIA_SL_WORD0022_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0022_REAL01_D.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.15,
+            "end": 2.927,
+            "attributes": [
+                {
+                    "name": "침착"
+                }
+            ]
+        }
+    ]
+}

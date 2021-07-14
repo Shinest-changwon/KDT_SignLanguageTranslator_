@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0975/NIA_SL_WORD0859_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0859_REAL07_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.187,
+            "end": 2.525,
+            "attributes": [
+                {
+                    "name": "청소당번"
+                }
+            ]
+        }
+    ]
+}

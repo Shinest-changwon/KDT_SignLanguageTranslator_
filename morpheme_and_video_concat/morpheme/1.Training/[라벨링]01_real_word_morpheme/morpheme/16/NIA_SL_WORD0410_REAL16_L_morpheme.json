@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0396/NIA_SL_WORD0410_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0410_REAL16_L.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.407,
+            "end": 3.404,
+            "attributes": [
+                {
+                    "name": "교모"
+                }
+            ]
+        }
+    ]
+}

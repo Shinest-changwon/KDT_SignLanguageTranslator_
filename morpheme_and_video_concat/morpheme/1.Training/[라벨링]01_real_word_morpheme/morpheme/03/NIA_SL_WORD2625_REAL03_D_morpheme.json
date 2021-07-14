@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0623/NIA_SL_WORD2625_REAL03_D.mp4",
+        "name": "NIA_SL_WORD2625_REAL03_D.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.141,
+            "end": 2.06,
+            "attributes": [
+                {
+                    "name": "의성"
+                }
+            ]
+        }
+    ]
+}

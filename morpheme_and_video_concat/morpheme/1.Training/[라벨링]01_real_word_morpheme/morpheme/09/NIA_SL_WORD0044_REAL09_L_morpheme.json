@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0475/NIA_SL_WORD0044_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0044_REAL09_L.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.346,
+            "end": 4.206,
+            "attributes": [
+                {
+                    "name": "붕대"
+                }
+            ]
+        }
+    ]
+}

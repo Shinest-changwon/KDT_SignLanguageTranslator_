@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon301/NIA_SL_WORD1726_REAL02_F.mp4",
+        "name": "NIA_SL_WORD1726_REAL02_F.mp4",
+        "duration": 3.417,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.395,
+            "end": 2.991,
+            "attributes": [
+                {
+                    "name": "강릉시지부"
+                }
+            ]
+        }
+    ]
+}

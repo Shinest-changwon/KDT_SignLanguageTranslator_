@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1188/NIA_SL_WORD1617_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1617_REAL12_U.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.502,
+            "end": 4.483,
+            "attributes": [
+                {
+                    "name": "대덕수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0790/NIA_SL_WORD1548_REAL03_R.mp4",
+        "name": "NIA_SL_WORD1548_REAL03_R.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.762,
+            "end": 3.562,
+            "attributes": [
+                {
+                    "name": "망신"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0352/NIA_SL_WORD2418_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2418_REAL01_L.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.043,
+            "end": 3.206,
+            "attributes": [
+                {
+                    "name": "고성군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_bkyu1204/NIA_SL_WORD0098_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0098_REAL15_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.64,
+            "end": 3.536,
+            "attributes": [
+                {
+                    "name": "비빔밥"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0659/NIA_SL_WORD2131_REAL06_F.mp4",
+        "name": "NIA_SL_WORD2131_REAL06_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.89,
+            "end": 3.588,
+            "attributes": [
+                {
+                    "name": "물약"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee322/NIA_SL_WORD0952_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0952_REAL02_U.mp4",
+        "duration": 4.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.596,
+            "end": 3.65,
+            "attributes": [
+                {
+                    "name": "진수성찬"
+                }
+            ]
+        }
+    ]
+}

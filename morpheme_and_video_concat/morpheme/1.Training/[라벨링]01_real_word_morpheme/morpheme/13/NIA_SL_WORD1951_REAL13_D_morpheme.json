@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0626/NIA_SL_WORD1951_REAL13_D.mp4",
+        "name": "NIA_SL_WORD1951_REAL13_D.mp4",
+        "duration": 6.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.668,
+            "end": 4.667,
+            "attributes": [
+                {
+                    "name": "김천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

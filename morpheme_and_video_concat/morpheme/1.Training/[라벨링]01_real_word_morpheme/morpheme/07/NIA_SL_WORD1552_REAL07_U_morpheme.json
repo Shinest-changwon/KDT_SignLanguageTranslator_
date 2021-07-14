@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_gdchoi0977/NIA_SL_WORD1552_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1552_REAL07_U.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.332,
+            "end": 2.551,
+            "attributes": [
+                {
+                    "name": "야구"
+                }
+            ]
+        }
+    ]
+}

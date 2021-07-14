@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_moyu0804/NIA_SL_WORD1186_REAL03_D.mp4",
+        "name": "NIA_SL_WORD1186_REAL03_D.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.778,
+            "end": 2.885,
+            "attributes": [
+                {
+                    "name": "조심"
+                }
+            ]
+        }
+    ]
+}

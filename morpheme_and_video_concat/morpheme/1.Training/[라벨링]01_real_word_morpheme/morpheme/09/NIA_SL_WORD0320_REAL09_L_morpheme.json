@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0477/NIA_SL_WORD0320_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0320_REAL09_L.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.318,
+            "end": 3.42,
+            "attributes": [
+                {
+                    "name": "방금"
+                }
+            ]
+        }
+    ]
+}

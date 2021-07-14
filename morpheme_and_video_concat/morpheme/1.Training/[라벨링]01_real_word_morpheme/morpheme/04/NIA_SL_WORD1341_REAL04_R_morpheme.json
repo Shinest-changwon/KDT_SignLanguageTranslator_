@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0840/NIA_SL_WORD1341_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1341_REAL04_R.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.488,
+            "end": 4.203,
+            "attributes": [
+                {
+                    "name": "살인"
+                }
+            ]
+        }
+    ]
+}

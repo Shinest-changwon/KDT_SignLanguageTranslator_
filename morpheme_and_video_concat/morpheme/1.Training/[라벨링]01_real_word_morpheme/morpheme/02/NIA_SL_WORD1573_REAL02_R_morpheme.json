@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim332/NIA_SL_WORD1573_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1573_REAL02_R.mp4",
+        "duration": 2.417,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.557,
+            "end": 1.487,
+            "attributes": [
+                {
+                    "name": "흩어지다"
+                }
+            ]
+        }
+    ]
+}

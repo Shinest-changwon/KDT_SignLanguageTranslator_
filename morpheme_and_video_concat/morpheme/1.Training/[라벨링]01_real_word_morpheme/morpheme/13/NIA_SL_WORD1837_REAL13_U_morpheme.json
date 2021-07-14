@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0614/NIA_SL_WORD1837_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1837_REAL13_U.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.306,
+            "end": 4.104,
+            "attributes": [
+                {
+                    "name": "청양군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

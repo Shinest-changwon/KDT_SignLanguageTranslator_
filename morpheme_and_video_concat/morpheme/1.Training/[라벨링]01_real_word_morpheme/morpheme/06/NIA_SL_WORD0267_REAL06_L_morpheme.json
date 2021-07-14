@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1123/NIA_SL_WORD0267_REAL06_L.mp4",
+        "name": "NIA_SL_WORD0267_REAL06_L.mp4",
+        "duration": 6.15,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.483,
+            "end": 4.476,
+            "attributes": [
+                {
+                    "name": "동화책"
+                }
+            ]
+        }
+    ]
+}

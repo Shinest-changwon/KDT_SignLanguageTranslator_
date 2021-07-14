@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0845/NIA_SL_WORD0645_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0645_REAL04_D.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.689,
+            "end": 4.317,
+            "attributes": [
+                {
+                    "name": "성씨"
+                }
+            ]
+        }
+    ]
+}

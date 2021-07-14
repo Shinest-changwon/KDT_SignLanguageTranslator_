@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0712/NIA_SL_WORD0513_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0513_REAL15_R.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.742,
+            "end": 2.68,
+            "attributes": [
+                {
+                    "name": "회원"
+                }
+            ]
+        }
+    ]
+}

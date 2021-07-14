@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0744/NIA_SL_WORD1537_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1537_REAL16_F.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.571,
+            "end": 2.737,
+            "attributes": [
+                {
+                    "name": "빗"
+                }
+            ]
+        }
+    ]
+}

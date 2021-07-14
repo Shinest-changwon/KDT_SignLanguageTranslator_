@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1074/NIA_SL_WORD0945_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0945_REAL13_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.193,
+            "end": 2.815,
+            "attributes": [
+                {
+                    "name": "지름길"
+                }
+            ]
+        }
+    ]
+}
