@@ -184,21 +184,11 @@ def cut_frame_and_save(vid_path,start_frame,end_frame,idx):
 def main1():
     for i in range(len(word_sen_list)):
         # 영상 시작 프레임, 끝 프레임 지정
-        if 385 in word_sen_num_list: is_frame_cut = False
-        elif 83 in word_sen_num_list: is_frame_cut = False
-        else: is_frame_cut = True
-        if is_frame_cut:
-            start_frame, end_frame = redefine_frame(word_sen_list[i], word_sen_num_list[i])
-            print('start frame : {}, end frame: {}'.format(start_frame,end_frame))
-            vid_path = find_video_path(word_sen_list[i], word_sen_num_list[i])
-            print('vid path: ', vid_path)
-            cut_frame_and_save(vid_path,start_frame,end_frame,i)
-        else:
-            vid_path = find_video_path(word_sen_list[i], word_sen_num_list[i])
-            # pass
-            break
-    print('vid_path:', vid_path)
-    return vid_path
+        start_frame, end_frame = redefine_frame(word_sen_list[i], word_sen_num_list[i])
+        print('start frame : {}, end frame: {}'.format(start_frame,end_frame))
+        vid_path = find_video_path(word_sen_list[i], word_sen_num_list[i])
+        print('vid path: ', vid_path)
+        cut_frame_and_save(vid_path,start_frame,end_frame,i)
 
 # 자른 영상을 하나로 합치기
 """
@@ -237,17 +227,10 @@ def main(stnc_pos, is_ani=False):
     # basic_path = os.getcwd()+'/video/'+word_sen+'/[원천]'
 
     if not is_ani: # 실제 촬영 영상 짜집기 출력
-        if 385 in word_sen_num_list: is_frame_cut = False
-        elif 83 in word_sen_num_list: is_frame_cut = False
-        else: is_frame_cut = True
-
-        if is_frame_cut:
-            main1()
-            main2(word_sen_list)
-            # concat한 비디오 경로 반환
-            path = os.getcwd() +'/final.mp4'
-        else:
-            path = main1() 
+        main1()
+        main2(word_sen_list)
+        # concat한 비디오 경로 반환
+        path = os.getcwd() +'/final.mp4'
 
     else:
         if 1157 in word_sen_num_list: # 내가 데려다 드릴게요(시나리오1-청인B의 애니메이션 출력)
