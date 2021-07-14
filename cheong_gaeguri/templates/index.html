@@ -45,8 +45,8 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="button-container" style="margin-left: 20%;">
-                        <a class="btn-solid-lg page-scroll" onclick="for_ear()">청인</a>
-                        <a class="btn-outline-lg page-scroll" onclick="for_mouth()">농인</a>
+                        <a class="btn-solid-lg page-scroll" onclick="for_ear()">농인</a>
+                        <a class="btn-outline-lg page-scroll" onclick="for_mouth()">청인</a>
                     </div> <!-- end of button-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -57,11 +57,11 @@
     <script>
     function for_ear(){
         // window.open("/ear.html","popup","width=1050,height=480,left=100,top=50");//url, name 순
-        window.open("{{url_for('ear')}}","popup","width=1050,height=500,left=100,top=50");//url, name 순
+        window.open("{{url_for('ear')}}","popup","width=650,height=500,left=100,top=50");//url, name 순 width = 1050
           ;}
     function for_mouth(){
         // window.open("/mouth.html","popup","width=670,height=450,left=100,top=50");//url, name 순
-        window.open("{{url_for('mouth')}}","popup","width=650,height=470,left=100,top=50");//url, name 순
+        window.open("{{url_for('mouth')}}","popup","width=650,height=470,left=100,top=50");//url, name 순 //width = 650
           ;}
     </script>
 
