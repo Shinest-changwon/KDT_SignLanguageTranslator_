@@ -96,6 +96,12 @@ def morpheme(stnc_pos): # 형태소 분해 리스트
     
     num_list = []
     div_list = []
+
+    if '여기' in stnc_pos:
+        stnc_pos = ['여기']
+    elif '갈아타' in stnc_pos:
+        stnc_pos = ['갈아타']
+        
     for i in range(len(stnc_pos)):
         a = int(demo_sen[demo_sen['talk']==stnc_pos[i]]['num'])
         num_list.append(a)
@@ -213,12 +219,25 @@ def main2(word_sen_list):
 #     path = os.getcwd() +'/final.mp4'
 #     return path
 
-def main(stnc_pos):
+def main(stnc_pos, is_ani=False):
     global word_sen_list
     global word_sen_num_list
     word_sen_list, word_sen_num_list = morpheme(stnc_pos)
-    main1()
-    main2(word_sen_list)
-    # concat한 비디오 경로 반환
-    path = os.getcwd() +'/final.mp4'
+
+    if not is_ani: # 실제 촬영 영상 짜집기 출력
+        main1()
+        main2(word_sen_list)
+        # concat한 비디오 경로 반환
+        path = os.getcwd() +'/final.mp4'
+    elif is_ani:
+        if 1157 in word_sen_num_list: # 내가 데려다 드릴게요(시나리오1-청인B의 애니메이션 출력)
+            path = os.getcwd() +'/Ani_Final_S1.mp4'
+        elif 148 in word_sen_num_list: # 마을버스 일번이요(시나리오2-청인B의 애니메이션 출력)
+            path os.getcwd() +'/Ani_Final_S2.mp4'
+        
     return path
+
+# if __name__ == '__main__':
+#     stnc_pos = ['마을버스', '일']
+#     path = main(stnc_pos)
+#     print(path)
