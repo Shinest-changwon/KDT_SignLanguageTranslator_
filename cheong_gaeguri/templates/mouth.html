@@ -18,8 +18,30 @@
         #object{
             height: 410px;
         }
+        .video-container {
+            position: relative;
+            height: 0;
+            padding-bottom: 56.25%;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
     </style>
     <script>
+        function video_play(){
+
+           var h_sign_video = document.getElementById("H_sign");
+           if (h_sign_video.paused){
+               h_sign_video.play()
+           }
+           
+           
+           }
         
     </script>
   </head>
@@ -49,10 +71,28 @@
     
     <div id = "object">
         <div id = "object" style=" width: 275px; height: 360px; margin-left: 4.5%; box-shadow: 0px 0px 5px gray; margin-top: 4%;">
+            <!-- <iframe width="275" height="360"
+                   id="H_sign"
+                   frameborder="0"
+                   src="{{url_for('static',filename = 'videos/My_VIDEO.mp4')}}"
+                   allowfullscreen
+                   o
+                   >
+                   
+                   
+            </iframe> -->
+            <video
+            src="{{url_for('static',filename = 'videos/My_VIDEO.mp4')}}"
+            id="H_sign"
+            width="275" height="360"
+            style="object-fit: fill;"
+            >
 
+            </video>
         </div>
-        <input type="button" id = "play" value="재생" style="width: 50px; height: 30px; margin-left: 4%;">
+        <input type="button" id = "play" value="재생" style="width: 50px; height: 30px; margin-left: 4%;" onclick= "video_play(this)">
     </div>
+
 
 
     <!-- <div id = "object">
