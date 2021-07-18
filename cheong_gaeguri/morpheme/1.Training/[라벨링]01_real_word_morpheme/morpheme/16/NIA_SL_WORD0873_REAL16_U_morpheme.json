@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0753/NIA_SL_WORD0873_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0873_REAL16_U.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.923,
+            "end": 2.297,
+            "attributes": [
+                {
+                    "name": "총소리"
+                }
+            ]
+        }
+    ]
+}

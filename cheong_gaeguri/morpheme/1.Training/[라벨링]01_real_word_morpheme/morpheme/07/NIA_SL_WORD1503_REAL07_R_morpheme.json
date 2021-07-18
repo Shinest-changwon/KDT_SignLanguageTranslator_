@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_gdchoi0972/NIA_SL_WORD1503_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1503_REAL07_R.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.483,
+            "end": 2.859,
+            "attributes": [
+                {
+                    "name": "구경"
+                }
+            ]
+        }
+    ]
+}

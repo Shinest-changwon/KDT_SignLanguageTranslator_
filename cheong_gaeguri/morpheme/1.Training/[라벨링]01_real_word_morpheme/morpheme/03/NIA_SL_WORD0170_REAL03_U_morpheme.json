@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0802/NIA_SL_WORD0170_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0170_REAL03_U.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.324,
+            "end": 2.707,
+            "attributes": [
+                {
+                    "name": "출근"
+                }
+            ]
+        }
+    ]
+}

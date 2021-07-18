@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0420/NIA_SL_WORD1895_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1895_REAL10_F.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.499,
+            "end": 3.03,
+            "attributes": [
+                {
+                    "name": "나주시지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_emyou1191/NIA_SL_WORD1305_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1305_REAL12_R.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.266,
+            "end": 2.203,
+            "attributes": [
+                {
+                    "name": "두명"
+                }
+            ]
+        }
+    ]
+}

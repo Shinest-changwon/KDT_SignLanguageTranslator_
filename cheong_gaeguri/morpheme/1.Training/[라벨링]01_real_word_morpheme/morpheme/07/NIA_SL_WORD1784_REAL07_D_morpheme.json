@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1051/NIA_SL_WORD1784_REAL07_D.mp4",
+        "name": "NIA_SL_WORD1784_REAL07_D.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.642,
+            "end": 3.104,
+            "attributes": [
+                {
+                    "name": "영동군지부"
+                }
+            ]
+        }
+    ]
+}

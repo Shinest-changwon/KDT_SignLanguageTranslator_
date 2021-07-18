@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0311/NIA_SL_WORD0708_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0708_REAL14_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.952,
+            "end": 2.884,
+            "attributes": [
+                {
+                    "name": "얌전하다"
+                }
+            ]
+        }
+    ]
+}

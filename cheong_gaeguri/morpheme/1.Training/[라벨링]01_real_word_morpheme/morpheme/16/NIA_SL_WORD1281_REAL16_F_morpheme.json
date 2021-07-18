@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0744/NIA_SL_WORD1281_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1281_REAL16_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.691,
+            "end": 3.021,
+            "attributes": [
+                {
+                    "name": "날씬"
+                }
+            ]
+        }
+    ]
+}

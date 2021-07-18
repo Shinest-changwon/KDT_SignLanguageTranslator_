@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0744/NIA_SL_WORD1033_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1033_REAL16_F.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.133,
+            "end": 3.499,
+            "attributes": [
+                {
+                    "name": "도봉구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

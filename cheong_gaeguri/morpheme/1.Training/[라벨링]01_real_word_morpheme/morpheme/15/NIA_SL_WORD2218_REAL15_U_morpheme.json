@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_mrkim1204/NIA_SL_WORD2218_REAL15_U.mp4",
+        "name": "NIA_SL_WORD2218_REAL15_U.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.699,
+            "end": 2.657,
+            "attributes": [
+                {
+                    "name": "탕진"
+                }
+            ]
+        }
+    ]
+}

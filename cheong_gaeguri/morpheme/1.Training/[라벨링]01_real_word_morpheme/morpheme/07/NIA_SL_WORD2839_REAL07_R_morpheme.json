@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_rhkim1117/NIA_SL_WORD2839_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2839_REAL07_R.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.151,
+            "end": 2.023,
+            "attributes": [
+                {
+                    "name": "이백칠십"
+                }
+            ]
+        }
+    ]
+}

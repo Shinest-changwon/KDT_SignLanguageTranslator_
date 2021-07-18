@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0349/NIA_SL_WORD0632_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0632_REAL01_U.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.303,
+            "end": 2.783,
+            "attributes": [
+                {
+                    "name": "맹세"
+                }
+            ]
+        }
+    ]
+}

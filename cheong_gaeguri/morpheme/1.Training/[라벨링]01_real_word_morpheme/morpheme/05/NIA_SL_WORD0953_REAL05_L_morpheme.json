@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1165/NIA_SL_WORD0953_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0953_REAL05_L.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.905,
+            "end": 2.009,
+            "attributes": [
+                {
+                    "name": "배고프다"
+                }
+            ]
+        }
+    ]
+}

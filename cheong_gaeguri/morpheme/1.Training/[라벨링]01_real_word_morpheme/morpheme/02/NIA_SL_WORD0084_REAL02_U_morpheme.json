@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou315/NIA_SL_WORD0084_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0084_REAL02_U.mp4",
+        "duration": 4.45,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.473,
+            "end": 3.67,
+            "attributes": [
+                {
+                    "name": "지방경찰청장"
+                }
+            ]
+        }
+    ]
+}

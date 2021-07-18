@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0709/NIA_SL_WORD0984_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0984_REAL15_F.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.411,
+            "end": 2.44,
+            "attributes": [
+                {
+                    "name": "일석이조"
+                }
+            ]
+        }
+    ]
+}

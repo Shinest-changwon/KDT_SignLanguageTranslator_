@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0336/NIA_SL_WORD0501_REAL01_L.mp4",
+        "name": "NIA_SL_WORD0501_REAL01_L.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.124,
+            "end": 3.073,
+            "attributes": [
+                {
+                    "name": "막차"
+                }
+            ]
+        }
+    ]
+}

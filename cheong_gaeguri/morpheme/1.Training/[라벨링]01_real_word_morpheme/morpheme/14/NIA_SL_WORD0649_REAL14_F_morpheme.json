@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0305/NIA_SL_WORD0649_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0649_REAL14_F.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.123,
+            "end": 3.812,
+            "attributes": [
+                {
+                    "name": "센티미터"
+                }
+            ]
+        }
+    ]
+}

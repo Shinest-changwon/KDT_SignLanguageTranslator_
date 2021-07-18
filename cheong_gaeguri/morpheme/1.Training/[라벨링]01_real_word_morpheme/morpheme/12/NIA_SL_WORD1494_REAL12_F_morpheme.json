@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_gdchoi1193/NIA_SL_WORD1494_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1494_REAL12_F.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.5,
+            "end": 4.2,
+            "attributes": [
+                {
+                    "name": "운전면허갱신"
+                }
+            ]
+        }
+    ]
+}

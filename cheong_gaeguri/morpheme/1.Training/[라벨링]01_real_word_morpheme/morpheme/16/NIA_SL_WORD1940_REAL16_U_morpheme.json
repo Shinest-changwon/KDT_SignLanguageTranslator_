@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0759/NIA_SL_WORD1940_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1940_REAL16_U.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.835,
+            "end": 3.836,
+            "attributes": [
+                {
+                    "name": "경주시청"
+                }
+            ]
+        }
+    ]
+}

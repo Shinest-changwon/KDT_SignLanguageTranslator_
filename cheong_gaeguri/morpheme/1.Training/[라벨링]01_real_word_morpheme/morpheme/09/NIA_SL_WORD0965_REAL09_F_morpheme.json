@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0489/NIA_SL_WORD0965_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0965_REAL09_F.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.776,
+            "end": 4.013,
+            "attributes": [
+                {
+                    "name": "회복"
+                }
+            ]
+        }
+    ]
+}

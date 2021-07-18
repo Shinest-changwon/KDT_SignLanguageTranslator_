@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0761/NIA_SL_WORD1451_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1451_REAL16_D.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.371,
+            "end": 2.411,
+            "attributes": [
+                {
+                    "name": "여의도"
+                }
+            ]
+        }
+    ]
+}

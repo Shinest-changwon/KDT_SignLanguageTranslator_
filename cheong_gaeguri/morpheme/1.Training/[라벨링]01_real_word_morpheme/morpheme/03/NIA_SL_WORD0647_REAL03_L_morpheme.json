@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0800/NIA_SL_WORD0647_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0647_REAL03_L.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.504,
+            "end": 3.498,
+            "attributes": [
+                {
+                    "name": "성폭행"
+                }
+            ]
+        }
+    ]
+}

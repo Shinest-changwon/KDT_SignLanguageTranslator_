@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0751/NIA_SL_WORD1351_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1351_REAL16_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.881,
+            "end": 2.832,
+            "attributes": [
+                {
+                    "name": "너"
+                }
+            ]
+        }
+    ]
+}

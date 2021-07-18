@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0935/NIA_SL_WORD1578_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1578_REAL05_R.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.393,
+            "end": 2.223,
+            "attributes": [
+                {
+                    "name": "밖"
+                }
+            ]
+        }
+    ]
+}

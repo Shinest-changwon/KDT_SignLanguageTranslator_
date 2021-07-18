@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0616/NIA_SL_WORD1853_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1853_REAL13_L.mp4",
+        "duration": 4.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.188,
+            "end": 3.521,
+            "attributes": [
+                {
+                    "name": "김제시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

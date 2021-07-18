@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0478/NIA_SL_WORD0007_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0007_REAL14_L.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.918,
+            "end": 2.727,
+            "attributes": [
+                {
+                    "name": "음료수"
+                }
+            ]
+        }
+    ]
+}

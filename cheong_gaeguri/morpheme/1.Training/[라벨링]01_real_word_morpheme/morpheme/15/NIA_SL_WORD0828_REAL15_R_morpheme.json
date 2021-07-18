@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0718/NIA_SL_WORD0828_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0828_REAL15_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.232,
+            "end": 2.605,
+            "attributes": [
+                {
+                    "name": "재임"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0351/NIA_SL_WORD0902_REAL01_R.mp4",
+        "name": "NIA_SL_WORD0902_REAL01_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.704,
+            "end": 3.404,
+            "attributes": [
+                {
+                    "name": "탐욕"
+                }
+            ]
+        }
+    ]
+}

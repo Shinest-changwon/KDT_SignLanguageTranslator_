@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1073/NIA_SL_WORD2142_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2142_REAL16_U.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.427,
+            "end": 2.879,
+            "attributes": [
+                {
+                    "name": "아주버님"
+                }
+            ]
+        }
+    ]
+}

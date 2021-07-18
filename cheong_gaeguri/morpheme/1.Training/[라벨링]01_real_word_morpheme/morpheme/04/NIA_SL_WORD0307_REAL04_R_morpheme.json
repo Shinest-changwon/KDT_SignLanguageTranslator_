@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0836/NIA_SL_WORD0307_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0307_REAL04_R.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.333,
+            "end": 4.057,
+            "attributes": [
+                {
+                    "name": "연꽃"
+                }
+            ]
+        }
+    ]
+}

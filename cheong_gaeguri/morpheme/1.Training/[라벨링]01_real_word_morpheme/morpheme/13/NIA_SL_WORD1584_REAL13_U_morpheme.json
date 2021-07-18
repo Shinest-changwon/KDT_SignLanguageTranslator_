@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1054/NIA_SL_WORD1584_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1584_REAL13_U.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.535,
+            "end": 2.623,
+            "attributes": [
+                {
+                    "name": "관계"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0355/NIA_SL_WORD0950_REAL01_F.mp4",
+        "name": "NIA_SL_WORD0950_REAL01_F.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.546,
+            "end": 2.851,
+            "attributes": [
+                {
+                    "name": "오래도록"
+                }
+            ]
+        }
+    ]
+}

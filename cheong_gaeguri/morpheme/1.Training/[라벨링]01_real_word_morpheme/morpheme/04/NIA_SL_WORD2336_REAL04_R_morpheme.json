@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0839/NIA_SL_WORD2336_REAL04_R.mp4",
+        "name": "NIA_SL_WORD2336_REAL04_R.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.717,
+            "end": 3.599,
+            "attributes": [
+                {
+                    "name": "유구무언"
+                }
+            ]
+        }
+    ]
+}

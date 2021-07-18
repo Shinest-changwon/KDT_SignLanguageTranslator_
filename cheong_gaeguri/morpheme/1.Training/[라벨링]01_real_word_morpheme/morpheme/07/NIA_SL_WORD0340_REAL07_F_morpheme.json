@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0971/NIA_SL_WORD0340_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0340_REAL07_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.026,
+            "end": 3.559,
+            "attributes": [
+                {
+                    "name": "진하기"
+                }
+            ]
+        }
+    ]
+}

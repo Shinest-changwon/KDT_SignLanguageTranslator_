@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1046/NIA_SL_WORD1757_REAL07_L.mp4",
+        "name": "NIA_SL_WORD1757_REAL07_L.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.907,
+            "end": 3.865,
+            "attributes": [
+                {
+                    "name": "춘천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0802/NIA_SL_WORD0915_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0915_REAL03_D.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.194,
+            "end": 4.127,
+            "attributes": [
+                {
+                    "name": "쇼하다"
+                }
+            ]
+        }
+    ]
+}

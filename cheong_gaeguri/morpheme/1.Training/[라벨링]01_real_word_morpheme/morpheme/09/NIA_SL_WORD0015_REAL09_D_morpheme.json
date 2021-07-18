@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0472/NIA_SL_WORD0015_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0015_REAL09_D.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.247,
+            "end": 2.697,
+            "attributes": [
+                {
+                    "name": "영아"
+                }
+            ]
+        }
+    ]
+}

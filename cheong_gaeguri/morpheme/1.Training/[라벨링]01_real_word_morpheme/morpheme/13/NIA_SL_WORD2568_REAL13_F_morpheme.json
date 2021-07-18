@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0522/NIA_SL_WORD2568_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2568_REAL13_F.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.06,
+            "end": 2.795,
+            "attributes": [
+                {
+                    "name": "일몰"
+                }
+            ]
+        }
+    ]
+}

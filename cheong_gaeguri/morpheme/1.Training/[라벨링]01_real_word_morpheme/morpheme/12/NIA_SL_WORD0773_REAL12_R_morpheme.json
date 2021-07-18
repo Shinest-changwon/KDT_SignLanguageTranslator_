@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0673/NIA_SL_WORD0773_REAL12_R.mp4",
+        "name": "NIA_SL_WORD0773_REAL12_R.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.545,
+            "end": 3.106,
+            "attributes": [
+                {
+                    "name": "인력"
+                }
+            ]
+        }
+    ]
+}

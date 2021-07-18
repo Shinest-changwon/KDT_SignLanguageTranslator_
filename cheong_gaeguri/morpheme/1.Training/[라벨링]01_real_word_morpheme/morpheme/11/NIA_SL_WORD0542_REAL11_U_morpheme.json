@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_moyu0984/NIA_SL_WORD0542_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0542_REAL11_U.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.821,
+            "end": 3.889,
+            "attributes": [
+                {
+                    "name": "밀서"
+                }
+            ]
+        }
+    ]
+}

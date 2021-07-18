@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0840/NIA_SL_WORD0596_REAL04_L.mp4",
+        "name": "NIA_SL_WORD0596_REAL04_L.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.233,
+            "end": 4.167,
+            "attributes": [
+                {
+                    "name": "속달"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_swlee0260/NIA_SL_WORD2143_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2143_REAL08_R.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.226,
+            "end": 3.142,
+            "attributes": [
+                {
+                    "name": "신부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0668/NIA_SL_WORD0972_REAL12_F.mp4",
+        "name": "NIA_SL_WORD0972_REAL12_F.mp4",
+        "duration": 2.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.288,
+            "end": 2.397,
+            "attributes": [
+                {
+                    "name": "뙤약볕"
+                }
+            ]
+        }
+    ]
+}

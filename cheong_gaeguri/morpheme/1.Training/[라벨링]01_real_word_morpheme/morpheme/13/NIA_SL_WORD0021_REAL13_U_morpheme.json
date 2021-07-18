@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0618/NIA_SL_WORD0021_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0021_REAL13_U.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.667,
+            "end": 2.504,
+            "attributes": [
+                {
+                    "name": "열아홉번째"
+                }
+            ]
+        }
+    ]
+}

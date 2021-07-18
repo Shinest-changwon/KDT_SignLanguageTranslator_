@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0489/NIA_SL_WORD0369_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0369_REAL14_U.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.243,
+            "end": 4.096,
+            "attributes": [
+                {
+                    "name": "신경쓰다"
+                }
+            ]
+        }
+    ]
+}

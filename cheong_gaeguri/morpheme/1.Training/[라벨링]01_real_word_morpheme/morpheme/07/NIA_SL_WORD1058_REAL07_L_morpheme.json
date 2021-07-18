@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1116/NIA_SL_WORD1058_REAL07_L.mp4",
+        "name": "NIA_SL_WORD1058_REAL07_L.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.531,
+            "end": 3.416,
+            "attributes": [
+                {
+                    "name": "양천구지부"
+                }
+            ]
+        }
+    ]
+}

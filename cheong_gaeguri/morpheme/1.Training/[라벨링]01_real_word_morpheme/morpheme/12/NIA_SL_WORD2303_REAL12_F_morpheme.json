@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1193/NIA_SL_WORD2303_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2303_REAL12_F.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.539,
+            "end": 2.996,
+            "attributes": [
+                {
+                    "name": "파악하다"
+                }
+            ]
+        }
+    ]
+}

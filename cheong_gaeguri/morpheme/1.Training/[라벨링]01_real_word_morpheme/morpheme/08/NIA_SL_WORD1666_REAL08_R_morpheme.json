@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0262/NIA_SL_WORD1666_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1666_REAL08_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.57,
+            "end": 3.825,
+            "attributes": [
+                {
+                    "name": "남양주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

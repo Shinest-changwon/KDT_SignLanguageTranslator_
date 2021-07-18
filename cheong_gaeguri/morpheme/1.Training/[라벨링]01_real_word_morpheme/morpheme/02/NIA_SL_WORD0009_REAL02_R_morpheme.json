@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou307/NIA_SL_WORD0009_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0009_REAL02_R.mp4",
+        "duration": 7.217,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 3.553,
+            "end": 5.829,
+            "attributes": [
+                {
+                    "name": "슬프다"
+                }
+            ]
+        }
+    ]
+}

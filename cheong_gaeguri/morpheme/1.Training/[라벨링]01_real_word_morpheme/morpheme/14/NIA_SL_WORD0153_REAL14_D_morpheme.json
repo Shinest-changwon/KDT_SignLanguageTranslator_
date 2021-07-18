@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0493/NIA_SL_WORD0153_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0153_REAL14_D.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.538,
+            "end": 3.217,
+            "attributes": [
+                {
+                    "name": "신입학"
+                }
+            ]
+        }
+    ]
+}

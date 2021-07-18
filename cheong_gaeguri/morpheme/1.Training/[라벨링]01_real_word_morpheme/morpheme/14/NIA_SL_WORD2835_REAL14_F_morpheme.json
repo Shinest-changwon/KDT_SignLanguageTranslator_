@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_yhjeon0299/NIA_SL_WORD2835_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2835_REAL14_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.241,
+            "end": 2.45,
+            "attributes": [
+                {
+                    "name": "이백삼십"
+                }
+            ]
+        }
+    ]
+}

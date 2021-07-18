@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon302/NIA_SL_WORD1732_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1732_REAL02_R.mp4",
+        "duration": 3.684,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.727,
+            "end": 3.108,
+            "attributes": [
+                {
+                    "name": "동해시지부"
+                }
+            ]
+        }
+    ]
+}

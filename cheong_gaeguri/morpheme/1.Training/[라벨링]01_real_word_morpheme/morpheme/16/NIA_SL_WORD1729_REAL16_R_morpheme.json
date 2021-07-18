@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0763/NIA_SL_WORD1729_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1729_REAL16_R.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.342,
+            "end": 2.532,
+            "attributes": [
+                {
+                    "name": "고성지부"
+                }
+            ]
+        }
+    ]
+}

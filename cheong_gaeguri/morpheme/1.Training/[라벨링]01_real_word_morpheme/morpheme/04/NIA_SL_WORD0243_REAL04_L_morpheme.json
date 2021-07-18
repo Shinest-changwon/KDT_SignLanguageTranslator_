@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0855/NIA_SL_WORD0243_REAL04_L.mp4",
+        "name": "NIA_SL_WORD0243_REAL04_L.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.953,
+            "end": 3.786,
+            "attributes": [
+                {
+                    "name": "경남"
+                }
+            ]
+        }
+    ]
+}

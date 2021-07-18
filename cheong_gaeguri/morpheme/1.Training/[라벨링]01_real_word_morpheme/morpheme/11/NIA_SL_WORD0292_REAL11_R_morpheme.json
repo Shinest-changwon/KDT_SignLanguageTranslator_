@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0984/NIA_SL_WORD0292_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0292_REAL11_R.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.66,
+            "end": 3.4,
+            "attributes": [
+                {
+                    "name": "강아지"
+                }
+            ]
+        }
+    ]
+}

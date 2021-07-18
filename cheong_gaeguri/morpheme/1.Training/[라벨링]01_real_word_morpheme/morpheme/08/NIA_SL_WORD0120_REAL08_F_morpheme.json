@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0257/NIA_SL_WORD0120_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0120_REAL08_F.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/17"
+    },
+    "data": [
+        {
+            "start": 1.547,
+            "end": 3.13,
+            "attributes": [
+                {
+                    "name": "백설기"
+                }
+            ]
+        }
+    ]
+}

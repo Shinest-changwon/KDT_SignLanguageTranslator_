@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0759/NIA_SL_WORD0682_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0682_REAL16_D.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.315,
+            "end": 3.215,
+            "attributes": [
+                {
+                    "name": "실천"
+                }
+            ]
+        }
+    ]
+}

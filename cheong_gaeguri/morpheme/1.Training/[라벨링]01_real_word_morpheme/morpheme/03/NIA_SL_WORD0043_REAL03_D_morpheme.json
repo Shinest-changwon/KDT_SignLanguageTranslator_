@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0790/NIA_SL_WORD0043_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0043_REAL03_D.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.038,
+            "end": 3.422,
+            "attributes": [
+                {
+                    "name": "불행"
+                }
+            ]
+        }
+    ]
+}

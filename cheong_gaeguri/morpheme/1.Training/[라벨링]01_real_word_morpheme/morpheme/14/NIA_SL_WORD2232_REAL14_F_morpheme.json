@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_rhkim0314/NIA_SL_WORD2232_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2232_REAL14_F.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.677,
+            "end": 2.943,
+            "attributes": [
+                {
+                    "name": "갑절"
+                }
+            ]
+        }
+    ]
+}

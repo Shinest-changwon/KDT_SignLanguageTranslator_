@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0249/NIA_SL_WORD0037_REAL08_D.mp4",
+        "name": "NIA_SL_WORD0037_REAL08_D.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.683,
+            "end": 3.62,
+            "attributes": [
+                {
+                    "name": "감기"
+                }
+            ]
+        }
+    ]
+}

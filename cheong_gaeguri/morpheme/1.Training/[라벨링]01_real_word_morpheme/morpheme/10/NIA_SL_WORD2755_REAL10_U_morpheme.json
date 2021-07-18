@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0806/NIA_SL_WORD2755_REAL10_U.mp4",
+        "name": "NIA_SL_WORD2755_REAL10_U.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.441,
+            "end": 3.123,
+            "attributes": [
+                {
+                    "name": "백이십삼"
+                }
+            ]
+        }
+    ]
+}

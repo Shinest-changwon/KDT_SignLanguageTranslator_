@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee307/NIA_SL_WORD0810_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0810_REAL02_U.mp4",
+        "duration": 3.817,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.303,
+            "end": 2.632,
+            "attributes": [
+                {
+                    "name": "틀림없다"
+                }
+            ]
+        }
+    ]
+}

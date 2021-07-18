@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0311/NIA_SL_WORD1452_REAL14_U.mp4",
+        "name": "NIA_SL_WORD1452_REAL14_U.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.373,
+            "end": 2.606,
+            "attributes": [
+                {
+                    "name": "용산"
+                }
+            ]
+        }
+    ]
+}

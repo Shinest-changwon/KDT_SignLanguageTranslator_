@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0346/NIA_SL_WORD2601_REAL01_R.mp4",
+        "name": "NIA_SL_WORD2601_REAL01_R.mp4",
+        "duration": 2.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.627,
+            "end": 2.222,
+            "attributes": [
+                {
+                    "name": "보이다"
+                }
+            ]
+        }
+    ]
+}

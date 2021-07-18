@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0620/NIA_SL_WORD0048_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0048_REAL13_R.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.983,
+            "end": 3.417,
+            "attributes": [
+                {
+                    "name": "방충"
+                }
+            ]
+        }
+    ]
+}

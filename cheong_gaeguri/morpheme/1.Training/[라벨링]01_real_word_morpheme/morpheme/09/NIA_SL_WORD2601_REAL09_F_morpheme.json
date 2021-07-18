@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_moyu0488/NIA_SL_WORD2601_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2601_REAL09_F.mp4",
+        "duration": 2.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.963,
+            "end": 1.782,
+            "attributes": [
+                {
+                    "name": "보이다"
+                }
+            ]
+        }
+    ]
+}

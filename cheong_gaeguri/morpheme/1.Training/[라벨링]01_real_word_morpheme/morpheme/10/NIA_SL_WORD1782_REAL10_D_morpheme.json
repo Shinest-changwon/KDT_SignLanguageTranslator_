@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0408/NIA_SL_WORD1782_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1782_REAL10_D.mp4",
+        "duration": 5.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.582,
+            "end": 4.068,
+            "attributes": [
+                {
+                    "name": "보은군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

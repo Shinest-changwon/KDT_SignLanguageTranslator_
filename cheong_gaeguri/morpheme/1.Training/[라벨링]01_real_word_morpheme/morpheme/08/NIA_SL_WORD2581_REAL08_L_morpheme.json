@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0619/NIA_SL_WORD2581_REAL08_L.mp4",
+        "name": "NIA_SL_WORD2581_REAL08_L.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.671,
+            "end": 3.871,
+            "attributes": [
+                {
+                    "name": "홍수"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1063/NIA_SL_WORD0403_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0403_REAL14_R.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.27,
+            "end": 3.519,
+            "attributes": [
+                {
+                    "name": "미치광이"
+                }
+            ]
+        }
+    ]
+}

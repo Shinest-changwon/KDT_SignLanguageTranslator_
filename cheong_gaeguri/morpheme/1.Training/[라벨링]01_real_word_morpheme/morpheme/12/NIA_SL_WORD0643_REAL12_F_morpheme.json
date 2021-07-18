@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0660/NIA_SL_WORD0643_REAL12_F.mp4",
+        "name": "NIA_SL_WORD0643_REAL12_F.mp4",
+        "duration": 6.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.645,
+            "end": 5.4,
+            "attributes": [
+                {
+                    "name": "연설문"
+                }
+            ]
+        }
+    ]
+}

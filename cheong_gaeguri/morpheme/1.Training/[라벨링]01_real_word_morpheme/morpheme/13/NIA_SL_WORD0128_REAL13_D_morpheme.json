@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0628/NIA_SL_WORD0128_REAL13_D.mp4",
+        "name": "NIA_SL_WORD0128_REAL13_D.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.626,
+            "end": 3.239,
+            "attributes": [
+                {
+                    "name": "에어컨"
+                }
+            ]
+        }
+    ]
+}

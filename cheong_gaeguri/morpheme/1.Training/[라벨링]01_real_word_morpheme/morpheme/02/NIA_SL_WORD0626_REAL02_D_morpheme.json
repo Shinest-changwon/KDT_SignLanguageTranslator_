@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi336/NIA_SL_WORD0626_REAL02_D.mp4",
+        "name": "NIA_SL_WORD0626_REAL02_D.mp4",
+        "duration": 3.317,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.919,
+            "end": 2.788,
+            "attributes": [
+                {
+                    "name": "색연필"
+                }
+            ]
+        }
+    ]
+}

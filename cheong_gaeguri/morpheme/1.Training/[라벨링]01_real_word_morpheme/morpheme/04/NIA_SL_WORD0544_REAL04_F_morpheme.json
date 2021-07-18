@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0835/NIA_SL_WORD0544_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0544_REAL04_F.mp4",
+        "duration": 5.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.312,
+            "end": 4.299,
+            "attributes": [
+                {
+                    "name": "밀작"
+                }
+            ]
+        }
+    ]
+}

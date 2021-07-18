@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0250/NIA_SL_WORD0795_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0795_REAL08_R.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.923,
+            "end": 3.154,
+            "attributes": [
+                {
+                    "name": "장애인복지관"
+                }
+            ]
+        }
+    ]
+}

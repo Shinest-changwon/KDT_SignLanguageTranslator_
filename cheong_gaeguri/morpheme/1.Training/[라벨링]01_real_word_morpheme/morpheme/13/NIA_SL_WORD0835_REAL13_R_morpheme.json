@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1063/NIA_SL_WORD0835_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0835_REAL13_R.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.505,
+            "end": 3.682,
+            "attributes": [
+                {
+                    "name": "지팡이"
+                }
+            ]
+        }
+    ]
+}

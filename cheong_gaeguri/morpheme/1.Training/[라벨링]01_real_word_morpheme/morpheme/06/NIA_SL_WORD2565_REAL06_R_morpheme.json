@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_gdchoi0652/NIA_SL_WORD2565_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2565_REAL06_R.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.719,
+            "end": 3.073,
+            "attributes": [
+                {
+                    "name": "일출"
+                }
+            ]
+        }
+    ]
+}

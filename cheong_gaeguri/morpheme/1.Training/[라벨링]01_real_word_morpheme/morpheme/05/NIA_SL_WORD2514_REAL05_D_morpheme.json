@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1215_RE_WORD_2/NIA_SL_WORD2514_REAL05_D.mp4",
+        "name": "NIA_SL_WORD2514_REAL05_D.mp4",
+        "duration": 3.284,
+        "exportedOn": "2020/12/15"
+    },
+    "data": [
+        {
+            "start": 1.562,
+            "end": 2.664,
+            "attributes": [
+                {
+                    "name": "브라질"
+                }
+            ]
+        }
+    ]
+}

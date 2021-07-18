@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0247/NIA_SL_WORD1262_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1262_REAL08_U.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.587,
+            "end": 1.836,
+            "attributes": [
+                {
+                    "name": "턱"
+                }
+            ]
+        }
+    ]
+}

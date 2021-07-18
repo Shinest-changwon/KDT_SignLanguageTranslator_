@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1160/NIA_SL_WORD2465_REAL11_U.mp4",
+        "name": "NIA_SL_WORD2465_REAL11_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.513,
+            "end": 4.463,
+            "attributes": [
+                {
+                    "name": "대전광역시청"
+                }
+            ]
+        }
+    ]
+}

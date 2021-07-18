@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0808/NIA_SL_WORD1477_REAL03_R.mp4",
+        "name": "NIA_SL_WORD1477_REAL03_R.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.285,
+            "end": 3.487,
+            "attributes": [
+                {
+                    "name": "중앙대학교"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_sjim0929/NIA_SL_WORD2563_REAL05_U.mp4",
+        "name": "NIA_SL_WORD2563_REAL05_U.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.468,
+            "end": 2.917,
+            "attributes": [
+                {
+                    "name": "온도"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0261/NIA_SL_WORD0151_REAL08_L.mp4",
+        "name": "NIA_SL_WORD0151_REAL08_L.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.227,
+            "end": 4.244,
+            "attributes": [
+                {
+                    "name": "음주운전"
+                }
+            ]
+        }
+    ]
+}

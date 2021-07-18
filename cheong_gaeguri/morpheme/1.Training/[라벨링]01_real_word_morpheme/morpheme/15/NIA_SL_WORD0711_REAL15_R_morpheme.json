@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0707/NIA_SL_WORD0711_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0711_REAL15_R.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.083,
+            "end": 3.08,
+            "attributes": [
+                {
+                    "name": "경로당"
+                }
+            ]
+        }
+    ]
+}

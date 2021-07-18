@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0258/NIA_SL_WORD1380_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1380_REAL08_U.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.175,
+            "end": 2.187,
+            "attributes": [
+                {
+                    "name": "때리다"
+                }
+            ]
+        }
+    ]
+}

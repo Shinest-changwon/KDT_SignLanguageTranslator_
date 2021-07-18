@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0792/NIA_SL_WORD0319_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0319_REAL03_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.51,
+            "end": 3.077,
+            "attributes": [
+                {
+                    "name": "식목일"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_rhkim0969/NIA_SL_WORD0893_REAL11_L.mp4",
+        "name": "NIA_SL_WORD0893_REAL11_L.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.265,
+            "end": 3.631,
+            "attributes": [
+                {
+                    "name": "콩잎"
+                }
+            ]
+        }
+    ]
+}

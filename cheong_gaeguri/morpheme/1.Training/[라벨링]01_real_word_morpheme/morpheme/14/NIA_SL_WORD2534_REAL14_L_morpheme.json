@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0294/NIA_SL_WORD2534_REAL14_L.mp4",
+        "name": "NIA_SL_WORD2534_REAL14_L.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.626,
+            "end": 2.368,
+            "attributes": [
+                {
+                    "name": "언덕"
+                }
+            ]
+        }
+    ]
+}

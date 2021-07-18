@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0788/NIA_SL_WORD0029_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0029_REAL03_F.mp4",
+        "duration": 5.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.389,
+            "end": 4.901,
+            "attributes": [
+                {
+                    "name": "검사"
+                }
+            ]
+        }
+    ]
+}

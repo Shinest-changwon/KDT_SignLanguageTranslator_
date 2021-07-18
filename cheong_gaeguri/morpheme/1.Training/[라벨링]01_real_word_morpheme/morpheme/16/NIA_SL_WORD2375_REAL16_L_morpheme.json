@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0938/NIA_SL_WORD2375_REAL16_L.mp4",
+        "name": "NIA_SL_WORD2375_REAL16_L.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.662,
+            "end": 2.842,
+            "attributes": [
+                {
+                    "name": "부부싸움"
+                }
+            ]
+        }
+    ]
+}

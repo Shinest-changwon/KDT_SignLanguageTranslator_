@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0800/NIA_SL_WORD1642_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1642_REAL03_L.mp4",
+        "duration": 5.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.597,
+            "end": 4.334,
+            "attributes": [
+                {
+                    "name": "가평군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

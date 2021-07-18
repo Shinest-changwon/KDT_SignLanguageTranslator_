@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0622/NIA_SL_WORD2611_REAL08_L.mp4",
+        "name": "NIA_SL_WORD2611_REAL08_L.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.707,
+            "end": 2.63,
+            "attributes": [
+                {
+                    "name": "마산"
+                }
+            ]
+        }
+    ]
+}

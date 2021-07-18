@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1121/NIA_SL_WORD2597_REAL07_L.mp4",
+        "name": "NIA_SL_WORD2597_REAL07_L.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.307,
+            "end": 2.491,
+            "attributes": [
+                {
+                    "name": "이스라엘"
+                }
+            ]
+        }
+    ]
+}

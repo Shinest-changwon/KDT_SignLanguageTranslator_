@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0764/NIA_SL_WORD1486_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1486_REAL16_L.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.315,
+            "end": 2.491,
+            "attributes": [
+                {
+                    "name": "고양"
+                }
+            ]
+        }
+    ]
+}

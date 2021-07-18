@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0744/NIA_SL_WORD1034_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1034_REAL16_R.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.624,
+            "end": 3.296,
+            "attributes": [
+                {
+                    "name": "동대문구지부"
+                }
+            ]
+        }
+    ]
+}

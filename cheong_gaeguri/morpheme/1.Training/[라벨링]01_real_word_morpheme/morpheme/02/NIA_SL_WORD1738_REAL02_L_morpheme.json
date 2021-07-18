@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon302/NIA_SL_WORD1738_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1738_REAL02_L.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.494,
+            "end": 3.004,
+            "attributes": [
+                {
+                    "name": "속초시지부"
+                }
+            ]
+        }
+    ]
+}

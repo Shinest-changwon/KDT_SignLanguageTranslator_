@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0518/NIA_SL_WORD2277_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2277_REAL13_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.518,
+            "end": 3.301,
+            "attributes": [
+                {
+                    "name": "맹세"
+                }
+            ]
+        }
+    ]
+}

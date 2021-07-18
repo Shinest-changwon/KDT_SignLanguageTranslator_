@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0806/NIA_SL_WORD2751_REAL10_D.mp4",
+        "name": "NIA_SL_WORD2751_REAL10_D.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.33,
+            "end": 2.704,
+            "attributes": [
+                {
+                    "name": "백십구"
+                }
+            ]
+        }
+    ]
+}

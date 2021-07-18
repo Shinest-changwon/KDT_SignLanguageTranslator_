@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0696/NIA_SL_WORD0352_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0352_REAL15_R.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.65,
+            "end": 3.386,
+            "attributes": [
+                {
+                    "name": "감금"
+                }
+            ]
+        }
+    ]
+}

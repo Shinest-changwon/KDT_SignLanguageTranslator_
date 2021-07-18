@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1103/NIA_SL_WORD0035_REAL06_U.mp4",
+        "name": "NIA_SL_WORD0035_REAL06_U.mp4",
+        "duration": 3.784,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.905,
+            "end": 2.712,
+            "attributes": [
+                {
+                    "name": "매표소"
+                }
+            ]
+        }
+    ]
+}

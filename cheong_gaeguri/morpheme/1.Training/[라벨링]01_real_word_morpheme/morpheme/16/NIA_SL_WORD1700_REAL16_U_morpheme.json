@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0760/NIA_SL_WORD1700_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1700_REAL16_U.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.553,
+            "end": 3.222,
+            "attributes": [
+                {
+                    "name": "용인시청"
+                }
+            ]
+        }
+    ]
+}

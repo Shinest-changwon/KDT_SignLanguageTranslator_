@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu297/NIA_SL_WORD2884_REAL02_D.mp4",
+        "name": "NIA_SL_WORD2884_REAL02_D.mp4",
+        "duration": 3.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.547,
+            "end": 2.408,
+            "attributes": [
+                {
+                    "name": "이만"
+                }
+            ]
+        }
+    ]
+}

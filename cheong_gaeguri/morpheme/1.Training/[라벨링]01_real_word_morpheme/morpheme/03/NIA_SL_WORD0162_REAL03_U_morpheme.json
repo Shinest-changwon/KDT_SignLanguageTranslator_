@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0802/NIA_SL_WORD0162_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0162_REAL03_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.447,
+            "end": 3.133,
+            "attributes": [
+                {
+                    "name": "퇴임"
+                }
+            ]
+        }
+    ]
+}

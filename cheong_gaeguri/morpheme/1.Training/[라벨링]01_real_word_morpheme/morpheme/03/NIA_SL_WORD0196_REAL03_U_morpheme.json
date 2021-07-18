@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0805/NIA_SL_WORD0196_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0196_REAL03_U.mp4",
+        "duration": 5.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.118,
+            "end": 4.977,
+            "attributes": [
+                {
+                    "name": "사육장"
+                }
+            ]
+        }
+    ]
+}

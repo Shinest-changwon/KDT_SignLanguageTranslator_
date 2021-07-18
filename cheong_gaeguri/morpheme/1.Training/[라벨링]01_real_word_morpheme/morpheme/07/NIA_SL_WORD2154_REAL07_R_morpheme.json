@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1076/NIA_SL_WORD2154_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2154_REAL07_R.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.405,
+            "end": 3.342,
+            "attributes": [
+                {
+                    "name": "의혹"
+                }
+            ]
+        }
+    ]
+}

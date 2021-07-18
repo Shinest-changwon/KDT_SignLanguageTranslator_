@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0421/NIA_SL_WORD1657_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1657_REAL10_R.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.509,
+            "end": 4.129,
+            "attributes": [
+                {
+                    "name": "구리시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

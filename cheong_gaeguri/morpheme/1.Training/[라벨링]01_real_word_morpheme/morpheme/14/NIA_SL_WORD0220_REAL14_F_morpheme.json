@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0474/NIA_SL_WORD0220_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0220_REAL14_F.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.431,
+            "end": 4.136,
+            "attributes": [
+                {
+                    "name": "독서실"
+                }
+            ]
+        }
+    ]
+}

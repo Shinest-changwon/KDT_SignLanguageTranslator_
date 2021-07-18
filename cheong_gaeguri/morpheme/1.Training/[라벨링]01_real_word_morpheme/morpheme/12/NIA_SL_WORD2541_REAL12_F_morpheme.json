@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1183/NIA_SL_WORD2541_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2541_REAL12_F.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.325,
+            "end": 2.3,
+            "attributes": [
+                {
+                    "name": "흙"
+                }
+            ]
+        }
+    ]
+}

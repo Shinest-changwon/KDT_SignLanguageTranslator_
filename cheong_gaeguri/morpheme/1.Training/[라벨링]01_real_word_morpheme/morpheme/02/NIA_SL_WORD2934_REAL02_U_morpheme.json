@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu302/NIA_SL_WORD2934_REAL02_U.mp4",
+        "name": "NIA_SL_WORD2934_REAL02_U.mp4",
+        "duration": 3.284,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.675,
+            "end": 2.474,
+            "attributes": [
+                {
+                    "name": "구백만"
+                }
+            ]
+        }
+    ]
+}

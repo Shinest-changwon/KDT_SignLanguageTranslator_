@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0975/NIA_SL_WORD0861_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0861_REAL07_F.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.409,
+            "end": 3.091,
+            "attributes": [
+                {
+                    "name": "청진기"
+                }
+            ]
+        }
+    ]
+}

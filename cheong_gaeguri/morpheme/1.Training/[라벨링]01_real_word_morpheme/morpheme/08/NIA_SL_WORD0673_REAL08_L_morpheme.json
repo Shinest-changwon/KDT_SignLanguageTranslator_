@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0263/NIA_SL_WORD0673_REAL08_L.mp4",
+        "name": "NIA_SL_WORD0673_REAL08_L.mp4",
+        "duration": 6.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.91,
+            "end": 5.881,
+            "attributes": [
+                {
+                    "name": "시험감독"
+                }
+            ]
+        }
+    ]
+}

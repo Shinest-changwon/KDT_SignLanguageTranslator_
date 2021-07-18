@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee312/NIA_SL_WORD0852_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0852_REAL02_U.mp4",
+        "duration": 4.117,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.337,
+            "end": 3.101,
+            "attributes": [
+                {
+                    "name": "철근"
+                }
+            ]
+        }
+    ]
+}

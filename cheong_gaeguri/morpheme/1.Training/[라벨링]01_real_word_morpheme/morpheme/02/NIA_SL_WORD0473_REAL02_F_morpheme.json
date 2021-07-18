@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi321/NIA_SL_WORD0473_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0473_REAL02_F.mp4",
+        "duration": 3.284,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.989,
+            "end": 2.681,
+            "attributes": [
+                {
+                    "name": "대독"
+                }
+            ]
+        }
+    ]
+}

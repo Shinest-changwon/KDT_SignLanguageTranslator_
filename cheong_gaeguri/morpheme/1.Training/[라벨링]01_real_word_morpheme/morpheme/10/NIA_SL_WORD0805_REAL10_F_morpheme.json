@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_hwlee0411/NIA_SL_WORD0805_REAL10_F.mp4",
+        "name": "NIA_SL_WORD0805_REAL10_F.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.54,
+            "end": 4.053,
+            "attributes": [
+                {
+                    "name": "전기기술자"
+                }
+            ]
+        }
+    ]
+}

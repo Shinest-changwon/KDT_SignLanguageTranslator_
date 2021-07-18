@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0934/NIA_SL_WORD0430_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0430_REAL05_F.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.015,
+            "end": 3.739,
+            "attributes": [
+                {
+                    "name": "귀부인"
+                }
+            ]
+        }
+    ]
+}

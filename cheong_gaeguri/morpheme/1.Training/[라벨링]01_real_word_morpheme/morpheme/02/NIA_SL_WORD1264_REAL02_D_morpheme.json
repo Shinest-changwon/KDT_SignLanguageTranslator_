@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan320/NIA_SL_WORD1264_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1264_REAL02_D.mp4",
+        "duration": 3.75,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.654,
+            "end": 2.978,
+            "attributes": [
+                {
+                    "name": "소극적"
+                }
+            ]
+        }
+    ]
+}

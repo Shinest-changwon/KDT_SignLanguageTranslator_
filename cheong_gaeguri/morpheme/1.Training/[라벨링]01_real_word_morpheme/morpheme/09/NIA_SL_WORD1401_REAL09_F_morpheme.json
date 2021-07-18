@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim317/NIA_SL_WORD1401_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1401_REAL09_F.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.5,
+            "end": 2.542,
+            "attributes": [
+                {
+                    "name": "남녀2"
+                }
+            ]
+        }
+    ]
+}

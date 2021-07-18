@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0297/NIA_SL_WORD2566_REAL14_U.mp4",
+        "name": "NIA_SL_WORD2566_REAL14_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.08,
+            "end": 3.634,
+            "attributes": [
+                {
+                    "name": "장마"
+                }
+            ]
+        }
+    ]
+}

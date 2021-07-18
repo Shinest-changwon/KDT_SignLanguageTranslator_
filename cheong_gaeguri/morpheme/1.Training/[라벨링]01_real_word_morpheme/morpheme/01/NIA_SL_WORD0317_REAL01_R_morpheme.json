@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_emyou0342/NIA_SL_WORD0317_REAL01_R.mp4",
+        "name": "NIA_SL_WORD0317_REAL01_R.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.637,
+            "end": 2.032,
+            "attributes": [
+                {
+                    "name": "급행"
+                }
+            ]
+        }
+    ]
+}

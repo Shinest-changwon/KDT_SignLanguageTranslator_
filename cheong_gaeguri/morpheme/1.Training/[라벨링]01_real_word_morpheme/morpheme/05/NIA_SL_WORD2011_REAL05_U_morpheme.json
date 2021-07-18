@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0928/NIA_SL_WORD2011_REAL05_U.mp4",
+        "name": "NIA_SL_WORD2011_REAL05_U.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.435,
+            "end": 4.338,
+            "attributes": [
+                {
+                    "name": "거만"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_swlee1197/NIA_SL_WORD2608_REAL15_R.mp4",
+        "name": "NIA_SL_WORD2608_REAL15_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.338,
+            "end": 2.798,
+            "attributes": [
+                {
+                    "name": "태백"
+                }
+            ]
+        }
+    ]
+}

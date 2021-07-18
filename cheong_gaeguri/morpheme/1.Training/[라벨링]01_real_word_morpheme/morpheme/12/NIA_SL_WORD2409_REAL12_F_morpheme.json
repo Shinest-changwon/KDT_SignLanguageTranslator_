@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1186/NIA_SL_WORD2409_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2409_REAL12_F.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.677,
+            "end": 5.013,
+            "attributes": [
+                {
+                    "name": "경남농아인협회"
+                }
+            ]
+        }
+    ]
+}

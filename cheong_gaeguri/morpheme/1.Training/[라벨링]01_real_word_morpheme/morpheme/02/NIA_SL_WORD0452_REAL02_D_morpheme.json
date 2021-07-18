@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi319/NIA_SL_WORD0452_REAL02_D.mp4",
+        "name": "NIA_SL_WORD0452_REAL02_D.mp4",
+        "duration": 2.984,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.913,
+            "end": 2.421,
+            "attributes": [
+                {
+                    "name": "온실"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee324/NIA_SL_WORD0976_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0976_REAL02_R.mp4",
+        "duration": 2.584,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.73,
+            "end": 2.39,
+            "attributes": [
+                {
+                    "name": "이심전심"
+                }
+            ]
+        }
+    ]
+}

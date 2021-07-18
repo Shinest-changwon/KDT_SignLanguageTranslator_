@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0926/NIA_SL_WORD1490_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1490_REAL05_R.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.85,
+            "end": 3.51,
+            "attributes": [
+                {
+                    "name": "파주"
+                }
+            ]
+        }
+    ]
+}

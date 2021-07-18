@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0981/NIA_SL_WORD0668_REAL07_L.mp4",
+        "name": "NIA_SL_WORD0668_REAL07_L.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.855,
+            "end": 3.035,
+            "attributes": [
+                {
+                    "name": "승패"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_sjim0754/NIA_SL_WORD2886_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2886_REAL16_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.547,
+            "end": 2.366,
+            "attributes": [
+                {
+                    "name": "삼만"
+                }
+            ]
+        }
+    ]
+}

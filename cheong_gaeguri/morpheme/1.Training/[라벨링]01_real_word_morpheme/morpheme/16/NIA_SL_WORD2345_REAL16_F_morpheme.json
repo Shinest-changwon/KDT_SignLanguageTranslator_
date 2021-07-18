@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0935/NIA_SL_WORD2345_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2345_REAL16_F.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.323,
+            "end": 2.511,
+            "attributes": [
+                {
+                    "name": "얕보다"
+                }
+            ]
+        }
+    ]
+}

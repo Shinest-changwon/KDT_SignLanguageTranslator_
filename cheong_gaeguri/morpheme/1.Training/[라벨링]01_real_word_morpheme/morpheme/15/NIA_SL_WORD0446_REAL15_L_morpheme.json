@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0705/NIA_SL_WORD0446_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0446_REAL15_L.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.516,
+            "end": 3.467,
+            "attributes": [
+                {
+                    "name": "길몽"
+                }
+            ]
+        }
+    ]
+}

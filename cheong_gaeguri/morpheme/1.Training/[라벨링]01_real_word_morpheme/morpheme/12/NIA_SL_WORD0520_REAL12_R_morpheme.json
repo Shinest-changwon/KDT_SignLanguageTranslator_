@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0673/NIA_SL_WORD0520_REAL12_R.mp4",
+        "name": "NIA_SL_WORD0520_REAL12_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.645,
+            "end": 2.833,
+            "attributes": [
+                {
+                    "name": "무법자"
+                }
+            ]
+        }
+    ]
+}

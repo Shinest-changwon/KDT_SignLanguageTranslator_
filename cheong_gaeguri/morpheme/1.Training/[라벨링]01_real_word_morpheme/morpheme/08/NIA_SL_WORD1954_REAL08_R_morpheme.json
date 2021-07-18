@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0266/NIA_SL_WORD1954_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1954_REAL08_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.424,
+            "end": 4.072,
+            "attributes": [
+                {
+                    "name": "문경시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0713/NIA_SL_WORD1665_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1665_REAL15_U.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.313,
+            "end": 2.642,
+            "attributes": [
+                {
+                    "name": "남양주시지부"
+                }
+            ]
+        }
+    ]
+}

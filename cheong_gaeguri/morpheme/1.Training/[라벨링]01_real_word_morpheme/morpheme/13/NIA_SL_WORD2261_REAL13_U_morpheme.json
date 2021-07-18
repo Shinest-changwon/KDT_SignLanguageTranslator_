@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0517/NIA_SL_WORD2261_REAL13_U.mp4",
+        "name": "NIA_SL_WORD2261_REAL13_U.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.568,
+            "end": 3.037,
+            "attributes": [
+                {
+                    "name": "역력하다"
+                }
+            ]
+        }
+    ]
+}

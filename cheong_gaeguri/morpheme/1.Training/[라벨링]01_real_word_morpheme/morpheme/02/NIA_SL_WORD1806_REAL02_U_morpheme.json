@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon309/NIA_SL_WORD1806_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1806_REAL02_U.mp4",
+        "duration": 2.984,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.936,
+            "end": 2.46,
+            "attributes": [
+                {
+                    "name": "공주시지부"
+                }
+            ]
+        }
+    ]
+}

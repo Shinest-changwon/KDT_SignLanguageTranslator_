@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0790/NIA_SL_WORD1547_REAL03_R.mp4",
+        "name": "NIA_SL_WORD1547_REAL03_R.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.396,
+            "end": 2.827,
+            "attributes": [
+                {
+                    "name": "시아버지"
+                }
+            ]
+        }
+    ]
+}

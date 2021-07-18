@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0424/NIA_SL_WORD1184_REAL06_D.mp4",
+        "name": "NIA_SL_WORD1184_REAL06_D.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.824,
+            "end": 2.602,
+            "attributes": [
+                {
+                    "name": "뚱뚱하다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0834/NIA_SL_WORD0782_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0782_REAL04_D.mp4",
+        "duration": 6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.375,
+            "end": 4.494,
+            "attributes": [
+                {
+                    "name": "자살자"
+                }
+            ]
+        }
+    ]
+}

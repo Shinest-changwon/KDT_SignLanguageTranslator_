@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0937/NIA_SL_WORD2369_REAL16_R.mp4",
+        "name": "NIA_SL_WORD2369_REAL16_R.mp4",
+        "duration": 2.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.802,
+            "end": 1.746,
+            "attributes": [
+                {
+                    "name": "당황"
+                }
+            ]
+        }
+    ]
+}

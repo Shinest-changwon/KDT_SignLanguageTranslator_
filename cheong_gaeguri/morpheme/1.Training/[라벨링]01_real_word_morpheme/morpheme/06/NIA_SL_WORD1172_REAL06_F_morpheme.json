@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0423/NIA_SL_WORD1172_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1172_REAL06_F.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.847,
+            "end": 2.574,
+            "attributes": [
+                {
+                    "name": "때문"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_bkyu0888/NIA_SL_WORD2630_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2630_REAL04_L.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.674,
+            "end": 4.099,
+            "attributes": [
+                {
+                    "name": "강릉"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0417/NIA_SL_WORD1872_REAL10_L.mp4",
+        "name": "NIA_SL_WORD1872_REAL10_L.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.652,
+            "end": 3.761,
+            "attributes": [
+                {
+                    "name": "익산시청"
+                }
+            ]
+        }
+    ]
+}

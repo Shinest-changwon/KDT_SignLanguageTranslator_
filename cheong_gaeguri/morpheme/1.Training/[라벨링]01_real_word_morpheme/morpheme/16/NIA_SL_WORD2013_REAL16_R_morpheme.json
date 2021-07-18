@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1054/NIA_SL_WORD2013_REAL16_R.mp4",
+        "name": "NIA_SL_WORD2013_REAL16_R.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.396,
+            "end": 4.042,
+            "attributes": [
+                {
+                    "name": "한국인"
+                }
+            ]
+        }
+    ]
+}

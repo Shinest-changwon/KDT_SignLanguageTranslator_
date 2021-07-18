@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1039/NIA_SL_WORD2179_REAL07_L.mp4",
+        "name": "NIA_SL_WORD2179_REAL07_L.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.983,
+            "end": 3.3,
+            "attributes": [
+                {
+                    "name": "월급"
+                }
+            ]
+        }
+    ]
+}

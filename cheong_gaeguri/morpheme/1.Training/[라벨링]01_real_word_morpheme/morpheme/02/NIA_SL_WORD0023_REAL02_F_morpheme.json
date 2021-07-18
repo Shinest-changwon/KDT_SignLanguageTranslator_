@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou309/NIA_SL_WORD0023_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0023_REAL02_F.mp4",
+        "duration": 4.884,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.585,
+            "end": 3.897,
+            "attributes": [
+                {
+                    "name": "성실"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0698/NIA_SL_WORD0871_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0871_REAL15_L.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.775,
+            "end": 2.429,
+            "attributes": [
+                {
+                    "name": "촉진"
+                }
+            ]
+        }
+    ]
+}

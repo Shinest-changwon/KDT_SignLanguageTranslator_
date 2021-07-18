@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_bkyu0882/NIA_SL_WORD2563_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2563_REAL04_L.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.245,
+            "end": 4.045,
+            "attributes": [
+                {
+                    "name": "온도"
+                }
+            ]
+        }
+    ]
+}

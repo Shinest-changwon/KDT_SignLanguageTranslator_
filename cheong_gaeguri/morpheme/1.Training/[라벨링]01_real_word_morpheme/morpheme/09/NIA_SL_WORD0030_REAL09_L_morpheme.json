@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0473/NIA_SL_WORD0030_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0030_REAL09_L.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.784,
+            "end": 4.584,
+            "attributes": [
+                {
+                    "name": "결승전"
+                }
+            ]
+        }
+    ]
+}

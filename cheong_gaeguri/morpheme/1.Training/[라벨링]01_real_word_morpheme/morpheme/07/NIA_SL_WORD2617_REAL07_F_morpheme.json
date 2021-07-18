@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1122/NIA_SL_WORD2617_REAL07_F.mp4",
+        "name": "NIA_SL_WORD2617_REAL07_F.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.266,
+            "end": 2.325,
+            "attributes": [
+                {
+                    "name": "천안"
+                }
+            ]
+        }
+    ]
+}

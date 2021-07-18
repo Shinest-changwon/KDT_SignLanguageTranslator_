@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0787/NIA_SL_WORD1517_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1517_REAL03_L.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.545,
+            "end": 4.045,
+            "attributes": [
+                {
+                    "name": "울보"
+                }
+            ]
+        }
+    ]
+}

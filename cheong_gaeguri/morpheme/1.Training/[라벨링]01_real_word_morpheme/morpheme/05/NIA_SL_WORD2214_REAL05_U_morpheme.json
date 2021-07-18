@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_rhkim0923/NIA_SL_WORD2214_REAL05_U.mp4",
+        "name": "NIA_SL_WORD2214_REAL05_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.667,
+            "end": 3.067,
+            "attributes": [
+                {
+                    "name": "벼락부자"
+                }
+            ]
+        }
+    ]
+}

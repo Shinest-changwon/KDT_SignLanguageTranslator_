@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0742/NIA_SL_WORD0766_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0766_REAL16_U.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.023,
+            "end": 2.611,
+            "attributes": [
+                {
+                    "name": "응접실"
+                }
+            ]
+        }
+    ]
+}

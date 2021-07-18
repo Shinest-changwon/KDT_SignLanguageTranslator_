@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_rhkim0302/NIA_SL_WORD2120_REAL14_D.mp4",
+        "name": "NIA_SL_WORD2120_REAL14_D.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.107,
+            "end": 4.784,
+            "attributes": [
+                {
+                    "name": "고조할아버지"
+                }
+            ]
+        }
+    ]
+}

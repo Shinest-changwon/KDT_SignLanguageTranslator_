@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1101/NIA_SL_WORD1455_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1455_REAL07_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.557,
+            "end": 2.641,
+            "attributes": [
+                {
+                    "name": "광화문"
+                }
+            ]
+        }
+    ]
+}

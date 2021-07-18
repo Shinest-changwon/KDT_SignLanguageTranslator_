@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_emyou0294/NIA_SL_WORD0789_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0789_REAL14_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.243,
+            "end": 3.376,
+            "attributes": [
+                {
+                    "name": "옷장"
+                }
+            ]
+        }
+    ]
+}

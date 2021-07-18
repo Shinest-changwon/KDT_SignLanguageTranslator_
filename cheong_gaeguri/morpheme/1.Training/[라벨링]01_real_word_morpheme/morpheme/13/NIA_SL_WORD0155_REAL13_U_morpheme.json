@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0606/NIA_SL_WORD0155_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0155_REAL13_U.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.684,
+            "end": 4.262,
+            "attributes": [
+                {
+                    "name": "여행사"
+                }
+            ]
+        }
+    ]
+}

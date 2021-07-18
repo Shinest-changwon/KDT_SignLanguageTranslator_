@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1058/NIA_SL_WORD1603_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1603_REAL13_L.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.867,
+            "end": 4.367,
+            "attributes": [
+                {
+                    "name": "동구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

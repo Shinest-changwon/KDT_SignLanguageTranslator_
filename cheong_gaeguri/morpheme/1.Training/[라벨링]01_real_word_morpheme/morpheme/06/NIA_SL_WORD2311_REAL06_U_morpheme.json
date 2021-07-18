@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_emyou0652/NIA_SL_WORD2311_REAL06_U.mp4",
+        "name": "NIA_SL_WORD2311_REAL06_U.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.943,
+            "end": 3.081,
+            "attributes": [
+                {
+                    "name": "마이동풍"
+                }
+            ]
+        }
+    ]
+}

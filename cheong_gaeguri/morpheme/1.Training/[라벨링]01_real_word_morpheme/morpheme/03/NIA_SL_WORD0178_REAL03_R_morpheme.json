@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0803/NIA_SL_WORD0178_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0178_REAL03_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.657,
+            "end": 3.646,
+            "attributes": [
+                {
+                    "name": "평가"
+                }
+            ]
+        }
+    ]
+}

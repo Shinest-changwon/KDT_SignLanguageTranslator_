@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_gdchoi0880/NIA_SL_WORD0597_REAL06_R.mp4",
+        "name": "NIA_SL_WORD0597_REAL06_R.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.426,
+            "end": 3.086,
+            "attributes": [
+                {
+                    "name": "삐치다"
+                }
+            ]
+        }
+    ]
+}

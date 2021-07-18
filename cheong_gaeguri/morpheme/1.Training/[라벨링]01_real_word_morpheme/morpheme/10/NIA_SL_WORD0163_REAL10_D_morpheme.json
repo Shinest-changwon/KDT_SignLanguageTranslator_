@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0422/NIA_SL_WORD0163_REAL10_D.mp4",
+        "name": "NIA_SL_WORD0163_REAL10_D.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.292,
+            "end": 3.004,
+            "attributes": [
+                {
+                    "name": "의사"
+                }
+            ]
+        }
+    ]
+}

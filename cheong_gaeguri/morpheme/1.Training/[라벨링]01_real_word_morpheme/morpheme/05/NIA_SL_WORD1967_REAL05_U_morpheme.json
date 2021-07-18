@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0923/NIA_SL_WORD1967_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1967_REAL05_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.636,
+            "end": 3.374,
+            "attributes": [
+                {
+                    "name": "안동시청"
+                }
+            ]
+        }
+    ]
+}

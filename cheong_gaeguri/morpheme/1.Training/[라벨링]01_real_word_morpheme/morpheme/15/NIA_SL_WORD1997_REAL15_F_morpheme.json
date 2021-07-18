@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1052/NIA_SL_WORD1997_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1997_REAL15_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.617,
+            "end": 3.134,
+            "attributes": [
+                {
+                    "name": "청송군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

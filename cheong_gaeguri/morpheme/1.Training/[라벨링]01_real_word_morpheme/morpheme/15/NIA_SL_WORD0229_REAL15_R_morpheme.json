@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_bkyu1217/NIA_SL_WORD0229_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0229_REAL15_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.956,
+            "end": 2.817,
+            "attributes": [
+                {
+                    "name": "여학교"
+                }
+            ]
+        }
+    ]
+}

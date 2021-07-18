@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0618/NIA_SL_WORD1822_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1822_REAL03_L.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.389,
+            "end": 4.065,
+            "attributes": [
+                {
+                    "name": "부여군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

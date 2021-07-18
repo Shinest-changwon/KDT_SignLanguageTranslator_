@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0346/NIA_SL_WORD2105_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2105_REAL01_U.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.802,
+            "end": 3.226,
+            "attributes": [
+                {
+                    "name": "인성"
+                }
+            ]
+        }
+    ]
+}

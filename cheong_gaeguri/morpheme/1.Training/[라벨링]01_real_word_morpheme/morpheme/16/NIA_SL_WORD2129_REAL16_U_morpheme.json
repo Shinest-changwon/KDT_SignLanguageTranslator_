@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1070/NIA_SL_WORD2129_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2129_REAL16_U.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.753,
+            "end": 2.556,
+            "attributes": [
+                {
+                    "name": "검술"
+                }
+            ]
+        }
+    ]
+}

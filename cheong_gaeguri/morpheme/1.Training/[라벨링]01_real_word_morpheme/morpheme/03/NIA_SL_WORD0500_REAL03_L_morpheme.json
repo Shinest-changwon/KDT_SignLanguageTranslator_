@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0810/NIA_SL_WORD0500_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0500_REAL03_L.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.928,
+            "end": 2.044,
+            "attributes": [
+                {
+                    "name": "마음에들다"
+                }
+            ]
+        }
+    ]
+}

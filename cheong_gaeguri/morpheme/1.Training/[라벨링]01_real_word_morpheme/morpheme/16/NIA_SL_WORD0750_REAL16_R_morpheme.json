@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0765/NIA_SL_WORD0750_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0750_REAL16_R.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.069,
+            "end": 3.228,
+            "attributes": [
+                {
+                    "name": "요강"
+                }
+            ]
+        }
+    ]
+}

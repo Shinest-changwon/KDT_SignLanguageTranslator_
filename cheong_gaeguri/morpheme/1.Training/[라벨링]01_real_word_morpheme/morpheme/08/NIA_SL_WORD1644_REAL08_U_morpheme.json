@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0260/NIA_SL_WORD1644_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1644_REAL08_U.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.517,
+            "end": 3.055,
+            "attributes": [
+                {
+                    "name": "고양시지부"
+                }
+            ]
+        }
+    ]
+}

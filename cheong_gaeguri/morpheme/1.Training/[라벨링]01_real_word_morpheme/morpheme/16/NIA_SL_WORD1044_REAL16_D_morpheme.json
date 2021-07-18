@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0745/NIA_SL_WORD1044_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1044_REAL16_D.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.234,
+            "end": 3.638,
+            "attributes": [
+                {
+                    "name": "서대문구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1058/NIA_SL_WORD1207_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1207_REAL13_F.mp4",
+        "duration": 2.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.946,
+            "end": 1.953,
+            "attributes": [
+                {
+                    "name": "이해"
+                }
+            ]
+        }
+    ]
+}

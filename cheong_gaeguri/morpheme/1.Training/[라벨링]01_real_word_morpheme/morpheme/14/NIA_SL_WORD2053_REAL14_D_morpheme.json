@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_rhkim0296/NIA_SL_WORD2053_REAL14_D.mp4",
+        "name": "NIA_SL_WORD2053_REAL14_D.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.808,
+            "end": 3.382,
+            "attributes": [
+                {
+                    "name": "동의"
+                }
+            ]
+        }
+    ]
+}

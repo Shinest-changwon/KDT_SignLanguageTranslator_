@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0758/NIA_SL_WORD1925_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1925_REAL16_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.522,
+            "end": 3.317,
+            "attributes": [
+                {
+                    "name": "장흥군지부"
+                }
+            ]
+        }
+    ]
+}

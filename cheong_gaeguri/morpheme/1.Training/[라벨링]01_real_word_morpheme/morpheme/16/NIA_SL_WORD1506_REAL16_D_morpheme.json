@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0741/NIA_SL_WORD1506_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1506_REAL16_D.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.39,
+            "end": 2.41,
+            "attributes": [
+                {
+                    "name": "그립다"
+                }
+            ]
+        }
+    ]
+}

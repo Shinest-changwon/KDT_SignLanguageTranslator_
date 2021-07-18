@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0801/NIA_SL_WORD1402_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1402_REAL03_U.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.311,
+            "end": 2.533,
+            "attributes": [
+                {
+                    "name": "충무로"
+                }
+            ]
+        }
+    ]
+}

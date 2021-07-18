@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_sjim0799/NIA_SL_WORD2185_REAL10_R.mp4",
+        "name": "NIA_SL_WORD2185_REAL10_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.386,
+            "end": 2.762,
+            "attributes": [
+                {
+                    "name": "사장"
+                }
+            ]
+        }
+    ]
+}

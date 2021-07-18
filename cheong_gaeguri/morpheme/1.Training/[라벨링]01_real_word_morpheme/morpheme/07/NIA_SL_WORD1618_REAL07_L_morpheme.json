@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1061/NIA_SL_WORD1618_REAL07_L.mp4",
+        "name": "NIA_SL_WORD1618_REAL07_L.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.981,
+            "end": 2.48,
+            "attributes": [
+                {
+                    "name": "대덕구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

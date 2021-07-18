@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0788/NIA_SL_WORD1522_REAL03_F.mp4",
+        "name": "NIA_SL_WORD1522_REAL03_F.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.212,
+            "end": 2.055,
+            "attributes": [
+                {
+                    "name": "딸"
+                }
+            ]
+        }
+    ]
+}

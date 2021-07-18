@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_moyu0341/NIA_SL_WORD1807_REAL01_R.mp4",
+        "name": "NIA_SL_WORD1807_REAL01_R.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.054,
+            "end": 4.207,
+            "attributes": [
+                {
+                    "name": "공주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

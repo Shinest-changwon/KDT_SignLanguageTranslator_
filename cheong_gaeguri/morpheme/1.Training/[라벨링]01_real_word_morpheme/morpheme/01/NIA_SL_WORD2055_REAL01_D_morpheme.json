@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0341/NIA_SL_WORD2055_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2055_REAL01_D.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.481,
+            "end": 4.413,
+            "attributes": [
+                {
+                    "name": "새파래지다"
+                }
+            ]
+        }
+    ]
+}

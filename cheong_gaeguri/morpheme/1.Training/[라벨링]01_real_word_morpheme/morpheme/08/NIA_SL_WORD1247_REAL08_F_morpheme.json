@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_jhhan0270/NIA_SL_WORD1247_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1247_REAL08_F.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.005,
+            "end": 1.803,
+            "attributes": [
+                {
+                    "name": "이상"
+                }
+            ]
+        }
+    ]
+}

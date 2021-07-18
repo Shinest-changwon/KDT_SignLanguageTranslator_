@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0847/NIA_SL_WORD2161_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2161_REAL04_U.mp4",
+        "duration": 6.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.967,
+            "end": 4.905,
+            "attributes": [
+                {
+                    "name": "장인어른"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0700/NIA_SL_WORD0391_REAL15_D.mp4",
+        "name": "NIA_SL_WORD0391_REAL15_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.353,
+            "end": 3.131,
+            "attributes": [
+                {
+                    "name": "공범"
+                }
+            ]
+        }
+    ]
+}

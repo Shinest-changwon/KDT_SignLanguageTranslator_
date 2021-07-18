@@ -11,8 +11,11 @@ try {
 function toggle(element) {
     if(element.checked == true){
         speech_to_text()
+
     }
     else if(element.checked == false){
+        
+        
         stop()
     }
     }

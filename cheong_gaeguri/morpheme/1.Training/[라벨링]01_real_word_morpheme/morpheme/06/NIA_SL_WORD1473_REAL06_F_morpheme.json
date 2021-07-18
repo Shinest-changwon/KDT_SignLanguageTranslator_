@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0428/NIA_SL_WORD1473_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1473_REAL06_F.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.216,
+            "end": 2.375,
+            "attributes": [
+                {
+                    "name": "안양"
+                }
+            ]
+        }
+    ]
+}

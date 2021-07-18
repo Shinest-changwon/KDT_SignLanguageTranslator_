@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0837/NIA_SL_WORD0820_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0820_REAL04_F.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.224,
+            "end": 4.479,
+            "attributes": [
+                {
+                    "name": "종소리"
+                }
+            ]
+        }
+    ]
+}

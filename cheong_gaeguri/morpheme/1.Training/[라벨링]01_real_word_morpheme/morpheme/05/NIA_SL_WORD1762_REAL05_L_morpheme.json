@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_moyu0928/NIA_SL_WORD1762_REAL05_L.mp4",
+        "name": "NIA_SL_WORD1762_REAL05_L.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.714,
+            "end": 2.848,
+            "attributes": [
+                {
+                    "name": "평창지부"
+                }
+            ]
+        }
+    ]
+}

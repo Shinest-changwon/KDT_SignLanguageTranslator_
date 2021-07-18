@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0674/NIA_SL_WORD0788_REAL12_U.mp4",
+        "name": "NIA_SL_WORD0788_REAL12_U.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.66,
+            "end": 3.298,
+            "attributes": [
+                {
+                    "name": "장려하다"
+                }
+            ]
+        }
+    ]
+}

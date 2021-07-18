@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1161/NIA_SL_WORD2468_REAL16_D.mp4",
+        "name": "NIA_SL_WORD2468_REAL16_D.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.738,
+            "end": 3.808,
+            "attributes": [
+                {
+                    "name": "울산광역시청"
+                }
+            ]
+        }
+    ]
+}

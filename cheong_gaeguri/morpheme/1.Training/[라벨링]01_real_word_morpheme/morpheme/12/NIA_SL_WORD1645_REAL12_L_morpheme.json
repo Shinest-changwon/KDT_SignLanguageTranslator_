@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1191/NIA_SL_WORD1645_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1645_REAL12_L.mp4",
+        "duration": 5.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.53,
+            "end": 4.92,
+            "attributes": [
+                {
+                    "name": "고양시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

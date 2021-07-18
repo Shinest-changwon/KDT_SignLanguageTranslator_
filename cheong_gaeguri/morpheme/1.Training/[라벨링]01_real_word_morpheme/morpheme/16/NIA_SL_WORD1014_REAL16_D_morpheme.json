@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0742/NIA_SL_WORD1014_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1014_REAL16_D.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.664,
+            "end": 2.99,
+            "attributes": [
+                {
+                    "name": "강서구지부"
+                }
+            ]
+        }
+    ]
+}

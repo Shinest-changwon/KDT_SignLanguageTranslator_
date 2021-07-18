@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0338/NIA_SL_WORD1521_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1521_REAL01_L.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.602,
+            "end": 3.042,
+            "attributes": [
+                {
+                    "name": "견문"
+                }
+            ]
+        }
+    ]
+}

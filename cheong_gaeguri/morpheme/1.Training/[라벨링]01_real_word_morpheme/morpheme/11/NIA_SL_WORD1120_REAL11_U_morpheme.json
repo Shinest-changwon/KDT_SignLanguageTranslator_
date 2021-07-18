@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_bkyu0532/NIA_SL_WORD1120_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1120_REAL11_U.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.216,
+            "end": 2.192,
+            "attributes": [
+                {
+                    "name": "자랑"
+                }
+            ]
+        }
+    ]
+}

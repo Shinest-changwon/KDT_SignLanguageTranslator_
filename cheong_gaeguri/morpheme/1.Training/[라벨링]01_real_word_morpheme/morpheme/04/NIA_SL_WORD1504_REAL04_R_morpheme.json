@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0831/NIA_SL_WORD1504_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1504_REAL04_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.749,
+            "end": 3.273,
+            "attributes": [
+                {
+                    "name": "성토"
+                }
+            ]
+        }
+    ]
+}

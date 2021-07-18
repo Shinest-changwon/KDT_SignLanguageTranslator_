@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu312/NIA_SL_WORD1448_REAL09_U.mp4",
+        "name": "NIA_SL_WORD1448_REAL09_U.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.405,
+            "end": 3.117,
+            "attributes": [
+                {
+                    "name": "올림픽공원"
+                }
+            ]
+        }
+    ]
+}

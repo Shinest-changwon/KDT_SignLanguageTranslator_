@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0248/NIA_SL_WORD0530_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0530_REAL08_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.899,
+            "end": 3.012,
+            "attributes": [
+                {
+                    "name": "묻다"
+                }
+            ]
+        }
+    ]
+}

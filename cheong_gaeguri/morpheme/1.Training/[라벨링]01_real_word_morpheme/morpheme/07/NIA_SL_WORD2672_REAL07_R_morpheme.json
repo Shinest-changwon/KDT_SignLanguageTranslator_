@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_rhkim1101/NIA_SL_WORD2672_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2672_REAL07_R.mp4",
+        "duration": 2.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.067,
+            "end": 1.711,
+            "attributes": [
+                {
+                    "name": "사십"
+                }
+            ]
+        }
+    ]
+}

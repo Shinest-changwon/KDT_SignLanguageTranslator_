@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi315/NIA_SL_WORD0416_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0416_REAL02_L.mp4",
+        "duration": 3.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.827,
+            "end": 2.393,
+            "attributes": [
+                {
+                    "name": "교사직무"
+                }
+            ]
+        }
+    ]
+}

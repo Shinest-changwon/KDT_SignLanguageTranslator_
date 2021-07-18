@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0748/NIA_SL_WORD1071_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1071_REAL16_F.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.865,
+            "end": 4.603,
+            "attributes": [
+                {
+                    "name": "종로구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

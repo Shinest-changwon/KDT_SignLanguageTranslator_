@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou307/NIA_SL_WORD0006_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0006_REAL02_R.mp4",
+        "duration": 6.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 3.603,
+            "end": 5.32,
+            "attributes": [
+                {
+                    "name": "독신"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_bkyu0517/NIA_SL_WORD0965_REAL11_L.mp4",
+        "name": "NIA_SL_WORD0965_REAL11_L.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.418,
+            "end": 2.868,
+            "attributes": [
+                {
+                    "name": "회복"
+                }
+            ]
+        }
+    ]
+}

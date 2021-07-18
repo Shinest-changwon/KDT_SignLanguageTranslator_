@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_gdchoi0491/NIA_SL_WORD1881_REAL09_L.mp4",
+        "name": "NIA_SL_WORD1881_REAL09_L.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.624,
+            "end": 3.373,
+            "attributes": [
+                {
+                    "name": "전주시청"
+                }
+            ]
+        }
+    ]
+}

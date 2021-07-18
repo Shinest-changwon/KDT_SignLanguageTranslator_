@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim346/NIA_SL_WORD0625_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0625_REAL09_L.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.181,
+            "end": 2.634,
+            "attributes": [
+                {
+                    "name": "색맹"
+                }
+            ]
+        }
+    ]
+}

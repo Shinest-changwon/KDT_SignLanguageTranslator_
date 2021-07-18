@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0846/NIA_SL_WORD1408_REAL04_F.mp4",
+        "name": "NIA_SL_WORD1408_REAL04_F.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.081,
+            "end": 3.434,
+            "attributes": [
+                {
+                    "name": "을지로"
+                }
+            ]
+        }
+    ]
+}

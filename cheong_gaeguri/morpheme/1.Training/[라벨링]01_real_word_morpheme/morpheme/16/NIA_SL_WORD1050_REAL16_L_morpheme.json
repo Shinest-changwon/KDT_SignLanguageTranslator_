@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0745/NIA_SL_WORD1050_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1050_REAL16_L.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.837,
+            "end": 4.884,
+            "attributes": [
+                {
+                    "name": "성동구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

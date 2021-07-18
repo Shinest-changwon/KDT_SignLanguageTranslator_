@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0256/NIA_SL_WORD1610_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1610_REAL08_F.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.403,
+            "end": 3.951,
+            "attributes": [
+                {
+                    "name": "강화군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

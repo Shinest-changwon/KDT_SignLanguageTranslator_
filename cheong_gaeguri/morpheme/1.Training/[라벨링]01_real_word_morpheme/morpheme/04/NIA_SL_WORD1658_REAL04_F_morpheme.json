@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0846/NIA_SL_WORD1658_REAL04_F.mp4",
+        "name": "NIA_SL_WORD1658_REAL04_F.mp4",
+        "duration": 4.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.184,
+            "end": 3.503,
+            "attributes": [
+                {
+                    "name": "구리시청"
+                }
+            ]
+        }
+    ]
+}

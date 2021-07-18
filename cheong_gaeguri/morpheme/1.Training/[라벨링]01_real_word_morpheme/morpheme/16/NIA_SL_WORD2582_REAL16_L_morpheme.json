@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0749/NIA_SL_WORD2582_REAL16_L.mp4",
+        "name": "NIA_SL_WORD2582_REAL16_L.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.466,
+            "end": 3.269,
+            "attributes": [
+                {
+                    "name": "감나무"
+                }
+            ]
+        }
+    ]
+}

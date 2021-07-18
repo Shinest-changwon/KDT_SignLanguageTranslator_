@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim337/NIA_SL_WORD1623_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1623_REAL02_D.mp4",
+        "duration": 4.184,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.408,
+            "end": 3.347,
+            "attributes": [
+                {
+                    "name": "유성구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

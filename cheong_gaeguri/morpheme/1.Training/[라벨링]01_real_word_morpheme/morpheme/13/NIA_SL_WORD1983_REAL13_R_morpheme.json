@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0629/NIA_SL_WORD1983_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1983_REAL13_R.mp4",
+        "duration": 5.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.076,
+            "end": 4.115,
+            "attributes": [
+                {
+                    "name": "울릉군지부"
+                }
+            ]
+        }
+    ]
+}

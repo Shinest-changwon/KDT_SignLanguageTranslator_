@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0486/NIA_SL_WORD0160_REAL09_U.mp4",
+        "name": "NIA_SL_WORD0160_REAL09_U.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.78,
+            "end": 3.245,
+            "attributes": [
+                {
+                    "name": "강요"
+                }
+            ]
+        }
+    ]
+}

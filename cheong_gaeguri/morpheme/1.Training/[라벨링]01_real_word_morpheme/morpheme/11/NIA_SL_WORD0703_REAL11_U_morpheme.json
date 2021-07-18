@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0975/NIA_SL_WORD0703_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0703_REAL11_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.42,
+            "end": 3.175,
+            "attributes": [
+                {
+                    "name": "애착"
+                }
+            ]
+        }
+    ]
+}

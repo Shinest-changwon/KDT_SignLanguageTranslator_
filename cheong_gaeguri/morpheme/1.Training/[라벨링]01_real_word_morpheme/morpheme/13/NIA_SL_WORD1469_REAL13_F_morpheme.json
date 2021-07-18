@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1043/NIA_SL_WORD1469_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1469_REAL13_F.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.074,
+            "end": 1.796,
+            "attributes": [
+                {
+                    "name": "부천"
+                }
+            ]
+        }
+    ]
+}

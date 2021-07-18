@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_sjim0765/NIA_SL_WORD3000_REAL16_L.mp4",
+        "name": "NIA_SL_WORD3000_REAL16_L.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.607,
+            "end": 3.385,
+            "attributes": [
+                {
+                    "name": "일조"
+                }
+            ]
+        }
+    ]
+}

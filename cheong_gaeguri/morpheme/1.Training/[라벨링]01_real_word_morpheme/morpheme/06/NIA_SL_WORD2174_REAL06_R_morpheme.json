@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0663/NIA_SL_WORD2174_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2174_REAL06_R.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.721,
+            "end": 3.39,
+            "attributes": [
+                {
+                    "name": "용돈"
+                }
+            ]
+        }
+    ]
+}

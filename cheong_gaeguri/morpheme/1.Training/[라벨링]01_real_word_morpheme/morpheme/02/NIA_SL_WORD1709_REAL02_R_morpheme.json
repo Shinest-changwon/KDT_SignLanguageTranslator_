@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon299/NIA_SL_WORD1709_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1709_REAL02_R.mp4",
+        "duration": 4.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.471,
+            "end": 3.209,
+            "attributes": [
+                {
+                    "name": "이천시청"
+                }
+            ]
+        }
+    ]
+}

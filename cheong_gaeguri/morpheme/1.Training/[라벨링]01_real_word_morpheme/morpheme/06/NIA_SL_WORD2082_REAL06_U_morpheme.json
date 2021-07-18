@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0654/NIA_SL_WORD2082_REAL06_U.mp4",
+        "name": "NIA_SL_WORD2082_REAL06_U.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.834,
+            "end": 3.585,
+            "attributes": [
+                {
+                    "name": "불신"
+                }
+            ]
+        }
+    ]
+}

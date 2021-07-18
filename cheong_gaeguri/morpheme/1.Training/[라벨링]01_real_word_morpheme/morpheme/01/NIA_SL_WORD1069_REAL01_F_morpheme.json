@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1123_emyou1032/NIA_SL_WORD1069_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1069_REAL01_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.242,
+            "end": 2.838,
+            "attributes": [
+                {
+                    "name": "은평구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

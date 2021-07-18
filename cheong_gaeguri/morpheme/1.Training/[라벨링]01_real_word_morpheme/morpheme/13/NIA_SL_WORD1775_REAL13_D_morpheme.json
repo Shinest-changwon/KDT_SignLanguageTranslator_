@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0608/NIA_SL_WORD1775_REAL13_D.mp4",
+        "name": "NIA_SL_WORD1775_REAL13_D.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.565,
+            "end": 3.677,
+            "attributes": [
+                {
+                    "name": "괴산군지부"
+                }
+            ]
+        }
+    ]
+}

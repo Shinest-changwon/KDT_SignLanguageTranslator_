@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0410/NIA_SL_WORD1043_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1043_REAL06_L.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.266,
+            "end": 3.52,
+            "attributes": [
+                {
+                    "name": "서대문구지부"
+                }
+            ]
+        }
+    ]
+}

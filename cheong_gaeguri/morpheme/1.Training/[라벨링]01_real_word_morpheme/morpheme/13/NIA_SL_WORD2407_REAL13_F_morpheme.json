@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0531/NIA_SL_WORD2407_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2407_REAL13_F.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.974,
+            "end": 3.936,
+            "attributes": [
+                {
+                    "name": "포항시청"
+                }
+            ]
+        }
+    ]
+}

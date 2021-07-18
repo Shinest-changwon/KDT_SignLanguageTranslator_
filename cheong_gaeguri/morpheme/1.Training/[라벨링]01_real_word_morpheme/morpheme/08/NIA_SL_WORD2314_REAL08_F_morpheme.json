@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_yhjeon0252/NIA_SL_WORD2314_REAL08_F.mp4",
+        "name": "NIA_SL_WORD2314_REAL08_F.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.02,
+            "end": 2.215,
+            "attributes": [
+                {
+                    "name": "어림없다"
+                }
+            ]
+        }
+    ]
+}

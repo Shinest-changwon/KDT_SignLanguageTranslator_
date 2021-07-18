@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0311/NIA_SL_WORD1460_REAL14_L.mp4",
+        "name": "NIA_SL_WORD1460_REAL14_L.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.478,
+            "end": 2.674,
+            "attributes": [
+                {
+                    "name": "구리"
+                }
+            ]
+        }
+    ]
+}

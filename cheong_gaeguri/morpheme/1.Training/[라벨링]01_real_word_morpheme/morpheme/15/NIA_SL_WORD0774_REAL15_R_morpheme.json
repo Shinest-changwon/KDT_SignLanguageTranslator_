@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0713/NIA_SL_WORD0774_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0774_REAL15_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.123,
+            "end": 2.919,
+            "attributes": [
+                {
+                    "name": "농부"
+                }
+            ]
+        }
+    ]
+}

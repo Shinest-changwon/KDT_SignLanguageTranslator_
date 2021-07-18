@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon314/NIA_SL_WORD1856_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1856_REAL02_R.mp4",
+        "duration": 4.717,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.382,
+            "end": 3.923,
+            "attributes": [
+                {
+                    "name": "남원시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

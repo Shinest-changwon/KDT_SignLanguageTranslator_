@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1185/NIA_SL_WORD2222_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2222_REAL12_L.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.451,
+            "end": 2.73,
+            "attributes": [
+                {
+                    "name": "교섭"
+                }
+            ]
+        }
+    ]
+}

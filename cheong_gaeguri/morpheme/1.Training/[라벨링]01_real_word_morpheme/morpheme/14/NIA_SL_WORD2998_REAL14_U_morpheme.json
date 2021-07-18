@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_yhjeon0315/NIA_SL_WORD2998_REAL14_U.mp4",
+        "name": "NIA_SL_WORD2998_REAL14_U.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.375,
+            "end": 3.118,
+            "attributes": [
+                {
+                    "name": "팔백억"
+                }
+            ]
+        }
+    ]
+}

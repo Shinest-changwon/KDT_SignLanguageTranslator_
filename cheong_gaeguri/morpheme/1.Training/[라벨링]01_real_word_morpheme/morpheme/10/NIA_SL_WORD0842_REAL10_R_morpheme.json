@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_hwlee0415/NIA_SL_WORD0842_REAL10_R.mp4",
+        "name": "NIA_SL_WORD0842_REAL10_R.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.632,
+            "end": 3.557,
+            "attributes": [
+                {
+                    "name": "차멀미"
+                }
+            ]
+        }
+    ]
+}

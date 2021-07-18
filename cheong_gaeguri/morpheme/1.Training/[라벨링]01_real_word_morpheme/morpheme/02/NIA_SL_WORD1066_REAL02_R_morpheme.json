@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan300/NIA_SL_WORD1066_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1066_REAL02_R.mp4",
+        "duration": 4.017,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.177,
+            "end": 3.288,
+            "attributes": [
+                {
+                    "name": "용산구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

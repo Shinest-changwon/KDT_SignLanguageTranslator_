@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1062/NIA_SL_WORD1622_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1622_REAL07_R.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.707,
+            "end": 2.905,
+            "attributes": [
+                {
+                    "name": "유성구지부"
+                }
+            ]
+        }
+    ]
+}

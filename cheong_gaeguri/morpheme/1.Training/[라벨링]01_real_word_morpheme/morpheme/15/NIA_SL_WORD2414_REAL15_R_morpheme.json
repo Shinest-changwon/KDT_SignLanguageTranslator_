@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_rhkim1215/NIA_SL_WORD2414_REAL15_R.mp4",
+        "name": "NIA_SL_WORD2414_REAL15_R.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.514,
+            "end": 4.535,
+            "attributes": [
+                {
+                    "name": "거창군수화통역센터"
+                }
+            ]
+        }
+    ]
+}

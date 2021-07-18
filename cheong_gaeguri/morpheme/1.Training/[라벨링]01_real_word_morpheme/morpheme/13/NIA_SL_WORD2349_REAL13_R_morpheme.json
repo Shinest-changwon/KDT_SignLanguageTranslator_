@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0525/NIA_SL_WORD2349_REAL13_R.mp4",
+        "name": "NIA_SL_WORD2349_REAL13_R.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.5,
+            "end": 4.035,
+            "attributes": [
+                {
+                    "name": "작살내다"
+                }
+            ]
+        }
+    ]
+}

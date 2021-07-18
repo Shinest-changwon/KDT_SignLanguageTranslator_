@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1052/NIA_SL_WORD0726_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0726_REAL13_F.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.499,
+            "end": 3.777,
+            "attributes": [
+                {
+                    "name": "여탕"
+                }
+            ]
+        }
+    ]
+}

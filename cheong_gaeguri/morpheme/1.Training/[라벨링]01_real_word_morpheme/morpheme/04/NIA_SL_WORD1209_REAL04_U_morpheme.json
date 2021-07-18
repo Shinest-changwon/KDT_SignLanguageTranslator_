@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_moyu0851/NIA_SL_WORD1209_REAL04_U.mp4",
+        "name": "NIA_SL_WORD1209_REAL04_U.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.444,
+            "end": 4.439,
+            "attributes": [
+                {
+                    "name": "흔들리다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0715/NIA_SL_WORD1047_REAL15_L.mp4",
+        "name": "NIA_SL_WORD1047_REAL15_L.mp4",
+        "duration": 5.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.12,
+            "end": 4.621,
+            "attributes": [
+                {
+                    "name": "서초구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

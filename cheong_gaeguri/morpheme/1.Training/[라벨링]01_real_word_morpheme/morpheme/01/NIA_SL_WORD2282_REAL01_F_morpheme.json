@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0339/NIA_SL_WORD2282_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2282_REAL01_F.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.961,
+            "end": 2.8,
+            "attributes": [
+                {
+                    "name": "결코"
+                }
+            ]
+        }
+    ]
+}

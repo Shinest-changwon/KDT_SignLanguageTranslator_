@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_jhhan0250/NIA_SL_WORD1045_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1045_REAL08_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.535,
+            "end": 3.536,
+            "attributes": [
+                {
+                    "name": "서대문구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

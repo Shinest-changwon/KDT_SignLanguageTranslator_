@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0246/NIA_SL_WORD1760_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1760_REAL08_R.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.282,
+            "end": 2.336,
+            "attributes": [
+                {
+                    "name": "한눈팔다"
+                }
+            ]
+        }
+    ]
+}

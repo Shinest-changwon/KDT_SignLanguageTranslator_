@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0700/NIA_SL_WORD0895_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0895_REAL15_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.526,
+            "end": 3.413,
+            "attributes": [
+                {
+                    "name": "키다리"
+                }
+            ]
+        }
+    ]
+}

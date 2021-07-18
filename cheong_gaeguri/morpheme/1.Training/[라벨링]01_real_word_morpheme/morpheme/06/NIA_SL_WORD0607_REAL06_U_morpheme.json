@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_gdchoi0881/NIA_SL_WORD0607_REAL06_U.mp4",
+        "name": "NIA_SL_WORD0607_REAL06_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.242,
+            "end": 3.305,
+            "attributes": [
+                {
+                    "name": "사립"
+                }
+            ]
+        }
+    ]
+}

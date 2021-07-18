@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0897/NIA_SL_WORD2012_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2012_REAL06_R.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.736,
+            "end": 3.41,
+            "attributes": [
+                {
+                    "name": "반드시"
+                }
+            ]
+        }
+    ]
+}

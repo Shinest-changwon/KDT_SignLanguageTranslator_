@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0802/NIA_SL_WORD0417_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0417_REAL03_L.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.238,
+            "end": 2.605,
+            "attributes": [
+                {
+                    "name": "사거리"
+                }
+            ]
+        }
+    ]
+}

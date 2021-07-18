@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0986/NIA_SL_WORD0971_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0971_REAL07_F.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.128,
+            "end": 2.108,
+            "attributes": [
+                {
+                    "name": "결벽"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0522/NIA_SL_WORD2016_REAL11_R.mp4",
+        "name": "NIA_SL_WORD2016_REAL11_R.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.057,
+            "end": 3.29,
+            "attributes": [
+                {
+                    "name": "어른"
+                }
+            ]
+        }
+    ]
+}

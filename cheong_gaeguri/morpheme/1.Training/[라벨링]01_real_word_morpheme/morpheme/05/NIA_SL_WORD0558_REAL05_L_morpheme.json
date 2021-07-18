@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0922/NIA_SL_WORD0558_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0558_REAL05_L.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.431,
+            "end": 2.575,
+            "attributes": [
+                {
+                    "name": "견습소"
+                }
+            ]
+        }
+    ]
+}

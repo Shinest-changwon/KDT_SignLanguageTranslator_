@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0387/NIA_SL_WORD0316_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0316_REAL16_D.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.728,
+            "end": 3.66,
+            "attributes": [
+                {
+                    "name": "금요일"
+                }
+            ]
+        }
+    ]
+}

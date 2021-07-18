@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0673/NIA_SL_WORD1972_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1972_REAL12_F.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.338,
+            "end": 4.251,
+            "attributes": [
+                {
+                    "name": "영양군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_swlee1179/NIA_SL_WORD2680_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2680_REAL12_L.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.364,
+            "end": 2.484,
+            "attributes": [
+                {
+                    "name": "사십팔"
+                }
+            ]
+        }
+    ]
+}

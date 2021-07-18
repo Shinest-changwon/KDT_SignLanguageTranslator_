@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_rhkim1163/NIA_SL_WORD1419_REAL01_R.mp4",
+        "name": "NIA_SL_WORD1419_REAL01_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.721,
+            "end": 3.353,
+            "attributes": [
+                {
+                    "name": "양천"
+                }
+            ]
+        }
+    ]
+}

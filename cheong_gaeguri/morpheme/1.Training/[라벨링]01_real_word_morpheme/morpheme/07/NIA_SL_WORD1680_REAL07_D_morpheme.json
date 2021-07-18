@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1074/NIA_SL_WORD1680_REAL07_D.mp4",
+        "name": "NIA_SL_WORD1680_REAL07_D.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.293,
+            "end": 2.545,
+            "attributes": [
+                {
+                    "name": "안양시지부"
+                }
+            ]
+        }
+    ]
+}

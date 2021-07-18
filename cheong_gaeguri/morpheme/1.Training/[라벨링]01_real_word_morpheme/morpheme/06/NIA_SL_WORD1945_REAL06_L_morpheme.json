@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0890/NIA_SL_WORD1945_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1945_REAL06_L.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.794,
+            "end": 4.648,
+            "attributes": [
+                {
+                    "name": "구미시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

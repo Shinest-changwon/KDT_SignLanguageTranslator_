@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0420/NIA_SL_WORD1395_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1395_REAL06_R.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.367,
+            "end": 2.397,
+            "attributes": [
+                {
+                    "name": "야단치다"
+                }
+            ]
+        }
+    ]
+}

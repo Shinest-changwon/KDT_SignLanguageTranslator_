@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0311/NIA_SL_WORD2701_REAL14_U.mp4",
+        "name": "NIA_SL_WORD2701_REAL14_U.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.496,
+            "end": 2.876,
+            "attributes": [
+                {
+                    "name": "육십구"
+                }
+            ]
+        }
+    ]
+}

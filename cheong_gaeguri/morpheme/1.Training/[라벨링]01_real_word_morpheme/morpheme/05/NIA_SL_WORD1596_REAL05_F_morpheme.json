@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0936/NIA_SL_WORD1596_REAL05_F.mp4",
+        "name": "NIA_SL_WORD1596_REAL05_F.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.339,
+            "end": 2.121,
+            "attributes": [
+                {
+                    "name": "심부름"
+                }
+            ]
+        }
+    ]
+}

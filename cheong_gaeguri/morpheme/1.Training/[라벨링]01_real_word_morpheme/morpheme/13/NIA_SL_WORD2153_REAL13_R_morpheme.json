@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0531/NIA_SL_WORD2153_REAL13_R.mp4",
+        "name": "NIA_SL_WORD2153_REAL13_R.mp4",
+        "duration": 5.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.682,
+            "end": 4.7,
+            "attributes": [
+                {
+                    "name": "운동장"
+                }
+            ]
+        }
+    ]
+}

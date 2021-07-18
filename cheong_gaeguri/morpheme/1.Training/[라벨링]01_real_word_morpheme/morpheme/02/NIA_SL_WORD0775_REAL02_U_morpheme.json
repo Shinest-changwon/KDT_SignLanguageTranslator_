@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee304/NIA_SL_WORD0775_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0775_REAL02_U.mp4",
+        "duration": 4.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.401,
+            "end": 3.093,
+            "attributes": [
+                {
+                    "name": "인사법"
+                }
+            ]
+        }
+    ]
+}

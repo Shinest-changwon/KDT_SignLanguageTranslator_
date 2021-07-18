@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0352/NIA_SL_WORD0664_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0664_REAL01_D.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.625,
+            "end": 2.916,
+            "attributes": [
+                {
+                    "name": "숨차다"
+                }
+            ]
+        }
+    ]
+}

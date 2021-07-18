@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0800/NIA_SL_WORD1643_REAL03_R.mp4",
+        "name": "NIA_SL_WORD1643_REAL03_R.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.994,
+            "end": 2.626,
+            "attributes": [
+                {
+                    "name": "가평군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

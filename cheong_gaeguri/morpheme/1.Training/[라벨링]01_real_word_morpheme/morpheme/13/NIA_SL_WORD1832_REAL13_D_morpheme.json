@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0614/NIA_SL_WORD1832_REAL13_D.mp4",
+        "name": "NIA_SL_WORD1832_REAL13_D.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.324,
+            "end": 3.629,
+            "attributes": [
+                {
+                    "name": "아산시청"
+                }
+            ]
+        }
+    ]
+}

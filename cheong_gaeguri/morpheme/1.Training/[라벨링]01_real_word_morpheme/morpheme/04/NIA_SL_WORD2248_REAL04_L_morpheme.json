@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0855/NIA_SL_WORD2248_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2248_REAL04_L.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.862,
+            "end": 4.875,
+            "attributes": [
+                {
+                    "name": "혈안"
+                }
+            ]
+        }
+    ]
+}

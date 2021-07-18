@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0941/NIA_SL_WORD1144_REAL05_D.mp4",
+        "name": "NIA_SL_WORD1144_REAL05_D.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.598,
+            "end": 2.485,
+            "attributes": [
+                {
+                    "name": "생각"
+                }
+            ]
+        }
+    ]
+}

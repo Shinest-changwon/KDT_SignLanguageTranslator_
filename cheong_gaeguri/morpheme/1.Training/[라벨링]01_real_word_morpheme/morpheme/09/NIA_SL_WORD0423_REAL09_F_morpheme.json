@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou350/NIA_SL_WORD0423_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0423_REAL09_F.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.32,
+            "end": 3.003,
+            "attributes": [
+                {
+                    "name": "국기"
+                }
+            ]
+        }
+    ]
+}

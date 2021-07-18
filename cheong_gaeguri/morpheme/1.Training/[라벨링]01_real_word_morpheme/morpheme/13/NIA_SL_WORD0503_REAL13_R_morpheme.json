@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_gdchoi1157/NIA_SL_WORD0503_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0503_REAL13_R.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.885,
+            "end": 3.548,
+            "attributes": [
+                {
+                    "name": "나무기둥"
+                }
+            ]
+        }
+    ]
+}

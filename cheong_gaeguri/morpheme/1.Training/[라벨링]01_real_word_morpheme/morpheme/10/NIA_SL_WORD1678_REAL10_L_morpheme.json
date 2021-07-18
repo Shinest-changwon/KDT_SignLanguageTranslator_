@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0423/NIA_SL_WORD1678_REAL10_L.mp4",
+        "name": "NIA_SL_WORD1678_REAL10_L.mp4",
+        "duration": 5.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.296,
+            "end": 4.288,
+            "attributes": [
+                {
+                    "name": "안성시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

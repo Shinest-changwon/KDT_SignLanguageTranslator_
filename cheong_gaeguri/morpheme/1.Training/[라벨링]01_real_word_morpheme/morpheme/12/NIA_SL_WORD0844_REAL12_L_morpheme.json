@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0655/NIA_SL_WORD0844_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0844_REAL12_L.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.21,
+            "end": 3.143,
+            "attributes": [
+                {
+                    "name": "참가자"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0471/NIA_SL_WORD0005_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0005_REAL09_F.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.444,
+            "end": 3.868,
+            "attributes": [
+                {
+                    "name": "눈"
+                }
+            ]
+        }
+    ]
+}

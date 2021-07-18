@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_rhkim1106/NIA_SL_WORD2716_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2716_REAL07_R.mp4",
+        "duration": 2.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.889,
+            "end": 1.783,
+            "attributes": [
+                {
+                    "name": "팔십사"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0353/NIA_SL_WORD2426_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2426_REAL01_L.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.506,
+            "end": 4.377,
+            "attributes": [
+                {
+                    "name": "밀양시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

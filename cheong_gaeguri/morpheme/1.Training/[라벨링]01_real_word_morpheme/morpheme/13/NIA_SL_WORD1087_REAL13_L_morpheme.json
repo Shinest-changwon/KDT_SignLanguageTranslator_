@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1046/NIA_SL_WORD1087_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1087_REAL13_L.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.488,
+            "end": 4.396,
+            "attributes": [
+                {
+                    "name": "사하구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_bkyu1219/NIA_SL_WORD0250_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0250_REAL15_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.682,
+            "end": 3.23,
+            "attributes": [
+                {
+                    "name": "충북"
+                }
+            ]
+        }
+    ]
+}

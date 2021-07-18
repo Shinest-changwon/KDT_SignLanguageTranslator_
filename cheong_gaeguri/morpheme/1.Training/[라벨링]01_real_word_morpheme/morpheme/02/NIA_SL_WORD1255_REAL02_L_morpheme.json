@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan319/NIA_SL_WORD1255_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1255_REAL02_L.mp4",
+        "duration": 3.584,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.589,
+            "end": 3.199,
+            "attributes": [
+                {
+                    "name": "짜증"
+                }
+            ]
+        }
+    ]
+}

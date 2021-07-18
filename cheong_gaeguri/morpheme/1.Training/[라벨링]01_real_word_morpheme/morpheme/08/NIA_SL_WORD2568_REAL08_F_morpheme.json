@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0617/NIA_SL_WORD2568_REAL08_F.mp4",
+        "name": "NIA_SL_WORD2568_REAL08_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.301,
+            "end": 2.338,
+            "attributes": [
+                {
+                    "name": "일몰"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0612/NIA_SL_WORD0211_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0211_REAL13_F.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.634,
+            "end": 3.801,
+            "attributes": [
+                {
+                    "name": "고등학교"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0761/NIA_SL_WORD0953_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0953_REAL16_R.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.217,
+            "end": 2.082,
+            "attributes": [
+                {
+                    "name": "배고프다"
+                }
+            ]
+        }
+    ]
+}

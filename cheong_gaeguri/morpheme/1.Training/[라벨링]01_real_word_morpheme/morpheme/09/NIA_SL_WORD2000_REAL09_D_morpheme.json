@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0477/NIA_SL_WORD2000_REAL09_D.mp4",
+        "name": "NIA_SL_WORD2000_REAL09_D.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.71,
+            "end": 3.716,
+            "attributes": [
+                {
+                    "name": "칠곡군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

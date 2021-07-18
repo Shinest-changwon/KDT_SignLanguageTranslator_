@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim279/NIA_SL_WORD2049_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2049_REAL02_R.mp4",
+        "duration": 4.017,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.51,
+            "end": 3.005,
+            "attributes": [
+                {
+                    "name": "결심"
+                }
+            ]
+        }
+    ]
+}

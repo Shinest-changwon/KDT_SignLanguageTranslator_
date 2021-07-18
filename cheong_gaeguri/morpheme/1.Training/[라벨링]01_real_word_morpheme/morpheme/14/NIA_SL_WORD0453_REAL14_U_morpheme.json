@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1078/NIA_SL_WORD0453_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0453_REAL14_U.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.621,
+            "end": 3.088,
+            "attributes": [
+                {
+                    "name": "고난이도"
+                }
+            ]
+        }
+    ]
+}

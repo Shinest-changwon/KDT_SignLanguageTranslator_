@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0480/NIA_SL_WORD0282_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0282_REAL14_R.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.185,
+            "end": 3.937,
+            "attributes": [
+                {
+                    "name": "절도죄"
+                }
+            ]
+        }
+    ]
+}

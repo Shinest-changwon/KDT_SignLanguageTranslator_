@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1163/NIA_SL_WORD0937_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0937_REAL05_F.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.075,
+            "end": 1.809,
+            "attributes": [
+                {
+                    "name": "허탕"
+                }
+            ]
+        }
+    ]
+}

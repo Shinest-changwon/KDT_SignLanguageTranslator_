@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0336/NIA_SL_WORD0510_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0510_REAL01_D.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.16,
+            "end": 2.852,
+            "attributes": [
+                {
+                    "name": "고급지다"
+                }
+            ]
+        }
+    ]
+}

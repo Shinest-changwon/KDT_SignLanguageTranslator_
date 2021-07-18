@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0670/NIA_SL_WORD1941_REAL12_D.mp4",
+        "name": "NIA_SL_WORD1941_REAL12_D.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.313,
+            "end": 3.131,
+            "attributes": [
+                {
+                    "name": "고령군지부"
+                }
+            ]
+        }
+    ]
+}

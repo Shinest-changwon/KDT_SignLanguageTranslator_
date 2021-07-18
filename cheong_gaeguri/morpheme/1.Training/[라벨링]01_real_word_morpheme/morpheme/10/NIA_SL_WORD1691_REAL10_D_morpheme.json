@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0424/NIA_SL_WORD1691_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1691_REAL10_D.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.613,
+            "end": 3.431,
+            "attributes": [
+                {
+                    "name": "여주시청"
+                }
+            ]
+        }
+    ]
+}

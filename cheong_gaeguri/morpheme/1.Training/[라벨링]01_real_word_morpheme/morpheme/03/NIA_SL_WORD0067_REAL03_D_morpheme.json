@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0792/NIA_SL_WORD0067_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0067_REAL03_D.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.89,
+            "end": 3.727,
+            "attributes": [
+                {
+                    "name": "퇴원"
+                }
+            ]
+        }
+    ]
+}

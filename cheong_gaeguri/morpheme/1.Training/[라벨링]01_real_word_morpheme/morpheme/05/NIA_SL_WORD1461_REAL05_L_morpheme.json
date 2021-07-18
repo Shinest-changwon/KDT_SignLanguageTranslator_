@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0923/NIA_SL_WORD1461_REAL05_L.mp4",
+        "name": "NIA_SL_WORD1461_REAL05_L.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.752,
+            "end": 2.614,
+            "attributes": [
+                {
+                    "name": "분당"
+                }
+            ]
+        }
+    ]
+}

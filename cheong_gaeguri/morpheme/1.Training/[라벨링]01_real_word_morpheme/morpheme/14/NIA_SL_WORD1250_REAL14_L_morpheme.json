@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_gdchoi0315/NIA_SL_WORD1250_REAL14_L.mp4",
+        "name": "NIA_SL_WORD1250_REAL14_L.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.267,
+            "end": 2.798,
+            "attributes": [
+                {
+                    "name": "몰리다"
+                }
+            ]
+        }
+    ]
+}

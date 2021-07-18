@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0621/NIA_SL_WORD0309_REAL13_L.mp4",
+        "name": "NIA_SL_WORD0309_REAL13_L.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.614,
+            "end": 3.699,
+            "attributes": [
+                {
+                    "name": "어젯밤"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0417/NIA_SL_WORD1115_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1115_REAL10_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.59,
+            "end": 3.115,
+            "attributes": [
+                {
+                    "name": "건강"
+                }
+            ]
+        }
+    ]
+}

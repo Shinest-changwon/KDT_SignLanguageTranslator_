@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_moyu0697/NIA_SL_WORD1761_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1761_REAL15_F.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.263,
+            "end": 2.702,
+            "attributes": [
+                {
+                    "name": "건성"
+                }
+            ]
+        }
+    ]
+}

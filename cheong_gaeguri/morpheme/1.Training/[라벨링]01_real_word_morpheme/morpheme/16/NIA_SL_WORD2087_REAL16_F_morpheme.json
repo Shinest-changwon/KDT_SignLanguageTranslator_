@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1064/NIA_SL_WORD2087_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2087_REAL16_F.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.369,
+            "end": 3.23,
+            "attributes": [
+                {
+                    "name": "소외감"
+                }
+            ]
+        }
+    ]
+}

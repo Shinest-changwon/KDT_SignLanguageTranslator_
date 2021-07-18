@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_mrkim1200/NIA_SL_WORD2198_REAL15_F.mp4",
+        "name": "NIA_SL_WORD2198_REAL15_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.341,
+            "end": 2.975,
+            "attributes": [
+                {
+                    "name": "알려주다"
+                }
+            ]
+        }
+    ]
+}

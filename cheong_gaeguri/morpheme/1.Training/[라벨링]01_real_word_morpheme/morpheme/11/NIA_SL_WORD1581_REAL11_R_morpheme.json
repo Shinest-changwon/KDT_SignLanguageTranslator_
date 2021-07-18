@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0529/NIA_SL_WORD1581_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1581_REAL11_R.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.817,
+            "end": 2.936,
+            "attributes": [
+                {
+                    "name": "시험"
+                }
+            ]
+        }
+    ]
+}

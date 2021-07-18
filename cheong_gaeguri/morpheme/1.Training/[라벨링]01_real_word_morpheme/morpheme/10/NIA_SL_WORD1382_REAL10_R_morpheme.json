@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_moyu0419/NIA_SL_WORD1382_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1382_REAL10_R.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.495,
+            "end": 2.691,
+            "attributes": [
+                {
+                    "name": "덥다"
+                }
+            ]
+        }
+    ]
+}

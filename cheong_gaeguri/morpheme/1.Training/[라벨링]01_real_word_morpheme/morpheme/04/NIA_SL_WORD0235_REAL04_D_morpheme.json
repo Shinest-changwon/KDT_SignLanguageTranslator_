@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0854/NIA_SL_WORD0235_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0235_REAL04_D.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.668,
+            "end": 3.691,
+            "attributes": [
+                {
+                    "name": "의학"
+                }
+            ]
+        }
+    ]
+}

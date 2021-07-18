@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0924/NIA_SL_WORD1977_REAL05_L.mp4",
+        "name": "NIA_SL_WORD1977_REAL05_L.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.134,
+            "end": 4.301,
+            "attributes": [
+                {
+                    "name": "영천시지부"
+                }
+            ]
+        }
+    ]
+}

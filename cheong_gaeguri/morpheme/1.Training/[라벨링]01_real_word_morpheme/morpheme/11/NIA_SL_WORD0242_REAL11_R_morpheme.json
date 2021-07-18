@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0979/NIA_SL_WORD0242_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0242_REAL11_R.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.47,
+            "end": 3.17,
+            "attributes": [
+                {
+                    "name": "경기도"
+                }
+            ]
+        }
+    ]
+}

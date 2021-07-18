@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0257/NIA_SL_WORD1868_REAL08_L.mp4",
+        "name": "NIA_SL_WORD1868_REAL08_L.mp4",
+        "duration": 5.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.201,
+            "end": 4.495,
+            "attributes": [
+                {
+                    "name": "완주군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

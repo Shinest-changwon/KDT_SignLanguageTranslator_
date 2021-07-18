@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0487/NIA_SL_WORD2096_REAL09_R.mp4",
+        "name": "NIA_SL_WORD2096_REAL09_R.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.578,
+            "end": 3.326,
+            "attributes": [
+                {
+                    "name": "야망"
+                }
+            ]
+        }
+    ]
+}

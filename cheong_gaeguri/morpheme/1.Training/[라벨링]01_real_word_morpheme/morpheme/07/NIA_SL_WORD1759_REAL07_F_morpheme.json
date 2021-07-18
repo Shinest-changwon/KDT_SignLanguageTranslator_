@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1047/NIA_SL_WORD1759_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1759_REAL07_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.41,
+            "end": 2.649,
+            "attributes": [
+                {
+                    "name": "더디다"
+                }
+            ]
+        }
+    ]
+}

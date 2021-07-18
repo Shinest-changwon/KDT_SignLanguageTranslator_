@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_moyu0310/NIA_SL_WORD1948_REAL14_R.mp4",
+        "name": "NIA_SL_WORD1948_REAL14_R.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.266,
+            "end": 3.775,
+            "attributes": [
+                {
+                    "name": "군위군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

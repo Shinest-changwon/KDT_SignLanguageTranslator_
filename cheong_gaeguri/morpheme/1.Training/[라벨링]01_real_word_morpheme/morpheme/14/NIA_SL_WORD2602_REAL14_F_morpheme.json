@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0301/NIA_SL_WORD2602_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2602_REAL14_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.112,
+            "end": 3.542,
+            "attributes": [
+                {
+                    "name": "이탈리아"
+                }
+            ]
+        }
+    ]
+}

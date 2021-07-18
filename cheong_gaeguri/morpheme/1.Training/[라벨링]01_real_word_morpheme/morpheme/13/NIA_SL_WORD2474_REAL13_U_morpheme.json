@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0538/NIA_SL_WORD2474_REAL13_U.mp4",
+        "name": "NIA_SL_WORD2474_REAL13_U.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.616,
+            "end": 3.742,
+            "attributes": [
+                {
+                    "name": "경남도청"
+                }
+            ]
+        }
+    ]
+}

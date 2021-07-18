@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim304/NIA_SL_WORD2298_REAL02_D.mp4",
+        "name": "NIA_SL_WORD2298_REAL02_D.mp4",
+        "duration": 3.917,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.418,
+            "end": 2.979,
+            "attributes": [
+                {
+                    "name": "양다리"
+                }
+            ]
+        }
+    ]
+}

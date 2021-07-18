@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0341/NIA_SL_WORD2306_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2306_REAL01_U.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.991,
+            "end": 3.537,
+            "attributes": [
+                {
+                    "name": "불복종"
+                }
+            ]
+        }
+    ]
+}

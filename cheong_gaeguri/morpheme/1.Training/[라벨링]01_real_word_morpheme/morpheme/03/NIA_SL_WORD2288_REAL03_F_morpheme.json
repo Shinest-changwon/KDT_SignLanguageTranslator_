@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0614/NIA_SL_WORD2288_REAL03_F.mp4",
+        "name": "NIA_SL_WORD2288_REAL03_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.483,
+            "end": 2.506,
+            "attributes": [
+                {
+                    "name": "위선자"
+                }
+            ]
+        }
+    ]
+}

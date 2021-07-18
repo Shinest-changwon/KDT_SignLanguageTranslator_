@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0983/NIA_SL_WORD0288_REAL11_F.mp4",
+        "name": "NIA_SL_WORD0288_REAL11_F.mp4",
+        "duration": 4.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.475,
+            "end": 4.254,
+            "attributes": [
+                {
+                    "name": "체온"
+                }
+            ]
+        }
+    ]
+}

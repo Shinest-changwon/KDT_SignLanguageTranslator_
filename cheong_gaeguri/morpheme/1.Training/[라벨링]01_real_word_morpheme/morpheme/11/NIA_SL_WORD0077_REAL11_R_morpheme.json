@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_gdchoi0987/NIA_SL_WORD0077_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0077_REAL11_R.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.952,
+            "end": 4.715,
+            "attributes": [
+                {
+                    "name": "배춧국"
+                }
+            ]
+        }
+    ]
+}

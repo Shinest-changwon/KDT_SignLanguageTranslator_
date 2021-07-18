@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0765/NIA_SL_WORD0746_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0746_REAL16_F.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.23,
+            "end": 3.049,
+            "attributes": [
+                {
+                    "name": "의문"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0622/NIA_SL_WORD2370_REAL03_D.mp4",
+        "name": "NIA_SL_WORD2370_REAL03_D.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.975,
+            "end": 2.647,
+            "attributes": [
+                {
+                    "name": "감히"
+                }
+            ]
+        }
+    ]
+}

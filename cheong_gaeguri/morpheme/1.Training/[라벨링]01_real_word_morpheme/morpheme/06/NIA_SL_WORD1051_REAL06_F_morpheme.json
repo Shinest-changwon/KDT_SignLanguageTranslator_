@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0411/NIA_SL_WORD1051_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1051_REAL06_F.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.807,
+            "end": 3.682,
+            "attributes": [
+                {
+                    "name": "성동구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

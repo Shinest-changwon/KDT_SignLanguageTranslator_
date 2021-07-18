@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0628/NIA_SL_WORD0122_REAL13_L.mp4",
+        "name": "NIA_SL_WORD0122_REAL13_L.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.487,
+            "end": 2.884,
+            "attributes": [
+                {
+                    "name": "군복"
+                }
+            ]
+        }
+    ]
+}

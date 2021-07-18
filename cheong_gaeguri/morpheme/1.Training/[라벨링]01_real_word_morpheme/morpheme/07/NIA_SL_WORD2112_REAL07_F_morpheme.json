@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1113/NIA_SL_WORD2112_REAL07_F.mp4",
+        "name": "NIA_SL_WORD2112_REAL07_F.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.456,
+            "end": 3.599,
+            "attributes": [
+                {
+                    "name": "선짓국"
+                }
+            ]
+        }
+    ]
+}

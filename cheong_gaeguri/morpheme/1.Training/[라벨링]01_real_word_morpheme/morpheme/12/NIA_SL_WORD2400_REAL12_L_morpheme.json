@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1185/NIA_SL_WORD2400_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2400_REAL12_L.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.437,
+            "end": 2.288,
+            "attributes": [
+                {
+                    "name": "대출"
+                }
+            ]
+        }
+    ]
+}

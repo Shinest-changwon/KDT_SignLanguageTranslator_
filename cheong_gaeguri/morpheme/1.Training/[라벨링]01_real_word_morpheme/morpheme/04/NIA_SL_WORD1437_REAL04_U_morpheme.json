@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0849/NIA_SL_WORD1437_REAL04_U.mp4",
+        "name": "NIA_SL_WORD1437_REAL04_U.mp4",
+        "duration": 6.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.6,
+            "end": 5.916,
+            "attributes": [
+                {
+                    "name": "고속터미널"
+                }
+            ]
+        }
+    ]
+}

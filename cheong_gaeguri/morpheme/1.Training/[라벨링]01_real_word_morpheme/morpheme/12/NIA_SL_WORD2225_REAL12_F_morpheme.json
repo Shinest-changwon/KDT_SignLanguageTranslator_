@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1185/NIA_SL_WORD2225_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2225_REAL12_F.mp4",
+        "duration": 2.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.859,
+            "end": 1.978,
+            "attributes": [
+                {
+                    "name": "질색"
+                }
+            ]
+        }
+    ]
+}

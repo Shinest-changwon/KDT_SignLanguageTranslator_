@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1112/NIA_SL_WORD2109_REAL07_U.mp4",
+        "name": "NIA_SL_WORD2109_REAL07_U.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.424,
+            "end": 3.75,
+            "attributes": [
+                {
+                    "name": "기초체조"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1113/NIA_SL_WORD1015_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1015_REAL07_R.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.303,
+            "end": 3.51,
+            "attributes": [
+                {
+                    "name": "강서구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

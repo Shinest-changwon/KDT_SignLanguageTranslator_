@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0973/NIA_SL_WORD0190_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0190_REAL11_U.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.073,
+            "end": 3.674,
+            "attributes": [
+                {
+                    "name": "고용"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0657/NIA_SL_WORD1811_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1811_REAL12_F.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.736,
+            "end": 2.437,
+            "attributes": [
+                {
+                    "name": "12번째"
+                }
+            ]
+        }
+    ]
+}

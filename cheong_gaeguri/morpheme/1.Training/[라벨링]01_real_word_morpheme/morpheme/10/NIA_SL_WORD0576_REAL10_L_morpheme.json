@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_gdchoi0413/NIA_SL_WORD0576_REAL10_L.mp4",
+        "name": "NIA_SL_WORD0576_REAL10_L.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.389,
+            "end": 3.419,
+            "attributes": [
+                {
+                    "name": "보이스카우트"
+                }
+            ]
+        }
+    ]
+}

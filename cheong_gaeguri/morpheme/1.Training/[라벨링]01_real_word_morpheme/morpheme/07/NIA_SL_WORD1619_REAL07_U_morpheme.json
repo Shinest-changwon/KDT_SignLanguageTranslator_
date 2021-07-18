@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1061/NIA_SL_WORD1619_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1619_REAL07_U.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.546,
+            "end": 2.712,
+            "attributes": [
+                {
+                    "name": "서구지부"
+                }
+            ]
+        }
+    ]
+}

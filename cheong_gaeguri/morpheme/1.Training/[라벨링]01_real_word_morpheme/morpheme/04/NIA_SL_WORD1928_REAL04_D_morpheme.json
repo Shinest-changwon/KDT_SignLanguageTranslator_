@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0848/NIA_SL_WORD1928_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1928_REAL04_D.mp4",
+        "duration": 6.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.201,
+            "end": 4.725,
+            "attributes": [
+                {
+                    "name": "진도군지부"
+                }
+            ]
+        }
+    ]
+}

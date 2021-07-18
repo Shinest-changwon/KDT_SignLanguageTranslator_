@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_emyou0305/NIA_SL_WORD0899_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0899_REAL14_L.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.274,
+            "end": 2.684,
+            "attributes": [
+                {
+                    "name": "탈영"
+                }
+            ]
+        }
+    ]
+}

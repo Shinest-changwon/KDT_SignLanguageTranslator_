@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_emyou0336/NIA_SL_WORD0252_REAL01_L.mp4",
+        "name": "NIA_SL_WORD0252_REAL01_L.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.599,
+            "end": 3.832,
+            "attributes": [
+                {
+                    "name": "불경"
+                }
+            ]
+        }
+    ]
+}

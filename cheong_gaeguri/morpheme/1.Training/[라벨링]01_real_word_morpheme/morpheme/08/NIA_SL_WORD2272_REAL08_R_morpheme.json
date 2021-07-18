@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_yhjeon0248/NIA_SL_WORD2272_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2272_REAL08_R.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.78,
+            "end": 2.032,
+            "attributes": [
+                {
+                    "name": "기피하다"
+                }
+            ]
+        }
+    ]
+}

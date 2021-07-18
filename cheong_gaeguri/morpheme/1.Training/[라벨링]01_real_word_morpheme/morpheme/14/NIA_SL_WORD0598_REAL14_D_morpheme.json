@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0300/NIA_SL_WORD0598_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0598_REAL14_D.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.38,
+            "end": 2.727,
+            "attributes": [
+                {
+                    "name": "사감"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0804/NIA_SL_WORD2733_REAL10_R.mp4",
+        "name": "NIA_SL_WORD2733_REAL10_R.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.476,
+            "end": 2.893,
+            "attributes": [
+                {
+                    "name": "백일"
+                }
+            ]
+        }
+    ]
+}

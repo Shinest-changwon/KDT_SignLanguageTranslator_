@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0471/NIA_SL_WORD0001_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0001_REAL09_L.mp4",
+        "duration": 6.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.427,
+            "end": 4.617,
+            "attributes": [
+                {
+                    "name": "고민"
+                }
+            ]
+        }
+    ]
+}

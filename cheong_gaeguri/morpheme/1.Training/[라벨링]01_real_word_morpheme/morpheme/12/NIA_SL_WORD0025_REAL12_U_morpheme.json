@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_hwlee0673/NIA_SL_WORD0025_REAL12_U.mp4",
+        "name": "NIA_SL_WORD0025_REAL12_U.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.582,
+            "end": 3.58,
+            "attributes": [
+                {
+                    "name": "싫어하다"
+                }
+            ]
+        }
+    ]
+}

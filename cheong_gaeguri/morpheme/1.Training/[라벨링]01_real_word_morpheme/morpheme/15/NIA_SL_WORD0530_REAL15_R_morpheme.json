@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0713/NIA_SL_WORD0530_REAL15_R.mp4",
+        "name": "NIA_SL_WORD0530_REAL15_R.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.022,
+            "end": 2.38,
+            "attributes": [
+                {
+                    "name": "묻다"
+                }
+            ]
+        }
+    ]
+}

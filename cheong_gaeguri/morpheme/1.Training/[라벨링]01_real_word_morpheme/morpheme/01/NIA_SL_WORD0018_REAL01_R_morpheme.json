@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_bkyu0337/NIA_SL_WORD0018_REAL01_R.mp4",
+        "name": "NIA_SL_WORD0018_REAL01_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.345,
+            "end": 2.887,
+            "attributes": [
+                {
+                    "name": "나사렛대학교"
+                }
+            ]
+        }
+    ]
+}

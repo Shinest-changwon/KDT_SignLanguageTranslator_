@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0353/NIA_SL_WORD0928_REAL01_F.mp4",
+        "name": "NIA_SL_WORD0928_REAL01_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.457,
+            "end": 2.199,
+            "attributes": [
+                {
+                    "name": "계기"
+                }
+            ]
+        }
+    ]
+}

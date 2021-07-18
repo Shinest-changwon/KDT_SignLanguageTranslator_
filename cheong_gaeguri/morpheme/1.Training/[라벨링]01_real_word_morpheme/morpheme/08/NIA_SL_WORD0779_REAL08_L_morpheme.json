@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0248/NIA_SL_WORD0779_REAL08_L.mp4",
+        "name": "NIA_SL_WORD0779_REAL08_L.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.703,
+            "end": 3.58,
+            "attributes": [
+                {
+                    "name": "일본인"
+                }
+            ]
+        }
+    ]
+}

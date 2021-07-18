@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0747/NIA_SL_WORD1818_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1818_REAL16_R.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.275,
+            "end": 2.72,
+            "attributes": [
+                {
+                    "name": "보령시지부"
+                }
+            ]
+        }
+    ]
+}

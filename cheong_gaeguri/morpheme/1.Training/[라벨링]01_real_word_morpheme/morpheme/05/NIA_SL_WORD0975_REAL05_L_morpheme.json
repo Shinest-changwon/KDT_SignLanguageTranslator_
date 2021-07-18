@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1167/NIA_SL_WORD0975_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0975_REAL05_L.mp4",
+        "duration": 2.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.091,
+            "end": 2.066,
+            "attributes": [
+                {
+                    "name": "익숙"
+                }
+            ]
+        }
+    ]
+}

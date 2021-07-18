@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0696/NIA_SL_WORD0856_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0856_REAL15_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.355,
+            "end": 3.349,
+            "attributes": [
+                {
+                    "name": "철판"
+                }
+            ]
+        }
+    ]
+}

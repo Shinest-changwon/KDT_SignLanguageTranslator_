@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0429/NIA_SL_WORD1736_REAL10_L.mp4",
+        "name": "NIA_SL_WORD1736_REAL10_L.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.488,
+            "end": 3.886,
+            "attributes": [
+                {
+                    "name": "삼척시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

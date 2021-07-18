@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_jhhan0483/NIA_SL_WORD2307_REAL09_R.mp4",
+        "name": "NIA_SL_WORD2307_REAL09_R.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.188,
+            "end": 2.198,
+            "attributes": [
+                {
+                    "name": "막말"
+                }
+            ]
+        }
+    ]
+}

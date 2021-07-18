@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0525/NIA_SL_WORD2600_REAL13_L.mp4",
+        "name": "NIA_SL_WORD2600_REAL13_L.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.935,
+            "end": 3.999,
+            "attributes": [
+                {
+                    "name": "황홀"
+                }
+            ]
+        }
+    ]
+}

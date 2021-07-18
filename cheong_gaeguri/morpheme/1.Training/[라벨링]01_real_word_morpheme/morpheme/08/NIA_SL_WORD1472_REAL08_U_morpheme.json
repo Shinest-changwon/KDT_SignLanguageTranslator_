@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0268/NIA_SL_WORD1472_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1472_REAL08_U.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.167,
+            "end": 2.533,
+            "attributes": [
+                {
+                    "name": "안산"
+                }
+            ]
+        }
+    ]
+}

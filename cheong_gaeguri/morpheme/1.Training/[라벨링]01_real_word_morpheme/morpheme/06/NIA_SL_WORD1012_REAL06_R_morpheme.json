@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0407/NIA_SL_WORD1012_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1012_REAL06_R.mp4",
+        "duration": 5.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.67,
+            "end": 5.279,
+            "attributes": [
+                {
+                    "name": "강북구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

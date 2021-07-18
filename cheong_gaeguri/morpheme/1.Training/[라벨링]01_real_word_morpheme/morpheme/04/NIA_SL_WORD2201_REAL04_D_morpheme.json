@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0851/NIA_SL_WORD2201_REAL04_D.mp4",
+        "name": "NIA_SL_WORD2201_REAL04_D.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.378,
+            "end": 4.031,
+            "attributes": [
+                {
+                    "name": "화가"
+                }
+            ]
+        }
+    ]
+}

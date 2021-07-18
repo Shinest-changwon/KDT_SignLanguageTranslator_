@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0403/NIA_SL_WORD0473_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0473_REAL16_L.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.555,
+            "end": 3.766,
+            "attributes": [
+                {
+                    "name": "대독"
+                }
+            ]
+        }
+    ]
+}

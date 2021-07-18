@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee299/NIA_SL_WORD0724_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0724_REAL02_F.mp4",
+        "duration": 4.184,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.066,
+            "end": 3.281,
+            "attributes": [
+                {
+                    "name": "여성학과"
+                }
+            ]
+        }
+    ]
+}

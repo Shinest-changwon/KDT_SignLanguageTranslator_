@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_emyou0892/NIA_SL_WORD2915_REAL04_D.mp4",
+        "name": "NIA_SL_WORD2915_REAL04_D.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.388,
+            "end": 4.242,
+            "attributes": [
+                {
+                    "name": "팔십오만"
+                }
+            ]
+        }
+    ]
+}

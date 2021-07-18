@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0742/NIA_SL_WORD0762_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0762_REAL16_F.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.98,
+            "end": 2.347,
+            "attributes": [
+                {
+                    "name": "유대인"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0925/NIA_SL_WORD0171_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0171_REAL05_U.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.731,
+            "end": 3.496,
+            "attributes": [
+                {
+                    "name": "코치"
+                }
+            ]
+        }
+    ]
+}

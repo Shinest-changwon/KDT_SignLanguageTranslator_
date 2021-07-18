@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0657/NIA_SL_WORD1816_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1816_REAL12_L.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.445,
+            "end": 3.871,
+            "attributes": [
+                {
+                    "name": "당진시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

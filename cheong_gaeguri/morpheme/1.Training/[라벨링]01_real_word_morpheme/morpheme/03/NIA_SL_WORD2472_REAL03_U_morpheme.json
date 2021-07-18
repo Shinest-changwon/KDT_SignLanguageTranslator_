@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0608/NIA_SL_WORD2472_REAL03_U.mp4",
+        "name": "NIA_SL_WORD2472_REAL03_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.836,
+            "end": 4.1,
+            "attributes": [
+                {
+                    "name": "충남도청"
+                }
+            ]
+        }
+    ]
+}

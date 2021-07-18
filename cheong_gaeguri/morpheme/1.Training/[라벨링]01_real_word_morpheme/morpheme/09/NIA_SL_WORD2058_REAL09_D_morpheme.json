@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0483/NIA_SL_WORD2058_REAL09_D.mp4",
+        "name": "NIA_SL_WORD2058_REAL09_D.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.911,
+            "end": 3.401,
+            "attributes": [
+                {
+                    "name": "태만"
+                }
+            ]
+        }
+    ]
+}

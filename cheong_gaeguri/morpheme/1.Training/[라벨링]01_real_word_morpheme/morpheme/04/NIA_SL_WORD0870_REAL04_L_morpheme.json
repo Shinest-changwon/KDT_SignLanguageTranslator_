@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0842/NIA_SL_WORD0870_REAL04_L.mp4",
+        "name": "NIA_SL_WORD0870_REAL04_L.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.917,
+            "end": 3.858,
+            "attributes": [
+                {
+                    "name": "초혼"
+                }
+            ]
+        }
+    ]
+}

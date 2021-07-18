@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1185/NIA_SL_WORD2567_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2567_REAL12_L.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.305,
+            "end": 2.955,
+            "attributes": [
+                {
+                    "name": "괴롭히다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0851/NIA_SL_WORD0951_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0951_REAL04_R.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.578,
+            "end": 3.883,
+            "attributes": [
+                {
+                    "name": "결사"
+                }
+            ]
+        }
+    ]
+}

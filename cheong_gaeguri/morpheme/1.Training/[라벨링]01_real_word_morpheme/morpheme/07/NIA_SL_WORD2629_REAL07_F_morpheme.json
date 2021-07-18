@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_swlee1073/NIA_SL_WORD2629_REAL07_F.mp4",
+        "name": "NIA_SL_WORD2629_REAL07_F.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.835,
+            "end": 2.922,
+            "attributes": [
+                {
+                    "name": "일산"
+                }
+            ]
+        }
+    ]
+}

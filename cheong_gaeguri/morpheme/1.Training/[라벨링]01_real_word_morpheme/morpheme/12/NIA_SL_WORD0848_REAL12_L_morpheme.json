@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0655/NIA_SL_WORD0848_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0848_REAL12_L.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.326,
+            "end": 3.552,
+            "attributes": [
+                {
+                    "name": "천리"
+                }
+            ]
+        }
+    ]
+}

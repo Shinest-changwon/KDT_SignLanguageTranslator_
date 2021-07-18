@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0606/NIA_SL_WORD2452_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2452_REAL03_R.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.234,
+            "end": 4.367,
+            "attributes": [
+                {
+                    "name": "하동군수화통역센터"
+                }
+            ]
+        }
+    ]
+}

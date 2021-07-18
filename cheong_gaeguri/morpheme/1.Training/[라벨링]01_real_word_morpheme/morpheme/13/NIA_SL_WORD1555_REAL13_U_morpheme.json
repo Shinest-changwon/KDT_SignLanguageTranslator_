@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1051/NIA_SL_WORD1555_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1555_REAL13_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.995,
+            "end": 3.104,
+            "attributes": [
+                {
+                    "name": "양치"
+                }
+            ]
+        }
+    ]
+}

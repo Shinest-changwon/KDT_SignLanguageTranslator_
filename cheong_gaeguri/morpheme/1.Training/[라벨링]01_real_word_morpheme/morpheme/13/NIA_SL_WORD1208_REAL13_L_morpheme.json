@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1058/NIA_SL_WORD1208_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1208_REAL13_L.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/17"
+    },
+    "data": [
+        {
+            "start": 1.665,
+            "end": 2.87,
+            "attributes": [
+                {
+                    "name": "애매하다"
+                }
+            ]
+        }
+    ]
+}

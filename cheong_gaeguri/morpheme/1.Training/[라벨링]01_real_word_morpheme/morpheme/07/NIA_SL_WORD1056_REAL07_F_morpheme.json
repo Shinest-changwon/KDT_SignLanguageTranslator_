@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1116/NIA_SL_WORD1056_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1056_REAL07_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.378,
+            "end": 3.617,
+            "attributes": [
+                {
+                    "name": "송파구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

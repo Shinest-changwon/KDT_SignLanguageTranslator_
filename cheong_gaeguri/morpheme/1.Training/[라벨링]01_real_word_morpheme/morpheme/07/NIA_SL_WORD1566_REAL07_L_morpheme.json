@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_gdchoi0978/NIA_SL_WORD1566_REAL07_L.mp4",
+        "name": "NIA_SL_WORD1566_REAL07_L.mp4",
+        "duration": 2.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.967,
+            "end": 2.104,
+            "attributes": [
+                {
+                    "name": "할아버지"
+                }
+            ]
+        }
+    ]
+}

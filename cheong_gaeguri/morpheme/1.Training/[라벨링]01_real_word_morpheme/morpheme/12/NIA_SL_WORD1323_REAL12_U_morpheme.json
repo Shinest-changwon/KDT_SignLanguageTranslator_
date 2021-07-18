@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_emyou1193/NIA_SL_WORD1323_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1323_REAL12_U.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.381,
+            "end": 2.354,
+            "attributes": [
+                {
+                    "name": "노랑"
+                }
+            ]
+        }
+    ]
+}

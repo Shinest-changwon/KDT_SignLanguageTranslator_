@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_moyu0664/NIA_SL_WORD0181_REAL12_F.mp4",
+        "name": "NIA_SL_WORD0181_REAL12_F.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.552,
+            "end": 4.252,
+            "attributes": [
+                {
+                    "name": "교통안전교육"
+                }
+            ]
+        }
+    ]
+}

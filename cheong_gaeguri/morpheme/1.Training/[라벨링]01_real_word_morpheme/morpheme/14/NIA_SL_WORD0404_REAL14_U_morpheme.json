@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1063/NIA_SL_WORD0404_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0404_REAL14_U.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.39,
+            "end": 3.427,
+            "attributes": [
+                {
+                    "name": "강풍"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0410/NIA_SL_WORD1294_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1294_REAL06_F.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.121,
+            "end": 2.437,
+            "attributes": [
+                {
+                    "name": "걱정"
+                }
+            ]
+        }
+    ]
+}

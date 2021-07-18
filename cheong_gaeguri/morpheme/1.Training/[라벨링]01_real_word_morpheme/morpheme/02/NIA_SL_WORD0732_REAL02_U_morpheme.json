@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee300/NIA_SL_WORD0732_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0732_REAL02_U.mp4",
+        "duration": 4.517,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.802,
+            "end": 3.526,
+            "attributes": [
+                {
+                    "name": "영문법"
+                }
+            ]
+        }
+    ]
+}

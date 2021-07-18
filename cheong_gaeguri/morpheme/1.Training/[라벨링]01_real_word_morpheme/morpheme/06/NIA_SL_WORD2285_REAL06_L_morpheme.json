@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0674/NIA_SL_WORD2285_REAL06_L.mp4",
+        "name": "NIA_SL_WORD2285_REAL06_L.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.052,
+            "end": 3.313,
+            "attributes": [
+                {
+                    "name": "어차피"
+                }
+            ]
+        }
+    ]
+}

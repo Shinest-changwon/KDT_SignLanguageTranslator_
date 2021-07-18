@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0339/NIA_SL_WORD2290_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2290_REAL01_L.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.905,
+            "end": 3.159,
+            "attributes": [
+                {
+                    "name": "기회주의"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0838/NIA_SL_WORD0073_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0073_REAL04_D.mp4",
+        "duration": 5.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.114,
+            "end": 4.164,
+            "attributes": [
+                {
+                    "name": "고깃국"
+                }
+            ]
+        }
+    ]
+}

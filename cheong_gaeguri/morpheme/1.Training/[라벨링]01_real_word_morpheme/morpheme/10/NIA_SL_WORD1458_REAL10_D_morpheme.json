@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_moyu0426/NIA_SL_WORD1458_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1458_REAL10_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.504,
+            "end": 2.349,
+            "attributes": [
+                {
+                    "name": "명동"
+                }
+            ]
+        }
+    ]
+}

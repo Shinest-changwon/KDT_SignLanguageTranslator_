@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0338/NIA_SL_WORD2525_REAL01_R.mp4",
+        "name": "NIA_SL_WORD2525_REAL01_R.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.053,
+            "end": 2.934,
+            "attributes": [
+                {
+                    "name": "중국"
+                }
+            ]
+        }
+    ]
+}

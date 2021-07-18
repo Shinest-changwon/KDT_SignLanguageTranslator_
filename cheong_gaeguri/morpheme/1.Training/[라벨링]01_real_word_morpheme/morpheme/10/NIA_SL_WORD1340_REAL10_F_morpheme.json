@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_moyu0414/NIA_SL_WORD1340_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1340_REAL10_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.26,
+            "end": 3.4,
+            "attributes": [
+                {
+                    "name": "전자기기"
+                }
+            ]
+        }
+    ]
+}

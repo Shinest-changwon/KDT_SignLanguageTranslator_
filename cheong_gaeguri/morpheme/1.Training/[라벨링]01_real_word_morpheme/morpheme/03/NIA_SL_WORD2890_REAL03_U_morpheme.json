@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_moyu0624/NIA_SL_WORD2890_REAL03_U.mp4",
+        "name": "NIA_SL_WORD2890_REAL03_U.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.323,
+            "end": 2.003,
+            "attributes": [
+                {
+                    "name": "오만"
+                }
+            ]
+        }
+    ]
+}

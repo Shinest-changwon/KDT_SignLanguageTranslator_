@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0264/NIA_SL_WORD1689_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1689_REAL08_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.585,
+            "end": 2.579,
+            "attributes": [
+                {
+                    "name": "여주시지부"
+                }
+            ]
+        }
+    ]
+}

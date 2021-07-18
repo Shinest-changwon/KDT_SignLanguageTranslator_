@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0294/NIA_SL_WORD2540_REAL14_U.mp4",
+        "name": "NIA_SL_WORD2540_REAL14_U.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.899,
+            "end": 2.824,
+            "attributes": [
+                {
+                    "name": "후지다"
+                }
+            ]
+        }
+    ]
+}

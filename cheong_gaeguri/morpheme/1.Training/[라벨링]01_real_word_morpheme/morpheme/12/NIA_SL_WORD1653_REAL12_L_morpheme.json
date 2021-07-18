@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1192/NIA_SL_WORD1653_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1653_REAL12_L.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.432,
+            "end": 3.639,
+            "attributes": [
+                {
+                    "name": "광주시지부"
+                }
+            ]
+        }
+    ]
+}

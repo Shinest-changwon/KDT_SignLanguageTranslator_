@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0400/NIA_SL_WORD0197_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0197_REAL16_F.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.453,
+            "end": 4.475,
+            "attributes": [
+                {
+                    "name": "백화점"
+                }
+            ]
+        }
+    ]
+}

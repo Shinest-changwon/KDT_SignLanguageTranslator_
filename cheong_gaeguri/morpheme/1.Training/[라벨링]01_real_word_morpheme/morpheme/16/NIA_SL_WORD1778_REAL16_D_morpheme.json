@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0743/NIA_SL_WORD1778_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1778_REAL16_D.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.123,
+            "end": 2.998,
+            "attributes": [
+                {
+                    "name": "단양군지부"
+                }
+            ]
+        }
+    ]
+}

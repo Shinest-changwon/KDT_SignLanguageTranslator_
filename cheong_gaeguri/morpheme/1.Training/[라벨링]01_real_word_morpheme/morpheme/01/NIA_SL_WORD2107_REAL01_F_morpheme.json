@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0346/NIA_SL_WORD2107_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2107_REAL01_F.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.544,
+            "end": 3.119,
+            "attributes": [
+                {
+                    "name": "인체"
+                }
+            ]
+        }
+    ]
+}

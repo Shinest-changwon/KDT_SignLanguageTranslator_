@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1192/NIA_SL_WORD1654_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1654_REAL12_L.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.571,
+            "end": 5.123,
+            "attributes": [
+                {
+                    "name": "광주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

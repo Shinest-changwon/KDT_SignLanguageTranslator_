@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0988/NIA_SL_WORD0837_REAL11_L.mp4",
+        "name": "NIA_SL_WORD0837_REAL11_L.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.528,
+            "end": 4.032,
+            "attributes": [
+                {
+                    "name": "진상"
+                }
+            ]
+        }
+    ]
+}

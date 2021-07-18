@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim324/NIA_SL_WORD1495_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1495_REAL02_R.mp4",
+        "duration": 4.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.616,
+            "end": 3.326,
+            "attributes": [
+                {
+                    "name": "차량점검"
+                }
+            ]
+        }
+    ]
+}

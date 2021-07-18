@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_emyou0425/NIA_SL_WORD0448_REAL10_R.mp4",
+        "name": "NIA_SL_WORD0448_REAL10_R.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.537,
+            "end": 2.954,
+            "attributes": [
+                {
+                    "name": "길운"
+                }
+            ]
+        }
+    ]
+}

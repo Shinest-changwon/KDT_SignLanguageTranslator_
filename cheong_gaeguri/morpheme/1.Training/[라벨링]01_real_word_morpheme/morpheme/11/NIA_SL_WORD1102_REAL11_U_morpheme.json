@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_bkyu0531/NIA_SL_WORD1102_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1102_REAL11_U.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.365,
+            "end": 2.287,
+            "attributes": [
+                {
+                    "name": "답답"
+                }
+            ]
+        }
+    ]
+}

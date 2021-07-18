@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1054/NIA_SL_WORD2008_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2008_REAL16_U.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.515,
+            "end": 2.946,
+            "attributes": [
+                {
+                    "name": "피해자"
+                }
+            ]
+        }
+    ]
+}

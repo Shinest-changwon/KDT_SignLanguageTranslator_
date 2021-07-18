@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0651/NIA_SL_WORD0804_REAL12_R.mp4",
+        "name": "NIA_SL_WORD0804_REAL12_R.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.306,
+            "end": 4.278,
+            "attributes": [
+                {
+                    "name": "저명인사"
+                }
+            ]
+        }
+    ]
+}

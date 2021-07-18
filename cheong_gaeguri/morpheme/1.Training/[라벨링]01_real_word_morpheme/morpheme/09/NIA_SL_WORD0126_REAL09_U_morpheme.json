@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0483/NIA_SL_WORD0126_REAL09_U.mp4",
+        "name": "NIA_SL_WORD0126_REAL09_U.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.407,
+            "end": 3.014,
+            "attributes": [
+                {
+                    "name": "잠옷"
+                }
+            ]
+        }
+    ]
+}

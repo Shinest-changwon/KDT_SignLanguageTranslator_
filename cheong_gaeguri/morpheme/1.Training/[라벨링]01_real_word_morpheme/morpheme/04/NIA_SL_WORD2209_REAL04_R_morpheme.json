@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0851/NIA_SL_WORD2209_REAL04_R.mp4",
+        "name": "NIA_SL_WORD2209_REAL04_R.mp4",
+        "duration": 6.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.818,
+            "end": 4.989,
+            "attributes": [
+                {
+                    "name": "빚더미"
+                }
+            ]
+        }
+    ]
+}

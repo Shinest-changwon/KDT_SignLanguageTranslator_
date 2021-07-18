@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0927/NIA_SL_WORD2267_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2267_REAL16_F.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.304,
+            "end": 4.045,
+            "attributes": [
+                {
+                    "name": "판박이"
+                }
+            ]
+        }
+    ]
+}

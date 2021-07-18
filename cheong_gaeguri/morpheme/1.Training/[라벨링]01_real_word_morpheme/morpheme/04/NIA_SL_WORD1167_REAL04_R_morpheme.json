@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_moyu0847/NIA_SL_WORD1167_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1167_REAL04_R.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.371,
+            "end": 3.114,
+            "attributes": [
+                {
+                    "name": "성급"
+                }
+            ]
+        }
+    ]
+}

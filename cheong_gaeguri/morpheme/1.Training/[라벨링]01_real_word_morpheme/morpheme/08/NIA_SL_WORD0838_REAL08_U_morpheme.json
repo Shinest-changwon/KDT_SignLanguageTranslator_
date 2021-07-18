@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0254/NIA_SL_WORD0838_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0838_REAL08_U.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.798,
+            "end": 3.643,
+            "attributes": [
+                {
+                    "name": "진실"
+                }
+            ]
+        }
+    ]
+}

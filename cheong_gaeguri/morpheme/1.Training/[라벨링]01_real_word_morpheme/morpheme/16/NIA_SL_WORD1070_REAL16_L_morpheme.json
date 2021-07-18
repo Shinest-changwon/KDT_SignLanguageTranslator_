@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0747/NIA_SL_WORD1070_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1070_REAL16_L.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.905,
+            "end": 3.344,
+            "attributes": [
+                {
+                    "name": "종로구지부"
+                }
+            ]
+        }
+    ]
+}

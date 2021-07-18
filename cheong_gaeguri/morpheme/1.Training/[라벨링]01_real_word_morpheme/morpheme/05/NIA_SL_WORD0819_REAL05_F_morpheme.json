@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1151/NIA_SL_WORD0819_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0819_REAL05_F.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.204,
+            "end": 3.436,
+            "attributes": [
+                {
+                    "name": "졸업장"
+                }
+            ]
+        }
+    ]
+}

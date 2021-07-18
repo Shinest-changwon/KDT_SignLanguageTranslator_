@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1054/NIA_SL_WORD1161_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1161_REAL13_U.mp4",
+        "duration": 2.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.484,
+            "end": 1.346,
+            "attributes": [
+                {
+                    "name": "성격"
+                }
+            ]
+        }
+    ]
+}

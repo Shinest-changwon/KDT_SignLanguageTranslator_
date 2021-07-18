@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0260/NIA_SL_WORD0895_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0895_REAL08_R.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.278,
+            "end": 3.364,
+            "attributes": [
+                {
+                    "name": "키다리"
+                }
+            ]
+        }
+    ]
+}

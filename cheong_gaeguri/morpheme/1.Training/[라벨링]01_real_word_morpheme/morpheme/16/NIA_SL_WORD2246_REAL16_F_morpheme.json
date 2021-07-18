@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0925/NIA_SL_WORD2246_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2246_REAL16_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.977,
+            "end": 2.523,
+            "attributes": [
+                {
+                    "name": "근근이"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0611/NIA_SL_WORD2502_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2502_REAL08_R.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.139,
+            "end": 1.804,
+            "attributes": [
+                {
+                    "name": "광기"
+                }
+            ]
+        }
+    ]
+}

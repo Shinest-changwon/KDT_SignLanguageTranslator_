@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim304/NIA_SL_WORD2296_REAL02_L.mp4",
+        "name": "NIA_SL_WORD2296_REAL02_L.mp4",
+        "duration": 4.684,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.356,
+            "end": 3.85,
+            "attributes": [
+                {
+                    "name": "달변"
+                }
+            ]
+        }
+    ]
+}

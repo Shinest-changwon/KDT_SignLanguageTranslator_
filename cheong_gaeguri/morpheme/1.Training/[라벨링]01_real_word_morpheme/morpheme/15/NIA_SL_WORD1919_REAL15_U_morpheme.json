@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1078/NIA_SL_WORD1919_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1919_REAL15_U.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.415,
+            "end": 2.9,
+            "attributes": [
+                {
+                    "name": "영암군지부"
+                }
+            ]
+        }
+    ]
+}

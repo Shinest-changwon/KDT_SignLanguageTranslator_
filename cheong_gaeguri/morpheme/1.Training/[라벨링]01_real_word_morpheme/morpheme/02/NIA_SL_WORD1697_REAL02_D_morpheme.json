@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon298/NIA_SL_WORD1697_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1697_REAL02_D.mp4",
+        "duration": 5.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.57,
+            "end": 4.411,
+            "attributes": [
+                {
+                    "name": "오산시시청"
+                }
+            ]
+        }
+    ]
+}

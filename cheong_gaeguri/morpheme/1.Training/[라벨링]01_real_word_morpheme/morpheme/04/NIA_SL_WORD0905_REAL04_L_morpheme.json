@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0846/NIA_SL_WORD0905_REAL04_L.mp4",
+        "name": "NIA_SL_WORD0905_REAL04_L.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.508,
+            "end": 4.176,
+            "attributes": [
+                {
+                    "name": "바래다"
+                }
+            ]
+        }
+    ]
+}

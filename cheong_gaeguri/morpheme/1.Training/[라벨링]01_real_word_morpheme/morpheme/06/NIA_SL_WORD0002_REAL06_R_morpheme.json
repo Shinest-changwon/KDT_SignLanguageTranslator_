@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1101/NIA_SL_WORD0002_REAL06_R.mp4",
+        "name": "NIA_SL_WORD0002_REAL06_R.mp4",
+        "duration": 3.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.256,
+            "end": 2.981,
+            "attributes": [
+                {
+                    "name": "뻔뻔"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_emyou0408/NIA_SL_WORD0271_REAL10_R.mp4",
+        "name": "NIA_SL_WORD0271_REAL10_R.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.487,
+            "end": 3.648,
+            "attributes": [
+                {
+                    "name": "음악가"
+                }
+            ]
+        }
+    ]
+}

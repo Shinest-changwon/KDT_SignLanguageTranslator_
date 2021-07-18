@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0531/NIA_SL_WORD2406_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2406_REAL13_F.mp4",
+        "duration": 6.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.662,
+            "end": 4.642,
+            "attributes": [
+                {
+                    "name": "포항시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

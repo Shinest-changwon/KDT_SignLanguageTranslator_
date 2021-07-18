@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0263/NIA_SL_WORD0680_REAL08_F.mp4",
+        "name": "NIA_SL_WORD0680_REAL08_F.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.501,
+            "end": 2.402,
+            "attributes": [
+                {
+                    "name": "여덟번째"
+                }
+            ]
+        }
+    ]
+}

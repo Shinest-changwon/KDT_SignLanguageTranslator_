@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0653/NIA_SL_WORD0575_REAL12_D.mp4",
+        "name": "NIA_SL_WORD0575_REAL12_D.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.459,
+            "end": 3.499,
+            "attributes": [
+                {
+                    "name": "보수교육"
+                }
+            ]
+        }
+    ]
+}

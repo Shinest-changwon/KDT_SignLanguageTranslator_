@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0420/NIA_SL_WORD1147_REAL10_L.mp4",
+        "name": "NIA_SL_WORD1147_REAL10_L.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.509,
+            "end": 2.794,
+            "attributes": [
+                {
+                    "name": "팔"
+                }
+            ]
+        }
+    ]
+}

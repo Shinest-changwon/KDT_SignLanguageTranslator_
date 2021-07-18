@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0931/NIA_SL_WORD1545_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1545_REAL05_U.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.758,
+            "end": 3.353,
+            "attributes": [
+                {
+                    "name": "수영"
+                }
+            ]
+        }
+    ]
+}

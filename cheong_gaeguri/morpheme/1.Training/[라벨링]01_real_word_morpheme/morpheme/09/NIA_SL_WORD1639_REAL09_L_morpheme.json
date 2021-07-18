@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jwlee012/NIA_SL_WORD1639_REAL09_L.mp4",
+        "name": "NIA_SL_WORD1639_REAL09_L.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/17"
+    },
+    "data": [
+        {
+            "start": 1.407,
+            "end": 3.883,
+            "attributes": [
+                {
+                    "name": "세종특별자치시농아인협회\n"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0352/NIA_SL_WORD2412_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2412_REAL01_D.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.791,
+            "end": 3.468,
+            "attributes": [
+                {
+                    "name": "거제시청"
+                }
+            ]
+        }
+    ]
+}

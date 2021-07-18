@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0625/NIA_SL_WORD0093_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0093_REAL13_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.268,
+            "end": 2.849,
+            "attributes": [
+                {
+                    "name": "밥그릇"
+                }
+            ]
+        }
+    ]
+}

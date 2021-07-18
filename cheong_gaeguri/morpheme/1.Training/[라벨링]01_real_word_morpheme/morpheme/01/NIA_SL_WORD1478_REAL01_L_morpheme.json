@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1150/NIA_SL_WORD1478_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1478_REAL01_L.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.7,
+            "end": 2.657,
+            "attributes": [
+                {
+                    "name": "용인"
+                }
+            ]
+        }
+    ]
+}

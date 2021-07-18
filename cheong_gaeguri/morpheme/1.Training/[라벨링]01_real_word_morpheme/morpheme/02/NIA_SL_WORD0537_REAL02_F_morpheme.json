@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi327/NIA_SL_WORD0537_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0537_REAL02_F.mp4",
+        "duration": 4.284,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.325,
+            "end": 3.194,
+            "attributes": [
+                {
+                    "name": "미행"
+                }
+            ]
+        }
+    ]
+}

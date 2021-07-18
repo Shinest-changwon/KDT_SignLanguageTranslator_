@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1053/NIA_SL_WORD0315_REAL06_U.mp4",
+        "name": "NIA_SL_WORD0315_REAL06_U.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.837,
+            "end": 3.795,
+            "attributes": [
+                {
+                    "name": "흙내음"
+                }
+            ]
+        }
+    ]
+}

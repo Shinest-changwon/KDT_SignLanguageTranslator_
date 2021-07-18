@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0270/NIA_SL_WORD1750_REAL08_L.mp4",
+        "name": "NIA_SL_WORD1750_REAL08_L.mp4",
+        "duration": 2.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.037,
+            "end": 1.838,
+            "attributes": [
+                {
+                    "name": "비다"
+                }
+            ]
+        }
+    ]
+}

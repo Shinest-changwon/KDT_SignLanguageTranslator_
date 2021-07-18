@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0936/NIA_SL_WORD1093_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1093_REAL05_U.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.357,
+            "end": 3.957,
+            "attributes": [
+                {
+                    "name": "수영구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

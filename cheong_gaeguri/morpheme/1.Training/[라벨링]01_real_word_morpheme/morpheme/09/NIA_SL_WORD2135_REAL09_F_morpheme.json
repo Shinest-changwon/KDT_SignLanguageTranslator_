@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0491/NIA_SL_WORD2135_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2135_REAL09_F.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.63,
+            "end": 3.262,
+            "attributes": [
+                {
+                    "name": "친부"
+                }
+            ]
+        }
+    ]
+}

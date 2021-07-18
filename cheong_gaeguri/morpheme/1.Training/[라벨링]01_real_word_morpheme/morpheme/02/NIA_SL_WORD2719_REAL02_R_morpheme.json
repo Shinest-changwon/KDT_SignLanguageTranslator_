@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu280/NIA_SL_WORD2719_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2719_REAL02_R.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.293,
+            "end": 2.468,
+            "attributes": [
+                {
+                    "name": "팔십칠"
+                }
+            ]
+        }
+    ]
+}

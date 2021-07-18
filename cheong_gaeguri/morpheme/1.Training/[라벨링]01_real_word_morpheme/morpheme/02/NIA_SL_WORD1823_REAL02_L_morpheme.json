@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon311/NIA_SL_WORD1823_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1823_REAL02_L.mp4",
+        "duration": 2.917,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.016,
+            "end": 2.033,
+            "attributes": [
+                {
+                    "name": "부여군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

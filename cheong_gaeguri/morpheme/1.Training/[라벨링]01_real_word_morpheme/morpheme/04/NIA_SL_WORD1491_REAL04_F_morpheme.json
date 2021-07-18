@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0855/NIA_SL_WORD1491_REAL04_F.mp4",
+        "name": "NIA_SL_WORD1491_REAL04_F.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.394,
+            "end": 3.541,
+            "attributes": [
+                {
+                    "name": "포천"
+                }
+            ]
+        }
+    ]
+}

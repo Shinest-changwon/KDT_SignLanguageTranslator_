@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0983/NIA_SL_WORD0289_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0289_REAL11_R.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.81,
+            "end": 4.347,
+            "attributes": [
+                {
+                    "name": "파도"
+                }
+            ]
+        }
+    ]
+}

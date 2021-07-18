@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1051/NIA_SL_WORD1990_REAL15_R.mp4",
+        "name": "NIA_SL_WORD1990_REAL15_R.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.389,
+            "end": 4.889,
+            "attributes": [
+                {
+                    "name": "의성군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

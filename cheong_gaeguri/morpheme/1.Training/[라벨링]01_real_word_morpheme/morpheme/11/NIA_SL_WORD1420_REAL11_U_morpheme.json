@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_emyou0537/NIA_SL_WORD1420_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1420_REAL11_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.515,
+            "end": 3.29,
+            "attributes": [
+                {
+                    "name": "공항시장"
+                }
+            ]
+        }
+    ]
+}

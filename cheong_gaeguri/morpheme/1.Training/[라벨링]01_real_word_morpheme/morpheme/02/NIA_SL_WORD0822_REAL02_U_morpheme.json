@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee309/NIA_SL_WORD0822_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0822_REAL02_U.mp4",
+        "duration": 4.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.715,
+            "end": 3.431,
+            "attributes": [
+                {
+                    "name": "주관"
+                }
+            ]
+        }
+    ]
+}

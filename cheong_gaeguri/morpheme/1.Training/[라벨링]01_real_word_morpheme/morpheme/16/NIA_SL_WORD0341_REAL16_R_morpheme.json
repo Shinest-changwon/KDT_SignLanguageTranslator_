@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0390/NIA_SL_WORD0341_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0341_REAL16_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.992,
+            "end": 4.01,
+            "attributes": [
+                {
+                    "name": "검정머리"
+                }
+            ]
+        }
+    ]
+}

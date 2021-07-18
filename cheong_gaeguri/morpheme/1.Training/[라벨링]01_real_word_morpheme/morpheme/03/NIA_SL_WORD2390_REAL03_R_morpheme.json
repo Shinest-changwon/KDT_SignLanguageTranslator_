@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0624/NIA_SL_WORD2390_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2390_REAL03_R.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.385,
+            "end": 2.295,
+            "attributes": [
+                {
+                    "name": "돕다"
+                }
+            ]
+        }
+    ]
+}

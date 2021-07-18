@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee325/NIA_SL_WORD0981_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0981_REAL02_U.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.317,
+            "end": 2.388,
+            "attributes": [
+                {
+                    "name": "동상이몽"
+                }
+            ]
+        }
+    ]
+}

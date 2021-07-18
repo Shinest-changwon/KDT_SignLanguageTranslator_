@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0268/NIA_SL_WORD1476_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1476_REAL08_R.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.461,
+            "end": 4.242,
+            "attributes": [
+                {
+                    "name": "안성"
+                }
+            ]
+        }
+    ]
+}

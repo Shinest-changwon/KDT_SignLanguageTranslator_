@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0665/NIA_SL_WORD1896_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1896_REAL12_R.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.364,
+            "end": 4.106,
+            "attributes": [
+                {
+                    "name": "나주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

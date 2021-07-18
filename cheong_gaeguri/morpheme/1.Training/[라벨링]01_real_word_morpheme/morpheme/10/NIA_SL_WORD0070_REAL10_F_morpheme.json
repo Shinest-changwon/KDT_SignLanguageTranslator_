@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0412/NIA_SL_WORD0070_REAL10_F.mp4",
+        "name": "NIA_SL_WORD0070_REAL10_F.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.34,
+            "end": 3.603,
+            "attributes": [
+                {
+                    "name": "빈혈"
+                }
+            ]
+        }
+    ]
+}

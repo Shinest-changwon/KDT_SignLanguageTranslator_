@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu280/NIA_SL_WORD2382_REAL02_U.mp4",
+        "name": "NIA_SL_WORD2382_REAL02_U.mp4",
+        "duration": 2.9,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.874,
+            "end": 1.732,
+            "attributes": [
+                {
+                    "name": "무시하다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0349/NIA_SL_WORD0890_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0890_REAL01_U.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.628,
+            "end": 2.272,
+            "attributes": [
+                {
+                    "name": "코코아"
+                }
+            ]
+        }
+    ]
+}

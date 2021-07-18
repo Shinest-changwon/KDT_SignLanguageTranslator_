@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0337/NIA_SL_WORD2263_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2263_REAL01_D.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.312,
+            "end": 3.505,
+            "attributes": [
+                {
+                    "name": "비상식적"
+                }
+            ]
+        }
+    ]
+}

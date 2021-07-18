@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0943/NIA_SL_WORD1158_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1158_REAL05_R.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.479,
+            "end": 2.545,
+            "attributes": [
+                {
+                    "name": "피곤하다"
+                }
+            ]
+        }
+    ]
+}

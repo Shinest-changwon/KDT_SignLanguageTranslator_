@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0742/NIA_SL_WORD1513_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1513_REAL16_D.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.508,
+            "end": 3.469,
+            "attributes": [
+                {
+                    "name": "운전면허정지"
+                }
+            ]
+        }
+    ]
+}

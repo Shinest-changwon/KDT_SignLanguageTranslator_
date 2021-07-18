@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim311/NIA_SL_WORD1365_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1365_REAL02_L.mp4",
+        "duration": 3.75,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.604,
+            "end": 2.62,
+            "attributes": [
+                {
+                    "name": "여섯배"
+                }
+            ]
+        }
+    ]
+}

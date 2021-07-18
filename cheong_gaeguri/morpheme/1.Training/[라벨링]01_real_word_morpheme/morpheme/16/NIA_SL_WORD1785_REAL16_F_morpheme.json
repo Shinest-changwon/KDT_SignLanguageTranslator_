@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0744/NIA_SL_WORD1785_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1785_REAL16_F.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.344,
+            "end": 4.067,
+            "attributes": [
+                {
+                    "name": "영동군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0924/NIA_SL_WORD1974_REAL05_F.mp4",
+        "name": "NIA_SL_WORD1974_REAL05_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.745,
+            "end": 3.666,
+            "attributes": [
+                {
+                    "name": "영주시지부"
+                }
+            ]
+        }
+    ]
+}

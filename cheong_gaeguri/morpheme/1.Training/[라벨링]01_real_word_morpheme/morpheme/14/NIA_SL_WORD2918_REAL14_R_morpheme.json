@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_yhjeon0307/NIA_SL_WORD2918_REAL14_R.mp4",
+        "name": "NIA_SL_WORD2918_REAL14_R.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.466,
+            "end": 2.618,
+            "attributes": [
+                {
+                    "name": "백만"
+                }
+            ]
+        }
+    ]
+}

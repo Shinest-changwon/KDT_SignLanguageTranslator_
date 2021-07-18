@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0359/NIA_SL_WORD2233_REAL01_R.mp4",
+        "name": "NIA_SL_WORD2233_REAL01_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.829,
+            "end": 2.594,
+            "attributes": [
+                {
+                    "name": "권력"
+                }
+            ]
+        }
+    ]
+}

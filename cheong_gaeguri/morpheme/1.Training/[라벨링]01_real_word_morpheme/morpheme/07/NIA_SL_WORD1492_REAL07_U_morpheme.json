@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_gdchoi0971/NIA_SL_WORD1492_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1492_REAL07_U.mp4",
+        "duration": 3.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.303,
+            "end": 2.471,
+            "attributes": [
+                {
+                    "name": "가족"
+                }
+            ]
+        }
+    ]
+}

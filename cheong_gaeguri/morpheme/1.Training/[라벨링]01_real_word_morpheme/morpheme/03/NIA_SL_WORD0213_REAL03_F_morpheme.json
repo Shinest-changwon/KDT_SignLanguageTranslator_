@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0807/NIA_SL_WORD0213_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0213_REAL03_F.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.95,
+            "end": 2.81,
+            "attributes": [
+                {
+                    "name": "교무실"
+                }
+            ]
+        }
+    ]
+}

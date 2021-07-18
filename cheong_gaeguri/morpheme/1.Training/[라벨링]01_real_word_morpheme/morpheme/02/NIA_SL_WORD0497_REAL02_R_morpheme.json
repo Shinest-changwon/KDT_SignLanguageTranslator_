@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi323/NIA_SL_WORD0497_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0497_REAL02_R.mp4",
+        "duration": 4.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.497,
+            "end": 3.068,
+            "attributes": [
+                {
+                    "name": "마구간"
+                }
+            ]
+        }
+    ]
+}

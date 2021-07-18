@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0798/NIA_SL_WORD0124_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0124_REAL03_F.mp4",
+        "duration": 6.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.035,
+            "end": 5.18,
+            "attributes": [
+                {
+                    "name": "양산"
+                }
+            ]
+        }
+    ]
+}

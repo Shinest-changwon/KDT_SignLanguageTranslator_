@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_moyu0306/NIA_SL_WORD1905_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1905_REAL14_F.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.259,
+            "end": 3.823,
+            "attributes": [
+                {
+                    "name": "보성군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

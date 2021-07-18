@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim312/NIA_SL_WORD1353_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1353_REAL09_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.838,
+            "end": 2.706,
+            "attributes": [
+                {
+                    "name": "당신"
+                }
+            ]
+        }
+    ]
+}

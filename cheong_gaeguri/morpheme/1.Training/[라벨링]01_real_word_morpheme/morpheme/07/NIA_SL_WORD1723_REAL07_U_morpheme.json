@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1040/NIA_SL_WORD1723_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1723_REAL07_U.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.485,
+            "end": 4.551,
+            "attributes": [
+                {
+                    "name": "화성시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0803/NIA_SL_WORD1430_REAL03_D.mp4",
+        "name": "NIA_SL_WORD1430_REAL03_D.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.791,
+            "end": 3.201,
+            "attributes": [
+                {
+                    "name": "청량리"
+                }
+            ]
+        }
+    ]
+}

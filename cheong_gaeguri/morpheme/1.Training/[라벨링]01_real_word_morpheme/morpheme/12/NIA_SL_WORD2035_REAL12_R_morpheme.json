@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_moyu1183/NIA_SL_WORD2035_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2035_REAL12_R.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.64,
+            "end": 2.955,
+            "attributes": [
+                {
+                    "name": "신문"
+                }
+            ]
+        }
+    ]
+}

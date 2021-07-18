@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_sjim0303/NIA_SL_WORD2376_REAL14_D.mp4",
+        "name": "NIA_SL_WORD2376_REAL14_D.mp4",
+        "duration": 3.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.03,
+            "end": 2.138,
+            "attributes": [
+                {
+                    "name": "멍청하다"
+                }
+            ]
+        }
+    ]
+}

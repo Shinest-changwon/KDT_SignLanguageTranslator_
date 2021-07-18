@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0480/NIA_SL_WORD0281_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0281_REAL14_U.mp4",
+        "duration": 6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.419,
+            "end": 4.788,
+            "attributes": [
+                {
+                    "name": "유권자"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon299/NIA_SL_WORD1710_REAL02_F.mp4",
+        "name": "NIA_SL_WORD1710_REAL02_F.mp4",
+        "duration": 3.85,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.859,
+            "end": 3.184,
+            "attributes": [
+                {
+                    "name": "파주시지부"
+                }
+            ]
+        }
+    ]
+}

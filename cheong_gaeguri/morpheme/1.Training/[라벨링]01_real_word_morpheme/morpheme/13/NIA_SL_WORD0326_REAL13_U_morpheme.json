@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0623/NIA_SL_WORD0326_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0326_REAL13_U.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.745,
+            "end": 3.883,
+            "attributes": [
+                {
+                    "name": "사춘기"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_rhkim1146/NIA_SL_WORD1335_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1335_REAL01_L.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.094,
+            "end": 3.138,
+            "attributes": [
+                {
+                    "name": "배려"
+                }
+            ]
+        }
+    ]
+}

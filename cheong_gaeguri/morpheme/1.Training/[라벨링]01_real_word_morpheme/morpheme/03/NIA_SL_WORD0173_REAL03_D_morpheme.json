@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0803/NIA_SL_WORD0173_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0173_REAL03_D.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.082,
+            "end": 4.058,
+            "attributes": [
+                {
+                    "name": "근무"
+                }
+            ]
+        }
+    ]
+}

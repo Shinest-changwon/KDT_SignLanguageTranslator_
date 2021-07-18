@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0488/NIA_SL_WORD0357_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0357_REAL14_D.mp4",
+        "duration": 5.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.413,
+            "end": 4.876,
+            "attributes": [
+                {
+                    "name": "가족회의"
+                }
+            ]
+        }
+    ]
+}

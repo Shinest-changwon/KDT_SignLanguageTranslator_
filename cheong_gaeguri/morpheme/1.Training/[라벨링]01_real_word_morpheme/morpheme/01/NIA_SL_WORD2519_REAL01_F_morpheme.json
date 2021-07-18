@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0337/NIA_SL_WORD2519_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2519_REAL01_F.mp4",
+        "duration": 2.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.61,
+            "end": 1.997,
+            "attributes": [
+                {
+                    "name": "기절초풍"
+                }
+            ]
+        }
+    ]
+}

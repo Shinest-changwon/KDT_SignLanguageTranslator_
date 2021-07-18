@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0527/NIA_SL_WORD2619_REAL13_L.mp4",
+        "name": "NIA_SL_WORD2619_REAL13_L.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.652,
+            "end": 3.533,
+            "attributes": [
+                {
+                    "name": "의정부"
+                }
+            ]
+        }
+    ]
+}

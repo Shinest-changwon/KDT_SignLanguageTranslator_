@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0296/NIA_SL_WORD0557_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0557_REAL14_U.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.541,
+            "end": 3.735,
+            "attributes": [
+                {
+                    "name": "위로"
+                }
+            ]
+        }
+    ]
+}

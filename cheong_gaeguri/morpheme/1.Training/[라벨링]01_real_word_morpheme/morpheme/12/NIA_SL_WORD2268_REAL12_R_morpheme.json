@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1189/NIA_SL_WORD2268_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2268_REAL12_R.mp4",
+        "duration": 2.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.222,
+            "end": 2.146,
+            "attributes": [
+                {
+                    "name": "그렇다"
+                }
+            ]
+        }
+    ]
+}

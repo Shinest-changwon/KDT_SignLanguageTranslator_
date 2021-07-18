@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon297/NIA_SL_WORD1682_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1682_REAL02_U.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.582,
+            "end": 2.708,
+            "attributes": [
+                {
+                    "name": "안양시청"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1157/NIA_SL_WORD2451_REAL16_L.mp4",
+        "name": "NIA_SL_WORD2451_REAL16_L.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.008,
+            "end": 3.587,
+            "attributes": [
+                {
+                    "name": "하동군지부"
+                }
+            ]
+        }
+    ]
+}

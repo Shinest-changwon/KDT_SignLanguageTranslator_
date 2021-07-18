@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim302/NIA_SL_WORD2279_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2279_REAL02_R.mp4",
+        "duration": 3.917,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.937,
+            "end": 2.801,
+            "attributes": [
+                {
+                    "name": "가만히"
+                }
+            ]
+        }
+    ]
+}

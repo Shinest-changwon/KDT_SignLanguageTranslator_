@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi308/NIA_SL_WORD0344_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0344_REAL02_F.mp4",
+        "duration": 4.684,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.61,
+            "end": 3.192,
+            "attributes": [
+                {
+                    "name": "평일"
+                }
+            ]
+        }
+    ]
+}

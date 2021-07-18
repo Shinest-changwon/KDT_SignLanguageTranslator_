@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0386/NIA_SL_WORD0052_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0052_REAL16_F.mp4",
+        "duration": 5.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.107,
+            "end": 4.806,
+            "attributes": [
+                {
+                    "name": "수면제"
+                }
+            ]
+        }
+    ]
+}

@@ -36,12 +36,14 @@
         function video_play(){
 
            var h_sign_video = document.getElementById("H_sign");
+
+           if (h_sign_video.getAttribute('src')!=""){
+               h_sign_video.pause()
+           }           
            if (h_sign_video.paused){
                h_sign_video.play()
            }
-           
-           
-           }
+        }
         
     </script>
   </head>
@@ -52,7 +54,7 @@
        <form method="POST" action="/mouth">
         <div id = "object">
         <!-- <label for ="mouth"></label> -->
-        <textarea id = "mouth" name = "mouth" style="margin: 1%; width: 275px; height: 300px; margin-left: 3%; box-shadow: 0px 0px 5px gray; resize: none;">{{cont}}</textarea>
+        <textarea id = "mouth" name = "mouth" style="margin: 1%; width: 275px; height: 300px; margin-left: 3%; box-shadow: 0px 0px 5px gray; resize: none;"></textarea>
         <div id = "object" style="height: 50px; width: 50px; box-shadow: 0px 0px 0px;">
             <div id = "object" style="height: 50px; margin-top: 10%; box-shadow: 0px 0px 0px; margin-left: 45%;">음성 입력<br> 
                 <label class="switch" style="margin-top: 2%;">
@@ -78,14 +80,20 @@
                    allowfullscreen
                    o
                    >
-                   
-                   
+                   src="{{url_for('static',filename = 'videos/My_VIDEO.mp4')}}"
+                   src = "{{url_for('static',filename = 'videos/Ani_Final_S1.mp4')}}"
+                   src = "{{url_for('static',filename = 'videos/Ani_Final_S2.mp4')}}"
+                   src = "{{url_for('static',filename = 'videos/final.mp4')}}"
+                   src = "{{url_for('static',filename = '{{cont}}')}}"
             </iframe> -->
+
             <video
-            src="{{url_for('static',filename = 'videos/My_VIDEO.mp4')}}"
+
+            src = "{{cont}}"
             id="H_sign"
             width="275" height="360"
             style="object-fit: fill;"
+
             >
 
             </video>

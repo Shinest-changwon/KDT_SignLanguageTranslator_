@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0531/NIA_SL_WORD2654_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2654_REAL13_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.275,
+            "end": 2.733,
+            "attributes": [
+                {
+                    "name": "이십이"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_emyou0429/NIA_SL_WORD0487_REAL10_R.mp4",
+        "name": "NIA_SL_WORD0487_REAL10_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.292,
+            "end": 2.888,
+            "attributes": [
+                {
+                    "name": "동갑"
+                }
+            ]
+        }
+    ]
+}

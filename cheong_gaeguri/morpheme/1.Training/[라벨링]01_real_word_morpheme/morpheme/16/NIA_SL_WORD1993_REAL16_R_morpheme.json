@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0765/NIA_SL_WORD1993_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1993_REAL16_R.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.286,
+            "end": 4.937,
+            "attributes": [
+                {
+                    "name": "청도군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

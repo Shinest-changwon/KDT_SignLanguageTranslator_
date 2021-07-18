@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0422/NIA_SL_WORD1667_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1667_REAL10_R.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.604,
+            "end": 3.321,
+            "attributes": [
+                {
+                    "name": "남양주시청"
+                }
+            ]
+        }
+    ]
+}

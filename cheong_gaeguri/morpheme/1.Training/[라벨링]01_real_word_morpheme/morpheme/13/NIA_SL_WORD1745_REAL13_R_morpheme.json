@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1045/NIA_SL_WORD1745_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1745_REAL13_R.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.852,
+            "end": 4.231,
+            "attributes": [
+                {
+                    "name": "영월군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

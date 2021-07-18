@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0491/NIA_SL_WORD0384_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0384_REAL14_R.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.237,
+            "end": 4.223,
+            "attributes": [
+                {
+                    "name": "고춧잎"
+                }
+            ]
+        }
+    ]
+}

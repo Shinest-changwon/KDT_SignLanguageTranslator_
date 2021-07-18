@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_moyu0530/NIA_SL_WORD2350_REAL11_F.mp4",
+        "name": "NIA_SL_WORD2350_REAL11_F.mp4",
+        "duration": 2.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.167,
+            "end": 2.064,
+            "attributes": [
+                {
+                    "name": "당하다"
+                }
+            ]
+        }
+    ]
+}

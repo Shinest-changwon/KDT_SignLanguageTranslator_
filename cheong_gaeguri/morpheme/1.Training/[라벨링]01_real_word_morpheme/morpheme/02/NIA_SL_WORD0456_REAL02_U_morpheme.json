@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi319/NIA_SL_WORD0456_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0456_REAL02_U.mp4",
+        "duration": 3.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.001,
+            "end": 2.601,
+            "attributes": [
+                {
+                    "name": "쑥쓰럽다"
+                }
+            ]
+        }
+    ]
+}

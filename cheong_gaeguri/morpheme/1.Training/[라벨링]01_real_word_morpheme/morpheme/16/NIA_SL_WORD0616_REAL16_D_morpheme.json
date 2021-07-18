@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0752/NIA_SL_WORD0616_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0616_REAL16_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.242,
+            "end": 2.928,
+            "attributes": [
+                {
+                    "name": "사립학교"
+                }
+            ]
+        }
+    ]
+}

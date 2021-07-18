@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_emyou0890/NIA_SL_WORD2896_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2896_REAL04_L.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.144,
+            "end": 3.472,
+            "attributes": [
+                {
+                    "name": "팔만"
+                }
+            ]
+        }
+    ]
+}

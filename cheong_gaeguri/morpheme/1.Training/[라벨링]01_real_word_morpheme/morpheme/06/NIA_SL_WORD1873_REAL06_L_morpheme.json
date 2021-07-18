@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0883/NIA_SL_WORD1873_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1873_REAL06_L.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.529,
+            "end": 3.347,
+            "attributes": [
+                {
+                    "name": "임실군지부"
+                }
+            ]
+        }
+    ]
+}

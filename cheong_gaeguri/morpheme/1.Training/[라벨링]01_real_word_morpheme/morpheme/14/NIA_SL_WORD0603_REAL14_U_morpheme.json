@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0301/NIA_SL_WORD0603_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0603_REAL14_U.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.73,
+            "end": 3.469,
+            "attributes": [
+                {
+                    "name": "사모님"
+                }
+            ]
+        }
+    ]
+}

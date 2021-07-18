@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0661/NIA_SL_WORD0658_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0658_REAL12_L.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.523,
+            "end": 3.421,
+            "attributes": [
+                {
+                    "name": "숙련"
+                }
+            ]
+        }
+    ]
+}

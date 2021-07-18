@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou347/NIA_SL_WORD0400_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0400_REAL09_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.426,
+            "end": 3.495,
+            "attributes": [
+                {
+                    "name": "정밀검사"
+                }
+            ]
+        }
+    ]
+}

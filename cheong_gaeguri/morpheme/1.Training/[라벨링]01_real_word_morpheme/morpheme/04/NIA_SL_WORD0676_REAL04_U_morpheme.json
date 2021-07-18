@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0848/NIA_SL_WORD0676_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0676_REAL04_U.mp4",
+        "duration": 6.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.102,
+            "end": 5.262,
+            "attributes": [
+                {
+                    "name": "신체적장애"
+                }
+            ]
+        }
+    ]
+}

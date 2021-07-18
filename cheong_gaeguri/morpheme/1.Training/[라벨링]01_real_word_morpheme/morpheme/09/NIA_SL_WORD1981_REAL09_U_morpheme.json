@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0476/NIA_SL_WORD1981_REAL09_U.mp4",
+        "name": "NIA_SL_WORD1981_REAL09_U.mp4",
+        "duration": 5.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.946,
+            "end": 4.354,
+            "attributes": [
+                {
+                    "name": "예천군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

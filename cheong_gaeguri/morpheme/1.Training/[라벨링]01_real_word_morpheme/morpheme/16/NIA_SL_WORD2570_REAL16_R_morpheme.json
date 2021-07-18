@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0747/NIA_SL_WORD2570_REAL16_R.mp4",
+        "name": "NIA_SL_WORD2570_REAL16_R.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.568,
+            "end": 2.448,
+            "attributes": [
+                {
+                    "name": "차다"
+                }
+            ]
+        }
+    ]
+}

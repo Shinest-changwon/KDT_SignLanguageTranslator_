@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0847/NIA_SL_WORD1912_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1912_REAL04_L.mp4",
+        "duration": 6.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.01,
+            "end": 5.348,
+            "attributes": [
+                {
+                    "name": "신안군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

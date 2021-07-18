@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_gdchoi0668/NIA_SL_WORD2721_REAL06_F.mp4",
+        "name": "NIA_SL_WORD2721_REAL06_F.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.392,
+            "end": 2.838,
+            "attributes": [
+                {
+                    "name": "팔십구"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_swlee1179/NIA_SL_WORD2671_REAL12_D.mp4",
+        "name": "NIA_SL_WORD2671_REAL12_D.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.483,
+            "end": 2.547,
+            "attributes": [
+                {
+                    "name": "삼십구"
+                }
+            ]
+        }
+    ]
+}

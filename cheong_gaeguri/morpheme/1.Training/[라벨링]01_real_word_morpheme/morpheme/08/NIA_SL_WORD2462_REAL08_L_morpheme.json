@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_yhjeon0267/NIA_SL_WORD2462_REAL08_L.mp4",
+        "name": "NIA_SL_WORD2462_REAL08_L.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.212,
+            "end": 3.946,
+            "attributes": [
+                {
+                    "name": "제주시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1122/NIA_SL_WORD2623_REAL07_F.mp4",
+        "name": "NIA_SL_WORD2623_REAL07_F.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.223,
+            "end": 2.199,
+            "attributes": [
+                {
+                    "name": "전주"
+                }
+            ]
+        }
+    ]
+}

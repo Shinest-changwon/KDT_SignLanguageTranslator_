@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0249/NIA_SL_WORD1786_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1786_REAL08_U.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.166,
+            "end": 2.551,
+            "attributes": [
+                {
+                    "name": "영동군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

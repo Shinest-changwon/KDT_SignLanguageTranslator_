@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0292/NIA_SL_WORD2516_REAL14_L.mp4",
+        "name": "NIA_SL_WORD2516_REAL14_L.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.851,
+            "end": 2.925,
+            "attributes": [
+                {
+                    "name": "격노"
+                }
+            ]
+        }
+    ]
+}

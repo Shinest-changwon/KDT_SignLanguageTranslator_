@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0928/NIA_SL_WORD1509_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1509_REAL05_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.833,
+            "end": 2.937,
+            "attributes": [
+                {
+                    "name": "망가지다"
+                }
+            ]
+        }
+    ]
+}

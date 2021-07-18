@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_swlee0255/NIA_SL_WORD2094_REAL08_L.mp4",
+        "name": "NIA_SL_WORD2094_REAL08_L.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.88,
+            "end": 3.169,
+            "attributes": [
+                {
+                    "name": "위인"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0703/NIA_SL_WORD0922_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0922_REAL15_L.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.767,
+            "end": 3.267,
+            "attributes": [
+                {
+                    "name": "결점"
+                }
+            ]
+        }
+    ]
+}

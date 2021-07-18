@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0381/NIA_SL_WORD0255_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0255_REAL16_R.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.315,
+            "end": 3.025,
+            "attributes": [
+                {
+                    "name": "신학"
+                }
+            ]
+        }
+    ]
+}

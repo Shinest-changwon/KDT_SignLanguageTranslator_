@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0523/NIA_SL_WORD1529_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1529_REAL11_U.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.486,
+            "end": 2.633,
+            "attributes": [
+                {
+                    "name": "썩다"
+                }
+            ]
+        }
+    ]
+}

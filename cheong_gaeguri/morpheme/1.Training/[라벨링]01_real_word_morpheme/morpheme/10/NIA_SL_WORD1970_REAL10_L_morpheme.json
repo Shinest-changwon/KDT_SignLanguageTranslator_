@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0427/NIA_SL_WORD1970_REAL10_L.mp4",
+        "name": "NIA_SL_WORD1970_REAL10_L.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.299,
+            "end": 3.315,
+            "attributes": [
+                {
+                    "name": "영덕군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

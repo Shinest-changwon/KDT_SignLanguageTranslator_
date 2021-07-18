@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0493/NIA_SL_WORD2155_REAL09_D.mp4",
+        "name": "NIA_SL_WORD2155_REAL09_D.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.611,
+            "end": 3.65,
+            "attributes": [
+                {
+                    "name": "낙인"
+                }
+            ]
+        }
+    ]
+}

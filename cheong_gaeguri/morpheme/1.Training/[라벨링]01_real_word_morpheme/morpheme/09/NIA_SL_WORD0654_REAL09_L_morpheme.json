@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim349/NIA_SL_WORD0654_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0654_REAL09_L.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.453,
+            "end": 2.504,
+            "attributes": [
+                {
+                    "name": "쇄신"
+                }
+            ]
+        }
+    ]
+}

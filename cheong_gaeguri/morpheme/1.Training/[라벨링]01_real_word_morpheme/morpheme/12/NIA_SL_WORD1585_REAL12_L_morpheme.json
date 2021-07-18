@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1185/NIA_SL_WORD1585_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1585_REAL12_L.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.321,
+            "end": 2.844,
+            "attributes": [
+                {
+                    "name": "논란"
+                }
+            ]
+        }
+    ]
+}

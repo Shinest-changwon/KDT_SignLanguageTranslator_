@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0833/NIA_SL_WORD1274_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1274_REAL04_L.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.844,
+            "end": 3.616,
+            "attributes": [
+                {
+                    "name": "달리다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0848/NIA_SL_WORD2430_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2430_REAL04_F.mp4",
+        "duration": 6.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.377,
+            "end": 4.997,
+            "attributes": [
+                {
+                    "name": "사천시청"
+                }
+            ]
+        }
+    ]
+}

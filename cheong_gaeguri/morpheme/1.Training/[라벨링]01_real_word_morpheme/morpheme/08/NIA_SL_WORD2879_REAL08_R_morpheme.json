@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1123_hwlee1033/NIA_SL_WORD2879_REAL08_R.mp4",
+        "name": "NIA_SL_WORD2879_REAL08_R.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.036,
+            "end": 2.011,
+            "attributes": [
+                {
+                    "name": "팔천오백"
+                }
+            ]
+        }
+    ]
+}

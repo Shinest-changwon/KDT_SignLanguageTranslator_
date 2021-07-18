@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0759/NIA_SL_WORD1432_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1432_REAL16_U.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.625,
+            "end": 2.568,
+            "attributes": [
+                {
+                    "name": "동작"
+                }
+            ]
+        }
+    ]
+}

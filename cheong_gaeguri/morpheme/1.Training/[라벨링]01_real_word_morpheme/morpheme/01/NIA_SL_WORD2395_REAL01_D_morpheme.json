@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0350/NIA_SL_WORD2395_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2395_REAL01_D.mp4",
+        "duration": 2.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.003,
+            "end": 1.973,
+            "attributes": [
+                {
+                    "name": "주다"
+                }
+            ]
+        }
+    ]
+}

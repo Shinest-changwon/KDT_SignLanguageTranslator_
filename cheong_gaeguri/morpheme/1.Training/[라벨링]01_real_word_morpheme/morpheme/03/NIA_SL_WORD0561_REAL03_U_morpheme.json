@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0792/NIA_SL_WORD0561_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0561_REAL03_U.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.785,
+            "end": 2.514,
+            "attributes": [
+                {
+                    "name": "백일잔치"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0349/NIA_SL_WORD2389_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2389_REAL01_F.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.515,
+            "end": 2.315,
+            "attributes": [
+                {
+                    "name": "돕다"
+                }
+            ]
+        }
+    ]
+}

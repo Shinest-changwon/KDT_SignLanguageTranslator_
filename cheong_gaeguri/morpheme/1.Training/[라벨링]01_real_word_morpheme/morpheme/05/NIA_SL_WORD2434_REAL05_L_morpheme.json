@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_rhkim0942/NIA_SL_WORD2434_REAL05_L.mp4",
+        "name": "NIA_SL_WORD2434_REAL05_L.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.197,
+            "end": 2.714,
+            "attributes": [
+                {
+                    "name": "양산시지부"
+                }
+            ]
+        }
+    ]
+}

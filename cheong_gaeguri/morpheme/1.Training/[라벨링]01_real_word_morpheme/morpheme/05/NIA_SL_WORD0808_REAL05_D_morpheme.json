@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1150/NIA_SL_WORD0808_REAL05_D.mp4",
+        "name": "NIA_SL_WORD0808_REAL05_D.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.144,
+            "end": 2.626,
+            "attributes": [
+                {
+                    "name": "전화번호"
+                }
+            ]
+        }
+    ]
+}

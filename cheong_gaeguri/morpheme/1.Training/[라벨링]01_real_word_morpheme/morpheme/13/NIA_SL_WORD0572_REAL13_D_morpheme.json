@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1066/NIA_SL_WORD0572_REAL13_D.mp4",
+        "name": "NIA_SL_WORD0572_REAL13_D.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.419,
+            "end": 3.301,
+            "attributes": [
+                {
+                    "name": "환자실"
+                }
+            ]
+        }
+    ]
+}

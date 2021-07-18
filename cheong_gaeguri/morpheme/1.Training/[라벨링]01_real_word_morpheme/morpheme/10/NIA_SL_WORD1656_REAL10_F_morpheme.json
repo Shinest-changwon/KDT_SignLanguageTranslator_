@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0421/NIA_SL_WORD1656_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1656_REAL10_F.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.178,
+            "end": 3.709,
+            "attributes": [
+                {
+                    "name": "구리시지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0309/NIA_SL_WORD2688_REAL14_R.mp4",
+        "name": "NIA_SL_WORD2688_REAL14_R.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.828,
+            "end": 3.043,
+            "attributes": [
+                {
+                    "name": "오십육"
+                }
+            ]
+        }
+    ]
+}

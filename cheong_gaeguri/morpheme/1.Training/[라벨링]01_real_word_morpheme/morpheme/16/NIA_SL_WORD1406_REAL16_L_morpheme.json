@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0756/NIA_SL_WORD1406_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1406_REAL16_L.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.181,
+            "end": 2.857,
+            "attributes": [
+                {
+                    "name": "종로3가"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_rhkim0471/NIA_SL_WORD2681_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2681_REAL09_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.114,
+            "end": 2.079,
+            "attributes": [
+                {
+                    "name": "사십구"
+                }
+            ]
+        }
+    ]
+}

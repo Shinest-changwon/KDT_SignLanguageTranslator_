@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0297/NIA_SL_WORD2569_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2569_REAL14_F.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.817,
+            "end": 2.949,
+            "attributes": [
+                {
+                    "name": "제발"
+                }
+            ]
+        }
+    ]
+}

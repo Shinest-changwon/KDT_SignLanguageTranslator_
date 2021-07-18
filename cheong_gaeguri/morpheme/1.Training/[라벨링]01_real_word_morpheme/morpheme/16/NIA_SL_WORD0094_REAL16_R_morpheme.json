@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0390/NIA_SL_WORD0094_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0094_REAL16_R.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.038,
+            "end": 3.397,
+            "attributes": [
+                {
+                    "name": "밥솥"
+                }
+            ]
+        }
+    ]
+}

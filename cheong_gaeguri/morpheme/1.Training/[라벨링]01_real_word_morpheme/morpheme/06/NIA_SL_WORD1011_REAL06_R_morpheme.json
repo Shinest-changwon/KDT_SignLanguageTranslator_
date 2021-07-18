@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0407/NIA_SL_WORD1011_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1011_REAL06_R.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.555,
+            "end": 4.087,
+            "attributes": [
+                {
+                    "name": "강북구지부"
+                }
+            ]
+        }
+    ]
+}

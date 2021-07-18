@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim315/NIA_SL_WORD1403_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1403_REAL02_R.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.352,
+            "end": 2.296,
+            "attributes": [
+                {
+                    "name": "종각"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_hwlee0674/NIA_SL_WORD0031_REAL12_R.mp4",
+        "name": "NIA_SL_WORD0031_REAL12_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.543,
+            "end": 3.38,
+            "attributes": [
+                {
+                    "name": "낚시터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0806/NIA_SL_WORD0706_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0706_REAL03_D.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.711,
+            "end": 4.403,
+            "attributes": [
+                {
+                    "name": "건달"
+                }
+            ]
+        }
+    ]
+}

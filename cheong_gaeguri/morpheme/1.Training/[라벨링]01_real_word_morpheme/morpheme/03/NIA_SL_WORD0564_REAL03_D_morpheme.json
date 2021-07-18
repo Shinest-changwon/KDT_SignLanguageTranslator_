@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0792/NIA_SL_WORD0564_REAL03_D.mp4",
+        "name": "NIA_SL_WORD0564_REAL03_D.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.857,
+            "end": 3.863,
+            "attributes": [
+                {
+                    "name": "베다"
+                }
+            ]
+        }
+    ]
+}

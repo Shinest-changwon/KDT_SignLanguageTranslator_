@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_emyou0537/NIA_SL_WORD1412_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1412_REAL11_U.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.545,
+            "end": 2.417,
+            "attributes": [
+                {
+                    "name": "삼성"
+                }
+            ]
+        }
+    ]
+}

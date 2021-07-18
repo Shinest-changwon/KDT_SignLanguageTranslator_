@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0843/NIA_SL_WORD0874_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0874_REAL04_U.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.052,
+            "end": 3.961,
+            "attributes": [
+                {
+                    "name": "총회"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1183/NIA_SL_WORD2544_REAL12_U.mp4",
+        "name": "NIA_SL_WORD2544_REAL12_U.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.545,
+            "end": 3.029,
+            "attributes": [
+                {
+                    "name": "먹구름"
+                }
+            ]
+        }
+    ]
+}

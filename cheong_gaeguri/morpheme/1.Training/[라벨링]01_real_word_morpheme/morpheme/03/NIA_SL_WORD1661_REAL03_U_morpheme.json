@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0802/NIA_SL_WORD1661_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1661_REAL03_U.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.716,
+            "end": 3.648,
+            "attributes": [
+                {
+                    "name": "군포시청"
+                }
+            ]
+        }
+    ]
+}

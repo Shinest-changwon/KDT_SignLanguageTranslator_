@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_yhjeon1182/NIA_SL_WORD2876_REAL12_U.mp4",
+        "name": "NIA_SL_WORD2876_REAL12_U.mp4",
+        "duration": 3.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.314,
+            "end": 2.394,
+            "attributes": [
+                {
+                    "name": "칠천"
+                }
+            ]
+        }
+    ]
+}

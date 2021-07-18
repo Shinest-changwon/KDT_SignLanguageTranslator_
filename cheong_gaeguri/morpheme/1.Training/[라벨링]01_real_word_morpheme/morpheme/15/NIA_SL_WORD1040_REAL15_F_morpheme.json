@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0714/NIA_SL_WORD1040_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1040_REAL15_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.311,
+            "end": 3.28,
+            "attributes": [
+                {
+                    "name": "마포구지부"
+                }
+            ]
+        }
+    ]
+}

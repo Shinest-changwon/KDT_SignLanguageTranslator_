@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee311/NIA_SL_WORD0847_REAL02_D.mp4",
+        "name": "NIA_SL_WORD0847_REAL02_D.mp4",
+        "duration": 5.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.766,
+            "end": 3.603,
+            "attributes": [
+                {
+                    "name": "쓸쓸하다"
+                }
+            ]
+        }
+    ]
+}

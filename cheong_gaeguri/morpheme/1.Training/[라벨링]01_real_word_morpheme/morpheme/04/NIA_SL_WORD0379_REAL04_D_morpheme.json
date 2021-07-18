@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0843/NIA_SL_WORD0379_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0379_REAL04_D.mp4",
+        "duration": 5.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.243,
+            "end": 4.175,
+            "attributes": [
+                {
+                    "name": "회칙"
+                }
+            ]
+        }
+    ]
+}

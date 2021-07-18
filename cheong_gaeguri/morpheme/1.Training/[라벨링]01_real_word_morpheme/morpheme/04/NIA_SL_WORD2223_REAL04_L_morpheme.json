@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0853/NIA_SL_WORD2223_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2223_REAL04_L.mp4",
+        "duration": 6.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.826,
+            "end": 4.597,
+            "attributes": [
+                {
+                    "name": "합의"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0411/NIA_SL_WORD1803_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1803_REAL10_F.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.63,
+            "end": 3.315,
+            "attributes": [
+                {
+                    "name": "천안시지부"
+                }
+            ]
+        }
+    ]
+}

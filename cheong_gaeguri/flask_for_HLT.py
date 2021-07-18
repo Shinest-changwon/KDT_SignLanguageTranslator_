@@ -1,6 +1,7 @@
 from flask import Flask, render_template, redirect, url_for, request
 
 from konlpy.tag import Mecab
+import morpheme_and_video_concat_fin as mv
 
 app = Flask(__name__)
 
@@ -22,7 +23,24 @@ def mouth():
         nouns = [n for n, tag in stnc_pos if tag in ["NR","NNG","NNP","NP","VV","VV+EC"] ]
         print(nouns)
         ###########################태깅 후 애니메이션 처리된 페이지 반환#######################
-        return render_template('mouth.html' ,cont = nouns)
+
+        path = mv.main(nouns)
+        
+        tmp = ''
+        for i in range(len(path)):
+            tmp += path[i]
+
+            if path[i] == '/':
+
+                tmp = ''
+                continue
+            elif tmp == 'cheong_gaeguri':
+                path = '/' + path[i+2:]
+                print(path)
+                break
+                
+        return render_template('mouth.html' ,cont = path)
+    
         
 @app.route('/ear',methods = ['GET', 'POST'])
 def ear():

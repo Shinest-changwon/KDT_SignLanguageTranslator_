@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_jhhan0253/NIA_SL_WORD1073_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1073_REAL08_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.479,
+            "end": 2.959,
+            "attributes": [
+                {
+                    "name": "중구지부"
+                }
+            ]
+        }
+    ]
+}

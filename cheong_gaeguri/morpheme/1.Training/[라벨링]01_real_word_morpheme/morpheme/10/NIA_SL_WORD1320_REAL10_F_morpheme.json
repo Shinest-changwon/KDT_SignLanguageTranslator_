@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_moyu0412/NIA_SL_WORD1320_REAL10_F.mp4",
+        "name": "NIA_SL_WORD1320_REAL10_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.435,
+            "end": 2.807,
+            "attributes": [
+                {
+                    "name": "집중"
+                }
+            ]
+        }
+    ]
+}

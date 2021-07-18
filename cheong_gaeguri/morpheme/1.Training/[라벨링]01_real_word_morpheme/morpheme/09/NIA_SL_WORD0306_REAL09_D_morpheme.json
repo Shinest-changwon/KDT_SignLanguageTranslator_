@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0476/NIA_SL_WORD0306_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0306_REAL09_D.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.846,
+            "end": 3.62,
+            "attributes": [
+                {
+                    "name": "양털"
+                }
+            ]
+        }
+    ]
+}

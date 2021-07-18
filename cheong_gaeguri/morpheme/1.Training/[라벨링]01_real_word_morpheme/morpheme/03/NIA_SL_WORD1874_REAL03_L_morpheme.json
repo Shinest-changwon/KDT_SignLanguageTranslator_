@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0623/NIA_SL_WORD1874_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1874_REAL03_L.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.25,
+            "end": 3.667,
+            "attributes": [
+                {
+                    "name": "임실군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

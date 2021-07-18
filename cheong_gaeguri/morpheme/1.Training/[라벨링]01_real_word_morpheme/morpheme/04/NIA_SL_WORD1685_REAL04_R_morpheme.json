@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0849/NIA_SL_WORD1685_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1685_REAL04_R.mp4",
+        "duration": 7.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.246,
+            "end": 6.317,
+            "attributes": [
+                {
+                    "name": "양주시청"
+                }
+            ]
+        }
+    ]
+}

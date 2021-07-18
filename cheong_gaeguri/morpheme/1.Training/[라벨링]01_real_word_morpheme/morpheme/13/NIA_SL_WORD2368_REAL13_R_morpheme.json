@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0527/NIA_SL_WORD2368_REAL13_R.mp4",
+        "name": "NIA_SL_WORD2368_REAL13_R.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.794,
+            "end": 3.335,
+            "attributes": [
+                {
+                    "name": "달인"
+                }
+            ]
+        }
+    ]
+}

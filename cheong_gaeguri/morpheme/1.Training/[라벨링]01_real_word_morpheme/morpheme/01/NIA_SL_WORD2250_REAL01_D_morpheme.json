@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0360/NIA_SL_WORD2250_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2250_REAL01_D.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.811,
+            "end": 3.235,
+            "attributes": [
+                {
+                    "name": "폐업"
+                }
+            ]
+        }
+    ]
+}

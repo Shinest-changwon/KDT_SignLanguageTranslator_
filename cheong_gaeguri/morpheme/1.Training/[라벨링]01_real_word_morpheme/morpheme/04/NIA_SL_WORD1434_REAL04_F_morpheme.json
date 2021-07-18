@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0849/NIA_SL_WORD1434_REAL04_F.mp4",
+        "name": "NIA_SL_WORD1434_REAL04_F.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.168,
+            "end": 3.379,
+            "attributes": [
+                {
+                    "name": "마포"
+                }
+            ]
+        }
+    ]
+}

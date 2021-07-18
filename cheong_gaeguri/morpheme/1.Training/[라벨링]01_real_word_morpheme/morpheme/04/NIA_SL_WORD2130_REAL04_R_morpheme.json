@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0843/NIA_SL_WORD2130_REAL04_R.mp4",
+        "name": "NIA_SL_WORD2130_REAL04_R.mp4",
+        "duration": 6.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.277,
+            "end": 5.223,
+            "attributes": [
+                {
+                    "name": "물놀이"
+                }
+            ]
+        }
+    ]
+}

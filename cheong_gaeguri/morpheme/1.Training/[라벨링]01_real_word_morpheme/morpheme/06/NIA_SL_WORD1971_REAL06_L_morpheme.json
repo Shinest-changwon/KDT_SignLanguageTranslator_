@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_mrkim0893/NIA_SL_WORD1971_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1971_REAL06_L.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.428,
+            "end": 3.097,
+            "attributes": [
+                {
+                    "name": "영양군지부"
+                }
+            ]
+        }
+    ]
+}

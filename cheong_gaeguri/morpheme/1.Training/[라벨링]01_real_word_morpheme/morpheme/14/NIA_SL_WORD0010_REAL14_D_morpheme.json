@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0478/NIA_SL_WORD0010_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0010_REAL14_D.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.87,
+            "end": 3.71,
+            "attributes": [
+                {
+                    "name": "자극"
+                }
+            ]
+        }
+    ]
+}

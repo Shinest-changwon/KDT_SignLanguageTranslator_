@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee297/NIA_SL_WORD0710_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0710_REAL02_L.mp4",
+        "duration": 4.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.285,
+            "end": 3.387,
+            "attributes": [
+                {
+                    "name": "일임"
+                }
+            ]
+        }
+    ]
+}

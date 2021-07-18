@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1069/NIA_SL_WORD1870_REAL15_R.mp4",
+        "name": "NIA_SL_WORD1870_REAL15_R.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.001,
+            "end": 2.641,
+            "attributes": [
+                {
+                    "name": "익산시지부"
+                }
+            ]
+        }
+    ]
+}

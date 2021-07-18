@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0672/NIA_SL_WORD1966_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1966_REAL12_U.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.381,
+            "end": 4.402,
+            "attributes": [
+                {
+                    "name": "안동시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0610/NIA_SL_WORD2243_REAL03_L.mp4",
+        "name": "NIA_SL_WORD2243_REAL03_L.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.9,
+            "end": 2.39,
+            "attributes": [
+                {
+                    "name": "분주하다"
+                }
+            ]
+        }
+    ]
+}

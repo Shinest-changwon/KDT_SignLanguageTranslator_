@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1041/NIA_SL_WORD1036_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1036_REAL13_R.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.225,
+            "end": 2.78,
+            "attributes": [
+                {
+                    "name": "동대문구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

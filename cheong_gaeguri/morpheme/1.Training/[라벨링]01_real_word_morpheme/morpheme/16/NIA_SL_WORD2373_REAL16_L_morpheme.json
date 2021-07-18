@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0938/NIA_SL_WORD2373_REAL16_L.mp4",
+        "name": "NIA_SL_WORD2373_REAL16_L.mp4",
+        "duration": 2.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.893,
+            "end": 2.166,
+            "attributes": [
+                {
+                    "name": "대단하다"
+                }
+            ]
+        }
+    ]
+}

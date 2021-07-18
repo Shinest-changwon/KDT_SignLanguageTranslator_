@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_gdchoi0940/NIA_SL_WORD1382_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1382_REAL05_U.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.485,
+            "end": 2.515,
+            "attributes": [
+                {
+                    "name": "덥다"
+                }
+            ]
+        }
+    ]
+}

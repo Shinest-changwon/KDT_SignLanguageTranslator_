@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0663/NIA_SL_WORD0929_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0929_REAL12_L.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.28,
+            "end": 2.903,
+            "attributes": [
+                {
+                    "name": "걸핏하면"
+                }
+            ]
+        }
+    ]
+}

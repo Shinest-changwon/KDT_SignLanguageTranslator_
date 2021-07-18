@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1053/NIA_SL_WORD1793_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1793_REAL07_R.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.748,
+            "end": 3.526,
+            "attributes": [
+                {
+                    "name": "진천군지부"
+                }
+            ]
+        }
+    ]
+}

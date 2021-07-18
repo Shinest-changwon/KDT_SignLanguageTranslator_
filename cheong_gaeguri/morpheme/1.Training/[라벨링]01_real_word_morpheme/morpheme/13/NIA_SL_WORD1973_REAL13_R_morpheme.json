@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0628/NIA_SL_WORD1973_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1973_REAL13_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.844,
+            "end": 3.569,
+            "attributes": [
+                {
+                    "name": "영양군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

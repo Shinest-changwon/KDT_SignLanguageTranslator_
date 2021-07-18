@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1073/NIA_SL_WORD1891_REAL15_R.mp4",
+        "name": "NIA_SL_WORD1891_REAL15_R.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.508,
+            "end": 3.257,
+            "attributes": [
+                {
+                    "name": "곡성군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

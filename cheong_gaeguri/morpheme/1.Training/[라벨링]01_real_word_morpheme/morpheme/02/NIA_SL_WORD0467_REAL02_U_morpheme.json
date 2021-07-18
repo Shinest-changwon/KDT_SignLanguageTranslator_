@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi320/NIA_SL_WORD0467_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0467_REAL02_U.mp4",
+        "duration": 3.55,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.803,
+            "end": 2.689,
+            "attributes": [
+                {
+                    "name": "곰방대"
+                }
+            ]
+        }
+    ]
+}

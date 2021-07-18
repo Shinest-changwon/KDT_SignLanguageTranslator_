@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0345/NIA_SL_WORD2346_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2346_REAL01_F.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.203,
+            "end": 2.126,
+            "attributes": [
+                {
+                    "name": "불간섭"
+                }
+            ]
+        }
+    ]
+}

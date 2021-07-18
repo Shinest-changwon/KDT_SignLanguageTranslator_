@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou328/NIA_SL_WORD0217_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0217_REAL02_L.mp4",
+        "duration": 3.184,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.145,
+            "end": 2.726,
+            "attributes": [
+                {
+                    "name": "국어학"
+                }
+            ]
+        }
+    ]
+}

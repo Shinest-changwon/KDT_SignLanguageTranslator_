@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0746/NIA_SL_WORD1054_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1054_REAL16_U.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.721,
+            "end": 3.917,
+            "attributes": [
+                {
+                    "name": "성북구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

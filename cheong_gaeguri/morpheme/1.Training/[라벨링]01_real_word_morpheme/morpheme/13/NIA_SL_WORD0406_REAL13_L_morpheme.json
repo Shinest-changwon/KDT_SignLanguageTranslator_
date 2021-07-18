@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_gdchoi1147/NIA_SL_WORD0406_REAL13_L.mp4",
+        "name": "NIA_SL_WORD0406_REAL13_L.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.489,
+            "end": 3.584,
+            "attributes": [
+                {
+                    "name": "교가"
+                }
+            ]
+        }
+    ]
+}

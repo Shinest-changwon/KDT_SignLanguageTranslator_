@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_moyu0523/NIA_SL_WORD2279_REAL11_U.mp4",
+        "name": "NIA_SL_WORD2279_REAL11_U.mp4",
+        "duration": 2.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.932,
+            "end": 1.958,
+            "attributes": [
+                {
+                    "name": "가만히"
+                }
+            ]
+        }
+    ]
+}

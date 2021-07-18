@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0491/NIA_SL_WORD0201_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0201_REAL09_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.637,
+            "end": 2.814,
+            "attributes": [
+                {
+                    "name": "신용카드"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_hwlee0795/NIA_SL_WORD0841_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0841_REAL03_U.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.963,
+            "end": 3.542,
+            "attributes": [
+                {
+                    "name": "백석"
+                }
+            ]
+        }
+    ]
+}

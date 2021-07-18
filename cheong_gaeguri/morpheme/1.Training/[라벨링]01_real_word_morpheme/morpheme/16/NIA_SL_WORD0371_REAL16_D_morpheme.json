@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0393/NIA_SL_WORD0371_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0371_REAL16_D.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.205,
+            "end": 3.259,
+            "attributes": [
+                {
+                    "name": "거북선"
+                }
+            ]
+        }
+    ]
+}

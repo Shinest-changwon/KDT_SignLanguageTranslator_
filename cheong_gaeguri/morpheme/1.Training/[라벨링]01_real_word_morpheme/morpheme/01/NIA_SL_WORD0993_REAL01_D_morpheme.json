@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0360/NIA_SL_WORD0993_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0993_REAL01_D.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.687,
+            "end": 3.016,
+            "attributes": [
+                {
+                    "name": "공교롭다"
+                }
+            ]
+        }
+    ]
+}

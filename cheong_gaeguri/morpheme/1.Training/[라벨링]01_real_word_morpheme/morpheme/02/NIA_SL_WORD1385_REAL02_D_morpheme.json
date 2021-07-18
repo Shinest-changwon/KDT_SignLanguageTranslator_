@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim313/NIA_SL_WORD1385_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1385_REAL02_D.mp4",
+        "duration": 3.317,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.572,
+            "end": 2.595,
+            "attributes": [
+                {
+                    "name": "싫다"
+                }
+            ]
+        }
+    ]
+}

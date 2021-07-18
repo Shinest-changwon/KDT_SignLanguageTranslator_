@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0421/NIA_SL_WORD1903_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1903_REAL10_U.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.983,
+            "end": 4.223,
+            "attributes": [
+                {
+                    "name": "무안군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

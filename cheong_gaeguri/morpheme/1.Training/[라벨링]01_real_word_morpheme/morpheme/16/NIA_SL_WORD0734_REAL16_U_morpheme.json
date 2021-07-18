@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0764/NIA_SL_WORD0734_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0734_REAL16_U.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.992,
+            "end": 2.77,
+            "attributes": [
+                {
+                    "name": "일반직"
+                }
+            ]
+        }
+    ]
+}

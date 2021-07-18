@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1105/NIA_SL_WORD2005_REAL07_D.mp4",
+        "name": "NIA_SL_WORD2005_REAL07_D.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.24,
+            "end": 2.908,
+            "attributes": [
+                {
+                    "name": "아기"
+                }
+            ]
+        }
+    ]
+}

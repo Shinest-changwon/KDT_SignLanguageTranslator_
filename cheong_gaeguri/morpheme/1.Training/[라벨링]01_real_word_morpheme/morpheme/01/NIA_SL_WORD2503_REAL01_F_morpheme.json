@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0336/NIA_SL_WORD2503_REAL01_F.mp4",
+        "name": "NIA_SL_WORD2503_REAL01_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.14,
+            "end": 2.805,
+            "attributes": [
+                {
+                    "name": "노르웨이"
+                }
+            ]
+        }
+    ]
+}

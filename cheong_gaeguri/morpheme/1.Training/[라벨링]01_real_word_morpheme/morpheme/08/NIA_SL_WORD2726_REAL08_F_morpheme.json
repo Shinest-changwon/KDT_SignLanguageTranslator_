@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0608/NIA_SL_WORD2726_REAL08_F.mp4",
+        "name": "NIA_SL_WORD2726_REAL08_F.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.633,
+            "end": 2.534,
+            "attributes": [
+                {
+                    "name": "구십사"
+                }
+            ]
+        }
+    ]
+}

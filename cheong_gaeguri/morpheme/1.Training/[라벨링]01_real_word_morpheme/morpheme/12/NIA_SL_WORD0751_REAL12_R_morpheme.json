@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0671/NIA_SL_WORD0751_REAL12_R.mp4",
+        "name": "NIA_SL_WORD0751_REAL12_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.604,
+            "end": 3.096,
+            "attributes": [
+                {
+                    "name": "주요점"
+                }
+            ]
+        }
+    ]
+}

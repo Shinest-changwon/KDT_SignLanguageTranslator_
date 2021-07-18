@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0614/NIA_SL_WORD2532_REAL08_F.mp4",
+        "name": "NIA_SL_WORD2532_REAL08_F.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.147,
+            "end": 1.998,
+            "attributes": [
+                {
+                    "name": "역겹다"
+                }
+            ]
+        }
+    ]
+}

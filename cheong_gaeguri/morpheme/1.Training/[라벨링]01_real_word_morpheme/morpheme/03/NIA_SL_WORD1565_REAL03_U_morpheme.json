@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0792/NIA_SL_WORD1565_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1565_REAL03_U.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.486,
+            "end": 2.222,
+            "attributes": [
+                {
+                    "name": "할머니"
+                }
+            ]
+        }
+    ]
+}

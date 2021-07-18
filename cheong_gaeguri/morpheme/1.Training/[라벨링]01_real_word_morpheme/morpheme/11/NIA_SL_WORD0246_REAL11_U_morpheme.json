@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0979/NIA_SL_WORD0246_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0246_REAL11_U.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.55,
+            "end": 3.757,
+            "attributes": [
+                {
+                    "name": "울릉도"
+                }
+            ]
+        }
+    ]
+}

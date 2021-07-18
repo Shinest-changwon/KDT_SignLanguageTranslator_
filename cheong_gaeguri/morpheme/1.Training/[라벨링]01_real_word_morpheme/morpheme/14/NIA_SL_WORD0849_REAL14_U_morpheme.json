@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_emyou0300/NIA_SL_WORD0849_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0849_REAL14_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.48,
+            "end": 3.054,
+            "attributes": [
+                {
+                    "name": "천벌"
+                }
+            ]
+        }
+    ]
+}

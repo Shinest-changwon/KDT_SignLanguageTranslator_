@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_mrkim1160/NIA_SL_WORD1279_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1279_REAL01_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.787,
+            "end": 2.94,
+            "attributes": [
+                {
+                    "name": "입"
+                }
+            ]
+        }
+    ]
+}

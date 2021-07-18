@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0340/NIA_SL_WORD1543_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1543_REAL01_F.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.695,
+            "end": 3.089,
+            "attributes": [
+                {
+                    "name": "세수"
+                }
+            ]
+        }
+    ]
+}

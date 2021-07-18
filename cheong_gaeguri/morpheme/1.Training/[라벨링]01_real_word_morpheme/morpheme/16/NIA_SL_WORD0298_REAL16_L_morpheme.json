@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0385/NIA_SL_WORD0298_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0298_REAL16_L.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.548,
+            "end": 3.402,
+            "attributes": [
+                {
+                    "name": "흡연실"
+                }
+            ]
+        }
+    ]
+}

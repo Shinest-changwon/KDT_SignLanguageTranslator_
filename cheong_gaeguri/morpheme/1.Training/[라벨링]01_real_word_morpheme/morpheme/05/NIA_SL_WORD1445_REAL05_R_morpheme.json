@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0921/NIA_SL_WORD1445_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1445_REAL05_R.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.147,
+            "end": 4.371,
+            "attributes": [
+                {
+                    "name": "종합운동장"
+                }
+            ]
+        }
+    ]
+}

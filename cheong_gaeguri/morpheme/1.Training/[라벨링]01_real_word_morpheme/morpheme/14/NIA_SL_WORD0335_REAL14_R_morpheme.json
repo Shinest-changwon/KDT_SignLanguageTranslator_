@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0486/NIA_SL_WORD0335_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0335_REAL14_R.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.16,
+            "end": 3.661,
+            "attributes": [
+                {
+                    "name": "식전"
+                }
+            ]
+        }
+    ]
+}

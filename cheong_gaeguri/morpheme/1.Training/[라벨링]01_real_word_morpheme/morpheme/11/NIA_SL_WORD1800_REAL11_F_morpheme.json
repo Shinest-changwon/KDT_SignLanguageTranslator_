@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0525/NIA_SL_WORD1800_REAL11_F.mp4",
+        "name": "NIA_SL_WORD1800_REAL11_F.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.724,
+            "end": 3.44,
+            "attributes": [
+                {
+                    "name": "충주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

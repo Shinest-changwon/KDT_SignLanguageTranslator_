@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_hwlee0339/NIA_SL_WORD0784_REAL01_F.mp4",
+        "name": "NIA_SL_WORD0784_REAL01_F.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.998,
+            "end": 3.376,
+            "attributes": [
+                {
+                    "name": "경과실"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1057/NIA_SL_WORD1812_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1812_REAL07_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.107,
+            "end": 2.954,
+            "attributes": [
+                {
+                    "name": "논산시지부"
+                }
+            ]
+        }
+    ]
+}

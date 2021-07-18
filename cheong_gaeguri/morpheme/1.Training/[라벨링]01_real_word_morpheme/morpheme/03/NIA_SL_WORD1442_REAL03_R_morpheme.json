@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0805/NIA_SL_WORD1442_REAL03_R.mp4",
+        "name": "NIA_SL_WORD1442_REAL03_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.408,
+            "end": 3.151,
+            "attributes": [
+                {
+                    "name": "성북"
+                }
+            ]
+        }
+    ]
+}

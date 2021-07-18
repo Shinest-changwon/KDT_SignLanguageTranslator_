@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0527/NIA_SL_WORD2117_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2117_REAL13_F.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.575,
+            "end": 2.29,
+            "attributes": [
+                {
+                    "name": "잠기다"
+                }
+            ]
+        }
+    ]
+}

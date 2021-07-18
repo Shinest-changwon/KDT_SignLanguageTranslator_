@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_emyou1182/NIA_SL_WORD1217_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1217_REAL12_R.mp4",
+        "duration": 2.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.8,
+            "end": 1.823,
+            "attributes": [
+                {
+                    "name": "희망"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim323/NIA_SL_WORD1483_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1483_REAL02_D.mp4",
+        "duration": 3.55,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.411,
+            "end": 2.741,
+            "attributes": [
+                {
+                    "name": "이천"
+                }
+            ]
+        }
+    ]
+}

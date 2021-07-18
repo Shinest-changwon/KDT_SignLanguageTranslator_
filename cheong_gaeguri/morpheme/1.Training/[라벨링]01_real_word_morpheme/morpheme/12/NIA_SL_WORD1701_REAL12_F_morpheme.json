@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0671/NIA_SL_WORD1701_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1701_REAL12_F.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.292,
+            "end": 3.199,
+            "attributes": [
+                {
+                    "name": "의왕시지부"
+                }
+            ]
+        }
+    ]
+}

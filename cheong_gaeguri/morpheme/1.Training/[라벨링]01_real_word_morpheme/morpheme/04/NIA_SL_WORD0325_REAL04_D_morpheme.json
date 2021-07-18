@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0838/NIA_SL_WORD0325_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0325_REAL04_D.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.788,
+            "end": 4.377,
+            "attributes": [
+                {
+                    "name": "얼굴이빨개지다"
+                }
+            ]
+        }
+    ]
+}

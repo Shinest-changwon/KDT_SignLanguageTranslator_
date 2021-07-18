@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_moyu0485/NIA_SL_WORD2573_REAL09_L.mp4",
+        "name": "NIA_SL_WORD2573_REAL09_L.mp4",
+        "duration": 6.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.026,
+            "end": 4.771,
+            "attributes": [
+                {
+                    "name": "체온"
+                }
+            ]
+        }
+    ]
+}

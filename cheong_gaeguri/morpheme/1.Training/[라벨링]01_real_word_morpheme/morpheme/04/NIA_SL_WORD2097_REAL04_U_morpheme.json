@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0840/NIA_SL_WORD2097_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2097_REAL04_U.mp4",
+        "duration": 6.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.776,
+            "end": 4.956,
+            "attributes": [
+                {
+                    "name": "얼굴형"
+                }
+            ]
+        }
+    ]
+}

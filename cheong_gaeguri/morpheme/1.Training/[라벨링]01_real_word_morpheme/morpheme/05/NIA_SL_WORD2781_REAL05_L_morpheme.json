@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_swlee0924/NIA_SL_WORD2781_REAL05_L.mp4",
+        "name": "NIA_SL_WORD2781_REAL05_L.mp4",
+        "duration": 3.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.839,
+            "end": 2.292,
+            "attributes": [
+                {
+                    "name": "백사십구"
+                }
+            ]
+        }
+    ]
+}

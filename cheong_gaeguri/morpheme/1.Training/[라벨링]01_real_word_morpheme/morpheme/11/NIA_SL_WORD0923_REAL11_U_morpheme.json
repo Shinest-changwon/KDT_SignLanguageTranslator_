@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_rhkim0972/NIA_SL_WORD0923_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0923_REAL11_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.088,
+            "end": 2.932,
+            "attributes": [
+                {
+                    "name": "결점"
+                }
+            ]
+        }
+    ]
+}

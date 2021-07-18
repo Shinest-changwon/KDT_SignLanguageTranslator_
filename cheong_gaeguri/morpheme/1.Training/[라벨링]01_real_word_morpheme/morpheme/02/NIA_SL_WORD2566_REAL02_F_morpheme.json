@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu298/NIA_SL_WORD2566_REAL02_F.mp4",
+        "name": "NIA_SL_WORD2566_REAL02_F.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.468,
+            "end": 2.96,
+            "attributes": [
+                {
+                    "name": "장마"
+                }
+            ]
+        }
+    ]
+}

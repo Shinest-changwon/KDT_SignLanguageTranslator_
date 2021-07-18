@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1069/NIA_SL_WORD0424_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0424_REAL14_D.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.298,
+            "end": 2.792,
+            "attributes": [
+                {
+                    "name": "독립"
+                }
+            ]
+        }
+    ]
+}

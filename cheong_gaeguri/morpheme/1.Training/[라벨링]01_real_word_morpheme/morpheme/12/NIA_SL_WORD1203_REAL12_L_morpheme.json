@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_emyou1181/NIA_SL_WORD1203_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1203_REAL12_L.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.686,
+            "end": 2.666,
+            "attributes": [
+                {
+                    "name": "변덕"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0399/NIA_SL_WORD0186_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0186_REAL16_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.224,
+            "end": 3.853,
+            "attributes": [
+                {
+                    "name": "희생"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0711/NIA_SL_WORD1006_REAL15_D.mp4",
+        "name": "NIA_SL_WORD1006_REAL15_D.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.492,
+            "end": 3.114,
+            "attributes": [
+                {
+                    "name": "강남구지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0715/NIA_SL_WORD1041_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1041_REAL15_F.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.47,
+            "end": 4.447,
+            "attributes": [
+                {
+                    "name": "마포구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

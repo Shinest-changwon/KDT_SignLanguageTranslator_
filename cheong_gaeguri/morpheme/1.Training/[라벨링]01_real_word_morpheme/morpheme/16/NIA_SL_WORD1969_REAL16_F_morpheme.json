@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0762/NIA_SL_WORD1969_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1969_REAL16_F.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.485,
+            "end": 4.403,
+            "attributes": [
+                {
+                    "name": "영덕군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

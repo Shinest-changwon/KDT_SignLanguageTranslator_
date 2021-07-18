@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu309/NIA_SL_WORD1416_REAL09_D.mp4",
+        "name": "NIA_SL_WORD1416_REAL09_D.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.23,
+            "end": 2.777,
+            "attributes": [
+                {
+                    "name": "까치산"
+                }
+            ]
+        }
+    ]
+}

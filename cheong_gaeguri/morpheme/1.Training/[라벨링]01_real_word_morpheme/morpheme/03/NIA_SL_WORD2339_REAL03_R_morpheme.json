@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_gdchoi0619/NIA_SL_WORD2339_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2339_REAL03_R.mp4",
+        "duration": 3.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.995,
+            "end": 2.327,
+            "attributes": [
+                {
+                    "name": "막상막하"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1189/NIA_SL_WORD1112_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1112_REAL12_R.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.288,
+            "end": 2.382,
+            "attributes": [
+                {
+                    "name": "던지다"
+                }
+            ]
+        }
+    ]
+}

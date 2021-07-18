@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1187/NIA_SL_WORD2584_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2584_REAL12_L.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.605,
+            "end": 2.987,
+            "attributes": [
+                {
+                    "name": "기린"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_moyu0344/NIA_SL_WORD1834_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1834_REAL01_L.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.888,
+            "end": 4.191,
+            "attributes": [
+                {
+                    "name": "예산군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

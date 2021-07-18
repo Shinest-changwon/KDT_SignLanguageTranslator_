@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0702/NIA_SL_WORD1561_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1561_REAL15_U.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.23,
+            "end": 2.495,
+            "attributes": [
+                {
+                    "name": "자살"
+                }
+            ]
+        }
+    ]
+}

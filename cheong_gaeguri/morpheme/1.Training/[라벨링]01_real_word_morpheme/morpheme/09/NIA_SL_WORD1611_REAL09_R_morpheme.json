@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jwlee010/NIA_SL_WORD1611_REAL09_R.mp4",
+        "name": "NIA_SL_WORD1611_REAL09_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 3.234,
+            "end": 3.734,
+            "attributes": [
+                {
+                    "name": "강화군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

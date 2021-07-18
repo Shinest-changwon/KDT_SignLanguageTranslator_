@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_hwlee0900/NIA_SL_WORD1546_REAL06_U.mp4",
+        "name": "NIA_SL_WORD1546_REAL06_U.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.657,
+            "end": 2.657,
+            "attributes": [
+                {
+                    "name": "승부차기"
+                }
+            ]
+        }
+    ]
+}

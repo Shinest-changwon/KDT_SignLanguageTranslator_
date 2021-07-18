@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim293/NIA_SL_WORD2184_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2184_REAL02_R.mp4",
+        "duration": 2.617,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.653,
+            "end": 1.673,
+            "attributes": [
+                {
+                    "name": "직원"
+                }
+            ]
+        }
+    ]
+}

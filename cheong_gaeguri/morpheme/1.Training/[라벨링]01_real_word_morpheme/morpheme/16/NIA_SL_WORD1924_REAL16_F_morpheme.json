@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0758/NIA_SL_WORD1924_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1924_REAL16_F.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.825,
+            "end": 3.282,
+            "attributes": [
+                {
+                    "name": "맛없다"
+                }
+            ]
+        }
+    ]
+}

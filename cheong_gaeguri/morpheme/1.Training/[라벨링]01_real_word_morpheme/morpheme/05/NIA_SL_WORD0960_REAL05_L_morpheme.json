@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1165/NIA_SL_WORD0960_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0960_REAL05_L.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.413,
+            "end": 3.081,
+            "attributes": [
+                {
+                    "name": "저택"
+                }
+            ]
+        }
+    ]
+}

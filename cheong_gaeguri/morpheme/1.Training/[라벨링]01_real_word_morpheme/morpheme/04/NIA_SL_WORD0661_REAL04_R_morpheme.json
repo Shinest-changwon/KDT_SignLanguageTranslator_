@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0847/NIA_SL_WORD0661_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0661_REAL04_R.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.32,
+            "end": 4.44,
+            "attributes": [
+                {
+                    "name": "순산"
+                }
+            ]
+        }
+    ]
+}

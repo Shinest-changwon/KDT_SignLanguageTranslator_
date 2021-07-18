@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_moyu0623/NIA_SL_WORD2872_REAL03_U.mp4",
+        "name": "NIA_SL_WORD2872_REAL03_U.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.131,
+            "end": 1.931,
+            "attributes": [
+                {
+                    "name": "오천"
+                }
+            ]
+        }
+    ]
+}

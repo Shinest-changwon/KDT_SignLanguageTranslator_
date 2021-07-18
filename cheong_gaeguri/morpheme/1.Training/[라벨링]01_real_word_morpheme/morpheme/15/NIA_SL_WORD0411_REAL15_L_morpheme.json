@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0702/NIA_SL_WORD0411_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0411_REAL15_L.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.864,
+            "end": 2.625,
+            "attributes": [
+                {
+                    "name": "지도법"
+                }
+            ]
+        }
+    ]
+}

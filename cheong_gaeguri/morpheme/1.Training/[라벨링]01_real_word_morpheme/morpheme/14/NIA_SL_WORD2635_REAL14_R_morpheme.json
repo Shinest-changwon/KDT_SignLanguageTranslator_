@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0304/NIA_SL_WORD2635_REAL14_R.mp4",
+        "name": "NIA_SL_WORD2635_REAL14_R.mp4",
+        "duration": 2.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.731,
+            "end": 2.25,
+            "attributes": [
+                {
+                    "name": "사"
+                }
+            ]
+        }
+    ]
+}

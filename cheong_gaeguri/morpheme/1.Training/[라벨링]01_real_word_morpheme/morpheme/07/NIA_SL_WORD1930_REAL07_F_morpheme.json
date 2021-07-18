@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1080/NIA_SL_WORD1930_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1930_REAL07_F.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.647,
+            "end": 4.293,
+            "attributes": [
+                {
+                    "name": "진도군주민지원센터"
+                }
+            ]
+        }
+    ]
+}
