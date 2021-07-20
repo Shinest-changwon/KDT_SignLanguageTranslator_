@@ -7,6 +7,14 @@ import pandas as pd
 from PIL import ImageFont, ImageDraw, Image
 import numpy as np
 
+tmp = ""
+for i in os.path.realpath(__file__):
+    tmp+=i
+    if "morpheme_and_video_concat" in tmp:
+        break
+
+os.chdir(tmp)
+
 """
 이 코드는 STT로 음성을 한글 문장으로 변환한 후 형태소 분해 리스트를 입력으로 받아 concated video 파일을 생성하고 그 경로를 반환하는 코드.
 
@@ -103,6 +111,8 @@ root
 
 # 문장 번호 찾기
 def find_sen_num(stnc_pos): # stnc_pos = ['여기', '1호', '되다']
+    
+    print(os.getcwd()+ " ------------------------------")
     df = pd.read_csv('sen.csv')
     # 컬럼 리스트 만들기
     col_list = df.columns[4:] # ['한국수어 형태소', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11']
@@ -139,6 +149,7 @@ def redefine_frame(num, i, rand_idx):
     # morpheme json 불러오기
     word_sen = 'sen'
     basic_path = os.getcwd() + '/morpheme/1.Training'
+    print(basic_path)
 
     # 각 단어별 다른 사람을 사용하기 위해 morpheme json 파일 따로 불러오기
     person_num = str(i+rand_idx).zfill(2)
@@ -155,6 +166,7 @@ def redefine_frame(num, i, rand_idx):
 def find_video_path(num, person_num):
     word_sen = 'sen'
     basic_path = os.getcwd()+'/video/'+word_sen+'/[원천]'
+    print(basic_path)
     
     if word_sen == 'word': 
         if 0 <= num <=1500:
@@ -238,8 +250,9 @@ def main2(stnc_pos):
             try:
                 cap = VideoFileClip(video)
                 caps.append(cap)
-            except: print('실패!!')
 
+            except: print('실패!!')
+        
         # 입력된 비디오 모두 concatenate
         final_clip = concatenate_videoclips(caps)
         final_clip.write_videofile('final.mp4')
@@ -247,6 +260,7 @@ def main2(stnc_pos):
     else: print('영상 없음.')
     
 def main(stnc_pos, is_ani=False):
+    stnc_pos = stnc_pos.split(" ")[:-2]
     if not is_ani: # 실제 촬영 영상 짜집기 출력
         main1(stnc_pos)
         print('main1 완료')
@@ -262,25 +276,25 @@ def main(stnc_pos, is_ani=False):
         148: 마을버스 일번이요
         83: 여기서 1호선을 탈 수 있습니다. 
         """
-
+  
     return path
 
 # 코드 합칠 때에는 아래는 주석 처리
-if __name__ == '__main__':
-    """
-    [시나리오 1번] - 영등포로 가고 싶은 농인
-    문장번호 발화자
-    (354)    농: 안녕하세요
-    (116)    농: 1호선을 타는 곳은 어디인가요?
-    (83)     청: 여기서 1호선을 탈 수 있습니다. --수어 구조 변환--> ['여기', '일호', '되다']
+# if __name__ == '__main__':
+#     """
+#     [시나리오 1번] - 영등포로 가고 싶은 농인
+#     문장번호 발화자
+#     (354)    농: 안녕하세요
+#     (116)    농: 1호선을 타는 곳은 어디인가요?
+#     (83)     청: 여기서 1호선을 탈 수 있습니다. --수어 구조 변환--> ['여기', '일호', '되다']
 
-    [시나리오 2번] - 신도림역에서
-    문장번호 발화자
-    (1359)   농: 서울대학교 방향으로 가려면 어떻게 가나요?
-    (385)    청: 지하철 갈아타는 곳으로 안내해 드릴까요? --수어 구조 변환--> ['지하철', '곳', '안내하다']
-    (355)    농: 감사합니다.
-    """    
-    stnc_pos = ['지하철', '곳', '안내하다'] # ['여기', '1호', '되다']
-    path = main(stnc_pos)
-    print('final path: ',path)
+#     [시나리오 2번] - 신도림역에서
+#     문장번호 발화자
+#     (1359)   농: 서울대학교 방향으로 가려면 어떻게 가나요?
+#     (385)    청: 지하철 갈아타는 곳으로 안내해 드릴까요? --수어 구조 변환--> ['지하철', '곳', '안내하다']
+#     (355)    농: 감사합니다.
+#     """    
+#     stnc_pos = ['지하철', '곳', '안내하다'] # ['여기', '1호', '되다']
+#     path = main(stnc_pos)
+#     print('final path: ',path)
     

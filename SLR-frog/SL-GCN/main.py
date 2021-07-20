@@ -39,7 +39,7 @@ def get_parser():
     
     parser.add_argument(
         '--config',
-        default='./config/joint.yaml',
+        default='../config/joint.yaml',
         help='path to the configuration file')
 
     parser.add_argument(
@@ -118,15 +118,16 @@ def inference(arg, model):
         predict = predict_label.cpu().numpy()[0]
         #print_log('predict : {}'.format(predict))
         #print_log('inference end')
-        print_log('predict : {}'.format(arg.label[predict]))
+        return arg.label[predict]
 
 
-if __name__ == '__main__':
+def pipeline():
     sign_gendata.preprocess()
 
     parser = get_parser()
     p = parser.parse_args()
-
+    
+    print(os.getcwd())
     if p.config is not None:
         with open(p.config, 'r') as f:
             default_arg = yaml.load(f)
@@ -141,4 +142,5 @@ if __name__ == '__main__':
     init_seed(0)
     #print(' arg : ', arg)
     model = load_model(arg)
-    inference(arg,model)
+    return inference(arg,model)
+

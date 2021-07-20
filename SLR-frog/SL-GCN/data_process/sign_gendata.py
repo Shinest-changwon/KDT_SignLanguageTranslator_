@@ -3,7 +3,9 @@ from tqdm import tqdm
 import sys
 import numpy as np
 import os
-
+os.chdir(os.path.realpath(__file__)[:-16])
+# print("__-------------_______"+os.path.realpath(__file__)[:-16])
+print(os.getcwd())
 from . import keypoints_json2npy
 
 from numpy.lib.format import open_memmap
@@ -112,8 +114,10 @@ def preprocess():
     keypoints_json2npy.transform()
     
     parser = argparse.ArgumentParser(description='Sign Data Converter.')
-    parser.add_argument('--data_path', default= os.getenv('HOME')+'/SLR-frog/datasets/npy/infer_npy/')
-    parser.add_argument('--out_folder', default=os.getenv('HOME')+'/SLR-frog/data/sign')
+    parser.add_argument('--data_path', default= os.getenv('HOME')+'/dev/KDT_SignLanguageTranslator/SLR-frog/datasets/npy/infer_npy/')
+    
+    parser.add_argument('--out_folder', default=os.getenv('HOME')+'/dev/KDT_SignLanguageTranslator/SLR-frog/data/sign')
+    
     parser.add_argument('--points', default='27_3')
 
     arg = parser.parse_args()

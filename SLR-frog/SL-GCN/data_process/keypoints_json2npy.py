@@ -6,7 +6,7 @@ from natsort import natsorted
 
 def transform():
 
-    input_path = os.getenv('HOME')+'/SLR-frog//datasets/infer'
+    input_path = os.getenv('HOME')+'/dev/KDT_SignLanguageTranslator/SLR-frog/datasets/infer'
     keys = ['face_keypoints_2d', 'pose_keypoints_2d', 'hand_left_keypoints_2d', 'hand_right_keypoints_2d']
     n = 3
     target_name = ''
@@ -19,7 +19,7 @@ def transform():
                 frame = 0
                 data = np.zeros((len(fnames), 137, 3), dtype=np.float32)
                 for fname in natsorted(fnames):
-                    output_npy = os.getenv('HOME')+'/SLR-frog/datasets/npy/infer_npy/{}.npy'.format('infer')
+                    output_npy = os.getenv('HOME')+'/dev/KDT_SignLanguageTranslator/SLR-frog/datasets/npy/infer_npy/{}.npy'.format('infer')
                     #print('fname : ', fname)
                     result = []
                     path = os.path.join(root2, fname)

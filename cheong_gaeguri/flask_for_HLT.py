@@ -1,7 +1,8 @@
 from flask import Flask, render_template, redirect, url_for, request
 
+import sys
 from konlpy.tag import Mecab
-import morpheme_and_video_concat_fin as mv
+
 import model_load_pipeline as load
 import tensorflow as tf
 
@@ -13,6 +14,9 @@ def main():
 
 @app.route('/mouth',methods = ['GET', 'POST'])
 def mouth(): 
+
+    
+
     if request.method == 'GET':
         return render_template("mouth.html")
 
@@ -31,29 +35,40 @@ def mouth():
         # print(f"this is nouns = {nouns}")
         # ###########################태깅 후 애니메이션 처리된 페이지 반환#######################
 
+        sys.path.append("/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/morpheme_and_video_concat")
+        import morpheme_and_video_concat_people as mv
+
         path = ''
         path = mv.main(result)
-        
-        tmp = ''
-        for i in range(len(path)):
-            tmp += path[i]
+        print(path+"-----------------------------------------")
+        # tmp = ''
+        # for i in range(len(path)):
+        #     tmp += path[i]
 
-            if path[i] == '/':
+        #     if path[i] == '/':
 
-                tmp = ''
-                continue
-            elif tmp == 'cheong_gaeguri':
-                path = '/' + path[i+2:]
-                print(path)
-                break
+        #         tmp = ''
+        #         continue
+            # elif tmp == 'cheong_gaeguri':
+            #     path = '/' + path[i+2:]
+            #     print(path)
+            #     break
                 
-        return render_template('mouth.html' ,cont = path)
+        return render_template('mouth.html' ,cont = path, res = "번역 결과 : \n\n" + str(result))
     
         
-
 @app.route('/ear',methods = ['GET', 'POST'])
 def ear():
-    return render_template("ear.html")
+
+    sys.path.append("/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/SLR-frog/SL-GCN")
+    import main as ktw
+    
+    if request.method == 'POST':
+        js_variable = request.form
+        print(list(dict(js_variable).keys())[0])#영상 이름 추출
+
+    res = ktw.pipeline()#keypoints -> words
+    return render_template("ear.html", res = res)
 
 if __name__ == "__main__":
     app.run(debug = True,port = 5000)

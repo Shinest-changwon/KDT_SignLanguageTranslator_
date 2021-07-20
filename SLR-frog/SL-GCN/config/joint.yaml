@@ -13,7 +13,7 @@ model_args:
   graph_args:
     labeling_mode: 'spatial'
 
-weights: final_models/27_3/sign_joint_final2.pt 
+weights: ../final_models/27_3/sign_joint_final2.pt 
 
 label : 
   0 : 제가 많이 급합니다.

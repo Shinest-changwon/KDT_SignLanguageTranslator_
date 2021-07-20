@@ -42,8 +42,9 @@ import pandas as pd
 
 
 # path = 'C:\python\KDT\sen_label.xlsx'# 윈도우 경로
-path = "../label_csv/sen_label.xlsx"
-data = pd.read_excel(path)
+path = os.path.realpath(__file__)[:-38]+"/label_csv/sen_label.xlsx"
+# path = "../label_csv/sen_label.xlsx"
+data = pd.read_excel(path, engine='openpyxl')
 data.head(10)
 
 
@@ -522,8 +523,9 @@ def pipeline(sent):
                                     encoder=encoder,
                                     decoder=decoder)
 
-
+    os.getcwd()
     eval_checkpoint_dir = './eval_training_checkpoints'
+   
     eval_checkpoint_prefix = os.path.join(eval_checkpoint_dir, "ckpt")
     eval_checkpoint = tf.train.Checkpoint(optimizer=optimizer,
                                     encoder=encoder,
