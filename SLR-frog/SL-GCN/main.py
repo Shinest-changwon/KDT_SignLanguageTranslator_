@@ -113,6 +113,7 @@ def inference(arg, model):
         data_numpy = torch.tensor(data_numpy)
         data = Variable(data_numpy.float().cuda(0),requires_grad=False)
         output = model(data)
+        print('output : ', output)
         _, predict_label = torch.max(output.data, 1)
         #predict = list(predict_label.cpu().numpy())
         predict = predict_label.cpu().numpy()[0]
@@ -121,8 +122,8 @@ def inference(arg, model):
         return arg.label[predict]
 
 
-def pipeline():
-    sign_gendata.preprocess()
+def pipeline(data):
+    sign_gendata.preprocess(data)
 
     parser = get_parser()
     p = parser.parse_args()

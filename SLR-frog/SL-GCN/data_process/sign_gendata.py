@@ -110,8 +110,9 @@ def gen_motion_data(out_path):
         fp_sp[:, :, T - 1, :, :] = 0
 
 
-def preprocess():
-    keypoints_json2npy.transform()
+def preprocess(data):
+    print("============================================"+data)
+    keypoints_json2npy.transform(data)
     
     parser = argparse.ArgumentParser(description='Sign Data Converter.')
     parser.add_argument('--data_path', default= os.getenv('HOME')+'/dev/KDT_SignLanguageTranslator/SLR-frog/datasets/npy/infer_npy/')
@@ -123,6 +124,7 @@ def preprocess():
     arg = parser.parse_args()
 
     out_path = os.path.join(arg.out_folder, arg.points)
+    
     if not os.path.exists(out_path):
         os.makedirs(out_path)
 

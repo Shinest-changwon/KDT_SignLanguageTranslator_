@@ -36,7 +36,7 @@ def mouth():
         # ###########################태깅 후 애니메이션 처리된 페이지 반환#######################
 
         sys.path.append("/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/morpheme_and_video_concat")
-        import morpheme_and_video_concat_people as mv
+        import morpheme_and_video_concat_person as mv
 
         path = ''
         path = mv.main(result)
@@ -59,16 +59,23 @@ def mouth():
         
 @app.route('/ear',methods = ['GET', 'POST'])
 def ear():
-
     sys.path.append("/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/SLR-frog/SL-GCN")
     import main as ktw
-    
-    if request.method == 'POST':
-        js_variable = request.form
-        print(list(dict(js_variable).keys())[0])#영상 이름 추출
 
-    res = ktw.pipeline()#keypoints -> words
-    return render_template("ear.html", res = res)
+    if request.method=="GET":
+        return render_template("ear.html")
+
+    
+    elif request.method == 'POST':
+        
+        # js_variable = request.form
+        value = list(dict(request.form).keys())[0]#영상 이름 추출
+        result = ktw.pipeline(value)#keypoints -> words
+        print("this res : " + result)
+        res = result
+
+        return render_template("ear.html", res=result)
+    
 
 if __name__ == "__main__":
     app.run(debug = True,port = 5000)

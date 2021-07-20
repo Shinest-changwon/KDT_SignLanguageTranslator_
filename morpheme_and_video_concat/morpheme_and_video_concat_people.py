@@ -112,7 +112,8 @@ root
 # 문장 번호 찾기
 def find_sen_num(stnc_pos): # stnc_pos = ['여기', '1호', '되다']
     
-    print(os.getcwd()+ " ------------------------------")
+    os.chdir("/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/morpheme_and_video_concat")
+    print("여기가 경로"+os.getcwd()+"---------------------------------------------------")
     df = pd.read_csv('sen.csv')
     # 컬럼 리스트 만들기
     col_list = df.columns[4:] # ['한국수어 형태소', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11']
@@ -255,7 +256,7 @@ def main2(stnc_pos):
         
         # 입력된 비디오 모두 concatenate
         final_clip = concatenate_videoclips(caps)
-        final_clip.write_videofile('final.mp4')
+        final_clip.write_videofile('/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/cheong_gaeguri/static/videos/final.mp4')
     elif len(stnc_pos) == 1: print('영상 1개뿐.')
     else: print('영상 없음.')
     
@@ -266,7 +267,7 @@ def main(stnc_pos, is_ani=False):
         print('main1 완료')
         main2(stnc_pos)
         # concat한 비디오 경로 반환
-        path = os.getcwd() +'/final.mp4'
+        path = '/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/cheong_gaeguri/static/videos/final.mp4'
 
     else: # 애니메이션 영상 경로 반환
         path = os.getcwd() + '/Ani_' + str(num) + '.mp4'

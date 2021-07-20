@@ -63,7 +63,7 @@ for i in range(len(data)):
 #         if 'NaN' not in word or math.isnan(float('{}'.format(word))) != True:
 
             sentence.append(str(data[word][i]))
-#             print(sentence)
+            # print(sentence)
     a = ' '.join(sentence)
     morp_sen.append(a)
 
@@ -516,17 +516,18 @@ def pipeline(sent):
     optimizer = tf.keras.optimizers.Adam()
     loss_object = tf.keras.losses.SparseCategoricalCrossentropy(
         from_logits=True, reduction='none')
-
-    checkpoint_dir = './training_checkpoints'
+    checkpoint_dir = '/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/cheong_gaeguri/training_checkpoints'
+    # checkpoint_dir = './training_checkpoints'
     checkpoint_prefix = os.path.join(checkpoint_dir, "ckpt")
     checkpoint = tf.train.Checkpoint(optimizer=optimizer,
                                     encoder=encoder,
                                     decoder=decoder)
-
-    os.getcwd()
-    eval_checkpoint_dir = './eval_training_checkpoints'
-   
+    print("-----------------------------"+checkpoint_prefix)
+    
+    # eval_checkpoint_dir = './eval_training_checkpoints'
+    eval_checkpoint_dir = '/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/cheong_gaeguri/eval_training_checkpoints'
     eval_checkpoint_prefix = os.path.join(eval_checkpoint_dir, "ckpt")
+    print("-----------------------"+eval_checkpoint_prefix)
     eval_checkpoint = tf.train.Checkpoint(optimizer=optimizer,
                                     encoder=encoder,
                                     decoder=decoder)
@@ -543,3 +544,4 @@ def pipeline(sent):
 
     return result
     
+# %%

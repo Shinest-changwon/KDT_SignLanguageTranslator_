@@ -4,9 +4,9 @@ import json
 import os
 from natsort import natsorted
 
-def transform():
-
-    input_path = os.getenv('HOME')+'/dev/KDT_SignLanguageTranslator/SLR-frog/datasets/infer'
+def transform(data='scenario1_1'):
+    print("_______________________________"+data)
+    input_path = os.getenv('HOME')+'/dev/KDT_SignLanguageTranslator/SLR-frog/datasets/infer/{}'.format(data)
     keys = ['face_keypoints_2d', 'pose_keypoints_2d', 'hand_left_keypoints_2d', 'hand_right_keypoints_2d']
     n = 3
     target_name = ''

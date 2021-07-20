@@ -7,6 +7,14 @@ import pandas as pd
 from PIL import ImageFont, ImageDraw, Image
 import numpy as np
 
+tmp = ""
+for i in os.path.realpath(__file__):
+    tmp+=i
+    if "morpheme_and_video_concat" in tmp:
+        break
+
+os.chdir(tmp)
+
 """
 이 코드는 STT로 음성을 한글 문장으로 변환한 후 형태소 분해 리스트를 입력으로 받아 concated video 파일을 생성하고 그 경로를 반환하는 코드.
 
@@ -103,8 +111,10 @@ root
 
 # 문장 번호 찾기
 def find_sen_num(stnc_pos): # stnc_pos = ['여기', '1호', '되다']
+    
     df = pd.read_csv('sen.csv')
     # 컬럼 리스트 만들기
+    print(df)
     col_list = df.columns[4:] # ['한국수어 형태소', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11']
     # 형태소와 일치하는 문장 csv파일에서 찾기
     for i in range(len(stnc_pos)):
@@ -202,7 +212,7 @@ def find_width_height_fps(vid_path):
 def cut_frame_and_save(vid_path, video_start_frame, video_end_frame, start_frame_list, end_frame_list, person_num, text_in_list):
     cap = cv2.VideoCapture(vid_path)
     fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-    file_name = 'final.mp4'
+    file_name = '/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/cheong_gaeguri/static/videos/final.mp4'
     w_frame, h_frame, fps = find_width_height_fps(vid_path)
     out = cv2.VideoWriter(file_name, fourcc, fps, (w_frame, h_frame))
     cnt=0
@@ -231,11 +241,13 @@ def cut_frame_and_save(vid_path, video_start_frame, video_end_frame, start_frame
             break
         cnt+=1
     cap.release()
-    out.release()        
+    out.release()
+       
 
 # 형태소 리스트로부터 각 형태소에 해당하는 영상 잘라서 저장
 def main(stnc_pos, is_ani=False):
     # 문장 번호 찾기
+    stnc_pos = stnc_pos.split(" ")[:-2]
     num = find_sen_num(stnc_pos)
     print('num: ', num)
 
@@ -252,11 +264,9 @@ def main(stnc_pos, is_ani=False):
     vid_path = cut_frame_and_save(vid_path, video_start_frame, video_end_frame, start_frame_list, end_frame_list, person_num, text_in_list)
 
     if not is_ani: # 실제 촬영 영상 짜집기 출력
-        main1(stnc_pos)
-        print('main1 완료')
 
         # 비디오 경로 반환
-        path = os.getcwd() +'/final.mp4'
+        path = '/home/aiffel-dj16/dev/KDT_SignLanguageTranslator/cheong_gaeguri/static/videos/final.mp4'
 
     else: # 애니메이션 영상 경로 반환
         path = os.getcwd() + '/Ani_' + str(num) + '.mp4'
@@ -269,22 +279,22 @@ def main(stnc_pos, is_ani=False):
 
     return path
 
-# 코드 합칠 때에는 아래는 주석 처리
-if __name__ == '__main__':
-    """
-    [시나리오 1번] - 영등포로 가고 싶은 농인
-    문장번호 발화자
-    (354)    농: 안녕하세요
-    (116)    농: 1호선을 타는 곳은 어디인가요?
-    (83)     청: 여기서 1호선을 탈 수 있습니다. --수어 구조 변환--> ['여기', '일호', '되다']
+# # 코드 합칠 때에는 아래는 주석 처리
+# if __name__ == '__main__':
+#     """
+#     [시나리오 1번] - 영등포로 가고 싶은 농인
+#     문장번호 발화자
+#     (354)    농: 안녕하세요
+#     (116)    농: 1호선을 타는 곳은 어디인가요?
+#     (83)     청: 여기서 1호선을 탈 수 있습니다. --수어 구조 변환--> ['여기', '일호', '되다']
 
-    [시나리오 2번] - 신도림역에서
-    문장번호 발화자
-    (1359)   농: 서울대학교 방향으로 가려면 어떻게 가나요?
-    (385)    청: 지하철 갈아타는 곳으로 안내해 드릴까요? --수어 구조 변환--> ['지하철', '곳', '안내하다']
-    (355)    농: 감사합니다.
-    """
-    stnc_pos = ['여기', '1호', '되다'] # ['지하철', '곳', '안내하다'] 
-    path = main(stnc_pos)
-    print('END')
-    print('final path: ',path)
+#     [시나리오 2번] - 신도림역에서
+#     문장번호 발화자
+#     (1359)   농: 서울대학교 방향으로 가려면 어떻게 가나요?
+#     (385)    청: 지하철 갈아타는 곳으로 안내해 드릴까요? --수어 구조 변환--> ['지하철', '곳', '안내하다']
+#     (355)    농: 감사합니다.
+#     """
+#     stnc_pos = ['여기', '1호', '되다'] # ['지하철', '곳', '안내하다'] 
+#     path = main(stnc_pos)
+#     print('END')
+#     print('final path: ',path)

@@ -1,5 +1,5 @@
 
-data_path:  ../data/sign/27_3/infer_data_joint.npy
+data_path:  /home/aiffel-dj16/dev/KDT_SignLanguageTranslator/SLR-frog/data/sign/27_3/infer_data_joint.npy
 
 # model
 model: model.decouple_gcn_attn.Model
@@ -13,7 +13,7 @@ model_args:
   graph_args:
     labeling_mode: 'spatial'
 
-weights: ../final_models/27_3/sign_joint_final2.pt 
+weights: /home/aiffel-dj16/dev/KDT_SignLanguageTranslator/SLR-frog/SL-GCN/final_models/27_3/sign_joint_final2.pt 
 
 label : 
   0 : 제가 많이 급합니다.
