@@ -1,0 +1,37 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0692/NIA_SL_SEN0385_REAL16_F.mp4",
+        "name": "NIA_SL_SEN0385_REAL16_F.mp4",
+        "duration": 5.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.077,
+            "end": 2.441,
+            "attributes": [
+                {
+                    "name": "지하철"
+                }
+            ]
+        },
+        {
+            "start": 2.655,
+            "end": 2.876,
+            "attributes": [
+                {
+                    "name": "곳"
+                }
+            ]
+        },
+        {
+            "start": 3.161,
+            "end": 4.485,
+            "attributes": [
+                {
+                    "name": "안내하다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/0928_yhjeon152/NIA_SL_SEN0385_REAL10_F.mp4",
+        "name": "NIA_SL_SEN0385_REAL10_F.mp4",
+        "duration": 6.35,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.757,
+            "end": 2.257,
+            "attributes": [
+                {
+                    "name": "지하철"
+                }
+            ]
+        },
+        {
+            "start": 2.34,
+            "end": 2.719,
+            "attributes": [
+                {
+                    "name": "곳"
+                }
+            ]
+        },
+        {
+            "start": 2.832,
+            "end": 4.299,
+            "attributes": [
+                {
+                    "name": "데려가다"
+                }
+            ]
+        }
+    ]
+}
