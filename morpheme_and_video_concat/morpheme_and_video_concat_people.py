@@ -283,3 +283,4 @@ if __name__ == '__main__':
     stnc_pos = ['지하철', '곳', '안내하다'] # ['여기', '1호', '되다']
     path = main(stnc_pos)
     print('final path: ',path)
+    
