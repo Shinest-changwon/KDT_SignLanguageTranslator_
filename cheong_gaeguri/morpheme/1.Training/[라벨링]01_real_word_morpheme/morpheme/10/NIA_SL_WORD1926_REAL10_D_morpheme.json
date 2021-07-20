@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0423/NIA_SL_WORD1926_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1926_REAL10_D.mp4",
+        "duration": 5.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.518,
+            "end": 4.204,
+            "attributes": [
+                {
+                    "name": "장흥군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

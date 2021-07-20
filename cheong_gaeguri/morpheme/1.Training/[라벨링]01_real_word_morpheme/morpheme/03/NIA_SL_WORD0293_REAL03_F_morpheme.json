@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0790/NIA_SL_WORD0293_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0293_REAL03_F.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.055,
+            "end": 3.094,
+            "attributes": [
+                {
+                    "name": "구렁이"
+                }
+            ]
+        }
+    ]
+}

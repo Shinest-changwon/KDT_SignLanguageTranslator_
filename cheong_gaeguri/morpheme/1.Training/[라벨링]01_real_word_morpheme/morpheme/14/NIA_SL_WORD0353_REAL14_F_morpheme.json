@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0488/NIA_SL_WORD0353_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0353_REAL14_F.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.237,
+            "end": 3.848,
+            "attributes": [
+                {
+                    "name": "탈춤"
+                }
+            ]
+        }
+    ]
+}

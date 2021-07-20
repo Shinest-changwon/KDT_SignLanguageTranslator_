@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0836/NIA_SL_WORD0059_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0059_REAL04_F.mp4",
+        "duration": 6.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.988,
+            "end": 4.568,
+            "attributes": [
+                {
+                    "name": "운동경기"
+                }
+            ]
+        }
+    ]
+}

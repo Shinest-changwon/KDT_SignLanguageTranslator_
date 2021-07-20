@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou335/NIA_SL_WORD0284_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0284_REAL02_U.mp4",
+        "duration": 5.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.865,
+            "end": 3.532,
+            "attributes": [
+                {
+                    "name": "총무"
+                }
+            ]
+        }
+    ]
+}

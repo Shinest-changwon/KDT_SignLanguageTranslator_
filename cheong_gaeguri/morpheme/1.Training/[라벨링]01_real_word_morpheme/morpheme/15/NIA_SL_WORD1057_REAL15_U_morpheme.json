@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0716/NIA_SL_WORD1057_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1057_REAL15_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.203,
+            "end": 3.38,
+            "attributes": [
+                {
+                    "name": "송파구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

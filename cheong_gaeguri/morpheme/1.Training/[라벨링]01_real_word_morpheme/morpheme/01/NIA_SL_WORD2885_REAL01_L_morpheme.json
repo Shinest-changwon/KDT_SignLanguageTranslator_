@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_yhjeon0349/NIA_SL_WORD2885_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2885_REAL01_L.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.33,
+            "end": 2.317,
+            "attributes": [
+                {
+                    "name": "이만오천"
+                }
+            ]
+        }
+    ]
+}

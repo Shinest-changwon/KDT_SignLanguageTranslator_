@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0929/NIA_SL_WORD0629_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0629_REAL05_L.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.131,
+            "end": 4.12,
+            "attributes": [
+                {
+                    "name": "혈서"
+                }
+            ]
+        }
+    ]
+}

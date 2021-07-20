@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0705/NIA_SL_WORD0695_REAL15_U.mp4",
+        "name": "NIA_SL_WORD0695_REAL15_U.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.362,
+            "end": 4.387,
+            "attributes": [
+                {
+                    "name": "안경원"
+                }
+            ]
+        }
+    ]
+}

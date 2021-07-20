@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_moyu0855/NIA_SL_WORD1243_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1243_REAL04_D.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.564,
+            "end": 2.631,
+            "attributes": [
+                {
+                    "name": "우유"
+                }
+            ]
+        }
+    ]
+}

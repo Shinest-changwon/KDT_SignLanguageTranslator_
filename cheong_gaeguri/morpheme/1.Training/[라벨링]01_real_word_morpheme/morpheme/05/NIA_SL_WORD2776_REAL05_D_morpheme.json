@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_swlee0924/NIA_SL_WORD2776_REAL05_D.mp4",
+        "name": "NIA_SL_WORD2776_REAL05_D.mp4",
+        "duration": 2.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.44,
+            "end": 2.11,
+            "attributes": [
+                {
+                    "name": "백사십사"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0426/NIA_SL_WORD1707_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1707_REAL10_R.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.495,
+            "end": 3.048,
+            "attributes": [
+                {
+                    "name": "이천시지부"
+                }
+            ]
+        }
+    ]
+}

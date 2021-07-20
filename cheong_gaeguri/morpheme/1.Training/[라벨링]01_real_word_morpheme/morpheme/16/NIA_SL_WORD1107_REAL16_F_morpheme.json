@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0751/NIA_SL_WORD1107_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1107_REAL16_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.213,
+            "end": 2.539,
+            "attributes": [
+                {
+                    "name": "충분"
+                }
+            ]
+        }
+    ]
+}

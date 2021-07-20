@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0942/NIA_SL_WORD2420_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2420_REAL16_F.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.378,
+            "end": 4.291,
+            "attributes": [
+                {
+                    "name": "김해시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

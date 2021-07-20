@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_bkyu1211/NIA_SL_WORD0166_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0166_REAL15_L.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.565,
+            "end": 3.419,
+            "attributes": [
+                {
+                    "name": "재택근무"
+                }
+            ]
+        }
+    ]
+}

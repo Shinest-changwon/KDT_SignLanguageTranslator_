@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1155/NIA_SL_WORD0851_REAL05_D.mp4",
+        "name": "NIA_SL_WORD0851_REAL05_D.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.975,
+            "end": 2.78,
+            "attributes": [
+                {
+                    "name": "철교"
+                }
+            ]
+        }
+    ]
+}

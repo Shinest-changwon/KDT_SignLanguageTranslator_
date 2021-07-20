@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1185/NIA_SL_WORD2230_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2230_REAL12_F.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.283,
+            "end": 2.763,
+            "attributes": [
+                {
+                    "name": "대물림"
+                }
+            ]
+        }
+    ]
+}

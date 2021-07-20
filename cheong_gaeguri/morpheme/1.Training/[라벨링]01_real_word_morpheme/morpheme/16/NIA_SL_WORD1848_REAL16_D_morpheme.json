@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0750/NIA_SL_WORD1848_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1848_REAL16_D.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.135,
+            "end": 2.804,
+            "attributes": [
+                {
+                    "name": "고창군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

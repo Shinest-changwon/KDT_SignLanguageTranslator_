@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1065/NIA_SL_WORD1852_REAL15_R.mp4",
+        "name": "NIA_SL_WORD1852_REAL15_R.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.009,
+            "end": 2.38,
+            "attributes": [
+                {
+                    "name": "김제시지부"
+                }
+            ]
+        }
+    ]
+}

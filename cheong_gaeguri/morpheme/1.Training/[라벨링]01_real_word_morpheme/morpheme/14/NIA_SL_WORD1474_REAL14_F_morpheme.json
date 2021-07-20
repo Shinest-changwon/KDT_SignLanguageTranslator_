@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0313/NIA_SL_WORD1474_REAL14_F.mp4",
+        "name": "NIA_SL_WORD1474_REAL14_F.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.674,
+            "end": 3.505,
+            "attributes": [
+                {
+                    "name": "안양대학교"
+                }
+            ]
+        }
+    ]
+}

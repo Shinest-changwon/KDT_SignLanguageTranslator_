@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0266/NIA_SL_WORD1704_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1704_REAL08_F.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.003,
+            "end": 2.491,
+            "attributes": [
+                {
+                    "name": "의정부시지부"
+                }
+            ]
+        }
+    ]
+}

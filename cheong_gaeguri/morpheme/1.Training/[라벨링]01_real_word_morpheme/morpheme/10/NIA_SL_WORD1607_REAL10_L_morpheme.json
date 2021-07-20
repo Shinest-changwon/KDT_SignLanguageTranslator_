@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0416/NIA_SL_WORD1607_REAL10_L.mp4",
+        "name": "NIA_SL_WORD1607_REAL10_L.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.501,
+            "end": 3.369,
+            "attributes": [
+                {
+                    "name": "수성구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

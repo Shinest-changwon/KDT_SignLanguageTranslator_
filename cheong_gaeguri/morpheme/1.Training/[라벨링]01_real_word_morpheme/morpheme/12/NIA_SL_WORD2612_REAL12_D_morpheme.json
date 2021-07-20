@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1190/NIA_SL_WORD2612_REAL12_D.mp4",
+        "name": "NIA_SL_WORD2612_REAL12_D.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.266,
+            "end": 2.163,
+            "attributes": [
+                {
+                    "name": "창원"
+                }
+            ]
+        }
+    ]
+}

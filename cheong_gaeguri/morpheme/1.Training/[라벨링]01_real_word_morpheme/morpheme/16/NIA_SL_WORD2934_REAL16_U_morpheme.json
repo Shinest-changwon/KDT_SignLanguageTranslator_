@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_sjim0759/NIA_SL_WORD2934_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2934_REAL16_U.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.578,
+            "end": 2.44,
+            "attributes": [
+                {
+                    "name": "구백만"
+                }
+            ]
+        }
+    ]
+}

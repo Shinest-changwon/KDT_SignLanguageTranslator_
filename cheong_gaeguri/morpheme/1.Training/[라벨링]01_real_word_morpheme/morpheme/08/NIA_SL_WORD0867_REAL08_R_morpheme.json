@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0257/NIA_SL_WORD0867_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0867_REAL08_R.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.191,
+            "end": 4.334,
+            "attributes": [
+                {
+                    "name": "초라"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim305/NIA_SL_WORD2304_REAL02_F.mp4",
+        "name": "NIA_SL_WORD2304_REAL02_F.mp4",
+        "duration": 3.184,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.338,
+            "end": 2.38,
+            "attributes": [
+                {
+                    "name": "끊다"
+                }
+            ]
+        }
+    ]
+}

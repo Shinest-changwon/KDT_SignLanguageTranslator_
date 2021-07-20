@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0982/NIA_SL_WORD0935_REAL07_L.mp4",
+        "name": "NIA_SL_WORD0935_REAL07_L.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.889,
+            "end": 3.034,
+            "attributes": [
+                {
+                    "name": "더디다"
+                }
+            ]
+        }
+    ]
+}

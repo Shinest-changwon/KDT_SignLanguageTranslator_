@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_hwlee0430/NIA_SL_WORD0995_REAL10_D.mp4",
+        "name": "NIA_SL_WORD0995_REAL10_D.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.578,
+            "end": 2.971,
+            "attributes": [
+                {
+                    "name": "남몰래"
+                }
+            ]
+        }
+    ]
+}

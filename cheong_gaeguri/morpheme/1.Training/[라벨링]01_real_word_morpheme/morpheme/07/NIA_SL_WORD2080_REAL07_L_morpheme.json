@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1110/NIA_SL_WORD2080_REAL07_L.mp4",
+        "name": "NIA_SL_WORD2080_REAL07_L.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.357,
+            "end": 2.833,
+            "attributes": [
+                {
+                    "name": "갑부"
+                }
+            ]
+        }
+    ]
+}

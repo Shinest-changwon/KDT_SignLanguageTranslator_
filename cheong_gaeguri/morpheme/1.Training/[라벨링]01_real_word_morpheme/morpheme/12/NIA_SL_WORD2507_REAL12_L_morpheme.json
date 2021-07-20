@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1179/NIA_SL_WORD2507_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2507_REAL12_L.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.487,
+            "end": 2.358,
+            "attributes": [
+                {
+                    "name": "독일"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_jhhan0300/NIA_SL_WORD1591_REAL14_R.mp4",
+        "name": "NIA_SL_WORD1591_REAL14_R.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.89,
+            "end": 2.195,
+            "attributes": [
+                {
+                    "name": "대기"
+                }
+            ]
+        }
+    ]
+}

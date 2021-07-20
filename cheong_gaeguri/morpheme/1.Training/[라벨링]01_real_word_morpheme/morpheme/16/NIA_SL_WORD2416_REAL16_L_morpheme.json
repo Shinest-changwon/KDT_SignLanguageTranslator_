@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0942/NIA_SL_WORD2416_REAL16_L.mp4",
+        "name": "NIA_SL_WORD2416_REAL16_L.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.171,
+            "end": 3.182,
+            "attributes": [
+                {
+                    "name": "고성군지부"
+                }
+            ]
+        }
+    ]
+}

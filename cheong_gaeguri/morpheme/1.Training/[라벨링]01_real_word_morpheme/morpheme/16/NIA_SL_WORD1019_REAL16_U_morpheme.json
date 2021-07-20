@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0742/NIA_SL_WORD1019_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1019_REAL16_U.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.923,
+            "end": 3.589,
+            "attributes": [
+                {
+                    "name": "관악구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

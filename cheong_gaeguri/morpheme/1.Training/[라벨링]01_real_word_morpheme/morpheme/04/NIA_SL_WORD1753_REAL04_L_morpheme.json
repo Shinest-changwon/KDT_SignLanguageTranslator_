@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0831/NIA_SL_WORD1753_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1753_REAL04_L.mp4",
+        "duration": 6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.001,
+            "end": 4.719,
+            "attributes": [
+                {
+                    "name": "철원군지부"
+                }
+            ]
+        }
+    ]
+}

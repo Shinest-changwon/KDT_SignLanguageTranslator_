@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1057/NIA_SL_WORD1599_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1599_REAL13_U.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.636,
+            "end": 2.868,
+            "attributes": [
+                {
+                    "name": "다리"
+                }
+            ]
+        }
+    ]
+}

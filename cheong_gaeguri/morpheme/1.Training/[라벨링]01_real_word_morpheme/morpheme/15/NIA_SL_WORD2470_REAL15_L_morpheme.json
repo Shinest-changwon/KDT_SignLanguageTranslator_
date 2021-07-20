@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_swlee1048/NIA_SL_WORD2470_REAL15_L.mp4",
+        "name": "NIA_SL_WORD2470_REAL15_L.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.628,
+            "end": 3.595,
+            "attributes": [
+                {
+                    "name": "경기도청"
+                }
+            ]
+        }
+    ]
+}

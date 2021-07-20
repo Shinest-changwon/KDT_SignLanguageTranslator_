@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0853/NIA_SL_WORD0226_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0226_REAL04_U.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.594,
+            "end": 3.318,
+            "attributes": [
+                {
+                    "name": "서점"
+                }
+            ]
+        }
+    ]
+}

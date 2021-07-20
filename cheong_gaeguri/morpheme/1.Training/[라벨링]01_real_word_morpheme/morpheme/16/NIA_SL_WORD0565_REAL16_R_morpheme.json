@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0747/NIA_SL_WORD0565_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0565_REAL16_R.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.688,
+            "end": 4.364,
+            "attributes": [
+                {
+                    "name": "벌칙사항"
+                }
+            ]
+        }
+    ]
+}

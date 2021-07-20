@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0420/NIA_SL_WORD1651_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1651_REAL10_R.mp4",
+        "duration": 6.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.414,
+            "end": 4.822,
+            "attributes": [
+                {
+                    "name": "광명시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

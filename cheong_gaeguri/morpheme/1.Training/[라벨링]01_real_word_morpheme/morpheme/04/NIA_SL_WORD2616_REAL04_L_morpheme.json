@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_bkyu0887/NIA_SL_WORD2616_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2616_REAL04_L.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.769,
+            "end": 3.398,
+            "attributes": [
+                {
+                    "name": "대전"
+                }
+            ]
+        }
+    ]
+}

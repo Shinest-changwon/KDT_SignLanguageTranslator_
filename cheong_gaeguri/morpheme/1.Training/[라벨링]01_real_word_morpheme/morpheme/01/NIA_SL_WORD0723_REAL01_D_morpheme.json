@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0358/NIA_SL_WORD0723_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0723_REAL01_D.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.499,
+            "end": 3.002,
+            "attributes": [
+                {
+                    "name": "여성복"
+                }
+            ]
+        }
+    ]
+}

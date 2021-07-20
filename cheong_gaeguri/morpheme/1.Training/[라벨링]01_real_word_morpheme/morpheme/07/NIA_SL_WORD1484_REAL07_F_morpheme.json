@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1104/NIA_SL_WORD1484_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1484_REAL07_F.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.191,
+            "end": 2.133,
+            "attributes": [
+                {
+                    "name": "평택"
+                }
+            ]
+        }
+    ]
+}

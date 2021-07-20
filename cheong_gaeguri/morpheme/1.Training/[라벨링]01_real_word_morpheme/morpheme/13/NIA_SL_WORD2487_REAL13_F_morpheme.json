@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_sjim0539/NIA_SL_WORD2487_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2487_REAL13_F.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.436,
+            "end": 2.77,
+            "attributes": [
+                {
+                    "name": "연구"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0392/NIA_SL_WORD0362_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0362_REAL16_R.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.446,
+            "end": 4.023,
+            "attributes": [
+                {
+                    "name": "감옥살이"
+                }
+            ]
+        }
+    ]
+}

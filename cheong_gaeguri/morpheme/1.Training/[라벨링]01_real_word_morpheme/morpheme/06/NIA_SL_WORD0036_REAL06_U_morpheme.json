@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1103/NIA_SL_WORD0036_REAL06_U.mp4",
+        "name": "NIA_SL_WORD0036_REAL06_U.mp4",
+        "duration": 4.217,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.052,
+            "end": 2.995,
+            "attributes": [
+                {
+                    "name": "면역"
+                }
+            ]
+        }
+    ]
+}

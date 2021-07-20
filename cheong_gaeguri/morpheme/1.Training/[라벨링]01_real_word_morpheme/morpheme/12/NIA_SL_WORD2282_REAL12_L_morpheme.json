@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1191/NIA_SL_WORD2282_REAL12_L.mp4",
+        "name": "NIA_SL_WORD2282_REAL12_L.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.381,
+            "end": 2.494,
+            "attributes": [
+                {
+                    "name": "결코"
+                }
+            ]
+        }
+    ]
+}

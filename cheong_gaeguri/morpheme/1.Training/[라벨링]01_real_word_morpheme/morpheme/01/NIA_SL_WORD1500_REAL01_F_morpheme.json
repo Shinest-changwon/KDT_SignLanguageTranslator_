@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1154/NIA_SL_WORD1500_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1500_REAL01_F.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.895,
+            "end": 2.921,
+            "attributes": [
+                {
+                    "name": "고모"
+                }
+            ]
+        }
+    ]
+}

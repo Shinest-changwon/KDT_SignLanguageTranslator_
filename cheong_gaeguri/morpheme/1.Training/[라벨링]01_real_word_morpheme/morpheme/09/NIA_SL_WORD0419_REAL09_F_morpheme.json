@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou349/NIA_SL_WORD0419_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0419_REAL09_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.467,
+            "end": 3.235,
+            "attributes": [
+                {
+                    "name": "구두액"
+                }
+            ]
+        }
+    ]
+}

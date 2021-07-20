@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_rhkim0472/NIA_SL_WORD2694_REAL09_R.mp4",
+        "name": "NIA_SL_WORD2694_REAL09_R.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.595,
+            "end": 1.589,
+            "attributes": [
+                {
+                    "name": "육십이"
+                }
+            ]
+        }
+    ]
+}

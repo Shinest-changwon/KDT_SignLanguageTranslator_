@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0703/NIA_SL_WORD0423_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0423_REAL15_L.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.55,
+            "end": 2.971,
+            "attributes": [
+                {
+                    "name": "국기"
+                }
+            ]
+        }
+    ]
+}

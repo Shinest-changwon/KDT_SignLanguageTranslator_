@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0849/NIA_SL_WORD1681_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1681_REAL04_R.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.158,
+            "end": 4.308,
+            "attributes": [
+                {
+                    "name": "안양시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

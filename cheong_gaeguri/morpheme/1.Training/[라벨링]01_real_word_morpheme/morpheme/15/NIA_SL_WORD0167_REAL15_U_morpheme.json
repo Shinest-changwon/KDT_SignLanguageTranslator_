@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_bkyu1211/NIA_SL_WORD0167_REAL15_U.mp4",
+        "name": "NIA_SL_WORD0167_REAL15_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.242,
+            "end": 2.889,
+            "attributes": [
+                {
+                    "name": "연령제한"
+                }
+            ]
+        }
+    ]
+}

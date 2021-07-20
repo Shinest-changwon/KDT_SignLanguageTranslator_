@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0606/NIA_SL_WORD2952_REAL03_L.mp4",
+        "name": "NIA_SL_WORD2952_REAL03_L.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.943,
+            "end": 2.923,
+            "attributes": [
+                {
+                    "name": "구천만"
+                }
+            ]
+        }
+    ]
+}

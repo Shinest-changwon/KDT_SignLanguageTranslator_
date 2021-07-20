@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0931/NIA_SL_WORD2302_REAL16_D.mp4",
+        "name": "NIA_SL_WORD2302_REAL16_D.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.399,
+            "end": 2.629,
+            "attributes": [
+                {
+                    "name": "험담"
+                }
+            ]
+        }
+    ]
+}

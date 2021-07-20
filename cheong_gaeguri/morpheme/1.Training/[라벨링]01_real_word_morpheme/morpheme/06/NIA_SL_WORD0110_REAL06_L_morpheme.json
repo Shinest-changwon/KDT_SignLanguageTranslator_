@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1110/NIA_SL_WORD0110_REAL06_L.mp4",
+        "name": "NIA_SL_WORD0110_REAL06_L.mp4",
+        "duration": 3.617,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.902,
+            "end": 2.954,
+            "attributes": [
+                {
+                    "name": "용품"
+                }
+            ]
+        }
+    ]
+}

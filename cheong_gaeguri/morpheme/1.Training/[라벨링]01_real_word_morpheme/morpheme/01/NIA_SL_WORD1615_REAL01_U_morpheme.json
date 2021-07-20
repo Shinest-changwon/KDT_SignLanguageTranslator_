@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0347/NIA_SL_WORD1615_REAL01_U.mp4",
+        "name": "NIA_SL_WORD1615_REAL01_U.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.631,
+            "end": 4.434,
+            "attributes": [
+                {
+                    "name": "대전농아인협회"
+                }
+            ]
+        }
+    ]
+}

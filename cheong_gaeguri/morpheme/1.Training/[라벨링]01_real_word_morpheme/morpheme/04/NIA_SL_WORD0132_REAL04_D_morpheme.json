@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0844/NIA_SL_WORD0132_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0132_REAL04_D.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.142,
+            "end": 4.165,
+            "attributes": [
+                {
+                    "name": "치약"
+                }
+            ]
+        }
+    ]
+}

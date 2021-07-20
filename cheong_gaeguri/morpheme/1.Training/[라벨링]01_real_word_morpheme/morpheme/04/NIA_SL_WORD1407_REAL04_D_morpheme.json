@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0846/NIA_SL_WORD1407_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1407_REAL04_D.mp4",
+        "duration": 6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.73,
+            "end": 4.794,
+            "attributes": [
+                {
+                    "name": "종로5가"
+                }
+            ]
+        }
+    ]
+}

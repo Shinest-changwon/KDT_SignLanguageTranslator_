@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim335/NIA_SL_WORD1608_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1608_REAL02_D.mp4",
+        "duration": 5.417,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.617,
+            "end": 4.265,
+            "attributes": [
+                {
+                    "name": "인천광역시농아인협회"
+                }
+            ]
+        }
+    ]
+}

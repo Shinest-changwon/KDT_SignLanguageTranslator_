@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1106/NIA_SL_WORD2020_REAL07_D.mp4",
+        "name": "NIA_SL_WORD2020_REAL07_D.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.558,
+            "end": 3.351,
+            "attributes": [
+                {
+                    "name": "조용하다"
+                }
+            ]
+        }
+    ]
+}

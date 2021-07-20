@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_sjim0789/NIA_SL_WORD2081_REAL10_L.mp4",
+        "name": "NIA_SL_WORD2081_REAL10_L.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.617,
+            "end": 4.032,
+            "attributes": [
+                {
+                    "name": "불성실"
+                }
+            ]
+        }
+    ]
+}

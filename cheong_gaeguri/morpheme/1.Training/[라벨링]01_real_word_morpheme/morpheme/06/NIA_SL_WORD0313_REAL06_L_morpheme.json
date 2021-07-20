@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1053/NIA_SL_WORD0313_REAL06_L.mp4",
+        "name": "NIA_SL_WORD0313_REAL06_L.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.149,
+            "end": 3.06,
+            "attributes": [
+                {
+                    "name": "세번째"
+                }
+            ]
+        }
+    ]
+}

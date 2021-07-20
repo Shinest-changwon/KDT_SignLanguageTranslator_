@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1186/NIA_SL_WORD2404_REAL12_U.mp4",
+        "name": "NIA_SL_WORD2404_REAL12_U.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.496,
+            "end": 2.447,
+            "attributes": [
+                {
+                    "name": "소등"
+                }
+            ]
+        }
+    ]
+}

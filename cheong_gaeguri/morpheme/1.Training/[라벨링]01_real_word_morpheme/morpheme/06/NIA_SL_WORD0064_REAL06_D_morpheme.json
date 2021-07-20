@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1106/NIA_SL_WORD0064_REAL06_D.mp4",
+        "name": "NIA_SL_WORD0064_REAL06_D.mp4",
+        "duration": 3.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.202,
+            "end": 3.036,
+            "attributes": [
+                {
+                    "name": "치료"
+                }
+            ]
+        }
+    ]
+}

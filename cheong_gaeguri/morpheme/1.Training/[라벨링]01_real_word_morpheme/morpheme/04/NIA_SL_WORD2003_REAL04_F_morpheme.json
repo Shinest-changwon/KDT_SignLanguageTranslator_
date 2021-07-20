@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0831/NIA_SL_WORD2003_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2003_REAL04_F.mp4",
+        "duration": 6.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.128,
+            "end": 4.982,
+            "attributes": [
+                {
+                    "name": "지식인"
+                }
+            ]
+        }
+    ]
+}

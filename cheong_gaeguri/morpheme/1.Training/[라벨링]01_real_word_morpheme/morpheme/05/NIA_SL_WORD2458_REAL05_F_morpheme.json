@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_rhkim0944/NIA_SL_WORD2458_REAL05_F.mp4",
+        "name": "NIA_SL_WORD2458_REAL05_F.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.329,
+            "end": 2.638,
+            "attributes": [
+                {
+                    "name": "서귀포시지부"
+                }
+            ]
+        }
+    ]
+}

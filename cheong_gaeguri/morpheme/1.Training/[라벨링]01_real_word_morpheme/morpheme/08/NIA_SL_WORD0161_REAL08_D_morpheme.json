@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0262/NIA_SL_WORD0161_REAL08_D.mp4",
+        "name": "NIA_SL_WORD0161_REAL08_D.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.091,
+            "end": 4.034,
+            "attributes": [
+                {
+                    "name": "운동선수"
+                }
+            ]
+        }
+    ]
+}

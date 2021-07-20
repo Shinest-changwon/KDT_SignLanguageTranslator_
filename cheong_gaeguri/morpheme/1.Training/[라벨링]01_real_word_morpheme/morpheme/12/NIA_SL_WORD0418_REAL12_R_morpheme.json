@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0662/NIA_SL_WORD0418_REAL12_R.mp4",
+        "name": "NIA_SL_WORD0418_REAL12_R.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.648,
+            "end": 3.566,
+            "attributes": [
+                {
+                    "name": "교탁"
+                }
+            ]
+        }
+    ]
+}

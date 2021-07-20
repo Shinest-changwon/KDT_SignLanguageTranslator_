@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_rhkim1105/NIA_SL_WORD2705_REAL07_D.mp4",
+        "name": "NIA_SL_WORD2705_REAL07_D.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.939,
+            "end": 1.926,
+            "attributes": [
+                {
+                    "name": "칠십삼"
+                }
+            ]
+        }
+    ]
+}

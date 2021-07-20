@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0306/NIA_SL_WORD1410_REAL14_R.mp4",
+        "name": "NIA_SL_WORD1410_REAL14_R.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.426,
+            "end": 3.005,
+            "attributes": [
+                {
+                    "name": "을지로4가"
+                }
+            ]
+        }
+    ]
+}

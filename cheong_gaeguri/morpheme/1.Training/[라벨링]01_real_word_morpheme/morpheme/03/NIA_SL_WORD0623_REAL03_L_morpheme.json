@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0798/NIA_SL_WORD0623_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0623_REAL03_L.mp4",
+        "duration": 5.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.65,
+            "end": 4.199,
+            "attributes": [
+                {
+                    "name": "새알"
+                }
+            ]
+        }
+    ]
+}

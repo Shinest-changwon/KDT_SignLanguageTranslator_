@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim341/NIA_SL_WORD0573_REAL09_R.mp4",
+        "name": "NIA_SL_WORD0573_REAL09_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.313,
+            "end": 3.059,
+            "attributes": [
+                {
+                    "name": "병아리"
+                }
+            ]
+        }
+    ]
+}

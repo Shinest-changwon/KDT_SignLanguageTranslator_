@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0932/NIA_SL_WORD2051_REAL05_L.mp4",
+        "name": "NIA_SL_WORD2051_REAL05_L.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.209,
+            "end": 3.59,
+            "attributes": [
+                {
+                    "name": "일부러"
+                }
+            ]
+        }
+    ]
+}

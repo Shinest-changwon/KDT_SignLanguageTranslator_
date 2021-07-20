@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0345/NIA_SL_WORD2591_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2591_REAL01_U.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.998,
+            "end": 2.902,
+            "attributes": [
+                {
+                    "name": "북한"
+                }
+            ]
+        }
+    ]
+}

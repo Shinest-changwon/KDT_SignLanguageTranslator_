@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_emyou0675/NIA_SL_WORD2545_REAL06_F.mp4",
+        "name": "NIA_SL_WORD2545_REAL06_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.628,
+            "end": 3.116,
+            "attributes": [
+                {
+                    "name": "황토"
+                }
+            ]
+        }
+    ]
+}

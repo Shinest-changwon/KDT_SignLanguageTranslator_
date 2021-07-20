@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0668/NIA_SL_WORD2228_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2228_REAL06_R.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.635,
+            "end": 2.69,
+            "attributes": [
+                {
+                    "name": "표리부동"
+                }
+            ]
+        }
+    ]
+}

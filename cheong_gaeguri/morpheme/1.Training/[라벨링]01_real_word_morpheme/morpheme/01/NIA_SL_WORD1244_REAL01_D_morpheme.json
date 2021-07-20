@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_mrkim1153/NIA_SL_WORD1244_REAL01_D.mp4",
+        "name": "NIA_SL_WORD1244_REAL01_D.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.02,
+            "end": 3.345,
+            "attributes": [
+                {
+                    "name": "졸리다"
+                }
+            ]
+        }
+    ]
+}

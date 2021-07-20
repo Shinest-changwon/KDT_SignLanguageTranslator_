@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1119/NIA_SL_WORD1092_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1092_REAL07_U.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.429,
+            "end": 2.654,
+            "attributes": [
+                {
+                    "name": "수영구지부"
+                }
+            ]
+        }
+    ]
+}

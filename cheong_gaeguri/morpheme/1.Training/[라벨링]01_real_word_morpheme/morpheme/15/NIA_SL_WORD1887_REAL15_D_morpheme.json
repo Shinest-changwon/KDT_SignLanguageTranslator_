@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1072/NIA_SL_WORD1887_REAL15_D.mp4",
+        "name": "NIA_SL_WORD1887_REAL15_D.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.085,
+            "end": 3.476,
+            "attributes": [
+                {
+                    "name": "고흥군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

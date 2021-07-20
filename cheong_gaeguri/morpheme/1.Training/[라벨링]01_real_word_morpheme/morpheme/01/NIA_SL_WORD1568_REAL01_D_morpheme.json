@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0342/NIA_SL_WORD1568_REAL01_D.mp4",
+        "name": "NIA_SL_WORD1568_REAL01_D.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.691,
+            "end": 2.884,
+            "attributes": [
+                {
+                    "name": "조카"
+                }
+            ]
+        }
+    ]
+}

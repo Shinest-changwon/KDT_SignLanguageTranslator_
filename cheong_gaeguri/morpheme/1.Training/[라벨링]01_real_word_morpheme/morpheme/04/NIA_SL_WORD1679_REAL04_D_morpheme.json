@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0848/NIA_SL_WORD1679_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1679_REAL04_D.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.157,
+            "end": 4.386,
+            "attributes": [
+                {
+                    "name": "안성시청"
+                }
+            ]
+        }
+    ]
+}

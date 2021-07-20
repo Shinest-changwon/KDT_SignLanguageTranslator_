@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0655/NIA_SL_WORD0345_REAL12_L.mp4",
+        "name": "NIA_SL_WORD0345_REAL12_L.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.61,
+            "end": 4.172,
+            "attributes": [
+                {
+                    "name": "한글날"
+                }
+            ]
+        }
+    ]
+}

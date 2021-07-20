@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0621/NIA_SL_WORD2604_REAL08_L.mp4",
+        "name": "NIA_SL_WORD2604_REAL08_L.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.453,
+            "end": 2.404,
+            "attributes": [
+                {
+                    "name": "목포"
+                }
+            ]
+        }
+    ]
+}

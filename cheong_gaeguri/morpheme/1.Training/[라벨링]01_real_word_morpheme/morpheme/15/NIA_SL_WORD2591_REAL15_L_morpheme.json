@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_sjim1221/NIA_SL_WORD2591_REAL15_L.mp4",
+        "name": "NIA_SL_WORD2591_REAL15_L.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.548,
+            "end": 2.904,
+            "attributes": [
+                {
+                    "name": "북한"
+                }
+            ]
+        }
+    ]
+}

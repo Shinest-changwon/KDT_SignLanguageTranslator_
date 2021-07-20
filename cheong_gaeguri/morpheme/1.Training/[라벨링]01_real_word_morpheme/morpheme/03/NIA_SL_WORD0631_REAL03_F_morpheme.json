@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0799/NIA_SL_WORD0631_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0631_REAL03_F.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.687,
+            "end": 3.593,
+            "attributes": [
+                {
+                    "name": "벨트"
+                }
+            ]
+        }
+    ]
+}

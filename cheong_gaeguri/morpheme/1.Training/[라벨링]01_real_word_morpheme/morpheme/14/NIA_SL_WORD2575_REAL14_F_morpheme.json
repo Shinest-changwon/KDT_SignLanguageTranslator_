@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0298/NIA_SL_WORD2575_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2575_REAL14_F.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.239,
+            "end": 3.835,
+            "attributes": [
+                {
+                    "name": "하늘"
+                }
+            ]
+        }
+    ]
+}

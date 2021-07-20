@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_gdchoi0884/NIA_SL_WORD0637_REAL06_F.mp4",
+        "name": "NIA_SL_WORD0637_REAL06_F.mp4",
+        "duration": 3.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.913,
+            "end": 2.529,
+            "attributes": [
+                {
+                    "name": "정벌"
+                }
+            ]
+        }
+    ]
+}

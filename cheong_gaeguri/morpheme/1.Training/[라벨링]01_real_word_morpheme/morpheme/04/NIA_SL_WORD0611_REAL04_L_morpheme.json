@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0842/NIA_SL_WORD0611_REAL04_L.mp4",
+        "name": "NIA_SL_WORD0611_REAL04_L.mp4",
+        "duration": 6.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.518,
+            "end": 4.751,
+            "attributes": [
+                {
+                    "name": "사인"
+                }
+            ]
+        }
+    ]
+}

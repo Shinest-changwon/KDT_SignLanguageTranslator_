@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1192/NIA_SL_WORD2291_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2291_REAL12_R.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.46,
+            "end": 2.785,
+            "attributes": [
+                {
+                    "name": "이기주의"
+                }
+            ]
+        }
+    ]
+}

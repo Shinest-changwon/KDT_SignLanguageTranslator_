@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0801/NIA_SL_WORD1660_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1660_REAL03_U.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.756,
+            "end": 4.111,
+            "attributes": [
+                {
+                    "name": "군포시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

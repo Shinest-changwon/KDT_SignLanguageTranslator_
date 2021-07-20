@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0848/NIA_SL_WORD0930_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0930_REAL04_U.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.522,
+            "end": 4.053,
+            "attributes": [
+                {
+                    "name": "독식"
+                }
+            ]
+        }
+    ]
+}

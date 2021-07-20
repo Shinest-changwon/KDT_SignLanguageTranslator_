@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0839/NIA_SL_WORD1332_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1332_REAL04_D.mp4",
+        "duration": 7.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.402,
+            "end": 3.704,
+            "attributes": [
+                {
+                    "name": "밉다"
+                }
+            ]
+        }
+    ]
+}

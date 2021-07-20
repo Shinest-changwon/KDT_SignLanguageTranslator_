@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0941/NIA_SL_WORD0507_REAL05_D.mp4",
+        "name": "NIA_SL_WORD0507_REAL05_D.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.756,
+            "end": 4.2,
+            "attributes": [
+                {
+                    "name": "망아지"
+                }
+            ]
+        }
+    ]
+}

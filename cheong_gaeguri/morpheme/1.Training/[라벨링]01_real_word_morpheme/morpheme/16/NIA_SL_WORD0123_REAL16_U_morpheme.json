@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0393/NIA_SL_WORD0123_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0123_REAL16_U.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.077,
+            "end": 3.197,
+            "attributes": [
+                {
+                    "name": "포켓"
+                }
+            ]
+        }
+    ]
+}

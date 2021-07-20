@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0752/NIA_SL_WORD0870_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0870_REAL16_F.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.851,
+            "end": 2.296,
+            "attributes": [
+                {
+                    "name": "초혼"
+                }
+            ]
+        }
+    ]
+}

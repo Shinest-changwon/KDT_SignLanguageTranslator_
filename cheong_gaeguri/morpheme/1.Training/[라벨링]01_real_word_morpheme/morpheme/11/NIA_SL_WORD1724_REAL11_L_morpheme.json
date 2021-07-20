@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0518/NIA_SL_WORD1724_REAL11_L.mp4",
+        "name": "NIA_SL_WORD1724_REAL11_L.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.314,
+            "end": 3.464,
+            "attributes": [
+                {
+                    "name": "화성시청"
+                }
+            ]
+        }
+    ]
+}

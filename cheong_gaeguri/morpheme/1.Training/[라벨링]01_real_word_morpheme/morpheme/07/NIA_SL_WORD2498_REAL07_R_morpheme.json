@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_swlee1054/NIA_SL_WORD2498_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2498_REAL07_R.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.551,
+            "end": 3.272,
+            "attributes": [
+                {
+                    "name": "쌍용"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_moyu0608/NIA_SL_WORD2728_REAL03_F.mp4",
+        "name": "NIA_SL_WORD2728_REAL03_F.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.138,
+            "end": 2.19,
+            "attributes": [
+                {
+                    "name": "구십육"
+                }
+            ]
+        }
+    ]
+}

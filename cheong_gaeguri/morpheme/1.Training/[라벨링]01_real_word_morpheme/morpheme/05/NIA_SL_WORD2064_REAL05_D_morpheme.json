@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0933/NIA_SL_WORD2064_REAL05_D.mp4",
+        "name": "NIA_SL_WORD2064_REAL05_D.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.723,
+            "end": 3.558,
+            "attributes": [
+                {
+                    "name": "여행자"
+                }
+            ]
+        }
+    ]
+}

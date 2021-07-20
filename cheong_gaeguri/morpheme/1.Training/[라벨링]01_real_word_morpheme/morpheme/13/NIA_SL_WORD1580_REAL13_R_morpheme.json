@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1054/NIA_SL_WORD1580_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1580_REAL13_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.297,
+            "end": 2.519,
+            "attributes": [
+                {
+                    "name": "견습"
+                }
+            ]
+        }
+    ]
+}

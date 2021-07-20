@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0832/NIA_SL_WORD0511_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0511_REAL04_F.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.658,
+            "end": 4.412,
+            "attributes": [
+                {
+                    "name": "맷돌"
+                }
+            ]
+        }
+    ]
+}

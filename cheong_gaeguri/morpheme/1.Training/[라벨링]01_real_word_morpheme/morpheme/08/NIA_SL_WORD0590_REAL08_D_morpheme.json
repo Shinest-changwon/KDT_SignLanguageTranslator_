@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0254/NIA_SL_WORD0590_REAL08_D.mp4",
+        "name": "NIA_SL_WORD0590_REAL08_D.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.697,
+            "end": 3.486,
+            "attributes": [
+                {
+                    "name": "비닐하우스"
+                }
+            ]
+        }
+    ]
+}

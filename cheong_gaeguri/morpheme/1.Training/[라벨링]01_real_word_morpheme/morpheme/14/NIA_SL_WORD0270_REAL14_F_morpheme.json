@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0479/NIA_SL_WORD0270_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0270_REAL14_F.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.225,
+            "end": 3.844,
+            "attributes": [
+                {
+                    "name": "문화유산"
+                }
+            ]
+        }
+    ]
+}

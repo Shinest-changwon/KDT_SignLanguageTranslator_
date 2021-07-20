@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0626/NIA_SL_WORD1953_REAL13_F.mp4",
+        "name": "NIA_SL_WORD1953_REAL13_F.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.533,
+            "end": 3.079,
+            "attributes": [
+                {
+                    "name": "문경시지부"
+                }
+            ]
+        }
+    ]
+}

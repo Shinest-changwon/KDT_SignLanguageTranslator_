@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu274/NIA_SL_WORD2324_REAL02_U.mp4",
+        "name": "NIA_SL_WORD2324_REAL02_U.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.422,
+            "end": 2.561,
+            "attributes": [
+                {
+                    "name": "겸임"
+                }
+            ]
+        }
+    ]
+}

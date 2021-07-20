@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1064/NIA_SL_WORD1850_REAL07_L.mp4",
+        "name": "NIA_SL_WORD1850_REAL07_L.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.745,
+            "end": 3.935,
+            "attributes": [
+                {
+                    "name": "군산시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

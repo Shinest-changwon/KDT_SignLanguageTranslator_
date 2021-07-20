@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_gdchoi0878/NIA_SL_WORD0574_REAL06_R.mp4",
+        "name": "NIA_SL_WORD0574_REAL06_R.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.439,
+            "end": 2.954,
+            "attributes": [
+                {
+                    "name": "군책"
+                }
+            ]
+        }
+    ]
+}

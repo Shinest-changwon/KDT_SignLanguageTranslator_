@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0482/NIA_SL_WORD0300_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0300_REAL14_D.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.398,
+            "end": 4.22,
+            "attributes": [
+                {
+                    "name": "밤나무"
+                }
+            ]
+        }
+    ]
+}

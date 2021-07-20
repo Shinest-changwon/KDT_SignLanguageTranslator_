@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0337/NIA_SL_WORD1512_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1512_REAL01_L.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.607,
+            "end": 3.15,
+            "attributes": [
+                {
+                    "name": "남매"
+                }
+            ]
+        }
+    ]
+}

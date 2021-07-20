@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0921/NIA_SL_WORD0553_REAL05_D.mp4",
+        "name": "NIA_SL_WORD0553_REAL05_D.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.73,
+            "end": 2.046,
+            "attributes": [
+                {
+                    "name": "방직"
+                }
+            ]
+        }
+    ]
+}

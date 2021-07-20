@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim290/NIA_SL_WORD2156_REAL02_F.mp4",
+        "name": "NIA_SL_WORD2156_REAL02_F.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.304,
+            "end": 2.457,
+            "attributes": [
+                {
+                    "name": "쇄뇌"
+                }
+            ]
+        }
+    ]
+}

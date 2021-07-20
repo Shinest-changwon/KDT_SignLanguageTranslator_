@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi329/NIA_SL_WORD0555_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0555_REAL02_L.mp4",
+        "duration": 2.95,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.913,
+            "end": 2.324,
+            "attributes": [
+                {
+                    "name": "정보차단"
+                }
+            ]
+        }
+    ]
+}

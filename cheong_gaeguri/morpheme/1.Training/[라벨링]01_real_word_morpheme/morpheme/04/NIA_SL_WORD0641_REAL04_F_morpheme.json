@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0845/NIA_SL_WORD0641_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0641_REAL04_F.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.922,
+            "end": 4.242,
+            "attributes": [
+                {
+                    "name": "성인"
+                }
+            ]
+        }
+    ]
+}

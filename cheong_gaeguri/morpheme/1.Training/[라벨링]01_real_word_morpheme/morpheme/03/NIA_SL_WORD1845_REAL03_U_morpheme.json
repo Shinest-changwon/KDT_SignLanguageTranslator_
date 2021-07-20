@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0620/NIA_SL_WORD1845_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1845_REAL03_U.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.372,
+            "end": 3.939,
+            "attributes": [
+                {
+                    "name": "전북농아인협회"
+                }
+            ]
+        }
+    ]
+}

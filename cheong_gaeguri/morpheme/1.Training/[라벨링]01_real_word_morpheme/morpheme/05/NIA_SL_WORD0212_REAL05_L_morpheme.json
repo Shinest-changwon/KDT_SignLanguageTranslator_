@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_emyou1155/NIA_SL_WORD0212_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0212_REAL05_L.mp4",
+        "duration": 5.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.787,
+            "end": 3.92,
+            "attributes": [
+                {
+                    "name": "고등학생"
+                }
+            ]
+        }
+    ]
+}

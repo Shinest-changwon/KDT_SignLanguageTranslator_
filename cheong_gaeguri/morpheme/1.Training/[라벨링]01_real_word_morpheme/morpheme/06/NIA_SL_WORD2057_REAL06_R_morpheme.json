@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0651/NIA_SL_WORD2057_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2057_REAL06_R.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.516,
+            "end": 5.116,
+            "attributes": [
+                {
+                    "name": "관광"
+                }
+            ]
+        }
+    ]
+}

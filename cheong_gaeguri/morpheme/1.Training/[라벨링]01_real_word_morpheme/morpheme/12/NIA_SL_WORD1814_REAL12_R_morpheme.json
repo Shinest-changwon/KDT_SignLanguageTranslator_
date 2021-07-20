@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0657/NIA_SL_WORD1814_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1814_REAL12_R.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.398,
+            "end": 3.545,
+            "attributes": [
+                {
+                    "name": "당진시지부"
+                }
+            ]
+        }
+    ]
+}

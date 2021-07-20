@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_gdchoi1110/NIA_SL_WORD0304_REAL07_U.mp4",
+        "name": "NIA_SL_WORD0304_REAL07_U.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.687,
+            "end": 2.328,
+            "attributes": [
+                {
+                    "name": "송아지"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0741/NIA_SL_WORD0753_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0753_REAL16_D.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.101,
+            "end": 2.697,
+            "attributes": [
+                {
+                    "name": "용사"
+                }
+            ]
+        }
+    ]
+}

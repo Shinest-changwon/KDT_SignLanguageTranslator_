@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0617/NIA_SL_WORD0020_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0020_REAL13_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.845,
+            "end": 3.107,
+            "attributes": [
+                {
+                    "name": "장애인"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0759/NIA_SL_WORD1937_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1937_REAL16_R.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.427,
+            "end": 4.264,
+            "attributes": [
+                {
+                    "name": "경산시청"
+                }
+            ]
+        }
+    ]
+}

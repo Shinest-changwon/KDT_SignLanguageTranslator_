@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim330/NIA_SL_WORD1556_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1556_REAL02_L.mp4",
+        "duration": 2.95,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.084,
+            "end": 1.971,
+            "attributes": [
+                {
+                    "name": "오빠"
+                }
+            ]
+        }
+    ]
+}

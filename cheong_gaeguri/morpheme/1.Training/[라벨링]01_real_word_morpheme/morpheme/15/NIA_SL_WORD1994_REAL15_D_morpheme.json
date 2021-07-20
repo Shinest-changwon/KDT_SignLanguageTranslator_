@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1051/NIA_SL_WORD1994_REAL15_D.mp4",
+        "name": "NIA_SL_WORD1994_REAL15_D.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.365,
+            "end": 3.992,
+            "attributes": [
+                {
+                    "name": "청도군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

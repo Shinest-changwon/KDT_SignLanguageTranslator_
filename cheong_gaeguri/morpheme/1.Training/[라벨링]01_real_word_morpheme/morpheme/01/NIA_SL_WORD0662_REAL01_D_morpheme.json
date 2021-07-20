@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0352/NIA_SL_WORD0662_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0662_REAL01_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.615,
+            "end": 3.112,
+            "attributes": [
+                {
+                    "name": "술값"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0968/NIA_SL_WORD0636_REAL11_L.mp4",
+        "name": "NIA_SL_WORD0636_REAL11_L.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.199,
+            "end": 3.73,
+            "attributes": [
+                {
+                    "name": "편견"
+                }
+            ]
+        }
+    ]
+}

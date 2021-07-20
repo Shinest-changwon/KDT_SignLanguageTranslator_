@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0696/NIA_SL_WORD1496_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1496_REAL15_F.mp4",
+        "duration": 2.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.195,
+            "end": 2.025,
+            "attributes": [
+                {
+                    "name": "병원"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0847/NIA_SL_WORD0412_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0412_REAL04_F.mp4",
+        "duration": 7.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.417,
+            "end": 5.517,
+            "attributes": [
+                {
+                    "name": "학습"
+                }
+            ]
+        }
+    ]
+}

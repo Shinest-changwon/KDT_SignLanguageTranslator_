@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0970/NIA_SL_WORD0812_REAL07_D.mp4",
+        "name": "NIA_SL_WORD0812_REAL07_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.464,
+            "end": 2.523,
+            "attributes": [
+                {
+                    "name": "정신장애"
+                }
+            ]
+        }
+    ]
+}

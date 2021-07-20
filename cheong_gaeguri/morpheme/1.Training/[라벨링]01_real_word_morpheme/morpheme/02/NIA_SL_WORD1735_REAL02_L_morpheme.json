@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon302/NIA_SL_WORD1735_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1735_REAL02_L.mp4",
+        "duration": 3.517,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.464,
+            "end": 3.031,
+            "attributes": [
+                {
+                    "name": "삼척시지부"
+                }
+            ]
+        }
+    ]
+}

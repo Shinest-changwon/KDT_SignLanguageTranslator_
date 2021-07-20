@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan332/NIA_SL_WORD0749_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0749_REAL09_D.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.316,
+            "end": 2.905,
+            "attributes": [
+                {
+                    "name": "외손자"
+                }
+            ]
+        }
+    ]
+}

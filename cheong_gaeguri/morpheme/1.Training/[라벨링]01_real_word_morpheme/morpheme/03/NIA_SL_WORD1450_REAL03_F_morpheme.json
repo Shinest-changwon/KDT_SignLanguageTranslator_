@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0805/NIA_SL_WORD1450_REAL03_F.mp4",
+        "name": "NIA_SL_WORD1450_REAL03_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.284,
+            "end": 3.456,
+            "attributes": [
+                {
+                    "name": "영등포시장"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0263/NIA_SL_WORD1428_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1428_REAL08_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.199,
+            "end": 2.48,
+            "attributes": [
+                {
+                    "name": "노원"
+                }
+            ]
+        }
+    ]
+}

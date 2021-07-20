@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_hwlee0310/NIA_SL_WORD1441_REAL14_L.mp4",
+        "name": "NIA_SL_WORD1441_REAL14_L.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.244,
+            "end": 2.994,
+            "attributes": [
+                {
+                    "name": "서울숲"
+                }
+            ]
+        }
+    ]
+}

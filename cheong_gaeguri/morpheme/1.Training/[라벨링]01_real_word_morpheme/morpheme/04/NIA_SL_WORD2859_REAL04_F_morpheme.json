@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_emyou0886/NIA_SL_WORD2859_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2859_REAL04_F.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.009,
+            "end": 3.547,
+            "attributes": [
+                {
+                    "name": "칠백오십"
+                }
+            ]
+        }
+    ]
+}

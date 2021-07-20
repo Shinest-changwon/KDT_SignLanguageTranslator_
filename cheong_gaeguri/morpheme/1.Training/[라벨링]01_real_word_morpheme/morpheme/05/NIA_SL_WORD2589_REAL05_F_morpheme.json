@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_sjim0931/NIA_SL_WORD2589_REAL05_F.mp4",
+        "name": "NIA_SL_WORD2589_REAL05_F.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.565,
+            "end": 2.341,
+            "attributes": [
+                {
+                    "name": "몽골"
+                }
+            ]
+        }
+    ]
+}

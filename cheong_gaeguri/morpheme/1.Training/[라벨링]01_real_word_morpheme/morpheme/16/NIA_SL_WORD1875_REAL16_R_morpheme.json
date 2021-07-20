@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0753/NIA_SL_WORD1875_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1875_REAL16_R.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.536,
+            "end": 3.188,
+            "attributes": [
+                {
+                    "name": "임실군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

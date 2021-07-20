@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0255/NIA_SL_WORD1344_REAL08_D.mp4",
+        "name": "NIA_SL_WORD1344_REAL08_D.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.863,
+            "end": 2.663,
+            "attributes": [
+                {
+                    "name": "서다"
+                }
+            ]
+        }
+    ]
+}

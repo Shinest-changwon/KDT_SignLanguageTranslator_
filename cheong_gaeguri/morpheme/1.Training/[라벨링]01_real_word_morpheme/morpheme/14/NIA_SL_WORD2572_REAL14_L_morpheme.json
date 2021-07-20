@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0298/NIA_SL_WORD2572_REAL14_L.mp4",
+        "name": "NIA_SL_WORD2572_REAL14_L.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.962,
+            "end": 3.425,
+            "attributes": [
+                {
+                    "name": "사계절"
+                }
+            ]
+        }
+    ]
+}

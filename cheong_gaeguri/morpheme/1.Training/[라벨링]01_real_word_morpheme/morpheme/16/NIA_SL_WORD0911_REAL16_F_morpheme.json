@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0757/NIA_SL_WORD0911_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0911_REAL16_F.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.911,
+            "end": 2.321,
+            "attributes": [
+                {
+                    "name": "건성건성"
+                }
+            ]
+        }
+    ]
+}

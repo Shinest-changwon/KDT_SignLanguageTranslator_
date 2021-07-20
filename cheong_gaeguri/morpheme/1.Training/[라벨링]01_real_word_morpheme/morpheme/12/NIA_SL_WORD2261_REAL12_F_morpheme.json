@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1189/NIA_SL_WORD2261_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2261_REAL12_F.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.322,
+            "end": 2.962,
+            "attributes": [
+                {
+                    "name": "역력하다"
+                }
+            ]
+        }
+    ]
+}

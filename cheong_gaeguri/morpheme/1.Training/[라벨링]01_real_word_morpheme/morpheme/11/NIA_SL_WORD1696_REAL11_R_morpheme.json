@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0540/NIA_SL_WORD1696_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1696_REAL11_R.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.731,
+            "end": 4.609,
+            "attributes": [
+                {
+                    "name": "오산시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

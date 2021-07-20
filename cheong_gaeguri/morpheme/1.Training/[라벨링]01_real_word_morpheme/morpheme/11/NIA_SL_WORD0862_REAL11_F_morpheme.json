@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0990/NIA_SL_WORD0862_REAL11_F.mp4",
+        "name": "NIA_SL_WORD0862_REAL11_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.42,
+            "end": 3.061,
+            "attributes": [
+                {
+                    "name": "체납"
+                }
+            ]
+        }
+    ]
+}

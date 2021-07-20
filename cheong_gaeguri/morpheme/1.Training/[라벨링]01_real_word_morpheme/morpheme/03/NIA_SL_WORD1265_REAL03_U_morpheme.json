@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0787/NIA_SL_WORD1265_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1265_REAL03_U.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.364,
+            "end": 2.924,
+            "attributes": [
+                {
+                    "name": "털"
+                }
+            ]
+        }
+    ]
+}

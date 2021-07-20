@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0253/NIA_SL_WORD1322_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1322_REAL08_U.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.186,
+            "end": 2.441,
+            "attributes": [
+                {
+                    "name": "빨강"
+                }
+            ]
+        }
+    ]
+}

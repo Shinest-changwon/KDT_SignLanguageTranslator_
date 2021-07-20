@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0749/NIA_SL_WORD1086_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1086_REAL16_R.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.326,
+            "end": 3.011,
+            "attributes": [
+                {
+                    "name": "사하구지부"
+                }
+            ]
+        }
+    ]
+}

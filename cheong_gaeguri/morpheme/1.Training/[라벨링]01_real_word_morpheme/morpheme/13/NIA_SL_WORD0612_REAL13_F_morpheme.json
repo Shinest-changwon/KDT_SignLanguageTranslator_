@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1074/NIA_SL_WORD0612_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0612_REAL13_F.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.309,
+            "end": 4.048,
+            "attributes": [
+                {
+                    "name": "혈액형"
+                }
+            ]
+        }
+    ]
+}

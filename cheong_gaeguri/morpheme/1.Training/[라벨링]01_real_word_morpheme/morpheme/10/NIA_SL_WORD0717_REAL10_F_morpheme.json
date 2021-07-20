@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_gdchoi0427/NIA_SL_WORD0717_REAL10_F.mp4",
+        "name": "NIA_SL_WORD0717_REAL10_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.401,
+            "end": 3.242,
+            "attributes": [
+                {
+                    "name": "언약"
+                }
+            ]
+        }
+    ]
+}

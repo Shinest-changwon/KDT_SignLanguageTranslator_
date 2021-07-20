@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0539/NIA_SL_WORD1936_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1936_REAL11_U.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.55,
+            "end": 4.168,
+            "attributes": [
+                {
+                    "name": "경산시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

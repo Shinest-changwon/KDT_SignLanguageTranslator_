@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0630/NIA_SL_WORD0141_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0141_REAL13_R.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.104,
+            "end": 2.458,
+            "attributes": [
+                {
+                    "name": "교장"
+                }
+            ]
+        }
+    ]
+}

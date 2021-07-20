@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0479/NIA_SL_WORD0272_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0272_REAL14_U.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.464,
+            "end": 4.263,
+            "attributes": [
+                {
+                    "name": "예술"
+                }
+            ]
+        }
+    ]
+}

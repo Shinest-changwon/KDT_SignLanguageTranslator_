@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0670/NIA_SL_WORD1949_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1949_REAL12_L.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.321,
+            "end": 3.561,
+            "attributes": [
+                {
+                    "name": "군위주민지원센터"
+                }
+            ]
+        }
+    ]
+}

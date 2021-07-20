@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_rhkim0302/NIA_SL_WORD2114_REAL14_U.mp4",
+        "name": "NIA_SL_WORD2114_REAL14_U.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.712,
+            "end": 3.386,
+            "attributes": [
+                {
+                    "name": "호떡"
+                }
+            ]
+        }
+    ]
+}

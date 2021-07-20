@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_emyou1157/NIA_SL_WORD0232_REAL05_R.mp4",
+        "name": "NIA_SL_WORD0232_REAL05_R.mp4",
+        "duration": 5.417,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.968,
+            "end": 4.137,
+            "attributes": [
+                {
+                    "name": "연구실"
+                }
+            ]
+        }
+    ]
+}

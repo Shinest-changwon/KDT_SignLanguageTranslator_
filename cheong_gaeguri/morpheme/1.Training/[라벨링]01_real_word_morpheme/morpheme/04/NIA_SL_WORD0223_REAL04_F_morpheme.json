@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0853/NIA_SL_WORD0223_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0223_REAL04_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.414,
+            "end": 3.219,
+            "attributes": [
+                {
+                    "name": "복습"
+                }
+            ]
+        }
+    ]
+}

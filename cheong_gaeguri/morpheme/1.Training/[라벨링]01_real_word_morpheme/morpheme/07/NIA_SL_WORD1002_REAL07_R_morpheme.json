@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1112/NIA_SL_WORD1002_REAL07_R.mp4",
+        "name": "NIA_SL_WORD1002_REAL07_R.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.372,
+            "end": 2.065,
+            "attributes": [
+                {
+                    "name": "한국농아인협회"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0360/NIA_SL_WORD2500_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2500_REAL01_L.mp4",
+        "duration": 2.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.007,
+            "end": 1.892,
+            "attributes": [
+                {
+                    "name": "가소롭다"
+                }
+            ]
+        }
+    ]
+}

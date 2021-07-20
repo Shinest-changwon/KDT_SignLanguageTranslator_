@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0835/NIA_SL_WORD0799_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0799_REAL04_F.mp4",
+        "duration": 5.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.952,
+            "end": 4.36,
+            "attributes": [
+                {
+                    "name": "목재"
+                }
+            ]
+        }
+    ]
+}

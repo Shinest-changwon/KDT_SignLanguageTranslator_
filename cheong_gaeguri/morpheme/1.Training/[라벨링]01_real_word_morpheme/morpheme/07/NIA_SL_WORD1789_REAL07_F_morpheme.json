@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1052/NIA_SL_WORD1789_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1789_REAL07_F.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.498,
+            "end": 3.642,
+            "attributes": [
+                {
+                    "name": "옥천군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0538/NIA_SL_WORD1921_REAL11_L.mp4",
+        "name": "NIA_SL_WORD1921_REAL11_L.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.224,
+            "end": 2.964,
+            "attributes": [
+                {
+                    "name": "영암군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

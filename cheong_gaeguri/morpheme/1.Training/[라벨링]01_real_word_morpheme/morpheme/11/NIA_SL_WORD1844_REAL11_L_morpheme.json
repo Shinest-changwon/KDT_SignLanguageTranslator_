@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0530/NIA_SL_WORD1844_REAL11_L.mp4",
+        "name": "NIA_SL_WORD1844_REAL11_L.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.344,
+            "end": 2.815,
+            "attributes": [
+                {
+                    "name": "홍성군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_jhhan0292/NIA_SL_WORD1515_REAL14_D.mp4",
+        "name": "NIA_SL_WORD1515_REAL14_D.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.27,
+            "end": 2.655,
+            "attributes": [
+                {
+                    "name": "놀다"
+                }
+            ]
+        }
+    ]
+}

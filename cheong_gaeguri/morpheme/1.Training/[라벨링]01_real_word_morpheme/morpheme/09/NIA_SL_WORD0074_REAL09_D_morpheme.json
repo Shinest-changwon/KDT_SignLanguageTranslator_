@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0478/NIA_SL_WORD0074_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0074_REAL09_D.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.436,
+            "end": 3.765,
+            "attributes": [
+                {
+                    "name": "고추"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim298/NIA_SL_WORD2238_REAL02_U.mp4",
+        "name": "NIA_SL_WORD2238_REAL02_U.mp4",
+        "duration": 3.45,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.782,
+            "end": 2.453,
+            "attributes": [
+                {
+                    "name": "무자격"
+                }
+            ]
+        }
+    ]
+}

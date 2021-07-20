@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0266/NIA_SL_WORD0707_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0707_REAL08_R.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.009,
+            "end": 2.747,
+            "attributes": [
+                {
+                    "name": "약학"
+                }
+            ]
+        }
+    ]
+}

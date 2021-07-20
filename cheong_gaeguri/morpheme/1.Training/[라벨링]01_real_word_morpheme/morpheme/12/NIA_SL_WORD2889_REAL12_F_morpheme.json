@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_yhjeon1183/NIA_SL_WORD2889_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2889_REAL12_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.27,
+            "end": 2.572,
+            "attributes": [
+                {
+                    "name": "사만오천"
+                }
+            ]
+        }
+    ]
+}

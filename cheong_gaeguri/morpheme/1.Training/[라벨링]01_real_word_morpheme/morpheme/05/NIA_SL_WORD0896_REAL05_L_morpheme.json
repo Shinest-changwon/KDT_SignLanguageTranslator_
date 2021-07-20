@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1159/NIA_SL_WORD0896_REAL05_L.mp4",
+        "name": "NIA_SL_WORD0896_REAL05_L.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.086,
+            "end": 2.351,
+            "attributes": [
+                {
+                    "name": "킬로그램"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0524/NIA_SL_WORD1532_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1532_REAL11_R.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.497,
+            "end": 2.518,
+            "attributes": [
+                {
+                    "name": "버릇"
+                }
+            ]
+        }
+    ]
+}

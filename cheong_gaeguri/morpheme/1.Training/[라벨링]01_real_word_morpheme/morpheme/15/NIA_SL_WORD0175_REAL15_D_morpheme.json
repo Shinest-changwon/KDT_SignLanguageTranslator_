@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_bkyu1212/NIA_SL_WORD0175_REAL15_D.mp4",
+        "name": "NIA_SL_WORD0175_REAL15_D.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.507,
+            "end": 3.486,
+            "attributes": [
+                {
+                    "name": "퇴사"
+                }
+            ]
+        }
+    ]
+}

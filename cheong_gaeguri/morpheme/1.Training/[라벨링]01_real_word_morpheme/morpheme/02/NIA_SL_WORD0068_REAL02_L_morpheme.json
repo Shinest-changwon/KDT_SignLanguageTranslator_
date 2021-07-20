@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou313/NIA_SL_WORD0068_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0068_REAL02_L.mp4",
+        "duration": 5.217,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.09,
+            "end": 4.044,
+            "attributes": [
+                {
+                    "name": "한약"
+                }
+            ]
+        }
+    ]
+}

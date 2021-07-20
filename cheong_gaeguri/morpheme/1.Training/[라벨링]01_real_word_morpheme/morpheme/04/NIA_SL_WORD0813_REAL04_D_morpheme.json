@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0837/NIA_SL_WORD0813_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0813_REAL04_D.mp4",
+        "duration": 5.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.228,
+            "end": 4.258,
+            "attributes": [
+                {
+                    "name": "단전"
+                }
+            ]
+        }
+    ]
+}

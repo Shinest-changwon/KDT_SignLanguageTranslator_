@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0807/NIA_SL_WORD0220_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0220_REAL03_L.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.627,
+            "end": 3.35,
+            "attributes": [
+                {
+                    "name": "도서관"
+                }
+            ]
+        }
+    ]
+}

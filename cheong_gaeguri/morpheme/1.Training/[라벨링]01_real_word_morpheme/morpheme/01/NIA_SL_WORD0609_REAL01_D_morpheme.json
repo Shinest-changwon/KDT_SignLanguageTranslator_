@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0346/NIA_SL_WORD0609_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0609_REAL01_D.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.983,
+            "end": 3.869,
+            "attributes": [
+                {
+                    "name": "사용법"
+                }
+            ]
+        }
+    ]
+}

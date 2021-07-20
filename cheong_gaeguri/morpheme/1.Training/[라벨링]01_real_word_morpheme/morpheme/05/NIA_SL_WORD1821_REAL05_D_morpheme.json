@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_moyu0934/NIA_SL_WORD1821_REAL05_D.mp4",
+        "name": "NIA_SL_WORD1821_REAL05_D.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.705,
+            "end": 4.301,
+            "attributes": [
+                {
+                    "name": "부여군지부"
+                }
+            ]
+        }
+    ]
+}

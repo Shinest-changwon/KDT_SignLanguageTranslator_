@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0670/NIA_SL_WORD0998_REAL12_R.mp4",
+        "name": "NIA_SL_WORD0998_REAL12_R.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.111,
+            "end": 2.851,
+            "attributes": [
+                {
+                    "name": "얻어먹다"
+                }
+            ]
+        }
+    ]
+}

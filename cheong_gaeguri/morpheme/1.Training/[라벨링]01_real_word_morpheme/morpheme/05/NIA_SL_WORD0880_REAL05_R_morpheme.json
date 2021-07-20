@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1157/NIA_SL_WORD0880_REAL05_R.mp4",
+        "name": "NIA_SL_WORD0880_REAL05_R.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.15,
+            "end": 4.049,
+            "attributes": [
+                {
+                    "name": "부추기다"
+                }
+            ]
+        }
+    ]
+}

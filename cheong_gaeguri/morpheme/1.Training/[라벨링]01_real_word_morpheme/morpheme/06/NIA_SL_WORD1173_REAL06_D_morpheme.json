@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0423/NIA_SL_WORD1173_REAL06_D.mp4",
+        "name": "NIA_SL_WORD1173_REAL06_D.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.778,
+            "end": 2.92,
+            "attributes": [
+                {
+                    "name": "평안"
+                }
+            ]
+        }
+    ]
+}

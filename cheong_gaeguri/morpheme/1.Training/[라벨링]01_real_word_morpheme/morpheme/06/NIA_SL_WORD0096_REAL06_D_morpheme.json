@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1109/NIA_SL_WORD0096_REAL06_D.mp4",
+        "name": "NIA_SL_WORD0096_REAL06_D.mp4",
+        "duration": 3.617,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.779,
+            "end": 2.518,
+            "attributes": [
+                {
+                    "name": "부엌"
+                }
+            ]
+        }
+    ]
+}

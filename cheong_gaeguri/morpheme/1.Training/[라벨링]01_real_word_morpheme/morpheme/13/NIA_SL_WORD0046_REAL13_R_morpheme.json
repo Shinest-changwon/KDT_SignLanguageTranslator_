@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0620/NIA_SL_WORD0046_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0046_REAL13_R.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.06,
+            "end": 3.535,
+            "attributes": [
+                {
+                    "name": "설사"
+                }
+            ]
+        }
+    ]
+}

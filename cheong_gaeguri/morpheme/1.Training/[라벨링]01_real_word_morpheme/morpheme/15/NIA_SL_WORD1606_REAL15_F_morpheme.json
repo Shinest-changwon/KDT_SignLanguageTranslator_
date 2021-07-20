@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0707/NIA_SL_WORD1606_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1606_REAL15_F.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.216,
+            "end": 4.105,
+            "attributes": [
+                {
+                    "name": "수성구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_yhjeon0804/NIA_SL_WORD2734_REAL10_R.mp4",
+        "name": "NIA_SL_WORD2734_REAL10_R.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.049,
+            "end": 2.272,
+            "attributes": [
+                {
+                    "name": "백이"
+                }
+            ]
+        }
+    ]
+}

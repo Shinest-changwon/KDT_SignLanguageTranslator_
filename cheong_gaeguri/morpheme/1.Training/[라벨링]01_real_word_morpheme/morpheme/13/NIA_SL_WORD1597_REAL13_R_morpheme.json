@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1057/NIA_SL_WORD1597_REAL13_R.mp4",
+        "name": "NIA_SL_WORD1597_REAL13_R.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.277,
+            "end": 2.649,
+            "attributes": [
+                {
+                    "name": "상담"
+                }
+            ]
+        }
+    ]
+}

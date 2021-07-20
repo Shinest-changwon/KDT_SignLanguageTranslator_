@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1080/NIA_SL_WORD1713_REAL13_D.mp4",
+        "name": "NIA_SL_WORD1713_REAL13_D.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.056,
+            "end": 2.405,
+            "attributes": [
+                {
+                    "name": "평택시지부"
+                }
+            ]
+        }
+    ]
+}

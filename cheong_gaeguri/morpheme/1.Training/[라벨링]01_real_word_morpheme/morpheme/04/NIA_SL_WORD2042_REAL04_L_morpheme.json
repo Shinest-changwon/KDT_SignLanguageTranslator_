@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0835/NIA_SL_WORD2042_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2042_REAL04_L.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.367,
+            "end": 4.255,
+            "attributes": [
+                {
+                    "name": "특기"
+                }
+            ]
+        }
+    ]
+}

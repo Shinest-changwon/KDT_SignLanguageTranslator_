@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1056/NIA_SL_WORD1183_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1183_REAL13_U.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.191,
+            "end": 2.311,
+            "attributes": [
+                {
+                    "name": "열심"
+                }
+            ]
+        }
+    ]
+}

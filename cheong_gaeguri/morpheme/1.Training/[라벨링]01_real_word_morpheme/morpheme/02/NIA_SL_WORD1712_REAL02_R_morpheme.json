@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon300/NIA_SL_WORD1712_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1712_REAL02_R.mp4",
+        "duration": 3.784,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.697,
+            "end": 2.896,
+            "attributes": [
+                {
+                    "name": "파주시청"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1072/NIA_SL_WORD0435_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0435_REAL14_F.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.675,
+            "end": 3.169,
+            "attributes": [
+                {
+                    "name": "금식"
+                }
+            ]
+        }
+    ]
+}

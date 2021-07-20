@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee315/NIA_SL_WORD0886_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0886_REAL02_R.mp4",
+        "duration": 3.85,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.61,
+            "end": 3.278,
+            "attributes": [
+                {
+                    "name": "친자"
+                }
+            ]
+        }
+    ]
+}

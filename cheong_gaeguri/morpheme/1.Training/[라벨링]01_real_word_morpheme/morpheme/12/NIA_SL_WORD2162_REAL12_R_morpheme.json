@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1179/NIA_SL_WORD2162_REAL12_R.mp4",
+        "name": "NIA_SL_WORD2162_REAL12_R.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.251,
+            "end": 2.811,
+            "attributes": [
+                {
+                    "name": "처남"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0670/NIA_SL_WORD0748_REAL12_D.mp4",
+        "name": "NIA_SL_WORD0748_REAL12_D.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.319,
+            "end": 3.359,
+            "attributes": [
+                {
+                    "name": "외손녀"
+                }
+            ]
+        }
+    ]
+}

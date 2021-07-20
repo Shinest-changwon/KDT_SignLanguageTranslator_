@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0752/NIA_SL_WORD2618_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2618_REAL16_U.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.423,
+            "end": 2.739,
+            "attributes": [
+                {
+                    "name": "아산"
+                }
+            ]
+        }
+    ]
+}

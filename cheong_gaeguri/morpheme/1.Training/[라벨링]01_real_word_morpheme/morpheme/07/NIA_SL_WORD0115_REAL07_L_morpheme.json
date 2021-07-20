@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_emyou1119/NIA_SL_WORD0115_REAL07_L.mp4",
+        "name": "NIA_SL_WORD0115_REAL07_L.mp4",
+        "duration": 4.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.549,
+            "end": 3.388,
+            "attributes": [
+                {
+                    "name": "커피"
+                }
+            ]
+        }
+    ]
+}

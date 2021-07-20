@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0804/NIA_SL_WORD0184_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0184_REAL03_L.mp4",
+        "duration": 6.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.583,
+            "end": 5.644,
+            "attributes": [
+                {
+                    "name": "교통기본교육"
+                }
+            ]
+        }
+    ]
+}

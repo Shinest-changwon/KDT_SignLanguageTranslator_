@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_moyu1123/NIA_SL_WORD1414_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1414_REAL07_F.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.64,
+            "end": 3.094,
+            "attributes": [
+                {
+                    "name": "강북"
+                }
+            ]
+        }
+    ]
+}

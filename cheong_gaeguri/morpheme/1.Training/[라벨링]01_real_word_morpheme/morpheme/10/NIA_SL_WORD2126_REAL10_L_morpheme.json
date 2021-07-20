@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_sjim0793/NIA_SL_WORD2126_REAL10_L.mp4",
+        "name": "NIA_SL_WORD2126_REAL10_L.mp4",
+        "duration": 4.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.721,
+            "end": 3.441,
+            "attributes": [
+                {
+                    "name": "매형"
+                }
+            ]
+        }
+    ]
+}

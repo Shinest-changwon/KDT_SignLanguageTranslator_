@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0486/NIA_SL_WORD0083_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0083_REAL14_U.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.673,
+            "end": 2.54,
+            "attributes": [
+                {
+                    "name": "다과"
+                }
+            ]
+        }
+    ]
+}

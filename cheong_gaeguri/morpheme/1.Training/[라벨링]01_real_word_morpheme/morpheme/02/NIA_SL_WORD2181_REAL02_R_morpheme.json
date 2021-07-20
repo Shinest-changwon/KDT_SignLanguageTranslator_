@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim293/NIA_SL_WORD2181_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2181_REAL02_R.mp4",
+        "duration": 4.184,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.64,
+            "end": 2.994,
+            "attributes": [
+                {
+                    "name": "합심"
+                }
+            ]
+        }
+    ]
+}

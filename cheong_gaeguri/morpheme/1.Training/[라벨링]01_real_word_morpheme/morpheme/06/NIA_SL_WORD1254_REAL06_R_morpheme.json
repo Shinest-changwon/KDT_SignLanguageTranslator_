@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0406/NIA_SL_WORD1254_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1254_REAL06_R.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.522,
+            "end": 2.688,
+            "attributes": [
+                {
+                    "name": "두근거리다"
+                }
+            ]
+        }
+    ]
+}

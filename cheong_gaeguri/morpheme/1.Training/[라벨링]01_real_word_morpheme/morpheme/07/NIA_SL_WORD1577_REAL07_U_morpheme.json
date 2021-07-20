@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_gdchoi0979/NIA_SL_WORD1577_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1577_REAL07_U.mp4",
+        "duration": 2.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.951,
+            "end": 2.037,
+            "attributes": [
+                {
+                    "name": "시작"
+                }
+            ]
+        }
+    ]
+}

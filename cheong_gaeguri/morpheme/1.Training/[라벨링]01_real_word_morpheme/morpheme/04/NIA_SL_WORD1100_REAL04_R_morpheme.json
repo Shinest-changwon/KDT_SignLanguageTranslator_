@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_moyu0840/NIA_SL_WORD1100_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1100_REAL04_R.mp4",
+        "duration": 5.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.838,
+            "end": 4.755,
+            "attributes": [
+                {
+                    "name": "달서구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0264/NIA_SL_WORD1690_REAL08_R.mp4",
+        "name": "NIA_SL_WORD1690_REAL08_R.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.906,
+            "end": 4.175,
+            "attributes": [
+                {
+                    "name": "여주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

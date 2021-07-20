@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1180/NIA_SL_WORD2177_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2177_REAL12_F.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.262,
+            "end": 3.011,
+            "attributes": [
+                {
+                    "name": "공항"
+                }
+            ]
+        }
+    ]
+}

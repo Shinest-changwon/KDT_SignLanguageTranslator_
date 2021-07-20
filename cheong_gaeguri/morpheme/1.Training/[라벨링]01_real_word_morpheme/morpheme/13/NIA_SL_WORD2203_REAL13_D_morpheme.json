@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0536/NIA_SL_WORD2203_REAL13_D.mp4",
+        "name": "NIA_SL_WORD2203_REAL13_D.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.4,
+            "end": 3.969,
+            "attributes": [
+                {
+                    "name": "새털"
+                }
+            ]
+        }
+    ]
+}

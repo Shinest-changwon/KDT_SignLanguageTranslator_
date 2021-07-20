@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0749/NIA_SL_WORD0836_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0836_REAL16_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.063,
+            "end": 2.695,
+            "attributes": [
+                {
+                    "name": "직책"
+                }
+            ]
+        }
+    ]
+}

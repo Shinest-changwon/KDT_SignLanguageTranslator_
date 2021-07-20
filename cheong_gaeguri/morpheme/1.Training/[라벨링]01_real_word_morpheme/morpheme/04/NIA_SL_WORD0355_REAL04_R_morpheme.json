@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0841/NIA_SL_WORD0355_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0355_REAL04_R.mp4",
+        "duration": 6.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.158,
+            "end": 5.012,
+            "attributes": [
+                {
+                    "name": "가발"
+                }
+            ]
+        }
+    ]
+}

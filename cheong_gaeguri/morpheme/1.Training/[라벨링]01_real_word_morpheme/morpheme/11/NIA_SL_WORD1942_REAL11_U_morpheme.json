@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0540/NIA_SL_WORD1942_REAL11_U.mp4",
+        "name": "NIA_SL_WORD1942_REAL11_U.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.759,
+            "end": 3.805,
+            "attributes": [
+                {
+                    "name": "고령군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

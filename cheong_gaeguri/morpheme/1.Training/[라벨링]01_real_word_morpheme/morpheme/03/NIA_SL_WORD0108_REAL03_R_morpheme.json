@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0796/NIA_SL_WORD0108_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0108_REAL03_R.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.218,
+            "end": 2.275,
+            "attributes": [
+                {
+                    "name": "위스키"
+                }
+            ]
+        }
+    ]
+}

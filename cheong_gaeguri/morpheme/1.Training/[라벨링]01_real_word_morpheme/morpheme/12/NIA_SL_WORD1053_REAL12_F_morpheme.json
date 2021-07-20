@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1183/NIA_SL_WORD1053_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1053_REAL12_F.mp4",
+        "duration": 6.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.666,
+            "end": 5.303,
+            "attributes": [
+                {
+                    "name": "성북구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0788/NIA_SL_WORD0276_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0276_REAL03_R.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.374,
+            "end": 3.762,
+            "attributes": [
+                {
+                    "name": "공군"
+                }
+            ]
+        }
+    ]
+}

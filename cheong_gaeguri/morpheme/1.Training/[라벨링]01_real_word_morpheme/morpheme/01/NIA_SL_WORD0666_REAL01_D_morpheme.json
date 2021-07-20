@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0352/NIA_SL_WORD0666_REAL01_D.mp4",
+        "name": "NIA_SL_WORD0666_REAL01_D.mp4",
+        "duration": 4.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.003,
+            "end": 4.004,
+            "attributes": [
+                {
+                    "name": "습자"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0802/NIA_SL_WORD0415_REAL03_L.mp4",
+        "name": "NIA_SL_WORD0415_REAL03_L.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.215,
+            "end": 2.825,
+            "attributes": [
+                {
+                    "name": "교육청"
+                }
+            ]
+        }
+    ]
+}

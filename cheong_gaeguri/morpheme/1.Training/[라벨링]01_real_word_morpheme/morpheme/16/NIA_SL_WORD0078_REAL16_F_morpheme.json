@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0388/NIA_SL_WORD0078_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0078_REAL16_F.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.612,
+            "end": 4.65,
+            "attributes": [
+                {
+                    "name": "꽈배기"
+                }
+            ]
+        }
+    ]
+}

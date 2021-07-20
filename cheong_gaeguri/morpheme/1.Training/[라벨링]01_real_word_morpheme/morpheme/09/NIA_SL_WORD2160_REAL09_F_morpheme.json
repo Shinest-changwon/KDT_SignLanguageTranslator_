@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0493/NIA_SL_WORD2160_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2160_REAL09_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.292,
+            "end": 2.549,
+            "attributes": [
+                {
+                    "name": "장모"
+                }
+            ]
+        }
+    ]
+}

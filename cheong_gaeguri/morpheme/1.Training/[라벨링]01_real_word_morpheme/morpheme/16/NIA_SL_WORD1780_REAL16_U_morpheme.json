@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0743/NIA_SL_WORD1780_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1780_REAL16_U.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.371,
+            "end": 3.487,
+            "attributes": [
+                {
+                    "name": "단양군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

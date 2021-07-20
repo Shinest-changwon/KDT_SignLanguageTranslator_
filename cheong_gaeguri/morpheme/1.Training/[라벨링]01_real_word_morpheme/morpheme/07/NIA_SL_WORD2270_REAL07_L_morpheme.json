@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1051/NIA_SL_WORD2270_REAL07_L.mp4",
+        "name": "NIA_SL_WORD2270_REAL07_L.mp4",
+        "duration": 3.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.648,
+            "end": 2.252,
+            "attributes": [
+                {
+                    "name": "무경험"
+                }
+            ]
+        }
+    ]
+}

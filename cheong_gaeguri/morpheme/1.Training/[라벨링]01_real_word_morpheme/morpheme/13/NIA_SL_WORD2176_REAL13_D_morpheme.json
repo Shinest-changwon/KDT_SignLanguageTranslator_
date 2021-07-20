@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_rhkim0533/NIA_SL_WORD2176_REAL13_D.mp4",
+        "name": "NIA_SL_WORD2176_REAL13_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.444,
+            "end": 2.624,
+            "attributes": [
+                {
+                    "name": "고리타분"
+                }
+            ]
+        }
+    ]
+}

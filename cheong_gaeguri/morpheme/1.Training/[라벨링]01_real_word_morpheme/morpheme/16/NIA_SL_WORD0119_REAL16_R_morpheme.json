@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0392/NIA_SL_WORD0119_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0119_REAL16_R.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.837,
+            "end": 4.114,
+            "attributes": [
+                {
+                    "name": "와인"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0249/NIA_SL_WORD1283_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1283_REAL08_U.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.042,
+            "end": 2.237,
+            "attributes": [
+                {
+                    "name": "사라지다"
+                }
+            ]
+        }
+    ]
+}

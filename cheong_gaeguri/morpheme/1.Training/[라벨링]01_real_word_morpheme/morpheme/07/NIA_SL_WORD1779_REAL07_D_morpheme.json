@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1050/NIA_SL_WORD1779_REAL07_D.mp4",
+        "name": "NIA_SL_WORD1779_REAL07_D.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.634,
+            "end": 3.732,
+            "attributes": [
+                {
+                    "name": "단양군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

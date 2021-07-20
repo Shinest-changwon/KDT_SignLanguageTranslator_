@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0611/NIA_SL_WORD2508_REAL03_D.mp4",
+        "name": "NIA_SL_WORD2508_REAL03_D.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.987,
+            "end": 2.72,
+            "attributes": [
+                {
+                    "name": "로마"
+                }
+            ]
+        }
+    ]
+}

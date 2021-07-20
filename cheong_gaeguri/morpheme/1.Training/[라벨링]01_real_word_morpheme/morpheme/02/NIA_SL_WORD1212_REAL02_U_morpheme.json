@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan315/NIA_SL_WORD1212_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1212_REAL02_U.mp4",
+        "duration": 3.75,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.404,
+            "end": 2.803,
+            "attributes": [
+                {
+                    "name": "지겹다"
+                }
+            ]
+        }
+    ]
+}

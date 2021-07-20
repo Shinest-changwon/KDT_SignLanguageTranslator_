@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu304/NIA_SL_WORD2624_REAL02_L.mp4",
+        "name": "NIA_SL_WORD2624_REAL02_L.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.606,
+            "end": 2.728,
+            "attributes": [
+                {
+                    "name": "주목"
+                }
+            ]
+        }
+    ]
+}

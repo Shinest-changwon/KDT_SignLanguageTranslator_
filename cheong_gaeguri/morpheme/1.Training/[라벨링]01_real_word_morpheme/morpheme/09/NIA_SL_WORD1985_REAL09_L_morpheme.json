@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0476/NIA_SL_WORD1985_REAL09_L.mp4",
+        "name": "NIA_SL_WORD1985_REAL09_L.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.352,
+            "end": 4.64,
+            "attributes": [
+                {
+                    "name": "울릉군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

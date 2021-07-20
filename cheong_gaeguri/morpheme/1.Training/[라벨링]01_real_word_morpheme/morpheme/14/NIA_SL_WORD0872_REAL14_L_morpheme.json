@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_emyou0303/NIA_SL_WORD0872_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0872_REAL14_L.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.933,
+            "end": 3.829,
+            "attributes": [
+                {
+                    "name": "촛불"
+                }
+            ]
+        }
+    ]
+}

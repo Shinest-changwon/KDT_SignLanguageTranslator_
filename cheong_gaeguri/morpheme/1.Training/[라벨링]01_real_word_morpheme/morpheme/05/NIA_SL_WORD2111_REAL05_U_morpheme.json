@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_mrkim0938/NIA_SL_WORD2111_REAL05_U.mp4",
+        "name": "NIA_SL_WORD2111_REAL05_U.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.547,
+            "end": 3.021,
+            "attributes": [
+                {
+                    "name": "중병"
+                }
+            ]
+        }
+    ]
+}

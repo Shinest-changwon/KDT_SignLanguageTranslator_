@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_yhjeon0253/NIA_SL_WORD2325_REAL08_D.mp4",
+        "name": "NIA_SL_WORD2325_REAL08_D.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.62,
+            "end": 3.008,
+            "attributes": [
+                {
+                    "name": "일인다역"
+                }
+            ]
+        }
+    ]
+}

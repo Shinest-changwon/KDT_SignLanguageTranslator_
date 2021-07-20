@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1057/NIA_SL_WORD2309_REAL07_U.mp4",
+        "name": "NIA_SL_WORD2309_REAL07_U.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.739,
+            "end": 2.601,
+            "attributes": [
+                {
+                    "name": "놀리다"
+                }
+            ]
+        }
+    ]
+}

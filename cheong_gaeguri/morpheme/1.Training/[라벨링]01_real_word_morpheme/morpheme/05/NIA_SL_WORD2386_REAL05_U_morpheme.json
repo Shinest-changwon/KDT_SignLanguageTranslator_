@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_rhkim0938/NIA_SL_WORD2386_REAL05_U.mp4",
+        "name": "NIA_SL_WORD2386_REAL05_U.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.704,
+            "end": 2.405,
+            "attributes": [
+                {
+                    "name": "빌리다"
+                }
+            ]
+        }
+    ]
+}

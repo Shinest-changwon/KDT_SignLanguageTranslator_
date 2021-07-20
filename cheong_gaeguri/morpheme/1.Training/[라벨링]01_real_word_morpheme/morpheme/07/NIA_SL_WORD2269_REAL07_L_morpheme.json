@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1050/NIA_SL_WORD2269_REAL07_L.mp4",
+        "name": "NIA_SL_WORD2269_REAL07_L.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.857,
+            "end": 2.583,
+            "attributes": [
+                {
+                    "name": "등지다"
+                }
+            ]
+        }
+    ]
+}

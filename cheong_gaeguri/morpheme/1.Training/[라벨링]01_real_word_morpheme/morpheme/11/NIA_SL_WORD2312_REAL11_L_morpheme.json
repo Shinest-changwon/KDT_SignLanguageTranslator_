@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_moyu0527/NIA_SL_WORD2312_REAL11_L.mp4",
+        "name": "NIA_SL_WORD2312_REAL11_L.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.581,
+            "end": 2.896,
+            "attributes": [
+                {
+                    "name": "변명"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0743/NIA_SL_WORD1030_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1030_REAL16_U.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.485,
+            "end": 3.164,
+            "attributes": [
+                {
+                    "name": "노원구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

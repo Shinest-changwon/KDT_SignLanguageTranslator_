@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0401/NIA_SL_WORD0206_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0206_REAL16_L.mp4",
+        "duration": 5.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.396,
+            "end": 4.99,
+            "attributes": [
+                {
+                    "name": "주유소"
+                }
+            ]
+        }
+    ]
+}

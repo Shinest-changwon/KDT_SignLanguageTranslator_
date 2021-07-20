@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0417/NIA_SL_WORD1370_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1370_REAL06_R.mp4",
+        "duration": 2.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.986,
+            "end": 1.694,
+            "attributes": [
+                {
+                    "name": "귀"
+                }
+            ]
+        }
+    ]
+}

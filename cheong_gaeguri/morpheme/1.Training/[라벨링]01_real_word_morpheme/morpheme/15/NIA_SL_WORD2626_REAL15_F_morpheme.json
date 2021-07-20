@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_swlee1201/NIA_SL_WORD2626_REAL15_F.mp4",
+        "name": "NIA_SL_WORD2626_REAL15_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.673,
+            "end": 2.96,
+            "attributes": [
+                {
+                    "name": "눈가림"
+                }
+            ]
+        }
+    ]
+}

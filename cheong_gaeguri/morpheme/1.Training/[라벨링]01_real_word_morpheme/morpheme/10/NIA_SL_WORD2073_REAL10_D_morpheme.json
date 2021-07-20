@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_sjim0788/NIA_SL_WORD2073_REAL10_D.mp4",
+        "name": "NIA_SL_WORD2073_REAL10_D.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.95,
+            "end": 3.58,
+            "attributes": [
+                {
+                    "name": "무기력"
+                }
+            ]
+        }
+    ]
+}

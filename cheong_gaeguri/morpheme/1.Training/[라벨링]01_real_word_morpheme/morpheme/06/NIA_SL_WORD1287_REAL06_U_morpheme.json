@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0409/NIA_SL_WORD1287_REAL06_U.mp4",
+        "name": "NIA_SL_WORD1287_REAL06_U.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.581,
+            "end": 2.826,
+            "attributes": [
+                {
+                    "name": "갈등"
+                }
+            ]
+        }
+    ]
+}

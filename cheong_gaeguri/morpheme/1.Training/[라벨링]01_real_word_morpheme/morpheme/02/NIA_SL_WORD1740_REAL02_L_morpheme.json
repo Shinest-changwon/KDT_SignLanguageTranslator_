@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon302/NIA_SL_WORD1740_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1740_REAL02_L.mp4",
+        "duration": 3.917,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.831,
+            "end": 3.258,
+            "attributes": [
+                {
+                    "name": "속초시청"
+                }
+            ]
+        }
+    ]
+}

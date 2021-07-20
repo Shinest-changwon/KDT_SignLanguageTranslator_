@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_moyu0269/NIA_SL_WORD1489_REAL08_D.mp4",
+        "name": "NIA_SL_WORD1489_REAL08_D.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.479,
+            "end": 3.199,
+            "attributes": [
+                {
+                    "name": "연천"
+                }
+            ]
+        }
+    ]
+}

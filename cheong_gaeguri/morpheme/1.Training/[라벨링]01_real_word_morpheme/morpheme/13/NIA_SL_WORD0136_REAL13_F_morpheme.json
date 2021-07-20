@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_sjim0629/NIA_SL_WORD0136_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0136_REAL13_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.776,
+            "end": 3.316,
+            "attributes": [
+                {
+                    "name": "경찰서"
+                }
+            ]
+        }
+    ]
+}

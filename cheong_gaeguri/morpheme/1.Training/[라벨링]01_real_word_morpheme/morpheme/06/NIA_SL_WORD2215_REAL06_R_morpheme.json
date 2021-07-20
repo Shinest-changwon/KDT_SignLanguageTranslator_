@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0667/NIA_SL_WORD2215_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2215_REAL06_R.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.252,
+            "end": 3.503,
+            "attributes": [
+                {
+                    "name": "궁하다"
+                }
+            ]
+        }
+    ]
+}

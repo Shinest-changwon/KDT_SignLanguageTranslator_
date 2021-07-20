@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0933/NIA_SL_WORD0420_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0420_REAL05_F.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.635,
+            "end": 3.386,
+            "attributes": [
+                {
+                    "name": "수갑"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0607/NIA_SL_WORD2466_REAL03_F.mp4",
+        "name": "NIA_SL_WORD2466_REAL03_F.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.383,
+            "end": 3.816,
+            "attributes": [
+                {
+                    "name": "인천광역시청"
+                }
+            ]
+        }
+    ]
+}

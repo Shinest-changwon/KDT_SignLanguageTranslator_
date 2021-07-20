@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0675/NIA_SL_WORD0797_REAL12_U.mp4",
+        "name": "NIA_SL_WORD0797_REAL12_U.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.323,
+            "end": 2.841,
+            "attributes": [
+                {
+                    "name": "장학"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0757/NIA_SL_WORD0918_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0918_REAL16_U.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.252,
+            "end": 2.346,
+            "attributes": [
+                {
+                    "name": "전심전력"
+                }
+            ]
+        }
+    ]
+}

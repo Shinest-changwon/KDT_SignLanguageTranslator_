@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan329/NIA_SL_WORD0719_REAL09_D.mp4",
+        "name": "NIA_SL_WORD0719_REAL09_D.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/17"
+    },
+    "data": [
+        {
+            "start": 1.218,
+            "end": 2.836,
+            "attributes": [
+                {
+                    "name": "깎다"
+                }
+            ]
+        }
+    ]
+}

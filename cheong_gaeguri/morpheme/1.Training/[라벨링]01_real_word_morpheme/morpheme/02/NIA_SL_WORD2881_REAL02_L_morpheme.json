@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu297/NIA_SL_WORD2881_REAL02_L.mp4",
+        "name": "NIA_SL_WORD2881_REAL02_L.mp4",
+        "duration": 3.317,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.456,
+            "end": 2.523,
+            "attributes": [
+                {
+                    "name": "구천오백"
+                }
+            ]
+        }
+    ]
+}

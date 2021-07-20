@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim285/NIA_SL_WORD2103_REAL02_D.mp4",
+        "name": "NIA_SL_WORD2103_REAL02_D.mp4",
+        "duration": 5.217,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.738,
+            "end": 4.171,
+            "attributes": [
+                {
+                    "name": "의문"
+                }
+            ]
+        }
+    ]
+}

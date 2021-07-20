@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_hwlee0653/NIA_SL_WORD2820_REAL06_U.mp4",
+        "name": "NIA_SL_WORD2820_REAL06_U.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.51,
+            "end": 2.799,
+            "attributes": [
+                {
+                    "name": "백팔십팔"
+                }
+            ]
+        }
+    ]
+}

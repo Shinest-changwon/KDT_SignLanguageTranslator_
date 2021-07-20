@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_moyu0494/NIA_SL_WORD2664_REAL09_F.mp4",
+        "name": "NIA_SL_WORD2664_REAL09_F.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.3,
+            "end": 2.52,
+            "attributes": [
+                {
+                    "name": "삼십이"
+                }
+            ]
+        }
+    ]
+}

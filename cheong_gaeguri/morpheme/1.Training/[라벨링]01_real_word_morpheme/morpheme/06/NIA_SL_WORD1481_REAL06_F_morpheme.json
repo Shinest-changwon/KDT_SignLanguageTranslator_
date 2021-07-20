@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0429/NIA_SL_WORD1481_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1481_REAL06_F.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.112,
+            "end": 3.066,
+            "attributes": [
+                {
+                    "name": "용인대학교"
+                }
+            ]
+        }
+    ]
+}

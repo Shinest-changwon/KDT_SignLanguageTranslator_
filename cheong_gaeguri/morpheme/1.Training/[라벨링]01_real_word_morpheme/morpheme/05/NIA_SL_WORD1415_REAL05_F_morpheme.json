@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_gdchoi0943/NIA_SL_WORD1415_REAL05_F.mp4",
+        "name": "NIA_SL_WORD1415_REAL05_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.519,
+            "end": 2.807,
+            "attributes": [
+                {
+                    "name": "강서"
+                }
+            ]
+        }
+    ]
+}

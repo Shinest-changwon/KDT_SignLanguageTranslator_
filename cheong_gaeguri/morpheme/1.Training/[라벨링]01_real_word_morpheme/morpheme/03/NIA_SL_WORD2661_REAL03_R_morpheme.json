@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_hwlee0627/NIA_SL_WORD2661_REAL03_R.mp4",
+        "name": "NIA_SL_WORD2661_REAL03_R.mp4",
+        "duration": 2.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.711,
+            "end": 1.759,
+            "attributes": [
+                {
+                    "name": "이십구"
+                }
+            ]
+        }
+    ]
+}

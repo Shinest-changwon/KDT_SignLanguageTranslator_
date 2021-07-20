@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_rhkim0301/NIA_SL_WORD2108_REAL14_L.mp4",
+        "name": "NIA_SL_WORD2108_REAL14_L.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.701,
+            "end": 3.411,
+            "attributes": [
+                {
+                    "name": "가루약"
+                }
+            ]
+        }
+    ]
+}

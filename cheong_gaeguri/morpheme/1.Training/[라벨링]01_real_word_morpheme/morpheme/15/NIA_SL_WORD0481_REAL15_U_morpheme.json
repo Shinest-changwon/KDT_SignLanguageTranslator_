@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0709/NIA_SL_WORD0481_REAL15_U.mp4",
+        "name": "NIA_SL_WORD0481_REAL15_U.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.085,
+            "end": 2.918,
+            "attributes": [
+                {
+                    "name": "도벽"
+                }
+            ]
+        }
+    ]
+}

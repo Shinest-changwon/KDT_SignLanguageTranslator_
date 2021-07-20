@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0340/NIA_SL_WORD2044_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2044_REAL01_L.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.963,
+            "end": 3.502,
+            "attributes": [
+                {
+                    "name": "성냥불"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_gdchoi0706/NIA_SL_WORD0956_REAL15_L.mp4",
+        "name": "NIA_SL_WORD0956_REAL15_L.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.224,
+            "end": 2.614,
+            "attributes": [
+                {
+                    "name": "주정뱅이"
+                }
+            ]
+        }
+    ]
+}

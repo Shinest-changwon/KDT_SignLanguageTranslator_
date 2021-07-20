@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu294/NIA_SL_WORD2860_REAL02_F.mp4",
+        "name": "NIA_SL_WORD2860_REAL02_F.mp4",
+        "duration": 2.917,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.262,
+            "end": 2.138,
+            "attributes": [
+                {
+                    "name": "팔백"
+                }
+            ]
+        }
+    ]
+}

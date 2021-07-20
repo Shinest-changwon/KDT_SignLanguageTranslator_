@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1163/NIA_SL_WORD0931_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0931_REAL05_U.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.993,
+            "end": 2.202,
+            "attributes": [
+                {
+                    "name": "물귀신"
+                }
+            ]
+        }
+    ]
+}

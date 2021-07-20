@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0488/NIA_SL_WORD0358_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0358_REAL14_L.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.288,
+            "end": 3.684,
+            "attributes": [
+                {
+                    "name": "가짜"
+                }
+            ]
+        }
+    ]
+}

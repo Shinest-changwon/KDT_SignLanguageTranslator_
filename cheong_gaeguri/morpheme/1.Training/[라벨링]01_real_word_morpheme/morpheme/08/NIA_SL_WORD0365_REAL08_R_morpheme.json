@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_emyou0257/NIA_SL_WORD0365_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0365_REAL08_R.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.344,
+            "end": 3.097,
+            "attributes": [
+                {
+                    "name": "강약"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_swlee1152/NIA_SL_WORD2590_REAL11_U.mp4",
+        "name": "NIA_SL_WORD2590_REAL11_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.885,
+            "end": 2.936,
+            "attributes": [
+                {
+                    "name": "러시아"
+                }
+            ]
+        }
+    ]
+}

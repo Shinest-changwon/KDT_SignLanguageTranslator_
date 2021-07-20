@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0254/NIA_SL_WORD1589_REAL08_D.mp4",
+        "name": "NIA_SL_WORD1589_REAL08_D.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.678,
+            "end": 2.651,
+            "attributes": [
+                {
+                    "name": "부탁"
+                }
+            ]
+        }
+    ]
+}

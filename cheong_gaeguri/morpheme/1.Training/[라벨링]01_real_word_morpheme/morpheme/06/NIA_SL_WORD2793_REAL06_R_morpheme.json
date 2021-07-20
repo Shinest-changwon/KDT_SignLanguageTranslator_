@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_gdchoi0675/NIA_SL_WORD2793_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2793_REAL06_R.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.109,
+            "end": 2.649,
+            "attributes": [
+                {
+                    "name": "백육십일"
+                }
+            ]
+        }
+    ]
+}

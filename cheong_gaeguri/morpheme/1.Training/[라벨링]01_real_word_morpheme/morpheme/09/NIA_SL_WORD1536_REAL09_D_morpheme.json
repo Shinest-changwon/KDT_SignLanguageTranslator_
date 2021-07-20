@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jwlee002/NIA_SL_WORD1536_REAL09_D.mp4",
+        "name": "NIA_SL_WORD1536_REAL09_D.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.549,
+            "end": 2.593,
+            "attributes": [
+                {
+                    "name": "붓다"
+                }
+            ]
+        }
+    ]
+}

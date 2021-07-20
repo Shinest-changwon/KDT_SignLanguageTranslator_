@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_sjim0307/NIA_SL_WORD2411_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2411_REAL14_F.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.845,
+            "end": 3.845,
+            "attributes": [
+                {
+                    "name": "거제시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

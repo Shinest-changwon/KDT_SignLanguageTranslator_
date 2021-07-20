@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0344/NIA_SL_WORD2090_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2090_REAL01_U.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.006,
+            "end": 3.688,
+            "attributes": [
+                {
+                    "name": "솔직하다"
+                }
+            ]
+        }
+    ]
+}

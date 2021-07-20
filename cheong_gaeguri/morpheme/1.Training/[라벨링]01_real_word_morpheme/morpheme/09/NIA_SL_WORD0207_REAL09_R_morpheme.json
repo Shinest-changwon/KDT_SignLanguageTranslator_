@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0491/NIA_SL_WORD0207_REAL09_R.mp4",
+        "name": "NIA_SL_WORD0207_REAL09_R.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.19,
+            "end": 3.497,
+            "attributes": [
+                {
+                    "name": "집주인"
+                }
+            ]
+        }
+    ]
+}

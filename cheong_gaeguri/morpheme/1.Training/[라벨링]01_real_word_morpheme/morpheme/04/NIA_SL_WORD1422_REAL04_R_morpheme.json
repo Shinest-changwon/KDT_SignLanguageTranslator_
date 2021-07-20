@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0848/NIA_SL_WORD1422_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1422_REAL04_R.mp4",
+        "duration": 5.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.29,
+            "end": 4.451,
+            "attributes": [
+                {
+                    "name": "서울대학교"
+                }
+            ]
+        }
+    ]
+}

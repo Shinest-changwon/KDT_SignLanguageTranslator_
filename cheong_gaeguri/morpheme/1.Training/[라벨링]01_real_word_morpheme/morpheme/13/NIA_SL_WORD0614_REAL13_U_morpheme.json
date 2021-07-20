@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1074/NIA_SL_WORD0614_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0614_REAL13_U.mp4",
+        "duration": 5.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.003,
+            "end": 4.322,
+            "attributes": [
+                {
+                    "name": "사진작가"
+                }
+            ]
+        }
+    ]
+}

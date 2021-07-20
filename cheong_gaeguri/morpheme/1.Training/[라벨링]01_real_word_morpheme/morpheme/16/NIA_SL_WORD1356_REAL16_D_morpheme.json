@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0751/NIA_SL_WORD1356_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1356_REAL16_D.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.365,
+            "end": 2.348,
+            "attributes": [
+                {
+                    "name": "냄새"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu278/NIA_SL_WORD2363_REAL02_L.mp4",
+        "name": "NIA_SL_WORD2363_REAL02_L.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.452,
+            "end": 2.35,
+            "attributes": [
+                {
+                    "name": "달성"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_rhkim0305/NIA_SL_WORD2145_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2145_REAL14_F.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.702,
+            "end": 3.677,
+            "attributes": [
+                {
+                    "name": "약효"
+                }
+            ]
+        }
+    ]
+}

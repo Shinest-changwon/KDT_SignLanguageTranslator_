@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0416/NIA_SL_WORD0106_REAL10_F.mp4",
+        "name": "NIA_SL_WORD0106_REAL10_F.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.51,
+            "end": 3.609,
+            "attributes": [
+                {
+                    "name": "냉커피"
+                }
+            ]
+        }
+    ]
+}

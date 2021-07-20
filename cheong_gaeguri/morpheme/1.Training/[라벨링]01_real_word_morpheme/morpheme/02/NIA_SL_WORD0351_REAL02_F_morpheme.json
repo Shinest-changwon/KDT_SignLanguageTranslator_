@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi309/NIA_SL_WORD0351_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0351_REAL02_F.mp4",
+        "duration": 5.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.503,
+            "end": 3.366,
+            "attributes": [
+                {
+                    "name": "임시협약"
+                }
+            ]
+        }
+    ]
+}

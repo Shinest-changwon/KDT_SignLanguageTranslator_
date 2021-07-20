@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jwlee011/NIA_SL_WORD1625_REAL09_F.mp4",
+        "name": "NIA_SL_WORD1625_REAL09_F.mp4",
+        "duration": 3.3,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.389,
+            "end": 2.634,
+            "attributes": [
+                {
+                    "name": "중구지부2"
+                }
+            ]
+        }
+    ]
+}

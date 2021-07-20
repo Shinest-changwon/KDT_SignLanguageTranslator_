@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_sjim0921/NIA_SL_WORD2481_REAL05_U.mp4",
+        "name": "NIA_SL_WORD2481_REAL05_U.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.194,
+            "end": 2.248,
+            "attributes": [
+                {
+                    "name": "찔리다"
+                }
+            ]
+        }
+    ]
+}

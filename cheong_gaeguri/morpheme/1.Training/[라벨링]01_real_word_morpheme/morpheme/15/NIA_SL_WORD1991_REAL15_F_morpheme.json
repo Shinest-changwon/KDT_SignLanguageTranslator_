@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1051/NIA_SL_WORD1991_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1991_REAL15_F.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.08,
+            "end": 2.64,
+            "attributes": [
+                {
+                    "name": "의성군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

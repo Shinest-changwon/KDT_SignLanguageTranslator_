@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0495/NIA_SL_WORD0249_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0249_REAL09_F.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.124,
+            "end": 3.34,
+            "attributes": [
+                {
+                    "name": "청주"
+                }
+            ]
+        }
+    ]
+}

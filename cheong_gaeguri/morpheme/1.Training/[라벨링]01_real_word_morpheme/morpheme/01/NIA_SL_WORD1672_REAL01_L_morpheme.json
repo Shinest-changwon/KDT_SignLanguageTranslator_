@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0353/NIA_SL_WORD1672_REAL01_L.mp4",
+        "name": "NIA_SL_WORD1672_REAL01_L.mp4",
+        "duration": 5.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.529,
+            "end": 3.977,
+            "attributes": [
+                {
+                    "name": "부천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

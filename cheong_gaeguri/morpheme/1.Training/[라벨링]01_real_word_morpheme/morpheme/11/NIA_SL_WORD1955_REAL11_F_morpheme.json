@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0516/NIA_SL_WORD1955_REAL11_F.mp4",
+        "name": "NIA_SL_WORD1955_REAL11_F.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.503,
+            "end": 3.141,
+            "attributes": [
+                {
+                    "name": "문경시청"
+                }
+            ]
+        }
+    ]
+}

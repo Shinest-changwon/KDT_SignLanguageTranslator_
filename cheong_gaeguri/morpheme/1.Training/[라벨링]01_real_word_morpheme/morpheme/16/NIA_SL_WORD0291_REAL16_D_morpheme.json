@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0385/NIA_SL_WORD0291_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0291_REAL16_D.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.518,
+            "end": 3.623,
+            "attributes": [
+                {
+                    "name": "가시나무"
+                }
+            ]
+        }
+    ]
+}

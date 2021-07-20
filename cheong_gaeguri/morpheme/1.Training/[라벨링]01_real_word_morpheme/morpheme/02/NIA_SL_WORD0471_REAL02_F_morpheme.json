@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi321/NIA_SL_WORD0471_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0471_REAL02_F.mp4",
+        "duration": 2.95,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.793,
+            "end": 2.238,
+            "attributes": [
+                {
+                    "name": "채용자"
+                }
+            ]
+        }
+    ]
+}

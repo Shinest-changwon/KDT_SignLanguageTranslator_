@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim320/NIA_SL_WORD1454_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1454_REAL02_U.mp4",
+        "duration": 3.15,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.491,
+            "end": 2.421,
+            "attributes": [
+                {
+                    "name": "이태원"
+                }
+            ]
+        }
+    ]
+}

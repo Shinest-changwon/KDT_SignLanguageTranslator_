@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_emyou0944/NIA_SL_WORD1169_REAL05_D.mp4",
+        "name": "NIA_SL_WORD1169_REAL05_D.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.333,
+            "end": 2.141,
+            "attributes": [
+                {
+                    "name": "행복"
+                }
+            ]
+        }
+    ]
+}

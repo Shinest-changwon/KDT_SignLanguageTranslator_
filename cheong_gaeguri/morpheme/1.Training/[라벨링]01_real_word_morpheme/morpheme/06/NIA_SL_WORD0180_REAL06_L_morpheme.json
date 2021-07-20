@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1116/NIA_SL_WORD0180_REAL06_L.mp4",
+        "name": "NIA_SL_WORD0180_REAL06_L.mp4",
+        "duration": 3.484,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.823,
+            "end": 3.229,
+            "attributes": [
+                {
+                    "name": "항공사"
+                }
+            ]
+        }
+    ]
+}

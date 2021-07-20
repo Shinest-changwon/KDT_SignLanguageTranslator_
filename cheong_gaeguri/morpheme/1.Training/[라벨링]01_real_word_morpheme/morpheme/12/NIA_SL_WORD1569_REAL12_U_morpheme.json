@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1183/NIA_SL_WORD1569_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1569_REAL12_U.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.211,
+            "end": 2.372,
+            "attributes": [
+                {
+                    "name": "중독"
+                }
+            ]
+        }
+    ]
+}

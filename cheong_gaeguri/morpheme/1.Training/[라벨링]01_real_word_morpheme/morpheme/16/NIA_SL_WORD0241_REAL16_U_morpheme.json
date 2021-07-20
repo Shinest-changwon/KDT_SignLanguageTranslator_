@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0405/NIA_SL_WORD0241_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0241_REAL16_U.mp4",
+        "duration": 4.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.251,
+            "end": 4.201,
+            "attributes": [
+                {
+                    "name": "훈련"
+                }
+            ]
+        }
+    ]
+}

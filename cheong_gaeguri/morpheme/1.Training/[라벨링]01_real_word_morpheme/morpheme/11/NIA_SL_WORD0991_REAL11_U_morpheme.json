@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_bkyu0520/NIA_SL_WORD0991_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0991_REAL11_U.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.495,
+            "end": 2.464,
+            "attributes": [
+                {
+                    "name": "수포"
+                }
+            ]
+        }
+    ]
+}

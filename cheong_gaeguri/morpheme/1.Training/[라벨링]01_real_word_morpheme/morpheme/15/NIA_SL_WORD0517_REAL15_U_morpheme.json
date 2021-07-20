@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0712/NIA_SL_WORD0517_REAL15_U.mp4",
+        "name": "NIA_SL_WORD0517_REAL15_U.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.275,
+            "end": 2.734,
+            "attributes": [
+                {
+                    "name": "명예"
+                }
+            ]
+        }
+    ]
+}

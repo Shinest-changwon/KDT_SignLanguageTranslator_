@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0341/NIA_SL_WORD2310_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2310_REAL01_U.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.999,
+            "end": 4.2,
+            "attributes": [
+                {
+                    "name": "임기응변"
+                }
+            ]
+        }
+    ]
+}

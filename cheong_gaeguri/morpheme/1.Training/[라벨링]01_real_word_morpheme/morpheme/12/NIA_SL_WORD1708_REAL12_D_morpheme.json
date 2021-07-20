@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0671/NIA_SL_WORD1708_REAL12_D.mp4",
+        "name": "NIA_SL_WORD1708_REAL12_D.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.168,
+            "end": 4.299,
+            "attributes": [
+                {
+                    "name": "이천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

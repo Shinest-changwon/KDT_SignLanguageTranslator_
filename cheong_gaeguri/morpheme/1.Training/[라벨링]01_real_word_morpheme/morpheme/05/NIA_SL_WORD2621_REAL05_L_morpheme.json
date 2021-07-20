@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_sjim0934/NIA_SL_WORD2621_REAL05_L.mp4",
+        "name": "NIA_SL_WORD2621_REAL05_L.mp4",
+        "duration": 2.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.48,
+            "end": 2.153,
+            "attributes": [
+                {
+                    "name": "원주"
+                }
+            ]
+        }
+    ]
+}

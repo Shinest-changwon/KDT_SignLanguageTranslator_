@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0539/NIA_SL_WORD1690_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1690_REAL11_R.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.245,
+            "end": 3.521,
+            "attributes": [
+                {
+                    "name": "여주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0754/NIA_SL_WORD0640_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0640_REAL16_D.mp4",
+        "duration": 4.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.452,
+            "end": 3.154,
+            "attributes": [
+                {
+                    "name": "직무대행"
+                }
+            ]
+        }
+    ]
+}

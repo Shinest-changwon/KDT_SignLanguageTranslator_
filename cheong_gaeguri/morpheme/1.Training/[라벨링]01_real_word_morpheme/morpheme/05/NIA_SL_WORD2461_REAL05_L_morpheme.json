@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_rhkim0944/NIA_SL_WORD2461_REAL05_L.mp4",
+        "name": "NIA_SL_WORD2461_REAL05_L.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.074,
+            "end": 3.351,
+            "attributes": [
+                {
+                    "name": "제주시지부"
+                }
+            ]
+        }
+    ]
+}

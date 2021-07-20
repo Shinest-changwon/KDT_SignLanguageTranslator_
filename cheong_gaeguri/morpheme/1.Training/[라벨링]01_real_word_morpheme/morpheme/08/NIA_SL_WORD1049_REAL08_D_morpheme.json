@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_jhhan0250/NIA_SL_WORD1049_REAL08_D.mp4",
+        "name": "NIA_SL_WORD1049_REAL08_D.mp4",
+        "duration": 5.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.45,
+            "end": 3.359,
+            "attributes": [
+                {
+                    "name": "성동구지부"
+                }
+            ]
+        }
+    ]
+}

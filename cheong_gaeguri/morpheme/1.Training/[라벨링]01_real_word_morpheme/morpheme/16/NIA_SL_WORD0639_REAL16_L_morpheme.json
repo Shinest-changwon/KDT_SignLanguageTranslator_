@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0754/NIA_SL_WORD0639_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0639_REAL16_L.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.46,
+            "end": 3.146,
+            "attributes": [
+                {
+                    "name": "섬나라"
+                }
+            ]
+        }
+    ]
+}

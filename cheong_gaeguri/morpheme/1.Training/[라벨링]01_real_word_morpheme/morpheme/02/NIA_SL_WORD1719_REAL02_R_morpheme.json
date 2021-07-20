@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon300/NIA_SL_WORD1719_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1719_REAL02_R.mp4",
+        "duration": 4.284,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.096,
+            "end": 3.649,
+            "attributes": [
+                {
+                    "name": "하남시지부"
+                }
+            ]
+        }
+    ]
+}

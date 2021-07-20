@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_sjim0665/NIA_SL_WORD0690_REAL12_F.mp4",
+        "name": "NIA_SL_WORD0690_REAL12_F.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.376,
+            "end": 2.825,
+            "attributes": [
+                {
+                    "name": "악몽"
+                }
+            ]
+        }
+    ]
+}

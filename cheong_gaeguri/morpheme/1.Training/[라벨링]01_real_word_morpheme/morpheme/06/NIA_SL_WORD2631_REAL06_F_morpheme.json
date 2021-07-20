@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_gdchoi0659/NIA_SL_WORD2631_REAL06_F.mp4",
+        "name": "NIA_SL_WORD2631_REAL06_F.mp4",
+        "duration": 2.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.206,
+            "end": 2.015,
+            "attributes": [
+                {
+                    "name": "영"
+                }
+            ]
+        }
+    ]
+}

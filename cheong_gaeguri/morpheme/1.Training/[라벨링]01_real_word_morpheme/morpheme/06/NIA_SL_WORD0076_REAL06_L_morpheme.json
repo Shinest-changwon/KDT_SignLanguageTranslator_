@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1107/NIA_SL_WORD0076_REAL06_L.mp4",
+        "name": "NIA_SL_WORD0076_REAL06_L.mp4",
+        "duration": 3.717,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.934,
+            "end": 3,
+            "attributes": [
+                {
+                    "name": "사골"
+                }
+            ]
+        }
+    ]
+}

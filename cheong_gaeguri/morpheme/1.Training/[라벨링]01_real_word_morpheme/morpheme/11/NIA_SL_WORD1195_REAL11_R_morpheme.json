@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_bkyu0540/NIA_SL_WORD1195_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1195_REAL11_R.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.445,
+            "end": 2.625,
+            "attributes": [
+                {
+                    "name": "실망"
+                }
+            ]
+        }
+    ]
+}

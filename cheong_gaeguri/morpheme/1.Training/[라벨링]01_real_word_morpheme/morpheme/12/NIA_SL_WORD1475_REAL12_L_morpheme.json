@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_gdchoi1191/NIA_SL_WORD1475_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1475_REAL12_L.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.206,
+            "end": 2.336,
+            "attributes": [
+                {
+                    "name": "수원"
+                }
+            ]
+        }
+    ]
+}

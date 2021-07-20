@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_moyu0340/NIA_SL_WORD1791_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1791_REAL01_F.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.274,
+            "end": 4.571,
+            "attributes": [
+                {
+                    "name": "제천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

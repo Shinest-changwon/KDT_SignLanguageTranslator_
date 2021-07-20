@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_swlee1203/NIA_SL_WORD2637_REAL15_F.mp4",
+        "name": "NIA_SL_WORD2637_REAL15_F.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.449,
+            "end": 2.558,
+            "attributes": [
+                {
+                    "name": "육"
+                }
+            ]
+        }
+    ]
+}

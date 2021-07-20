@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0483/NIA_SL_WORD0056_REAL14_F.mp4",
+        "name": "NIA_SL_WORD0056_REAL14_F.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.521,
+            "end": 3.766,
+            "attributes": [
+                {
+                    "name": "올림픽경기"
+                }
+            ]
+        }
+    ]
+}

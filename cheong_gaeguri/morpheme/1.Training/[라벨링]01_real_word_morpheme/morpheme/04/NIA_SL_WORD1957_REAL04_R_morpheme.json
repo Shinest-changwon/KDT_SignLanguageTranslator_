@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0851/NIA_SL_WORD1957_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1957_REAL04_R.mp4",
+        "duration": 6.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.499,
+            "end": 5.328,
+            "attributes": [
+                {
+                    "name": "봉화군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

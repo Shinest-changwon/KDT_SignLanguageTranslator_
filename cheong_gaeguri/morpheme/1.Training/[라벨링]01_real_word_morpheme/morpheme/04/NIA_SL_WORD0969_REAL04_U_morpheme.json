@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0852/NIA_SL_WORD0969_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0969_REAL04_U.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.765,
+            "end": 3.151,
+            "attributes": [
+                {
+                    "name": "마르다"
+                }
+            ]
+        }
+    ]
+}

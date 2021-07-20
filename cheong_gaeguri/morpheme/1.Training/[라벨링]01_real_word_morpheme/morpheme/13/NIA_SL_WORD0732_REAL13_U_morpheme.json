@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1053/NIA_SL_WORD0732_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0732_REAL13_U.mp4",
+        "duration": 4.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.081,
+            "end": 4.17,
+            "attributes": [
+                {
+                    "name": "영문법"
+                }
+            ]
+        }
+    ]
+}

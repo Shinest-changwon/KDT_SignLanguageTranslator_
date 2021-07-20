@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_swlee0664/NIA_SL_WORD0936_REAL12_F.mp4",
+        "name": "NIA_SL_WORD0936_REAL12_F.mp4",
+        "duration": 3.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.335,
+            "end": 2.891,
+            "attributes": [
+                {
+                    "name": "놓치다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou319/NIA_SL_WORD0121_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0121_REAL02_L.mp4",
+        "duration": 3.55,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.01,
+            "end": 2.627,
+            "attributes": [
+                {
+                    "name": "가죽신"
+                }
+            ]
+        }
+    ]
+}

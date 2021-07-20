@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_emyou1054/NIA_SL_WORD0523_REAL06_F.mp4",
+        "name": "NIA_SL_WORD0523_REAL06_F.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.195,
+            "end": 2.49,
+            "attributes": [
+                {
+                    "name": "무인상"
+                }
+            ]
+        }
+    ]
+}

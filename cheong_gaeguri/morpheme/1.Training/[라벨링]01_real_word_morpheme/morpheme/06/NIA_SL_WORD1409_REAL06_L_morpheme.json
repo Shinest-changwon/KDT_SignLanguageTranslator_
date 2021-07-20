@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0421/NIA_SL_WORD1409_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1409_REAL06_L.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.001,
+            "end": 2.654,
+            "attributes": [
+                {
+                    "name": "을지로3가"
+                }
+            ]
+        }
+    ]
+}

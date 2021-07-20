@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1117/NIA_SL_WORD2538_REAL07_U.mp4",
+        "name": "NIA_SL_WORD2538_REAL07_U.mp4",
+        "duration": 2.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.118,
+            "end": 2.16,
+            "attributes": [
+                {
+                    "name": "달"
+                }
+            ]
+        }
+    ]
+}

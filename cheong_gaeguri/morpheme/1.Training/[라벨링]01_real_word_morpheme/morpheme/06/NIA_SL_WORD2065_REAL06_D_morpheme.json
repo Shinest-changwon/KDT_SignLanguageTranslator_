@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_bkyu0652/NIA_SL_WORD2065_REAL06_D.mp4",
+        "name": "NIA_SL_WORD2065_REAL06_D.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.158,
+            "end": 4.426,
+            "attributes": [
+                {
+                    "name": "노화"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0516/NIA_SL_WORD2505_REAL13_F.mp4",
+        "name": "NIA_SL_WORD2505_REAL13_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.058,
+            "end": 2.548,
+            "attributes": [
+                {
+                    "name": "시시하다"
+                }
+            ]
+        }
+    ]
+}

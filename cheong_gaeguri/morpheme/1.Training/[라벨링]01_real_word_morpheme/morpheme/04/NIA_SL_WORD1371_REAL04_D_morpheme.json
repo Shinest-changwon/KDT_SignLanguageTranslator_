@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_mrkim0843/NIA_SL_WORD1371_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1371_REAL04_D.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.988,
+            "end": 3.29,
+            "attributes": [
+                {
+                    "name": "눈썹"
+                }
+            ]
+        }
+    ]
+}

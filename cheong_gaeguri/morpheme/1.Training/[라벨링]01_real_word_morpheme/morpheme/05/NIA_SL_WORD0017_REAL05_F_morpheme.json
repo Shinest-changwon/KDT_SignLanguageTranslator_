@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0921/NIA_SL_WORD0017_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0017_REAL05_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.417,
+            "end": 2.991,
+            "attributes": [
+                {
+                    "name": "뉴질랜드"
+                }
+            ]
+        }
+    ]
+}

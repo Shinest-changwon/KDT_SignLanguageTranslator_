@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon316/NIA_SL_WORD1877_REAL02_D.mp4",
+        "name": "NIA_SL_WORD1877_REAL02_D.mp4",
+        "duration": 3.817,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.121,
+            "end": 3.053,
+            "attributes": [
+                {
+                    "name": "평가하다"
+                }
+            ]
+        }
+    ]
+}

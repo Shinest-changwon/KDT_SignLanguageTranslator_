@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0762/NIA_SL_WORD1711_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1711_REAL16_F.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.373,
+            "end": 3.576,
+            "attributes": [
+                {
+                    "name": "파주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

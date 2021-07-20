@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_gdchoi0657/NIA_SL_WORD2610_REAL06_R.mp4",
+        "name": "NIA_SL_WORD2610_REAL06_R.mp4",
+        "duration": 2.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.996,
+            "end": 2.151,
+            "attributes": [
+                {
+                    "name": "대구"
+                }
+            ]
+        }
+    ]
+}

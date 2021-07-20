@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_emyou1206/NIA_SL_WORD1125_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1125_REAL15_U.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.609,
+            "end": 2.754,
+            "attributes": [
+                {
+                    "name": "자존심"
+                }
+            ]
+        }
+    ]
+}

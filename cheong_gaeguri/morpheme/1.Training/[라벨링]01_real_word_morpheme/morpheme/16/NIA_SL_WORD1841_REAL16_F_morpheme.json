@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0750/NIA_SL_WORD1841_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1841_REAL16_F.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.321,
+            "end": 3.237,
+            "attributes": [
+                {
+                    "name": "태안군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

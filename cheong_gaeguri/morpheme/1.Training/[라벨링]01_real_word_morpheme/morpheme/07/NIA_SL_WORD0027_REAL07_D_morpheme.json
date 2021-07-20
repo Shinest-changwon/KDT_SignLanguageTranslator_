@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0966/NIA_SL_WORD0027_REAL07_D.mp4",
+        "name": "NIA_SL_WORD0027_REAL07_D.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.937,
+            "end": 5.082,
+            "attributes": [
+                {
+                    "name": "필기시험"
+                }
+            ]
+        }
+    ]
+}

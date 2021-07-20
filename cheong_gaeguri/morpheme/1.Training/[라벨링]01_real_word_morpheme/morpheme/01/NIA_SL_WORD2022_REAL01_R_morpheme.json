@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_rhkim0338/NIA_SL_WORD2022_REAL01_R.mp4",
+        "name": "NIA_SL_WORD2022_REAL01_R.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.837,
+            "end": 3.426,
+            "attributes": [
+                {
+                    "name": "집요"
+                }
+            ]
+        }
+    ]
+}

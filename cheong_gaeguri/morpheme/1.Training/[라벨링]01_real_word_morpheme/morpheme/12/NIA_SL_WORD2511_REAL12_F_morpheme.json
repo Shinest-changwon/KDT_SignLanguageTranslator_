@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_sjim1180/NIA_SL_WORD2511_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2511_REAL12_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.511,
+            "end": 2.644,
+            "attributes": [
+                {
+                    "name": "베트남"
+                }
+            ]
+        }
+    ]
+}

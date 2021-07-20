@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1118_bkyu0886/NIA_SL_WORD2605_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2605_REAL04_F.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.57,
+            "end": 4.144,
+            "attributes": [
+                {
+                    "name": "인천"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim318/NIA_SL_WORD1433_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1433_REAL02_L.mp4",
+        "duration": 3.017,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.372,
+            "end": 2.173,
+            "attributes": [
+                {
+                    "name": "노량진"
+                }
+            ]
+        }
+    ]
+}

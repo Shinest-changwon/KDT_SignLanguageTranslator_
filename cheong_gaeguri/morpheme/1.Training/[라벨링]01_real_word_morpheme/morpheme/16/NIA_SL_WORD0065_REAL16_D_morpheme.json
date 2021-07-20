@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_swlee0387/NIA_SL_WORD0065_REAL16_D.mp4",
+        "name": "NIA_SL_WORD0065_REAL16_D.mp4",
+        "duration": 5.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.134,
+            "end": 5.244,
+            "attributes": [
+                {
+                    "name": "치료법"
+                }
+            ]
+        }
+    ]
+}

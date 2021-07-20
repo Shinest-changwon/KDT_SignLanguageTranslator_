@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1194/NIA_SL_WORD1674_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1674_REAL12_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.455,
+            "end": 2.857,
+            "attributes": [
+                {
+                    "name": "성남시지부"
+                }
+            ]
+        }
+    ]
+}

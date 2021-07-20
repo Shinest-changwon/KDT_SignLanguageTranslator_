@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0675/NIA_SL_WORD1995_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1995_REAL12_U.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.345,
+            "end": 2.962,
+            "attributes": [
+                {
+                    "name": "청송군지부"
+                }
+            ]
+        }
+    ]
+}

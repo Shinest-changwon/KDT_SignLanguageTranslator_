@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0336/NIA_SL_WORD2501_REAL01_U.mp4",
+        "name": "NIA_SL_WORD2501_REAL01_U.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.37,
+            "end": 2.965,
+            "attributes": [
+                {
+                    "name": "네덜란드"
+                }
+            ]
+        }
+    ]
+}

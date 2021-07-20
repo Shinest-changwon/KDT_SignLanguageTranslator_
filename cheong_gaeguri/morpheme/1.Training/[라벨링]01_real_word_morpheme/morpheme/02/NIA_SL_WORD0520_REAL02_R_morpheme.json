@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi325/NIA_SL_WORD0520_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0520_REAL02_R.mp4",
+        "duration": 2.884,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.71,
+            "end": 2.19,
+            "attributes": [
+                {
+                    "name": "무법자"
+                }
+            ]
+        }
+    ]
+}

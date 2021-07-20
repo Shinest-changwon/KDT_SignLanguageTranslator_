@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1178/NIA_SL_WORD1004_REAL12_D.mp4",
+        "name": "NIA_SL_WORD1004_REAL12_D.mp4",
+        "duration": 6.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.862,
+            "end": 4.973,
+            "attributes": [
+                {
+                    "name": "서울특별시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

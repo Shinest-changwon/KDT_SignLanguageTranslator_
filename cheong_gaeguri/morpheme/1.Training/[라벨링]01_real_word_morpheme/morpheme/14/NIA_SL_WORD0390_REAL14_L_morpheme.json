@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0491/NIA_SL_WORD0390_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0390_REAL14_L.mp4",
+        "duration": 6.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.649,
+            "end": 4.83,
+            "attributes": [
+                {
+                    "name": "공군본부"
+                }
+            ]
+        }
+    ]
+}

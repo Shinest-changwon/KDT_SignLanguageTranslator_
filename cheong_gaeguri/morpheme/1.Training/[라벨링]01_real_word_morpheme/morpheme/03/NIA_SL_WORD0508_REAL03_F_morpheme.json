@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_gdchoi0786/NIA_SL_WORD0508_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0508_REAL03_F.mp4",
+        "duration": 3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.922,
+            "end": 2.336,
+            "attributes": [
+                {
+                    "name": "무매력"
+                }
+            ]
+        }
+    ]
+}

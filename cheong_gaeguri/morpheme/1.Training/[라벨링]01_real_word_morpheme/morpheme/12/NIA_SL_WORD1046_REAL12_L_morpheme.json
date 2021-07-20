@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1182/NIA_SL_WORD1046_REAL12_L.mp4",
+        "name": "NIA_SL_WORD1046_REAL12_L.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.826,
+            "end": 4.026,
+            "attributes": [
+                {
+                    "name": "서초구지부"
+                }
+            ]
+        }
+    ]
+}

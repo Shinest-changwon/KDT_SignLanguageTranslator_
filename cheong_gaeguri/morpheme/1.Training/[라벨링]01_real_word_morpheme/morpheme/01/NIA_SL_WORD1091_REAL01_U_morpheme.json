@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1123_emyou1035/NIA_SL_WORD1091_REAL01_U.mp4",
+        "name": "NIA_SL_WORD1091_REAL01_U.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.323,
+            "end": 2.704,
+            "attributes": [
+                {
+                    "name": "서구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

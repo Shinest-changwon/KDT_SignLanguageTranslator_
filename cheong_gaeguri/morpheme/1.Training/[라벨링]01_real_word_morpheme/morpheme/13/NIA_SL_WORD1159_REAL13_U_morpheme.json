@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1054/NIA_SL_WORD1159_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1159_REAL13_U.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.138,
+            "end": 3.5,
+            "attributes": [
+                {
+                    "name": "한숨"
+                }
+            ]
+        }
+    ]
+}

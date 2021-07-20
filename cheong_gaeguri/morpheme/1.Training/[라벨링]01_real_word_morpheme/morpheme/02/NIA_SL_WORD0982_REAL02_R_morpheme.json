@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee325/NIA_SL_WORD0982_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0982_REAL02_R.mp4",
+        "duration": 4.317,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.731,
+            "end": 3.439,
+            "attributes": [
+                {
+                    "name": "일자무식"
+                }
+            ]
+        }
+    ]
+}

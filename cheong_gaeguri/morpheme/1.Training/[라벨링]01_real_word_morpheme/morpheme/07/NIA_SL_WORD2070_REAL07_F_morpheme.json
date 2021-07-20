@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1109/NIA_SL_WORD2070_REAL07_F.mp4",
+        "name": "NIA_SL_WORD2070_REAL07_F.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.924,
+            "end": 3.767,
+            "attributes": [
+                {
+                    "name": "사색"
+                }
+            ]
+        }
+    ]
+}

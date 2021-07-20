@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou317/NIA_SL_WORD0104_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0104_REAL02_R.mp4",
+        "duration": 4.084,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.239,
+            "end": 3.512,
+            "attributes": [
+                {
+                    "name": "식당"
+                }
+            ]
+        }
+    ]
+}

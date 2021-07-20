@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi312/NIA_SL_WORD0385_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0385_REAL02_U.mp4",
+        "duration": 3.384,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.924,
+            "end": 2.415,
+            "attributes": [
+                {
+                    "name": "불알"
+                }
+            ]
+        }
+    ]
+}

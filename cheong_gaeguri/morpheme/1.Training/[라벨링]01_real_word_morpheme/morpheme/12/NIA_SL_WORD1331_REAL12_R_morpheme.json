@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_emyou1193/NIA_SL_WORD1331_REAL12_R.mp4",
+        "name": "NIA_SL_WORD1331_REAL12_R.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.571,
+            "end": 3.871,
+            "attributes": [
+                {
+                    "name": "차량번호판"
+                }
+            ]
+        }
+    ]
+}

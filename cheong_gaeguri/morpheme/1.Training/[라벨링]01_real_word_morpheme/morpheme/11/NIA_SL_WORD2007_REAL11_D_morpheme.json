@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_jhhan0521/NIA_SL_WORD2007_REAL11_D.mp4",
+        "name": "NIA_SL_WORD2007_REAL11_D.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.952,
+            "end": 3.407,
+            "attributes": [
+                {
+                    "name": "중독"
+                }
+            ]
+        }
+    ]
+}

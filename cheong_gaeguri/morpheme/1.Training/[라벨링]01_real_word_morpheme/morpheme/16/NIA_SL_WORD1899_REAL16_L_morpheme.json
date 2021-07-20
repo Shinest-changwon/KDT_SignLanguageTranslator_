@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0755/NIA_SL_WORD1899_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1899_REAL16_L.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.34,
+            "end": 3.748,
+            "attributes": [
+                {
+                    "name": "목포시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

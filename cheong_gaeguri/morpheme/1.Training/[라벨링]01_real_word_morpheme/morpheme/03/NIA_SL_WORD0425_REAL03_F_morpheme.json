@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0803/NIA_SL_WORD0425_REAL03_F.mp4",
+        "name": "NIA_SL_WORD0425_REAL03_F.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.166,
+            "end": 2.798,
+            "attributes": [
+                {
+                    "name": "군가"
+                }
+            ]
+        }
+    ]
+}

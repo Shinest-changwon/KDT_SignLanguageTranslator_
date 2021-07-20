@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim314/NIA_SL_WORD1380_REAL09_D.mp4",
+        "name": "NIA_SL_WORD1380_REAL09_D.mp4",
+        "duration": 2.934,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.01,
+            "end": 1.871,
+            "attributes": [
+                {
+                    "name": "때리다3"
+                }
+            ]
+        }
+    ]
+}

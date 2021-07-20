@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0415/NIA_SL_WORD1593_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1593_REAL10_R.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.653,
+            "end": 2.654,
+            "attributes": [
+                {
+                    "name": "기차"
+                }
+            ]
+        }
+    ]
+}

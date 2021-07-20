@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee302/NIA_SL_WORD0754_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0754_REAL02_R.mp4",
+        "duration": 4.417,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.573,
+            "end": 3.2,
+            "attributes": [
+                {
+                    "name": "큰소리"
+                }
+            ]
+        }
+    ]
+}

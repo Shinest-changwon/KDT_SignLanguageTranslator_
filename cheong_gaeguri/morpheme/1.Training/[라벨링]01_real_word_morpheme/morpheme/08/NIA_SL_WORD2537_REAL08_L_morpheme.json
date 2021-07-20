@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_rhkim0614/NIA_SL_WORD2537_REAL08_L.mp4",
+        "name": "NIA_SL_WORD2537_REAL08_L.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.567,
+            "end": 2.647,
+            "attributes": [
+                {
+                    "name": "석유"
+                }
+            ]
+        }
+    ]
+}

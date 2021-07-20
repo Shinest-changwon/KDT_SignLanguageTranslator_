@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0753/NIA_SL_WORD2626_REAL16_R.mp4",
+        "name": "NIA_SL_WORD2626_REAL16_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.356,
+            "end": 2.622,
+            "attributes": [
+                {
+                    "name": "눈가림"
+                }
+            ]
+        }
+    ]
+}

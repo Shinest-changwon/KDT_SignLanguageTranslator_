@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0853/NIA_SL_WORD1980_REAL04_R.mp4",
+        "name": "NIA_SL_WORD1980_REAL04_R.mp4",
+        "duration": 5.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.924,
+            "end": 4.235,
+            "attributes": [
+                {
+                    "name": "예천군지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0834/NIA_SL_WORD2039_REAL04_D.mp4",
+        "name": "NIA_SL_WORD2039_REAL04_D.mp4",
+        "duration": 6.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.624,
+            "end": 5.222,
+            "attributes": [
+                {
+                    "name": "몸무게"
+                }
+            ]
+        }
+    ]
+}

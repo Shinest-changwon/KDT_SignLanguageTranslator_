@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_bkyu0424/NIA_SL_WORD0188_REAL10_U.mp4",
+        "name": "NIA_SL_WORD0188_REAL10_U.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.509,
+            "end": 4.209,
+            "attributes": [
+                {
+                    "name": "교통법교육"
+                }
+            ]
+        }
+    ]
+}

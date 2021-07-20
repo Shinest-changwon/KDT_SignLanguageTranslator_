@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu287/NIA_SL_WORD2460_REAL02_D.mp4",
+        "name": "NIA_SL_WORD2460_REAL02_D.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.569,
+            "end": 3.135,
+            "attributes": [
+                {
+                    "name": "서귀포시청"
+                }
+            ]
+        }
+    ]
+}

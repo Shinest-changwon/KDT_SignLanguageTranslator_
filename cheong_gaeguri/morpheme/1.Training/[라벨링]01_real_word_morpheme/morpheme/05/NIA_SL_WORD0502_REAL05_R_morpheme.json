@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0941/NIA_SL_WORD0502_REAL05_R.mp4",
+        "name": "NIA_SL_WORD0502_REAL05_R.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.856,
+            "end": 4.232,
+            "attributes": [
+                {
+                    "name": "만취"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0795/NIA_SL_WORD1592_REAL03_R.mp4",
+        "name": "NIA_SL_WORD1592_REAL03_R.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.6,
+            "end": 2.515,
+            "attributes": [
+                {
+                    "name": "회사"
+                }
+            ]
+        }
+    ]
+}

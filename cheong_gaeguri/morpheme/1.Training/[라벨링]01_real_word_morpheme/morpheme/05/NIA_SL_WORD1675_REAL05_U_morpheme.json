@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_hwlee0944/NIA_SL_WORD1675_REAL05_U.mp4",
+        "name": "NIA_SL_WORD1675_REAL05_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.916,
+            "end": 4.461,
+            "attributes": [
+                {
+                    "name": "성남시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

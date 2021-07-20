@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0743/NIA_SL_WORD1021_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1021_REAL16_D.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.732,
+            "end": 3.921,
+            "attributes": [
+                {
+                    "name": "광진구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

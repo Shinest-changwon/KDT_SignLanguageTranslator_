@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_moyu1198/NIA_SL_WORD2050_REAL15_D.mp4",
+        "name": "NIA_SL_WORD2050_REAL15_D.mp4",
+        "duration": 4.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.655,
+            "end": 3.627,
+            "attributes": [
+                {
+                    "name": "계획"
+                }
+            ]
+        }
+    ]
+}

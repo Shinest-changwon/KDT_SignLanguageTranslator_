@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0796/NIA_SL_WORD0102_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0102_REAL03_U.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.128,
+            "end": 2.131,
+            "attributes": [
+                {
+                    "name": "소주"
+                }
+            ]
+        }
+    ]
+}

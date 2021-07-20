@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_sjim0791/NIA_SL_WORD2101_REAL10_R.mp4",
+        "name": "NIA_SL_WORD2101_REAL10_R.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.647,
+            "end": 3.329,
+            "attributes": [
+                {
+                    "name": "위인"
+                }
+            ]
+        }
+    ]
+}

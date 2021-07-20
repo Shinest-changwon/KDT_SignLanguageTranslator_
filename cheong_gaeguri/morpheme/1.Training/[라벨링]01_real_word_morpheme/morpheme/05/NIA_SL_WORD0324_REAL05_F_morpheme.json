@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_emyou1165/NIA_SL_WORD0324_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0324_REAL05_F.mp4",
+        "duration": 5.117,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.969,
+            "end": 3.887,
+            "attributes": [
+                {
+                    "name": "분홍색"
+                }
+            ]
+        }
+    ]
+}

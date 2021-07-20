@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_gdchoi0834/NIA_SL_WORD0531_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0531_REAL04_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.482,
+            "end": 2.795,
+            "attributes": [
+                {
+                    "name": "물총"
+                }
+            ]
+        }
+    ]
+}

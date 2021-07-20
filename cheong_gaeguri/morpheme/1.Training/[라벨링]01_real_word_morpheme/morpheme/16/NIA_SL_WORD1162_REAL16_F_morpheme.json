@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0757/NIA_SL_WORD1162_REAL16_F.mp4",
+        "name": "NIA_SL_WORD1162_REAL16_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.341,
+            "end": 3.032,
+            "attributes": [
+                {
+                    "name": "등산"
+                }
+            ]
+        }
+    ]
+}

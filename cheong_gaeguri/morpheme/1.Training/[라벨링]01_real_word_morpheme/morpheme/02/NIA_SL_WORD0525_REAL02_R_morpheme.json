@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi326/NIA_SL_WORD0525_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0525_REAL02_R.mp4",
+        "duration": 3.584,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.283,
+            "end": 2.551,
+            "attributes": [
+                {
+                    "name": "무허가"
+                }
+            ]
+        }
+    ]
+}

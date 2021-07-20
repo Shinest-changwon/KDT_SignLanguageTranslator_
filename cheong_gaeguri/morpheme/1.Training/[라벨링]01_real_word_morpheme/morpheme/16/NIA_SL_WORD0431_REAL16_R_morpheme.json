@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0399/NIA_SL_WORD0431_REAL16_R.mp4",
+        "name": "NIA_SL_WORD0431_REAL16_R.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.281,
+            "end": 3.271,
+            "attributes": [
+                {
+                    "name": "상류층"
+                }
+            ]
+        }
+    ]
+}

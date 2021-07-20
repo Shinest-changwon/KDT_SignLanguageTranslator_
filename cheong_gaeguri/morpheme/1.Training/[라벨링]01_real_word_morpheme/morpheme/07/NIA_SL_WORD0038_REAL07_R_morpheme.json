@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0967/NIA_SL_WORD0038_REAL07_R.mp4",
+        "name": "NIA_SL_WORD0038_REAL07_R.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.707,
+            "end": 3.73,
+            "attributes": [
+                {
+                    "name": "배드민턴"
+                }
+            ]
+        }
+    ]
+}

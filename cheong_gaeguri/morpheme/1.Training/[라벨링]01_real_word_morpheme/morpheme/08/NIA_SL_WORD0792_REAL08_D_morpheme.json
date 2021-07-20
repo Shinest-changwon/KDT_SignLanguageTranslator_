@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0250/NIA_SL_WORD0792_REAL08_D.mp4",
+        "name": "NIA_SL_WORD0792_REAL08_D.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.725,
+            "end": 3.997,
+            "attributes": [
+                {
+                    "name": "장애유형"
+                }
+            ]
+        }
+    ]
+}

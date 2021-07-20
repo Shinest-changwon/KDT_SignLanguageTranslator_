@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0407/NIA_SL_WORD1020_REAL06_F.mp4",
+        "name": "NIA_SL_WORD1020_REAL06_F.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.776,
+            "end": 3.027,
+            "attributes": [
+                {
+                    "name": "광진구지부"
+                }
+            ]
+        }
+    ]
+}

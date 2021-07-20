@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_emyou0710/NIA_SL_WORD0743_REAL15_D.mp4",
+        "name": "NIA_SL_WORD0743_REAL15_D.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.463,
+            "end": 3.237,
+            "attributes": [
+                {
+                    "name": "완패"
+                }
+            ]
+        }
+    ]
+}

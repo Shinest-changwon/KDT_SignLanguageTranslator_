@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1115/NIA_SL_WORD2513_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2513_REAL07_R.mp4",
+        "duration": 2.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.342,
+            "end": 2.042,
+            "attributes": [
+                {
+                    "name": "벨기에"
+                }
+            ]
+        }
+    ]
+}

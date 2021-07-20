@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_hwlee0832/NIA_SL_WORD0764_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0764_REAL04_F.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.92,
+            "end": 4.183,
+            "attributes": [
+                {
+                    "name": "유조선"
+                }
+            ]
+        }
+    ]
+}

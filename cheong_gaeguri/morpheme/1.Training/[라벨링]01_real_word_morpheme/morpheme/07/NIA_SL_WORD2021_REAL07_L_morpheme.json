@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1106/NIA_SL_WORD2021_REAL07_L.mp4",
+        "name": "NIA_SL_WORD2021_REAL07_L.mp4",
+        "duration": 5.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.715,
+            "end": 3.683,
+            "attributes": [
+                {
+                    "name": "존경하다"
+                }
+            ]
+        }
+    ]
+}

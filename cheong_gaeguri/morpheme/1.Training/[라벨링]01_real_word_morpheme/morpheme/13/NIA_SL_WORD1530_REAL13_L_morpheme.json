@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1049/NIA_SL_WORD1530_REAL13_L.mp4",
+        "name": "NIA_SL_WORD1530_REAL13_L.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.264,
+            "end": 2.594,
+            "attributes": [
+                {
+                    "name": "바쁘다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_bkyu294/NIA_SL_WORD2524_REAL02_R.mp4",
+        "name": "NIA_SL_WORD2524_REAL02_R.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.13,
+            "end": 3.109,
+            "attributes": [
+                {
+                    "name": "제주도"
+                }
+            ]
+        }
+    ]
+}

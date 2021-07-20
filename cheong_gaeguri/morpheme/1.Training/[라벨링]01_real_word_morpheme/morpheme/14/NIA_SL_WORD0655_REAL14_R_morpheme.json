@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0306/NIA_SL_WORD0655_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0655_REAL14_R.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.537,
+            "end": 3.365,
+            "attributes": [
+                {
+                    "name": "수영장"
+                }
+            ]
+        }
+    ]
+}

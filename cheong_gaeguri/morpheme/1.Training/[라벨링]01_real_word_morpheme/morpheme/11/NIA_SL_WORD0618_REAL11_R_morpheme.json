@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0966/NIA_SL_WORD0618_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0618_REAL11_R.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.745,
+            "end": 3.992,
+            "attributes": [
+                {
+                    "name": "삭발"
+                }
+            ]
+        }
+    ]
+}

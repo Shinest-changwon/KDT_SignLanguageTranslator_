@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_swlee0475/NIA_SL_WORD0227_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0227_REAL14_U.mp4",
+        "duration": 4.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.064,
+            "end": 3.667,
+            "attributes": [
+                {
+                    "name": "학업"
+                }
+            ]
+        }
+    ]
+}

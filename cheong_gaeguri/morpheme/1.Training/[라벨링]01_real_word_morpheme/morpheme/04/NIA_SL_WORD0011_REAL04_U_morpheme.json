@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0832/NIA_SL_WORD0011_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0011_REAL04_U.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.682,
+            "end": 2.229,
+            "attributes": [
+                {
+                    "name": "안타깝다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0417/NIA_SL_WORD1616_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1616_REAL10_U.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.537,
+            "end": 2.667,
+            "attributes": [
+                {
+                    "name": "대덕구지부"
+                }
+            ]
+        }
+    ]
+}

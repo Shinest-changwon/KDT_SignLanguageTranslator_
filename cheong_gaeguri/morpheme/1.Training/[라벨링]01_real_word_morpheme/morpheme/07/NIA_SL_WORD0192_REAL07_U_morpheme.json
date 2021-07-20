@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0969/NIA_SL_WORD0192_REAL07_U.mp4",
+        "name": "NIA_SL_WORD0192_REAL07_U.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.46,
+            "end": 2.795,
+            "attributes": [
+                {
+                    "name": "버스값"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_emyou0747/NIA_SL_WORD0817_REAL16_F.mp4",
+        "name": "NIA_SL_WORD0817_REAL16_F.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.142,
+            "end": 2.63,
+            "attributes": [
+                {
+                    "name": "조간신문"
+                }
+            ]
+        }
+    ]
+}

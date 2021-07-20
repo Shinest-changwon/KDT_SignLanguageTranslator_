@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_emyou0339/NIA_SL_WORD0290_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0290_REAL01_U.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.549,
+            "end": 2.829,
+            "attributes": [
+                {
+                    "name": "하늘"
+                }
+            ]
+        }
+    ]
+}

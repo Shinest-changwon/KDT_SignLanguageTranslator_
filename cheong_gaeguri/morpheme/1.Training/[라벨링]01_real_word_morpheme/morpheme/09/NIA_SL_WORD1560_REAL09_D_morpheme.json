@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jwlee004/NIA_SL_WORD1560_REAL09_D.mp4",
+        "name": "NIA_SL_WORD1560_REAL09_D.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.651,
+            "end": 2.919,
+            "attributes": [
+                {
+                    "name": "아들딸"
+                }
+            ]
+        }
+    ]
+}

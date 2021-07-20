@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0412/NIA_SL_WORD1064_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1064_REAL06_R.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.956,
+            "end": 3.431,
+            "attributes": [
+                {
+                    "name": "용산구지부"
+                }
+            ]
+        }
+    ]
+}

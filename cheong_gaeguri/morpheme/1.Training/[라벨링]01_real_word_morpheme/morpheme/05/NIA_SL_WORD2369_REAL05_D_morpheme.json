@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/누락단어/NIA_SL_WORD2369_REAL05_D.mp4",
+        "name": "NIA_SL_WORD2369_REAL05_D.mp4",
+        "duration": 3.034,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.329,
+            "end": 2.259,
+            "attributes": [
+                {
+                    "name": "당황"
+                }
+            ]
+        }
+    ]
+}

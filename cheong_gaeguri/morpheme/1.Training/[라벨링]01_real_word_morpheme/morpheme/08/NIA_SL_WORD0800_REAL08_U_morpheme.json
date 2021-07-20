@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0250/NIA_SL_WORD0800_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0800_REAL08_U.mp4",
+        "duration": 5.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.894,
+            "end": 4.077,
+            "attributes": [
+                {
+                    "name": "재봉틀"
+                }
+            ]
+        }
+    ]
+}

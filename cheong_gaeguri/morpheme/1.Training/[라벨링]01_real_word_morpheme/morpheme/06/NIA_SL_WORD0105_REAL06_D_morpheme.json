@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1109/NIA_SL_WORD0105_REAL06_D.mp4",
+        "name": "NIA_SL_WORD0105_REAL06_D.mp4",
+        "duration": 3.517,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.911,
+            "end": 2.745,
+            "attributes": [
+                {
+                    "name": "쌀가루"
+                }
+            ]
+        }
+    ]
+}

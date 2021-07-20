@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0747/NIA_SL_WORD1061_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1061_REAL16_R.mp4",
+        "duration": 4.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.379,
+            "end": 2.913,
+            "attributes": [
+                {
+                    "name": "영등포구지부"
+                }
+            ]
+        }
+    ]
+}

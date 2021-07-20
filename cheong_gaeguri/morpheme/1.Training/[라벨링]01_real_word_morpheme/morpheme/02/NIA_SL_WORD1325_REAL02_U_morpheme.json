@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim307/NIA_SL_WORD1325_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1325_REAL02_U.mp4",
+        "duration": 3.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.255,
+            "end": 2.199,
+            "attributes": [
+                {
+                    "name": "파랑"
+                }
+            ]
+        }
+    ]
+}

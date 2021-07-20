@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0807/NIA_SL_WORD1465_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1465_REAL03_L.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.399,
+            "end": 2.821,
+            "attributes": [
+                {
+                    "name": "과천"
+                }
+            ]
+        }
+    ]
+}

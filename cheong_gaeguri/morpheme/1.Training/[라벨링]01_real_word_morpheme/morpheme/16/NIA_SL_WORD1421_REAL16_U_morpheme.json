@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_hwlee0758/NIA_SL_WORD1421_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1421_REAL16_U.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.357,
+            "end": 2.244,
+            "attributes": [
+                {
+                    "name": "관악"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0806/NIA_SL_WORD2005_REAL10_U.mp4",
+        "name": "NIA_SL_WORD2005_REAL10_U.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.487,
+            "end": 3.219,
+            "attributes": [
+                {
+                    "name": "아기"
+                }
+            ]
+        }
+    ]
+}

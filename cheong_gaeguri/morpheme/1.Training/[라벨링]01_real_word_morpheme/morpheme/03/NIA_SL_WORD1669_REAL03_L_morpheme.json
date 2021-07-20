@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0802/NIA_SL_WORD1669_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1669_REAL03_L.mp4",
+        "duration": 5.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.32,
+            "end": 4.599,
+            "attributes": [
+                {
+                    "name": "동두천시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

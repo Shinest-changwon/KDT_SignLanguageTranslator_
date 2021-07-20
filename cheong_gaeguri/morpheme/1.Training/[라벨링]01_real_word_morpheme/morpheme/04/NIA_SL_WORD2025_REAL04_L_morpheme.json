@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0833/NIA_SL_WORD2025_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2025_REAL04_L.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.561,
+            "end": 4.148,
+            "attributes": [
+                {
+                    "name": "타인"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon313/NIA_SL_WORD1843_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1843_REAL02_R.mp4",
+        "duration": 4.25,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.598,
+            "end": 3.602,
+            "attributes": [
+                {
+                    "name": "홍성군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

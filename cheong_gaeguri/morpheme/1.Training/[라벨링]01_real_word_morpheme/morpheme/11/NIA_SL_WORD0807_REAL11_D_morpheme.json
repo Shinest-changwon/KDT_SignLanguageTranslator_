@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0985/NIA_SL_WORD0807_REAL11_D.mp4",
+        "name": "NIA_SL_WORD0807_REAL11_D.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.311,
+            "end": 3.814,
+            "attributes": [
+                {
+                    "name": "전쟁터"
+                }
+            ]
+        }
+    ]
+}

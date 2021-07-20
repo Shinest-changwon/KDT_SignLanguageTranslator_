@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0853/NIA_SL_WORD0224_REAL04_L.mp4",
+        "name": "NIA_SL_WORD0224_REAL04_L.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.468,
+            "end": 3.083,
+            "attributes": [
+                {
+                    "name": "분필"
+                }
+            ]
+        }
+    ]
+}

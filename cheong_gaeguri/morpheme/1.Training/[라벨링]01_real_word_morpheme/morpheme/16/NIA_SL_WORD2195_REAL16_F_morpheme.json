@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_sjim1042/NIA_SL_WORD2195_REAL16_F.mp4",
+        "name": "NIA_SL_WORD2195_REAL16_F.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.031,
+            "end": 3.351,
+            "attributes": [
+                {
+                    "name": "구인"
+                }
+            ]
+        }
+    ]
+}

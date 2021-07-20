@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_swlee0802/NIA_SL_WORD2464_REAL10_F.mp4",
+        "name": "NIA_SL_WORD2464_REAL10_F.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2,
+            "end": 4.313,
+            "attributes": [
+                {
+                    "name": "대구광역시청"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_bkyu0625/NIA_SL_WORD1892_REAL03_F.mp4",
+        "name": "NIA_SL_WORD1892_REAL03_F.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.286,
+            "end": 3.426,
+            "attributes": [
+                {
+                    "name": "광양군지부"
+                }
+            ]
+        }
+    ]
+}

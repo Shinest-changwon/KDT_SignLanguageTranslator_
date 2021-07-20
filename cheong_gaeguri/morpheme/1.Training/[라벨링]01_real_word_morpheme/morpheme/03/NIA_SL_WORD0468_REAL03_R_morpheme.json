@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_emyou0807/NIA_SL_WORD0468_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0468_REAL03_R.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.974,
+            "end": 2.305,
+            "attributes": [
+                {
+                    "name": "담당"
+                }
+            ]
+        }
+    ]
+}

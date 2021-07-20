@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0700/NIA_SL_WORD1533_REAL15_F.mp4",
+        "name": "NIA_SL_WORD1533_REAL15_F.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.324,
+            "end": 2.396,
+            "attributes": [
+                {
+                    "name": "병"
+                }
+            ]
+        }
+    ]
+}

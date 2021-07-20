@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1123_mrkim1032/NIA_SL_WORD2970_REAL08_D.mp4",
+        "name": "NIA_SL_WORD2970_REAL08_D.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.449,
+            "end": 2.392,
+            "attributes": [
+                {
+                    "name": "구억"
+                }
+            ]
+        }
+    ]
+}

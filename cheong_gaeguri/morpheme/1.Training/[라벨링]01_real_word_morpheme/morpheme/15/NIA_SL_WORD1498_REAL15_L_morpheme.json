@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0696/NIA_SL_WORD1498_REAL15_L.mp4",
+        "name": "NIA_SL_WORD1498_REAL15_L.mp4",
+        "duration": 2.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.153,
+            "end": 2.217,
+            "attributes": [
+                {
+                    "name": "경주"
+                }
+            ]
+        }
+    ]
+}

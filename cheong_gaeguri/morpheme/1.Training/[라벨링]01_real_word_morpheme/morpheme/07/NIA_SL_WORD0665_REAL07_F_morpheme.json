@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0980/NIA_SL_WORD0665_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0665_REAL07_F.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.874,
+            "end": 2.867,
+            "attributes": [
+                {
+                    "name": "일곱번째"
+                }
+            ]
+        }
+    ]
+}

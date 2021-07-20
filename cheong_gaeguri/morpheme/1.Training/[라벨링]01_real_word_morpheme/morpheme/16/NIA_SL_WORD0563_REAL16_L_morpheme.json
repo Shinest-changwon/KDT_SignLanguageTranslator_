@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_bkyu0747/NIA_SL_WORD0563_REAL16_L.mp4",
+        "name": "NIA_SL_WORD0563_REAL16_L.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.104,
+            "end": 2.773,
+            "attributes": [
+                {
+                    "name": "출산증가"
+                }
+            ]
+        }
+    ]
+}

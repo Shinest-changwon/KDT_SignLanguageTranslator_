@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi331/NIA_SL_WORD0579_REAL02_U.mp4",
+        "name": "NIA_SL_WORD0579_REAL02_U.mp4",
+        "duration": 3.817,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.711,
+            "end": 3.162,
+            "attributes": [
+                {
+                    "name": "복지카드"
+                }
+            ]
+        }
+    ]
+}

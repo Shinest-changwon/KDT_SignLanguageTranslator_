@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0838/NIA_SL_WORD1579_REAL04_D.mp4",
+        "name": "NIA_SL_WORD1579_REAL04_D.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.279,
+            "end": 3.481,
+            "attributes": [
+                {
+                    "name": "먹칠하다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0347/NIA_SL_WORD2361_REAL01_L.mp4",
+        "name": "NIA_SL_WORD2361_REAL01_L.mp4",
+        "duration": 2.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.959,
+            "end": 1.828,
+            "attributes": [
+                {
+                    "name": "해하다"
+                }
+            ]
+        }
+    ]
+}

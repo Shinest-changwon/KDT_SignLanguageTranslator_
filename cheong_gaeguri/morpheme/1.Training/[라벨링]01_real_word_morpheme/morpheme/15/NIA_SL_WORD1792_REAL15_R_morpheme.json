@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1053/NIA_SL_WORD1792_REAL15_R.mp4",
+        "name": "NIA_SL_WORD1792_REAL15_R.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.961,
+            "end": 2.75,
+            "attributes": [
+                {
+                    "name": "제천시청"
+                }
+            ]
+        }
+    ]
+}

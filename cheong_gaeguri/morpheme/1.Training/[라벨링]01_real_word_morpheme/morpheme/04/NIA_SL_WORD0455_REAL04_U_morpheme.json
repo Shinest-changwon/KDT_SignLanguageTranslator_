@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0851/NIA_SL_WORD0455_REAL04_U.mp4",
+        "name": "NIA_SL_WORD0455_REAL04_U.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.106,
+            "end": 2.408,
+            "attributes": [
+                {
+                    "name": "비루"
+                }
+            ]
+        }
+    ]
+}

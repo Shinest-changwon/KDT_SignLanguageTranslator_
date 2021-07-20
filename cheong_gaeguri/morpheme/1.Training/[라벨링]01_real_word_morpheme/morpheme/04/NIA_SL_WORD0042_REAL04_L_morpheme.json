@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0835/NIA_SL_WORD0042_REAL04_L.mp4",
+        "name": "NIA_SL_WORD0042_REAL04_L.mp4",
+        "duration": 5.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.102,
+            "end": 4.465,
+            "attributes": [
+                {
+                    "name": "불면증"
+                }
+            ]
+        }
+    ]
+}

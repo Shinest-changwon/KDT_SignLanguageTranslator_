@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_sjim1148/NIA_SL_WORD1470_REAL01_F.mp4",
+        "name": "NIA_SL_WORD1470_REAL01_F.mp4",
+        "duration": 4.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.026,
+            "end": 3.104,
+            "attributes": [
+                {
+                    "name": "시흥"
+                }
+            ]
+        }
+    ]
+}

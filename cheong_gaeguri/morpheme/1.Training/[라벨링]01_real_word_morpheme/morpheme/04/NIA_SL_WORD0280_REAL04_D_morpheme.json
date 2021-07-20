@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0833/NIA_SL_WORD0280_REAL04_D.mp4",
+        "name": "NIA_SL_WORD0280_REAL04_D.mp4",
+        "duration": 5.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.914,
+            "end": 4.481,
+            "attributes": [
+                {
+                    "name": "고소"
+                }
+            ]
+        }
+    ]
+}

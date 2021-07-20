@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0921/NIA_SL_WORD2206_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2206_REAL16_U.mp4",
+        "duration": 3.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.946,
+            "end": 2.578,
+            "attributes": [
+                {
+                    "name": "깜빡하다"
+                }
+            ]
+        }
+    ]
+}

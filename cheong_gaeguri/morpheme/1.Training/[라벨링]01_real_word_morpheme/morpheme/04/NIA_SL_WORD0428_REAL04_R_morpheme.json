@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_emyou0848/NIA_SL_WORD0428_REAL04_R.mp4",
+        "name": "NIA_SL_WORD0428_REAL04_R.mp4",
+        "duration": 5.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.082,
+            "end": 4.372,
+            "attributes": [
+                {
+                    "name": "군비행장"
+                }
+            ]
+        }
+    ]
+}

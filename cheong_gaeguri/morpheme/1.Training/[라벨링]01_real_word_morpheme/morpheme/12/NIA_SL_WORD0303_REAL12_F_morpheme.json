@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_rhkim0651/NIA_SL_WORD0303_REAL12_F.mp4",
+        "name": "NIA_SL_WORD0303_REAL12_F.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.589,
+            "end": 3.013,
+            "attributes": [
+                {
+                    "name": "솔잎"
+                }
+            ]
+        }
+    ]
+}

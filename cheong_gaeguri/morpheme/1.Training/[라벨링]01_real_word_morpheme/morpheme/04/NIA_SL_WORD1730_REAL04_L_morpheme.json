@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0853/NIA_SL_WORD1730_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1730_REAL04_L.mp4",
+        "duration": 6.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.676,
+            "end": 5.511,
+            "attributes": [
+                {
+                    "name": "고성시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

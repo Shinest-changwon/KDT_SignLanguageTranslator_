@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1191/NIA_SL_WORD2453_REAL12_F.mp4",
+        "name": "NIA_SL_WORD2453_REAL12_F.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.501,
+            "end": 3.476,
+            "attributes": [
+                {
+                    "name": "하동군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

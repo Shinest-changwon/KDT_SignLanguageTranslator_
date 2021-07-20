@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0409/NIA_SL_WORD1035_REAL06_L.mp4",
+        "name": "NIA_SL_WORD1035_REAL06_L.mp4",
+        "duration": 4.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.082,
+            "end": 4.299,
+            "attributes": [
+                {
+                    "name": "동대문구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

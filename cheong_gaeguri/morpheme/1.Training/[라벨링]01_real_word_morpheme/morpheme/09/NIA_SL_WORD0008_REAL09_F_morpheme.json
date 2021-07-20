@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0471/NIA_SL_WORD0008_REAL09_F.mp4",
+        "name": "NIA_SL_WORD0008_REAL09_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.501,
+            "end": 2.899,
+            "attributes": [
+                {
+                    "name": "발가락"
+                }
+            ]
+        }
+    ]
+}

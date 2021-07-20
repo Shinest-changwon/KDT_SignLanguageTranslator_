@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_swlee1051/NIA_SL_WORD2484_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2484_REAL07_R.mp4",
+        "duration": 3.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.565,
+            "end": 2.883,
+            "attributes": [
+                {
+                    "name": "통찰"
+                }
+            ]
+        }
+    ]
+}

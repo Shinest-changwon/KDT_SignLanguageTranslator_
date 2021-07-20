@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_jhhan0355/NIA_SL_WORD1698_REAL01_U.mp4",
+        "name": "NIA_SL_WORD1698_REAL01_U.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.907,
+            "end": 3.541,
+            "attributes": [
+                {
+                    "name": "용인시지부"
+                }
+            ]
+        }
+    ]
+}

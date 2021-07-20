@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_bkyu0488/NIA_SL_WORD0172_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0172_REAL09_L.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.086,
+            "end": 3.973,
+            "attributes": [
+                {
+                    "name": "터미널"
+                }
+            ]
+        }
+    ]
+}

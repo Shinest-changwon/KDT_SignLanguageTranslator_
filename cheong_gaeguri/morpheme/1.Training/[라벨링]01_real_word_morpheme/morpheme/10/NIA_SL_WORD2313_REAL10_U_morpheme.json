@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_swlee0787/NIA_SL_WORD2313_REAL10_U.mp4",
+        "name": "NIA_SL_WORD2313_REAL10_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.198,
+            "end": 2.957,
+            "attributes": [
+                {
+                    "name": "팔랑귀"
+                }
+            ]
+        }
+    ]
+}

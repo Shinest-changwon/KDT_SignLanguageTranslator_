@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0804/NIA_SL_WORD0187_REAL03_U.mp4",
+        "name": "NIA_SL_WORD0187_REAL03_U.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.726,
+            "end": 3.766,
+            "attributes": [
+                {
+                    "name": "간호사"
+                }
+            ]
+        }
+    ]
+}

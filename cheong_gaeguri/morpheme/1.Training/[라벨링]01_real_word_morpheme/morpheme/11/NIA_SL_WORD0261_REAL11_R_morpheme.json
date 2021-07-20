@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0981/NIA_SL_WORD0261_REAL11_R.mp4",
+        "name": "NIA_SL_WORD0261_REAL11_R.mp4",
+        "duration": 4.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.462,
+            "end": 3.548,
+            "attributes": [
+                {
+                    "name": "장난"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_gdchoi0293/NIA_SL_WORD1024_REAL14_U.mp4",
+        "name": "NIA_SL_WORD1024_REAL14_U.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.214,
+            "end": 3.232,
+            "attributes": [
+                {
+                    "name": "구로구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

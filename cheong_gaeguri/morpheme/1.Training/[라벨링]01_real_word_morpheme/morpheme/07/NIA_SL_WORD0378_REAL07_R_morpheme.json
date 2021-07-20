@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_bkyu0972/NIA_SL_WORD0378_REAL07_R.mp4",
+        "name": "NIA_SL_WORD0378_REAL07_R.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.829,
+            "end": 3.24,
+            "attributes": [
+                {
+                    "name": "휴학"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_emyou0239/NIA_SL_SEN0338_REAL01_F.mp4",
+        "name": "NIA_SL_SEN0338_REAL01_F.mp4",
+        "duration": 5.117,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.475,
+            "end": 2.555,
+            "attributes": [
+                {
+                    "name": "곳곳",
+                    "attribute": [
+                        "1형태소 의문사 있는 의문형"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_moyu1201/NIA_SL_WORD2064_REAL15_U.mp4",
+        "name": "NIA_SL_WORD2064_REAL15_U.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.525,
+            "end": 3.588,
+            "attributes": [
+                {
+                    "name": "여행자"
+                }
+            ]
+        }
+    ]
+}

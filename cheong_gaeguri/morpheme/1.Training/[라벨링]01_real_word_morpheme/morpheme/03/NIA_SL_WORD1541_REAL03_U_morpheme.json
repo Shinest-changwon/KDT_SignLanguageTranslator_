@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0790/NIA_SL_WORD1541_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1541_REAL03_U.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.502,
+            "end": 2.647,
+            "attributes": [
+                {
+                    "name": "성공"
+                }
+            ]
+        }
+    ]
+}

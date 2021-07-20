@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_jhhan302/NIA_SL_WORD1083_REAL25_D.mp4",
+        "name": "NIA_SL_WORD1083_REAL25_D.mp4",
+        "duration": 3.95,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 2.083,
+            "end": 3.478,
+            "attributes": [
+                {
+                    "name": "북구지부"
+                }
+            ]
+        }
+    ]
+}

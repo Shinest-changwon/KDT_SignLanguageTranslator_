@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_hwkee1155/NIA_SL_WORD0855_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0855_REAL05_U.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.136,
+            "end": 3.166,
+            "attributes": [
+                {
+                    "name": "철문"
+                }
+            ]
+        }
+    ]
+}

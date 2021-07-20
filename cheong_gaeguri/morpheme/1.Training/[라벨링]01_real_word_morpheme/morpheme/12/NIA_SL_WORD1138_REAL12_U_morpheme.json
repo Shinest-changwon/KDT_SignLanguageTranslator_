@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_bkyu1191/NIA_SL_WORD1138_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1138_REAL12_U.mp4",
+        "duration": 3.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.32,
+            "end": 2.317,
+            "attributes": [
+                {
+                    "name": "눕다"
+                }
+            ]
+        }
+    ]
+}

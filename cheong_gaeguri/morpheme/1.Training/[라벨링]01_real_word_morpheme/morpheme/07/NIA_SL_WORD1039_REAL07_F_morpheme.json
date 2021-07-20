@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_hwlee1115/NIA_SL_WORD1039_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1039_REAL07_F.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.439,
+            "end": 3.002,
+            "attributes": [
+                {
+                    "name": "동작구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0799/NIA_SL_WORD0139_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0139_REAL03_R.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.242,
+            "end": 4.142,
+            "attributes": [
+                {
+                    "name": "관광버스"
+                }
+            ]
+        }
+    ]
+}

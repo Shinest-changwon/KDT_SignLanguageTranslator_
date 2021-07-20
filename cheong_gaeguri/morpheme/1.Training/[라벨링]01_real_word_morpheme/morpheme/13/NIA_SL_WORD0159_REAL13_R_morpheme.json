@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0606/NIA_SL_WORD0159_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0159_REAL13_R.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.731,
+            "end": 2.865,
+            "attributes": [
+                {
+                    "name": "요리사"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou338/NIA_SL_WORD0314_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0314_REAL02_F.mp4",
+        "duration": 3.45,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.841,
+            "end": 2.477,
+            "attributes": [
+                {
+                    "name": "네번째"
+                }
+            ]
+        }
+    ]
+}

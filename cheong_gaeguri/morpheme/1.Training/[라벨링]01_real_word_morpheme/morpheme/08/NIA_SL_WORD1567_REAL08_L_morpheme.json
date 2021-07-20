@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0252/NIA_SL_WORD1567_REAL08_L.mp4",
+        "name": "NIA_SL_WORD1567_REAL08_L.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.08,
+            "end": 3.683,
+            "attributes": [
+                {
+                    "name": "조상"
+                }
+            ]
+        }
+    ]
+}

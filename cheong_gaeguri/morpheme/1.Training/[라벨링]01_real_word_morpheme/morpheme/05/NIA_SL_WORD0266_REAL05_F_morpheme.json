@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_emyou1160/NIA_SL_WORD0266_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0266_REAL05_F.mp4",
+        "duration": 4.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.019,
+            "end": 3.5,
+            "attributes": [
+                {
+                    "name": "쇠기둥"
+                }
+            ]
+        }
+    ]
+}

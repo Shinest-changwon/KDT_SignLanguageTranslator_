@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_sjim0429/NIA_SL_WORD1992_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1992_REAL10_R.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.996,
+            "end": 3.989,
+            "attributes": [
+                {
+                    "name": "청도군지부"
+                }
+            ]
+        }
+    ]
+}

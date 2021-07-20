@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou318/NIA_SL_WORD0118_REAL02_L.mp4",
+        "name": "NIA_SL_WORD0118_REAL02_L.mp4",
+        "duration": 4.684,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.292,
+            "end": 3.317,
+            "attributes": [
+                {
+                    "name": "통조림"
+                }
+            ]
+        }
+    ]
+}

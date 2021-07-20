@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_bkyu0345/NIA_SL_WORD0095_REAL01_L.mp4",
+        "name": "NIA_SL_WORD0095_REAL01_L.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.412,
+            "end": 3.503,
+            "attributes": [
+                {
+                    "name": "보신탕"
+                }
+            ]
+        }
+    ]
+}

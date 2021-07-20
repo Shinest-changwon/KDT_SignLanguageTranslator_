@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_gdchoi0307/NIA_SL_WORD1166_REAL14_U.mp4",
+        "name": "NIA_SL_WORD1166_REAL14_U.mp4",
+        "duration": 4.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.316,
+            "end": 2.624,
+            "attributes": [
+                {
+                    "name": "종아리맞다"
+                }
+            ]
+        }
+    ]
+}

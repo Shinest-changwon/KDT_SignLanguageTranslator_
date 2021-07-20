@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_gdchoi0255/NIA_SL_WORD0600_REAL08_R.mp4",
+        "name": "NIA_SL_WORD0600_REAL08_R.mp4",
+        "duration": 4.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.616,
+            "end": 3.995,
+            "attributes": [
+                {
+                    "name": "사냥꾼"
+                }
+            ]
+        }
+    ]
+}

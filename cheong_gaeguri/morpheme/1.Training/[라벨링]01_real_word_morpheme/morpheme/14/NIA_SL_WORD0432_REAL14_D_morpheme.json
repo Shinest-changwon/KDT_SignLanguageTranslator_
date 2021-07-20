@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_bkyu1072/NIA_SL_WORD0432_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0432_REAL14_D.mp4",
+        "duration": 5.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.576,
+            "end": 3.547,
+            "attributes": [
+                {
+                    "name": "모범"
+                }
+            ]
+        }
+    ]
+}

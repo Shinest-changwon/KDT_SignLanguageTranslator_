@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0261/NIA_SL_WORD0156_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0156_REAL08_U.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.179,
+            "end": 3.874,
+            "attributes": [
+                {
+                    "name": "기차역"
+                }
+            ]
+        }
+    ]
+}

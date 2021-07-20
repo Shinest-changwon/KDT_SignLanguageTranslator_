@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0406/NIA_SL_WORD1008_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1008_REAL10_U.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.506,
+            "end": 3.783,
+            "attributes": [
+                {
+                    "name": "강동구지부"
+                }
+            ]
+        }
+    ]
+}

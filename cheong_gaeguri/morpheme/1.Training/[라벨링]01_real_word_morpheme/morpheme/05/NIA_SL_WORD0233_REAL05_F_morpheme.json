@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_emyou1157/NIA_SL_WORD0233_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0233_REAL05_F.mp4",
+        "duration": 5.684,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.776,
+            "end": 4.076,
+            "attributes": [
+                {
+                    "name": "예습"
+                }
+            ]
+        }
+    ]
+}

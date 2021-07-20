@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi319/NIA_SL_WORD0459_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0459_REAL02_R.mp4",
+        "duration": 3.05,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.87,
+            "end": 2.378,
+            "attributes": [
+                {
+                    "name": "능숙"
+                }
+            ]
+        }
+    ]
+}

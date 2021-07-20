@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi334/NIA_SL_WORD0602_REAL02_D.mp4",
+        "name": "NIA_SL_WORD0602_REAL02_D.mp4",
+        "duration": 3.117,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.914,
+            "end": 2.417,
+            "attributes": [
+                {
+                    "name": "면제"
+                }
+            ]
+        }
+    ]
+}

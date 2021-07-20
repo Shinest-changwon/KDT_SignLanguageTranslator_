@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_sjim0295/NIA_SL_WORD2292_REAL14_F.mp4",
+        "name": "NIA_SL_WORD2292_REAL14_F.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.52,
+            "end": 2.574,
+            "attributes": [
+                {
+                    "name": "넘기다"
+                }
+            ]
+        }
+    ]
+}

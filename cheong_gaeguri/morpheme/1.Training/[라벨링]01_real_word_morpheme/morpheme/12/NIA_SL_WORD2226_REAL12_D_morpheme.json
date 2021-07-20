@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_mrkim1185/NIA_SL_WORD2226_REAL12_D.mp4",
+        "name": "NIA_SL_WORD2226_REAL12_D.mp4",
+        "duration": 2.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.783,
+            "end": 1.896,
+            "attributes": [
+                {
+                    "name": "거절"
+                }
+            ]
+        }
+    ]
+}

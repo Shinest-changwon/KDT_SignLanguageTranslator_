@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_hwlee1072/NIA_SL_WORD1339_REAL13_U.mp4",
+        "name": "NIA_SL_WORD1339_REAL13_U.mp4",
+        "duration": 3.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.364,
+            "end": 2.387,
+            "attributes": [
+                {
+                    "name": "불신"
+                }
+            ]
+        }
+    ]
+}

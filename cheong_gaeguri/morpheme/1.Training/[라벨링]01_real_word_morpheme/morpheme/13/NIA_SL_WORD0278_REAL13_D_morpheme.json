@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0618/NIA_SL_WORD0278_REAL13_D.mp4",
+        "name": "NIA_SL_WORD0278_REAL13_D.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.175,
+            "end": 3.298,
+            "attributes": [
+                {
+                    "name": "국왕"
+                }
+            ]
+        }
+    ]
+}

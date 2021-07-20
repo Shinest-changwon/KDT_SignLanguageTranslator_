@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_bkyu0845/NIA_SL_WORD0148_REAL04_F.mp4",
+        "name": "NIA_SL_WORD0148_REAL04_F.mp4",
+        "duration": 5.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.692,
+            "end": 4.136,
+            "attributes": [
+                {
+                    "name": "마을버스"
+                }
+            ]
+        }
+    ]
+}

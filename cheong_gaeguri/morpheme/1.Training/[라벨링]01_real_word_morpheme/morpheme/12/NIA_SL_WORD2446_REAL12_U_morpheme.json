@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_rhkim1190/NIA_SL_WORD2446_REAL12_U.mp4",
+        "name": "NIA_SL_WORD2446_REAL12_U.mp4",
+        "duration": 5.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.557,
+            "end": 4.557,
+            "attributes": [
+                {
+                    "name": "창원시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

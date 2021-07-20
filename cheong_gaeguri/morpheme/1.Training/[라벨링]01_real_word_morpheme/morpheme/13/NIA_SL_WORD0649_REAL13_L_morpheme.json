@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1039/NIA_SL_WORD0649_REAL13_L.mp4",
+        "name": "NIA_SL_WORD0649_REAL13_L.mp4",
+        "duration": 5.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.622,
+            "end": 4.131,
+            "attributes": [
+                {
+                    "name": "센티미터"
+                }
+            ]
+        }
+    ]
+}

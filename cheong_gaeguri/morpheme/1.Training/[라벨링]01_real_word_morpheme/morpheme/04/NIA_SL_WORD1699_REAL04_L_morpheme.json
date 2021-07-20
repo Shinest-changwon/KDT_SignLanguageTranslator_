@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_rhkim0850/NIA_SL_WORD1699_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1699_REAL04_L.mp4",
+        "duration": 6.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.476,
+            "end": 5.117,
+            "attributes": [
+                {
+                    "name": "용인시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

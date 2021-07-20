@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0298/NIA_SL_WORD0580_REAL14_U.mp4",
+        "name": "NIA_SL_WORD0580_REAL14_U.mp4",
+        "duration": 5.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.659,
+            "end": 4.056,
+            "attributes": [
+                {
+                    "name": "희미"
+                }
+            ]
+        }
+    ]
+}

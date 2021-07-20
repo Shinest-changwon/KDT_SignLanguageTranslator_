@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_emyou0294/NIA_SL_WORD0786_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0786_REAL14_R.mp4",
+        "duration": 3.567,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.834,
+            "end": 2.516,
+            "attributes": [
+                {
+                    "name": "작업복"
+                }
+            ]
+        }
+    ]
+}

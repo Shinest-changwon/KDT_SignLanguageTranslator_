@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_emyou0304/NIA_SL_WORD0884_REAL14_D.mp4",
+        "name": "NIA_SL_WORD0884_REAL14_D.mp4",
+        "duration": 4.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.593,
+            "end": 3.661,
+            "attributes": [
+                {
+                    "name": "치과의사"
+                }
+            ]
+        }
+    ]
+}

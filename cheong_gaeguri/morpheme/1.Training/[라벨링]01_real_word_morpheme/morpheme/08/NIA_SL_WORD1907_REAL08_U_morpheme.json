@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0261/NIA_SL_WORD1907_REAL08_U.mp4",
+        "name": "NIA_SL_WORD1907_REAL08_U.mp4",
+        "duration": 3.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.484,
+            "end": 2.808,
+            "attributes": [
+                {
+                    "name": "순천시지부"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_gdchoi1160/NIA_SL_WORD0527_REAL13_R.mp4",
+        "name": "NIA_SL_WORD0527_REAL13_R.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.634,
+            "end": 4.634,
+            "attributes": [
+                {
+                    "name": "문잠그다"
+                }
+            ]
+        }
+    ]
+}

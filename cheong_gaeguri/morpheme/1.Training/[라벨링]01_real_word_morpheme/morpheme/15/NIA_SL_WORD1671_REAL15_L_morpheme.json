@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0713/NIA_SL_WORD1671_REAL15_L.mp4",
+        "name": "NIA_SL_WORD1671_REAL15_L.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.087,
+            "end": 2.352,
+            "attributes": [
+                {
+                    "name": "부천시지부"
+                }
+            ]
+        }
+    ]
+}

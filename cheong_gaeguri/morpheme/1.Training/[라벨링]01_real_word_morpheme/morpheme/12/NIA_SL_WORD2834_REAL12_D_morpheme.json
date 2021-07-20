@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_yhjeon1178/NIA_SL_WORD2834_REAL12_D.mp4",
+        "name": "NIA_SL_WORD2834_REAL12_D.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.206,
+            "end": 2.644,
+            "attributes": [
+                {
+                    "name": "이백이십"
+                }
+            ]
+        }
+    ]
+}

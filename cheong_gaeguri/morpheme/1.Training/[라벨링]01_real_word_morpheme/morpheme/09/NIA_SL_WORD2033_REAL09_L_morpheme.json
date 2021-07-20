@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_hwlee0481/NIA_SL_WORD2033_REAL09_L.mp4",
+        "name": "NIA_SL_WORD2033_REAL09_L.mp4",
+        "duration": 4.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.976,
+            "end": 3.313,
+            "attributes": [
+                {
+                    "name": "파헤치다"
+                }
+            ]
+        }
+    ]
+}

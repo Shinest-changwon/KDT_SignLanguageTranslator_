@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_emyou0428/NIA_SL_WORD0476_REAL10_D.mp4",
+        "name": "NIA_SL_WORD0476_REAL10_D.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.622,
+            "end": 3.304,
+            "attributes": [
+                {
+                    "name": "세수대야"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0256/NIA_SL_WORD1605_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1605_REAL08_F.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.822,
+            "end": 3.425,
+            "attributes": [
+                {
+                    "name": "수성구지부"
+                }
+            ]
+        }
+    ]
+}

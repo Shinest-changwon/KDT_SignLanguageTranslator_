@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0712/NIA_SL_WORD0518_REAL15_D.mp4",
+        "name": "NIA_SL_WORD0518_REAL15_D.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.821,
+            "end": 2.368,
+            "attributes": [
+                {
+                    "name": "모범생"
+                }
+            ]
+        }
+    ]
+}

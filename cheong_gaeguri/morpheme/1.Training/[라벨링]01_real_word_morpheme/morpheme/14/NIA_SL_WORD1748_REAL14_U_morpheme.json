@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_jhhan0315/NIA_SL_WORD1748_REAL14_U.mp4",
+        "name": "NIA_SL_WORD1748_REAL14_U.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.285,
+            "end": 3.568,
+            "attributes": [
+                {
+                    "name": "원주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

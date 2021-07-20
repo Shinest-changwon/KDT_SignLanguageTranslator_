@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_moyu0755/NIA_SL_WORD1641_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1641_REAL16_D.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.353,
+            "end": 2.955,
+            "attributes": [
+                {
+                    "name": "가평군지부"
+                }
+            ]
+        }
+    ]
+}

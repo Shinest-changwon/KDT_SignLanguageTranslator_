@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_moyu296/NIA_SL_WORD2878_REAL02_L.mp4",
+        "name": "NIA_SL_WORD2878_REAL02_L.mp4",
+        "duration": 2.717,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.181,
+            "end": 1.97,
+            "attributes": [
+                {
+                    "name": "팔천"
+                }
+            ]
+        }
+    ]
+}

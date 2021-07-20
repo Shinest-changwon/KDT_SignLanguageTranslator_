@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_swlee0300/NIA_SL_WORD2592_REAL14_R.mp4",
+        "name": "NIA_SL_WORD2592_REAL14_R.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.777,
+            "end": 3.091,
+            "attributes": [
+                {
+                    "name": "인도"
+                }
+            ]
+        }
+    ]
+}

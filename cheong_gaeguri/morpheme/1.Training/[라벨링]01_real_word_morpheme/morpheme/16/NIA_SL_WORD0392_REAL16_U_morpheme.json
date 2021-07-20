@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1103_yhjeon0395/NIA_SL_WORD0392_REAL16_U.mp4",
+        "name": "NIA_SL_WORD0392_REAL16_U.mp4",
+        "duration": 5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.522,
+            "end": 4.077,
+            "attributes": [
+                {
+                    "name": "동거"
+                }
+            ]
+        }
+    ]
+}

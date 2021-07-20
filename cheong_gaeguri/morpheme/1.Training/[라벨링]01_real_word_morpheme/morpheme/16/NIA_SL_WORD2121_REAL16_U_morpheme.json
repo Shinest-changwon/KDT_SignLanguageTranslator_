@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1069/NIA_SL_WORD2121_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2121_REAL16_U.mp4",
+        "duration": 3.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.267,
+            "end": 2.827,
+            "attributes": [
+                {
+                    "name": "난감하다"
+                }
+            ]
+        }
+    ]
+}

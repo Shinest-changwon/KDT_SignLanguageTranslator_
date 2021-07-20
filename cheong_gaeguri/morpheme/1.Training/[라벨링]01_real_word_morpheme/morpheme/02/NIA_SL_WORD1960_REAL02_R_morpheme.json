@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon324/NIA_SL_WORD1960_REAL02_R.mp4",
+        "name": "NIA_SL_WORD1960_REAL02_R.mp4",
+        "duration": 5.317,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.218,
+            "end": 4.425,
+            "attributes": [
+                {
+                    "name": "상주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

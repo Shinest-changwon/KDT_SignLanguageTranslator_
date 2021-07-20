@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1201_emyou1164/NIA_SL_WORD0309_REAL05_U.mp4",
+        "name": "NIA_SL_WORD0309_REAL05_U.mp4",
+        "duration": 4.25,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.402,
+            "end": 2.826,
+            "attributes": [
+                {
+                    "name": "어젯밤"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_yhjeon313/NIA_SL_WORD1849_REAL02_L.mp4",
+        "name": "NIA_SL_WORD1849_REAL02_L.mp4",
+        "duration": 3.384,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.238,
+            "end": 2.84,
+            "attributes": [
+                {
+                    "name": "군산시지부"
+                }
+            ]
+        }
+    ]
+}

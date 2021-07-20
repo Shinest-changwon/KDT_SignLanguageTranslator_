@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_mrkim1072/NIA_SL_WORD1888_REAL07_U.mp4",
+        "name": "NIA_SL_WORD1888_REAL07_U.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.31,
+            "end": 3.105,
+            "attributes": [
+                {
+                    "name": "고흥군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

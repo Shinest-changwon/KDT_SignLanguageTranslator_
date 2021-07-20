@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_rhkim0753/NIA_SL_WORD2622_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2622_REAL16_U.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.639,
+            "end": 3.127,
+            "attributes": [
+                {
+                    "name": "눈썰미"
+                }
+            ]
+        }
+    ]
+}

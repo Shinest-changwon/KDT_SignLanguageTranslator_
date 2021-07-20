@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_sjim0483/NIA_SL_WORD0055_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0055_REAL14_R.mp4",
+        "duration": 4.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.659,
+            "end": 3.361,
+            "attributes": [
+                {
+                    "name": "예식장"
+                }
+            ]
+        }
+    ]
+}

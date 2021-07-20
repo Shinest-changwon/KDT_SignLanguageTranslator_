@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_hwlee0981/NIA_SL_WORD0269_REAL11_F.mp4",
+        "name": "NIA_SL_WORD0269_REAL11_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.566,
+            "end": 3.29,
+            "attributes": [
+                {
+                    "name": "문학"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_bkyu0708/NIA_SL_WORD0474_REAL15_F.mp4",
+        "name": "NIA_SL_WORD0474_REAL15_F.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.832,
+            "end": 2.8,
+            "attributes": [
+                {
+                    "name": "대필"
+                }
+            ]
+        }
+    ]
+}

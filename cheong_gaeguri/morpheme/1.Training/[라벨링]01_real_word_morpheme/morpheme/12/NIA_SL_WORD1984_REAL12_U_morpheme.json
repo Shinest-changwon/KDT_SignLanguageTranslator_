@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_yhjeon0674/NIA_SL_WORD1984_REAL12_U.mp4",
+        "name": "NIA_SL_WORD1984_REAL12_U.mp4",
+        "duration": 6.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.443,
+            "end": 5.51,
+            "attributes": [
+                {
+                    "name": "울릉군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

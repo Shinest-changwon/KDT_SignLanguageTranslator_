@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_emyou0534/NIA_SL_WORD1386_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1386_REAL11_R.mp4",
+        "duration": 3.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.409,
+            "end": 2.833,
+            "attributes": [
+                {
+                    "name": "몸"
+                }
+            ]
+        }
+    ]
+}

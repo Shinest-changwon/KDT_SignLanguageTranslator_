@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0844/NIA_SL_WORD1890_REAL04_F.mp4",
+        "name": "NIA_SL_WORD1890_REAL04_F.mp4",
+        "duration": 7.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.426,
+            "end": 6.338,
+            "attributes": [
+                {
+                    "name": "곡성군수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0834/NIA_SL_WORD2032_REAL04_U.mp4",
+        "name": "NIA_SL_WORD2032_REAL04_U.mp4",
+        "duration": 5.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.204,
+            "end": 3.958,
+            "attributes": [
+                {
+                    "name": "노인"
+                }
+            ]
+        }
+    ]
+}

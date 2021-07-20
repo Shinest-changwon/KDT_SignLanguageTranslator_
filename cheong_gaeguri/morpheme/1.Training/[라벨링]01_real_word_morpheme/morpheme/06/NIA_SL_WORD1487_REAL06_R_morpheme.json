@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_yhjeon0429/NIA_SL_WORD1487_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1487_REAL06_R.mp4",
+        "duration": 5.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.824,
+            "end": 4.072,
+            "attributes": [
+                {
+                    "name": "동두천"
+                }
+            ]
+        }
+    ]
+}

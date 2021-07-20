@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_swlee0422/NIA_SL_WORD1170_REAL06_R.mp4",
+        "name": "NIA_SL_WORD1170_REAL06_R.mp4",
+        "duration": 3.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.086,
+            "end": 2.821,
+            "attributes": [
+                {
+                    "name": "깨물다"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_gdchoi0350/NIA_SL_WORD0646_REAL01_U.mp4",
+        "name": "NIA_SL_WORD0646_REAL01_U.mp4",
+        "duration": 3.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.474,
+            "end": 3.011,
+            "attributes": [
+                {
+                    "name": "성조기"
+                }
+            ]
+        }
+    ]
+}

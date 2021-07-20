@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_sjim0753/NIA_SL_WORD2872_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2872_REAL16_U.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.343,
+            "end": 2.367,
+            "attributes": [
+                {
+                    "name": "오천"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_swlee0520/NIA_SL_WORD2546_REAL13_U.mp4",
+        "name": "NIA_SL_WORD2546_REAL13_U.mp4",
+        "duration": 5.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.816,
+            "end": 4.264,
+            "attributes": [
+                {
+                    "name": "바다"
+                }
+            ]
+        }
+    ]
+}

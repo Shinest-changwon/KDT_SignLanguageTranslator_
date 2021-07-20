@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_swlee0344/NIA_SL_WORD2588_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2588_REAL01_D.mp4",
+        "duration": 3.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.927,
+            "end": 2.669,
+            "attributes": [
+                {
+                    "name": "일본"
+                }
+            ]
+        }
+    ]
+}

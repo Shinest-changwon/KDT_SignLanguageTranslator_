@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_swlee0837/NIA_SL_WORD2069_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2069_REAL04_F.mp4",
+        "duration": 6.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.453,
+            "end": 5.148,
+            "attributes": [
+                {
+                    "name": "말솜씨"
+                }
+            ]
+        }
+    ]
+}

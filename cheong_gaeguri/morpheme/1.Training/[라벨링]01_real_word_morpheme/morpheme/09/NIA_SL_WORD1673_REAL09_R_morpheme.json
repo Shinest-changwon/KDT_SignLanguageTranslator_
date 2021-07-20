@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_emyou0495/NIA_SL_WORD1673_REAL09_R.mp4",
+        "name": "NIA_SL_WORD1673_REAL09_R.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.402,
+            "end": 3.005,
+            "attributes": [
+                {
+                    "name": "부천시청"
+                }
+            ]
+        }
+    ]
+}

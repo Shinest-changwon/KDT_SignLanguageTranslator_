@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0408/NIA_SL_WORD1027_REAL10_R.mp4",
+        "name": "NIA_SL_WORD1027_REAL10_R.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.718,
+            "end": 4.414,
+            "attributes": [
+                {
+                    "name": "금천구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

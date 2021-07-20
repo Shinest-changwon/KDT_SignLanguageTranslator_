@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_moyu1056/NIA_SL_WORD1592_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1592_REAL07_F.mp4",
+        "duration": 3.167,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.022,
+            "end": 2.187,
+            "attributes": [
+                {
+                    "name": "회사"
+                }
+            ]
+        }
+    ]
+}

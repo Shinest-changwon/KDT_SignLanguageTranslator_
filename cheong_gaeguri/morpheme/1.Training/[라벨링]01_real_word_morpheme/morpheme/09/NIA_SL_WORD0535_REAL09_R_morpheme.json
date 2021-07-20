@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi349/NIA_SL_WORD0535_REAL09_R.mp4",
+        "name": "NIA_SL_WORD0535_REAL09_R.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.602,
+            "end": 2.99,
+            "attributes": [
+                {
+                    "name": "미신"
+                }
+            ]
+        }
+    ]
+}

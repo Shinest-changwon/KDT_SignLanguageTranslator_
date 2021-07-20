@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_swlee0627/NIA_SL_WORD0361_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0361_REAL13_U.mp4",
+        "duration": 5.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.111,
+            "end": 4.061,
+            "attributes": [
+                {
+                    "name": "감옥"
+                }
+            ]
+        }
+    ]
+}

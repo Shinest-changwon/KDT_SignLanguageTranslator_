@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_swlee0264/NIA_SL_WORD2183_REAL08_L.mp4",
+        "name": "NIA_SL_WORD2183_REAL08_L.mp4",
+        "duration": 4.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.963,
+            "end": 3.865,
+            "attributes": [
+                {
+                    "name": "사무실"
+                }
+            ]
+        }
+    ]
+}

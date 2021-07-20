@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1052/NIA_SL_WORD0721_REAL13_U.mp4",
+        "name": "NIA_SL_WORD0721_REAL13_U.mp4",
+        "duration": 4.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.843,
+            "end": 3.818,
+            "attributes": [
+                {
+                    "name": "여군"
+                }
+            ]
+        }
+    ]
+}

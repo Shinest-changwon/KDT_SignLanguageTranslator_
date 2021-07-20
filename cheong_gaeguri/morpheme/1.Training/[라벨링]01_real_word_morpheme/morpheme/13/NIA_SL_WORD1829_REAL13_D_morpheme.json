@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1110_yhjeon0613/NIA_SL_WORD1829_REAL13_D.mp4",
+        "name": "NIA_SL_WORD1829_REAL13_D.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.83,
+            "end": 2.598,
+            "attributes": [
+                {
+                    "name": "서천군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

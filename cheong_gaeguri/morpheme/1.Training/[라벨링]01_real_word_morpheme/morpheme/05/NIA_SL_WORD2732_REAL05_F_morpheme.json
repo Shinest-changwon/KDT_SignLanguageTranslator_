@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_swlee0921/NIA_SL_WORD2732_REAL05_F.mp4",
+        "name": "NIA_SL_WORD2732_REAL05_F.mp4",
+        "duration": 2.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.599,
+            "end": 1.417,
+            "attributes": [
+                {
+                    "name": "백"
+                }
+            ]
+        }
+    ]
+}

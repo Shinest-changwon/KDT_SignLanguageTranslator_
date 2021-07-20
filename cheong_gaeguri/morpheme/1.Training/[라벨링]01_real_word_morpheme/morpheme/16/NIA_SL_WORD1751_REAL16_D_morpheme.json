@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0741/NIA_SL_WORD1751_REAL16_D.mp4",
+        "name": "NIA_SL_WORD1751_REAL16_D.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.415,
+            "end": 2.614,
+            "attributes": [
+                {
+                    "name": "솜씨없다"
+                }
+            ]
+        }
+    ]
+}

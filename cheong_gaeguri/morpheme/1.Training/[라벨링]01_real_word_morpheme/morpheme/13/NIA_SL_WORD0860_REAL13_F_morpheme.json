@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_gdchoi1066/NIA_SL_WORD0860_REAL13_F.mp4",
+        "name": "NIA_SL_WORD0860_REAL13_F.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.601,
+            "end": 3.475,
+            "attributes": [
+                {
+                    "name": "청원"
+                }
+            ]
+        }
+    ]
+}

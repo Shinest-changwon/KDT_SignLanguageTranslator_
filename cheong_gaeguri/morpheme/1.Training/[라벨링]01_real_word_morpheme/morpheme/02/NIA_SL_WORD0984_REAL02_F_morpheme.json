@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_hwlee325/NIA_SL_WORD0984_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0984_REAL02_F.mp4",
+        "duration": 3.217,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.578,
+            "end": 2.489,
+            "attributes": [
+                {
+                    "name": "일석이조"
+                }
+            ]
+        }
+    ]
+}

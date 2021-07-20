@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0264/NIA_SL_WORD1931_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1931_REAL08_F.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.464,
+            "end": 3.119,
+            "attributes": [
+                {
+                    "name": "해남군지부"
+                }
+            ]
+        }
+    ]
+}

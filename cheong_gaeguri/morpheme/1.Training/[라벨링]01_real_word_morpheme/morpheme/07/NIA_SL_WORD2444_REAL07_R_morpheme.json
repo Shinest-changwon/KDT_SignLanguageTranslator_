@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_swlee1042/NIA_SL_WORD2444_REAL07_R.mp4",
+        "name": "NIA_SL_WORD2444_REAL07_R.mp4",
+        "duration": 4.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.525,
+            "end": 3.794,
+            "attributes": [
+                {
+                    "name": "마산시수화통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_rhkim0801/NIA_SL_WORD1652_REAL03_L.mp4",
+        "name": "NIA_SL_WORD1652_REAL03_L.mp4",
+        "duration": 5.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.771,
+            "end": 4.326,
+            "attributes": [
+                {
+                    "name": "광명시청"
+                }
+            ]
+        }
+    ]
+}

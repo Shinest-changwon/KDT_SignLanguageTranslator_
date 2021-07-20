@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_emyou0298/NIA_SL_WORD0829_REAL14_R.mp4",
+        "name": "NIA_SL_WORD0829_REAL14_R.mp4",
+        "duration": 5.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.153,
+            "end": 3.895,
+            "attributes": [
+                {
+                    "name": "쥐덫"
+                }
+            ]
+        }
+    ]
+}

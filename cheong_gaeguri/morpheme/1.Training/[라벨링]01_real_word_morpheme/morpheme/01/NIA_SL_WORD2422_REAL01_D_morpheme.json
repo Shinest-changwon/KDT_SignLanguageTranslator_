@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1102_sjim0353/NIA_SL_WORD2422_REAL01_D.mp4",
+        "name": "NIA_SL_WORD2422_REAL01_D.mp4",
+        "duration": 3.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.12,
+            "end": 2.444,
+            "attributes": [
+                {
+                    "name": "남해군지부"
+                }
+            ]
+        }
+    ]
+}

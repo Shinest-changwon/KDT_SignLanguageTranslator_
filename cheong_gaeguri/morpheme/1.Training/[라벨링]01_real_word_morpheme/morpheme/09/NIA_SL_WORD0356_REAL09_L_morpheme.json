@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_emyou343/NIA_SL_WORD0356_REAL09_L.mp4",
+        "name": "NIA_SL_WORD0356_REAL09_L.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.463,
+            "end": 2.93,
+            "attributes": [
+                {
+                    "name": "가위바위보"
+                }
+            ]
+        }
+    ]
+}

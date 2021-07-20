@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_gdchoi0750/NIA_SL_WORD1094_REAL16_L.mp4",
+        "name": "NIA_SL_WORD1094_REAL16_L.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.892,
+            "end": 2.602,
+            "attributes": [
+                {
+                    "name": "수영구주민지원센터"
+                }
+            ]
+        }
+    ]
+}

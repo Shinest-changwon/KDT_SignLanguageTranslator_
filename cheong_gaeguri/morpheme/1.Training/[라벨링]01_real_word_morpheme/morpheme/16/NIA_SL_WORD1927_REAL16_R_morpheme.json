@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0758/NIA_SL_WORD1927_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1927_REAL16_R.mp4",
+        "duration": 4.334,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.259,
+            "end": 3.208,
+            "attributes": [
+                {
+                    "name": "장흥군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

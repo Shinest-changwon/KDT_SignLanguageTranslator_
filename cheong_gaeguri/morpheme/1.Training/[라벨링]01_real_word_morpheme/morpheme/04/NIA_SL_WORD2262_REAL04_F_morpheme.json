@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0832/NIA_SL_WORD2262_REAL04_F.mp4",
+        "name": "NIA_SL_WORD2262_REAL04_F.mp4",
+        "duration": 6.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.572,
+            "end": 4.87,
+            "attributes": [
+                {
+                    "name": "표리부동"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_jhhan0407/NIA_SL_WORD1018_REAL10_D.mp4",
+        "name": "NIA_SL_WORD1018_REAL10_D.mp4",
+        "duration": 5.234,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.499,
+            "end": 4.255,
+            "attributes": [
+                {
+                    "name": "관악구수어통역센터"
+                }
+            ]
+        }
+    ]
+}

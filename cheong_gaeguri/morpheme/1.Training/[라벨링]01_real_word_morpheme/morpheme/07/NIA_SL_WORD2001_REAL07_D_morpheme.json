@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_mrkim1104/NIA_SL_WORD2001_REAL07_D.mp4",
+        "name": "NIA_SL_WORD2001_REAL07_D.mp4",
+        "duration": 4.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.899,
+            "end": 3.091,
+            "attributes": [
+                {
+                    "name": "금시초문"
+                }
+            ]
+        }
+    ]
+}

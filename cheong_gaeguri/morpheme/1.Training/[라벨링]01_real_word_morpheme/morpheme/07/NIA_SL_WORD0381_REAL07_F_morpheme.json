@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_gdchoi1117/NIA_SL_WORD0381_REAL07_F.mp4",
+        "name": "NIA_SL_WORD0381_REAL07_F.mp4",
+        "duration": 4.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.397,
+            "end": 3.133,
+            "attributes": [
+                {
+                    "name": "경찰행정"
+                }
+            ]
+        }
+    ]
+}

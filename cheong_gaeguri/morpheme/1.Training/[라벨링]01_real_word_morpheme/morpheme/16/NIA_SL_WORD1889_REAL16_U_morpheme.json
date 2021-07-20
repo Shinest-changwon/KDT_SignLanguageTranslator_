@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0754/NIA_SL_WORD1889_REAL16_U.mp4",
+        "name": "NIA_SL_WORD1889_REAL16_U.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.481,
+            "end": 3.087,
+            "attributes": [
+                {
+                    "name": "곡성군지부"
+                }
+            ]
+        }
+    ]
+}

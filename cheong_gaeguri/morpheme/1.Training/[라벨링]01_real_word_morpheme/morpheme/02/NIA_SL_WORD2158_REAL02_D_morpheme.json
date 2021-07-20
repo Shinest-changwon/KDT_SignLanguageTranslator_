@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim290/NIA_SL_WORD2158_REAL02_D.mp4",
+        "name": "NIA_SL_WORD2158_REAL02_D.mp4",
+        "duration": 3.75,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.377,
+            "end": 2.775,
+            "attributes": [
+                {
+                    "name": "장난감"
+                }
+            ]
+        }
+    ]
+}

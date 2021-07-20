@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_sjim0256/NIA_SL_WORD1858_REAL08_L.mp4",
+        "name": "NIA_SL_WORD1858_REAL08_L.mp4",
+        "duration": 3.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.767,
+            "end": 2.944,
+            "attributes": [
+                {
+                    "name": "무주군지부"
+                }
+            ]
+        }
+    ]
+}

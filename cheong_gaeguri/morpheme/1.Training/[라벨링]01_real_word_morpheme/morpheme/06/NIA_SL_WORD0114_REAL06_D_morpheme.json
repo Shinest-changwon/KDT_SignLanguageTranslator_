@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_bkyu1110/NIA_SL_WORD0114_REAL06_D.mp4",
+        "name": "NIA_SL_WORD0114_REAL06_D.mp4",
+        "duration": 2.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.686,
+            "end": 2.438,
+            "attributes": [
+                {
+                    "name": "칼국수"
+                }
+            ]
+        }
+    ]
+}

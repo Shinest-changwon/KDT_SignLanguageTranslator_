@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_gdchoi0923/NIA_SL_WORD1213_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1213_REAL05_R.mp4",
+        "duration": 3.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.22,
+            "end": 2.25,
+            "attributes": [
+                {
+                    "name": "낳다"
+                }
+            ]
+        }
+    ]
+}

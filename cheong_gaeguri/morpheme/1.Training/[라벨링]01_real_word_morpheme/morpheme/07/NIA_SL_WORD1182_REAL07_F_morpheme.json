@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1130_moyu1102/NIA_SL_WORD1182_REAL07_F.mp4",
+        "name": "NIA_SL_WORD1182_REAL07_F.mp4",
+        "duration": 4.4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.896,
+            "end": 2.955,
+            "attributes": [
+                {
+                    "name": "의자"
+                }
+            ]
+        }
+    ]
+}

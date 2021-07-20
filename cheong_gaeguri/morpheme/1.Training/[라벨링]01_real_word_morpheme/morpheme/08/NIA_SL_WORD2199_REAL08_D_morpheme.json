@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_swlee0265/NIA_SL_WORD2199_REAL08_D.mp4",
+        "name": "NIA_SL_WORD2199_REAL08_D.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.012,
+            "end": 3.459,
+            "attributes": [
+                {
+                    "name": "한국어"
+                }
+            ]
+        }
+    ]
+}

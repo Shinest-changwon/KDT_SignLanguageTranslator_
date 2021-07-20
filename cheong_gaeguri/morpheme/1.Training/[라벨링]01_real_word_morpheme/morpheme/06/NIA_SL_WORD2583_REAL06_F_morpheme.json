@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1111_gdchoi0654/NIA_SL_WORD2583_REAL06_F.mp4",
+        "name": "NIA_SL_WORD2583_REAL06_F.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.501,
+            "end": 3.016,
+            "attributes": [
+                {
+                    "name": "제발"
+                }
+            ]
+        }
+    ]
+}

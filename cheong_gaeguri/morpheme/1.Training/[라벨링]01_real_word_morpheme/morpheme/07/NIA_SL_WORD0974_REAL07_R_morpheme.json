@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_emyou0986/NIA_SL_WORD0974_REAL07_R.mp4",
+        "name": "NIA_SL_WORD0974_REAL07_R.mp4",
+        "duration": 4.467,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.834,
+            "end": 3.134,
+            "attributes": [
+                {
+                    "name": "안심"
+                }
+            ]
+        }
+    ]
+}

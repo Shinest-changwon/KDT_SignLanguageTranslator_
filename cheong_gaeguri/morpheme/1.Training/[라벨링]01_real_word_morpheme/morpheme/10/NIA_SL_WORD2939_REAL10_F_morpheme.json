@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1123_swlee1034/NIA_SL_WORD2939_REAL10_F.mp4",
+        "name": "NIA_SL_WORD2939_REAL10_F.mp4",
+        "duration": 4.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.765,
+            "end": 3.398,
+            "attributes": [
+                {
+                    "name": "이천오백만"
+                }
+            ]
+        }
+    ]
+}

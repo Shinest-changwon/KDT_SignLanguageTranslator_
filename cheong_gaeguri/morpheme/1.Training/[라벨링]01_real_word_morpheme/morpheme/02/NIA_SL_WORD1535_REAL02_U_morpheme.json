@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_rhkim328/NIA_SL_WORD1535_REAL02_U.mp4",
+        "name": "NIA_SL_WORD1535_REAL02_U.mp4",
+        "duration": 3.417,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.5,
+            "end": 2.501,
+            "attributes": [
+                {
+                    "name": "부부"
+                }
+            ]
+        }
+    ]
+}

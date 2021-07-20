@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim297/NIA_SL_WORD2227_REAL02_D.mp4",
+        "name": "NIA_SL_WORD2227_REAL02_D.mp4",
+        "duration": 3.284,
+        "exportedOn": "2020/12/15"
+    },
+    "data": [
+        {
+            "start": 1.571,
+            "end": 2.398,
+            "attributes": [
+                {
+                    "name": "미진하다"
+                }
+            ]
+        }
+    ]
+}

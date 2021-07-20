@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_bkyu0944/NIA_SL_WORD0528_REAL05_F.mp4",
+        "name": "NIA_SL_WORD0528_REAL05_F.mp4",
+        "duration": 4.3,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.274,
+            "end": 3.365,
+            "attributes": [
+                {
+                    "name": "문제지"
+                }
+            ]
+        }
+    ]
+}

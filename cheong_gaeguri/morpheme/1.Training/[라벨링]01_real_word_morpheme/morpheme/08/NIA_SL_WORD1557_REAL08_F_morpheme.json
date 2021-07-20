@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_rhkim0251/NIA_SL_WORD1557_REAL08_F.mp4",
+        "name": "NIA_SL_WORD1557_REAL08_F.mp4",
+        "duration": 3.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.731,
+            "end": 2.532,
+            "attributes": [
+                {
+                    "name": "출장"
+                }
+            ]
+        }
+    ]
+}

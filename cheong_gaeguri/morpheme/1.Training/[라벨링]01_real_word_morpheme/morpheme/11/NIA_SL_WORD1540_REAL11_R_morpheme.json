@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_gdchoi0524/NIA_SL_WORD1540_REAL11_R.mp4",
+        "name": "NIA_SL_WORD1540_REAL11_R.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.704,
+            "end": 2.914,
+            "attributes": [
+                {
+                    "name": "생활"
+                }
+            ]
+        }
+    ]
+}

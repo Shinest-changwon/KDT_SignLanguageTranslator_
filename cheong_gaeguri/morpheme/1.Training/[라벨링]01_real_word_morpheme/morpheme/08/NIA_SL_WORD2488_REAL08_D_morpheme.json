@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_yhjeon0269/NIA_SL_WORD2488_REAL08_D.mp4",
+        "name": "NIA_SL_WORD2488_REAL08_D.mp4",
+        "duration": 3.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.169,
+            "end": 2.421,
+            "attributes": [
+                {
+                    "name": "무소식"
+                }
+            ]
+        }
+    ]
+}

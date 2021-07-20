@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_yhjeon0834/NIA_SL_WORD2288_REAL04_L.mp4",
+        "name": "NIA_SL_WORD2288_REAL04_L.mp4",
+        "duration": 6.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.07,
+            "end": 4.952,
+            "attributes": [
+                {
+                    "name": "위선자"
+                }
+            ]
+        }
+    ]
+}

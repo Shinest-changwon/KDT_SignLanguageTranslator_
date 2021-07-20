@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0972/NIA_SL_WORD0679_REAL11_U.mp4",
+        "name": "NIA_SL_WORD0679_REAL11_U.mp4",
+        "duration": 5.367,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.093,
+            "end": 4.226,
+            "attributes": [
+                {
+                    "name": "실생활"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_hwlee0266/NIA_SL_WORD0958_REAL08_U.mp4",
+        "name": "NIA_SL_WORD0958_REAL08_U.mp4",
+        "duration": 3.534,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.302,
+            "end": 2.495,
+            "attributes": [
+                {
+                    "name": "칩거"
+                }
+            ]
+        }
+    ]
+}

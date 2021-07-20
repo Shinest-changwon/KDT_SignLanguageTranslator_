@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_moyu0932/NIA_SL_WORD1804_REAL05_R.mp4",
+        "name": "NIA_SL_WORD1804_REAL05_R.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.248,
+            "end": 3.649,
+            "attributes": [
+                {
+                    "name": "천안시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

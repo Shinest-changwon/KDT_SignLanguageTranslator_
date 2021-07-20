@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi334/NIA_SL_WORD0606_REAL02_F.mp4",
+        "name": "NIA_SL_WORD0606_REAL02_F.mp4",
+        "duration": 4.75,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.504,
+            "end": 3.722,
+            "attributes": [
+                {
+                    "name": "혈통"
+                }
+            ]
+        }
+    ]
+}

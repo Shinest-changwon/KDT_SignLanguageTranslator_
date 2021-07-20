@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_hwlee1179/NIA_SL_WORD1525_REAL12_D.mp4",
+        "name": "NIA_SL_WORD1525_REAL12_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.406,
+            "end": 2.977,
+            "attributes": [
+                {
+                    "name": "마라톤"
+                }
+            ]
+        }
+    ]
+}

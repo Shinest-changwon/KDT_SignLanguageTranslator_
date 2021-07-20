@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_swlee0932/NIA_SL_WORD2854_REAL05_R.mp4",
+        "name": "NIA_SL_WORD2854_REAL05_R.mp4",
+        "duration": 2.2,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.439,
+            "end": 1.516,
+            "attributes": [
+                {
+                    "name": "오백"
+                }
+            ]
+        }
+    ]
+}

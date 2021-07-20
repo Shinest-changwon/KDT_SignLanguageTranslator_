@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1202_gdchoi1190/NIA_SL_WORD1468_REAL12_F.mp4",
+        "name": "NIA_SL_WORD1468_REAL12_F.mp4",
+        "duration": 3.434,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.419,
+            "end": 2.6,
+            "attributes": [
+                {
+                    "name": "군포"
+                }
+            ]
+        }
+    ]
+}

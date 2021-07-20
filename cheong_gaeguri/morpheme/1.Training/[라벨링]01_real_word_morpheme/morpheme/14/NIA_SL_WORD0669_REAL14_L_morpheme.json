@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1030_byku0307/NIA_SL_WORD0669_REAL14_L.mp4",
+        "name": "NIA_SL_WORD0669_REAL14_L.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.236,
+            "end": 3.152,
+            "attributes": [
+                {
+                    "name": "시댁"
+                }
+            ]
+        }
+    ]
+}

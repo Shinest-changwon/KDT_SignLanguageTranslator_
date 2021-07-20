@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1203_gdchoi1206/NIA_SL_WORD1312_REAL15_R.mp4",
+        "name": "NIA_SL_WORD1312_REAL15_R.mp4",
+        "duration": 3.267,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.975,
+            "end": 2.515,
+            "attributes": [
+                {
+                    "name": "아홉명"
+                }
+            ]
+        }
+    ]
+}

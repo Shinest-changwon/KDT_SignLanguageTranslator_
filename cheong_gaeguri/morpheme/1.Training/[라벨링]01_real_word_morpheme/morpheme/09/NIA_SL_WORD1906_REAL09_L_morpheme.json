@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1105_gdchoi0493/NIA_SL_WORD1906_REAL09_L.mp4",
+        "name": "NIA_SL_WORD1906_REAL09_L.mp4",
+        "duration": 4.5,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.661,
+            "end": 3.118,
+            "attributes": [
+                {
+                    "name": "보성군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1124_rhkim1065/NIA_SL_WORD2092_REAL07_F.mp4",
+        "name": "NIA_SL_WORD2092_REAL07_F.mp4",
+        "duration": 3.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.879,
+            "end": 2.694,
+            "attributes": [
+                {
+                    "name": "실토"
+                }
+            ]
+        }
+    ]
+}

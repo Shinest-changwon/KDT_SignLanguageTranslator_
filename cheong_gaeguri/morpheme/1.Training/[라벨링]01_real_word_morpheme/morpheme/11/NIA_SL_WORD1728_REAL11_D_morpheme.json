@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1106_hwlee0518/NIA_SL_WORD1728_REAL11_D.mp4",
+        "name": "NIA_SL_WORD1728_REAL11_D.mp4",
+        "duration": 3.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.1,
+            "end": 2.703,
+            "attributes": [
+                {
+                    "name": "강릉시청"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1104_rhkim0422/NIA_SL_WORD1663_REAL10_U.mp4",
+        "name": "NIA_SL_WORD1663_REAL10_U.mp4",
+        "duration": 5.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.624,
+            "end": 4.122,
+            "attributes": [
+                {
+                    "name": "김포시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

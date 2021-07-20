@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1117_sjim0852/NIA_SL_WORD1963_REAL04_L.mp4",
+        "name": "NIA_SL_WORD1963_REAL04_L.mp4",
+        "duration": 7.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.416,
+            "end": 6.479,
+            "attributes": [
+                {
+                    "name": "성주시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

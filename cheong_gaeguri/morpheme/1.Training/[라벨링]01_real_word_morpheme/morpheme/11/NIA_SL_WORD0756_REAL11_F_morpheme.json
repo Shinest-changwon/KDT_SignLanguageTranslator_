@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1120_mrkim0980/NIA_SL_WORD0756_REAL11_F.mp4",
+        "name": "NIA_SL_WORD0756_REAL11_F.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.216,
+            "end": 3.084,
+            "attributes": [
+                {
+                    "name": "우승"
+                }
+            ]
+        }
+    ]
+}

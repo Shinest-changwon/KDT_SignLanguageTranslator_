@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_bkyu0796/NIA_SL_WORD0101_REAL03_R.mp4",
+        "name": "NIA_SL_WORD0101_REAL03_R.mp4",
+        "duration": 3.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.54,
+            "end": 3.305,
+            "attributes": [
+                {
+                    "name": "달다"
+                }
+            ]
+        }
+    ]
+}

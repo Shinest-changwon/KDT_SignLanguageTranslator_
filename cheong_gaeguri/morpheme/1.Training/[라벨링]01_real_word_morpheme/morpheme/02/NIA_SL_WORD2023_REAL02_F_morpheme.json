@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_sjim277/NIA_SL_WORD2023_REAL02_F.mp4",
+        "name": "NIA_SL_WORD2023_REAL02_F.mp4",
+        "duration": 3.85,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 1.477,
+            "end": 2.823,
+            "attributes": [
+                {
+                    "name": "청년"
+                }
+            ]
+        }
+    ]
+}

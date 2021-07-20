@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1007_gdchoi327/NIA_SL_WORD0532_REAL02_R.mp4",
+        "name": "NIA_SL_WORD0532_REAL02_R.mp4",
+        "duration": 3.217,
+        "exportedOn": "2020/12/11"
+    },
+    "data": [
+        {
+            "start": 0.916,
+            "end": 2.568,
+            "attributes": [
+                {
+                    "name": "물통"
+                }
+            ]
+        }
+    ]
+}

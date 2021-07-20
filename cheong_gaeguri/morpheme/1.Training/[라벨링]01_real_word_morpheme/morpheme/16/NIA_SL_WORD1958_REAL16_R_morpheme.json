@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0761/NIA_SL_WORD1958_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1958_REAL16_R.mp4",
+        "duration": 4,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.171,
+            "end": 3.086,
+            "attributes": [
+                {
+                    "name": "봉화군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

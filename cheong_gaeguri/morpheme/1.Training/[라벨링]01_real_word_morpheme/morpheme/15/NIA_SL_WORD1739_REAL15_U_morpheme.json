@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1112_hwlee0720/NIA_SL_WORD1739_REAL15_U.mp4",
+        "name": "NIA_SL_WORD1739_REAL15_U.mp4",
+        "duration": 4.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.522,
+            "end": 3.681,
+            "attributes": [
+                {
+                    "name": "속초시수어통역센터"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1119_yhjeon0937/NIA_SL_WORD2364_REAL16_U.mp4",
+        "name": "NIA_SL_WORD2364_REAL16_U.mp4",
+        "duration": 3.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.184,
+            "end": 2.966,
+            "attributes": [
+                {
+                    "name": "무자비"
+                }
+            ]
+        }
+    ]
+}

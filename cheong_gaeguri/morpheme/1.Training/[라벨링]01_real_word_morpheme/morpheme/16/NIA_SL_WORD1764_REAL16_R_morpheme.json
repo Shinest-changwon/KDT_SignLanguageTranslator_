@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1113_mrkim0742/NIA_SL_WORD1764_REAL16_R.mp4",
+        "name": "NIA_SL_WORD1764_REAL16_R.mp4",
+        "duration": 4.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.378,
+            "end": 3.138,
+            "attributes": [
+                {
+                    "name": "평창군주민지원센터"
+                }
+            ]
+        }
+    ]
+}

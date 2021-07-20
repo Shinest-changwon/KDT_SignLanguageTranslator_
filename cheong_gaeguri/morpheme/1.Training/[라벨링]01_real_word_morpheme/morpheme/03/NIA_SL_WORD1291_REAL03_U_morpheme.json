@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1116_mrkim0790/NIA_SL_WORD1291_REAL03_U.mp4",
+        "name": "NIA_SL_WORD1291_REAL03_U.mp4",
+        "duration": 4.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.888,
+            "end": 3.183,
+            "attributes": [
+                {
+                    "name": "무리"
+                }
+            ]
+        }
+    ]
+}
