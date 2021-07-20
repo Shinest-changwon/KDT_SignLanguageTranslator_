@@ -2,6 +2,8 @@ from flask import Flask, render_template, redirect, url_for, request
 
 from konlpy.tag import Mecab
 import morpheme_and_video_concat_fin as mv
+import model_load_pipeline as load
+import tensorflow as tf
 
 app = Flask(__name__)
 
@@ -14,17 +16,23 @@ def mouth():
     if request.method == 'GET':
         return render_template("mouth.html")
 
+
+
     if request.method == 'POST':
         # sent = str(request.form['mouth'])
         sent = request.form.get("mouth")
-        mecab = Mecab()
-        stnc_pos = mecab.pos(sent)
 
-        nouns = [n for n, tag in stnc_pos if tag in ["NR","NNG","NNP","NP","VV","VV+EC"] ]
-        print(nouns)
-        ###########################태깅 후 애니메이션 처리된 페이지 반환#######################
+        result = load.pipeline(sent)
+        print(result)
+        # mecab = Mecab()
+        # stnc_pos = mecab.pos(sent)
 
-        path = mv.main(nouns)
+        # nouns = [n for n, tag in stnc_pos if tag in ["NR","NNG","NNP","NP","VV","VV+EC"] ]
+        # print(f"this is nouns = {nouns}")
+        # ###########################태깅 후 애니메이션 처리된 페이지 반환#######################
+
+        path = ''
+        path = mv.main(result)
         
         tmp = ''
         for i in range(len(path)):
@@ -42,9 +50,10 @@ def mouth():
         return render_template('mouth.html' ,cont = path)
     
         
+
 @app.route('/ear',methods = ['GET', 'POST'])
 def ear():
     return render_template("ear.html")
 
 if __name__ == "__main__":
-    app.run(debug = True)
+    app.run(debug = True,port = 5000)
